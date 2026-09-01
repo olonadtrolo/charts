@@ -1,4 +1,3 @@
-# 2026-08-30 22:17:54 ; Found 51263 viable session entries from 32471 unique users.
 rank,title_id,title,players,percentage,release_date
 21,10017189,Big Walk,369,1.1364,2026-08-04
 38,10016736,EA SPORTS™ Madden NFL 27,193,0.5944,2026-08-06
@@ -17,6 +16,7 @@ rank,title_id,title,players,percentage,release_date
 645,10016223,Psi-Ops: The Mindgate Conspiracy,4,0.0123,2026-07-21
 855,10015063,Denshattack!,2,0.0062,2026-07-15
 884,10014823,Full Stride,2,0.0062,2026-07-16
+895,10014425,Hell Let Loose: Vietnam,2,0.0062,2026-08-12
 947,10020204,New York Mysteries 3: The Lantern of Souls,2,0.0062,2026-07-29
 992,10017013,Shard Squad,2,0.0062,2026-07-30
 1022,10018182,The Planet Crafter,2,0.0062,2026-07-21

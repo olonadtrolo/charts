@@ -1,4 +1,3 @@
-# 2026-08-31 18:27:48 ; Found 48155 viable session entries from 30740 unique users.
 rank,title_id,title,players,percentage,release_date
 12,10018502,NBA 2K27,725,2.3585,2026-09-04
 22,10016736,EA SPORTS™ Madden NFL 27,325,1.0573,2026-08-06
@@ -31,6 +30,7 @@ rank,title_id,title,players,percentage,release_date
 1056,10016753,Bootstrap Island,1,0.0033,2026-08-13
 1068,10017883,Carry The Glass,1,0.0033,2026-08-31
 1107,10019687,Dating Stories 2,1,0.0033,2026-07-31
+1183,10016847,Funguys Swarm,1,0.0033,2026-08-25
 1263,10012547,Kynseed,1,0.0033,2026-08-04
 1279,10018277,Lizards Must Die 2,1,0.0033,2026-08-28
 1355,10019342,No Case Should Remain Unsolved,1,0.0033,2026-08-19

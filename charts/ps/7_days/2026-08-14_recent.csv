@@ -1,4 +1,3 @@
-# 2026-08-30 22:18:59 ; Found 783625 viable session entries from 336374 unique users.
 rank,title_id,title,players,percentage,release_date
 15,10017189,Big Walk,6412,1.9062,2026-08-04
 38,10016736,EA SPORTS™ Madden NFL 27,3191,0.9486,2026-08-06
@@ -9,6 +8,7 @@ rank,title_id,title,players,percentage,release_date
 187,10016651,Grounded 2,412,0.1225,2026-08-11
 192,10014719,Beast of Reincarnation,402,0.1195,2026-08-04
 207,10010058,Mortal Shell II,368,0.1094,2026-08-20
+234,10014425,Hell Let Loose: Vietnam,317,0.0942,2026-08-12
 266,10019078,No More Room in Hell 2,276,0.0821,2026-08-11
 318,10018989,Avatar Legends: The Fighting Game,208,0.0618,2026-07-23
 323,10017040,Waterpark Simulator,206,0.0612,2026-07-31

@@ -1,4 +1,3 @@
-# 2026-08-30 22:15:31 ; Found 100590 viable session entries from 59821 unique users.
 rank,title_id,title,players,percentage,release_date
 7,10017658,Call of Duty®: Black Ops II,3446,5.7605,2026-07-09
 16,10017657,Call of Duty®: Black Ops,934,1.5613,2026-07-09
@@ -33,6 +32,7 @@ rank,title_id,title,players,percentage,release_date
 1550,10016736,EA SPORTS™ Madden NFL 27,1,0.0017,2026-08-06
 1581,10011344,Far Lands,1,0.0017,2026-07-29
 1648,10016758,Hell Clock,1,0.0017,2026-07-09
+1649,10014425,Hell Let Loose: Vietnam,1,0.0017,2026-08-12
 1709,10014861,Kusan: City of Wolves,1,0.0017,2026-07-30
 1777,10017247,Moss: The Forgotten Relic,1,0.0017,2026-07-16
 1804,10019822,New York Mysteries 1: Secrets of the Mafia,1,0.0017,2026-07-05

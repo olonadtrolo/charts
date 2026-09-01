@@ -1,4 +1,3 @@
-# 2026-08-30 17:09:44 ; Found 86570 viable session entries from 49265 unique users.
 rank,title_id,title,players,percentage,release_date
 24,1901146690,Abyssus,439,0.8911,2026-06-25
 29,1862431175,UFC® 6,397,0.8058,2026-06-19
@@ -24,13 +23,14 @@ rank,title_id,title,players,percentage,release_date
 1039,1661063529,The Adventures of Elliot: The Millennium Tales,4,0.0081,2026-06-18
 1098,1682140320,House Flipper Remastered Collection,3,0.0061,2026-06-24
 1191,1842878873,Tour de France 2026,3,0.0061,2026-06-04
-1498,2008415720,Wild West Supermarket Simulator,2,0.0041,2026-06-26
-1531,2084317224,Age of Empires Mobile: PC Edition,1,0.002,2026-06-22
-1608,1836648015,Bunny Pit Stop: Vegas Rush,1,0.002,2026-06-30
-1719,1826390129,Find The Cats,1,0.002,2026-06-18
-1804,1613291134,Isekai Villain,1,0.002,2026-06-05
-1825,1656989818,Kitsune Kaeru,1,0.002,2026-06-25
-2014,1689677342,Re:Re:Ghosted,1,0.002,2026-06-12
-2101,2084531649,SPORTAL,1,0.002,2026-06-11
-2230,1695794575,Twisted Fate,1,0.002,2026-06-19
-2268,1902493145,Word Quest: Nature,1,0.002,2026-06-26
+1327,1946693572,Freestyle Football 2 - Prime OBT,2,0.0041,2026-06-10
+1499,2008415720,Wild West Supermarket Simulator,2,0.0041,2026-06-26
+1532,2084317224,Age of Empires Mobile: PC Edition,1,0.002,2026-06-22
+1609,1836648015,Bunny Pit Stop: Vegas Rush,1,0.002,2026-06-30
+1721,1826390129,Find The Cats,1,0.002,2026-06-18
+1806,1613291134,Isekai Villain,1,0.002,2026-06-05
+1827,1656989818,Kitsune Kaeru,1,0.002,2026-06-25
+2016,1689677342,Re:Re:Ghosted,1,0.002,2026-06-12
+2103,2084531649,SPORTAL,1,0.002,2026-06-11
+2232,1695794575,Twisted Fate,1,0.002,2026-06-19
+2270,1902493145,Word Quest: Nature,1,0.002,2026-06-26

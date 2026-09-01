@@ -1,4 +1,3 @@
-# 2026-08-30 16:56:03 ; Found 141421 viable session entries from 82846 unique users.
 rank,title_id,title,players,percentage
 1,267695549,Fortnite,11344,13.6929
 2,342226876,Roblox - Xbox,10938,13.2028
@@ -1838,7 +1837,7 @@ rank,title_id,title,players,percentage
 1836,1049055654,XCOM®: Enemy Within,2,0.0024
 1837,2040239934,XDefiant,2,0.0024
 1838,912199926,Yet Another Zombie Defense HD,2,0.0024
-1839,1680433621,Young Suns (Game Preview),2,0.0024
+1839,1680433621,Young Suns,2,0.0024
 1840,1663960317,Zen Wash,2,0.0024
 1841,1997965582,Zero Escape: The Nonary Games,2,0.0024
 1842,1480659433,Zuma's Revenge!,2,0.0024
@@ -2447,265 +2446,266 @@ rank,title_id,title,players,percentage
 2445,1480657277,Sam&Max Save the World,1,0.0012
 2446,2124983718,SAND LAND,1,0.0012
 2447,1936146608,Scorn,1,0.0012
-2448,52620879,Scribblenauts Showdown,1,0.0012
-2449,2044653846,ScubaBoys,1,0.0012
-2450,1613348546,Sea of Stars: Sunset Edition,1,0.0012
-2451,1726081569,Seal: WHAT the FUN,1,0.0012
-2452,1532956420,Sébastien Loeb Rally EVO,1,0.0012
-2453,180637000,SEUM: Speedrunners from Hell,1,0.0012
-2454,2077320849,Shadow Man Remastered,1,0.0012
-2455,2000442171,Shadow Warrior 3: Definitive Edition,1,0.0012
-2456,1935829261,Shadowrun: Hong Kong - Extended Edition,1,0.0012
-2457,944809057,Shadows: Awakening,1,0.0012
-2458,161766595,Shantae and the Pirate's Curse,1,0.0012
-2459,865750499,Shantae: Half-Genie Hero,1,0.0012
-2460,21560138,Sheltered,1,0.0012
-2461,1963476984,Sherlock Holmes Chapter One,1,0.0012
-2462,2129620077,Sherlock Holmes The Awakened,1,0.0012
-2463,36217198,Sherlock Holmes: Crimes and Punishments,1,0.0012
-2464,1781047490,Shin Megami Tensei V: Vengeance,1,0.0012
-2465,643894778,Shiness: The Lightning Kingdom,1,0.0012
-2466,903306295,Shining Resonance Refrain,1,0.0012
-2467,2040578587,SHINOBI: Art of Vengeance,1,0.0012
-2468,1709151881,Ship Graveyard Simulator 2,1,0.0012
-2469,1947938436,Shotgun Farmers,1,0.0012
-2470,1635033134,Shoulders of Giants: Ultimate,1,0.0012
-2471,1811056861,Shred! 2 - ft Sam Pilgrim,1,0.0012
-2472,1645103109,Shred! Remastered,1,0.0012
-2473,1263405029,Silent Hill Homecoming,1,0.0012
-2474,1942055330,Skinwalker 3D,1,0.0012
-2475,2063272043,Sky Roll!,1,0.0012
-2476,1480660016,Slender: The Arrival,1,0.0012
-2477,1166935255,Slender: The Arrival (2015),1,0.0012
-2478,2079129279,Slopecrashers,1,0.0012
-2479,1480656853,Small Arms,1,0.0012
-2480,1915054567,Smile For Me,1,0.0012
-2481,1785888386,Snake.io,1,0.0012
-2482,1671676860,Snakeybus,1,0.0012
-2483,1179584488,Sniper Elite V2,1,0.0012
-2484,1885214706,Snooker 19,1,0.0012
-2485,1002731481,Snooker Nation Championship,1,0.0012
-2486,1657010226,Snufkin: Melody of Moominvalley,1,0.0012
-2487,1907729638,Solasta: Crown of the Magister,1,0.0012
-2488,138528408,Solitaire,1,0.0012
-2489,1480656957,Soltrio Solitaire,1,0.0012
-2490,60656359,SOMA,1,0.0012
-2491,1865488656,Somber Echoes,1,0.0012
-2492,543798221,Song of the Deep,1,0.0012
-2493,1480657348,Sonic & Knuckles,1,0.0012
-2494,1480659614,Sonic the Fighters,1,0.0012
-2495,2016279503,SOPA - Tale of the Stolen Potato,1,0.0012
-2496,1972173548,Soul Finder,1,0.0012
-2497,2116209805,Soul Hackers 2,1,0.0012
-2498,1628869222,Soulstone Survivors,1,0.0012
-2499,1718103769,Space Gladiators,1,0.0012
-2500,546243988,Spectra,1,0.0012
-2501,2051631747,Spectre Divide,1,0.0012
-2502,2100656623,Speed Car Fighter : Remastered,1,0.0012
-2503,2015317909,Speedway Racing,1,0.0012
-2504,1851544061,Spider - Solitaire Collection,1,0.0012
-2505,196851457,Spike Volleyball,1,0.0012
-2506,1734092917,Spirit of the North: Enhanced Edition,1,0.0012
-2507,2073359006,Spirittea,1,0.0012
-2508,1671008398,Splodge Royale,1,0.0012
-2509,1480657055,SpongeBob SquarePants Underpants Slam!,1,0.0012
-2510,1641212101,Sprawl,1,0.0012
-2511,1940217918,SquadBlast (Game Preview),1,0.0012
-2512,2037835570,Square Enix Digital Content Viewer,1,0.0012
-2513,1636452571,SRX: The Game,1,0.0012
-2514,1917594775,Stampede: Racing Royale (Game Preview),1,0.0012
-2515,1112934457,STAR WARS Jedi Starfighter,1,0.0012
-2516,82653045,Starlink: Battle for Atlas,1,0.0012
-2517,1938588110,STARSEEKER: Astroneer Expeditions (Game Preview),1,0.0012
-2518,1813336489,Starship Troopers: Ultimate Bug War!,1,0.0012
-2519,1752123697,Stock Racing,1,0.0012
-2520,2104502032,Stories Untold,1,0.0012
-2521,2050520287,STRANGER OF PARADISE FINAL FANTASY ORIGIN,1,0.0012
-2522,1896598798,Street Outlaws 2: Winner Takes All,1,0.0012
-2523,1895471502,Stubbs the Zombie in Rebel Without a Pulse,1,0.0012
-2524,1414596596,Stuntman: Ignition,1,0.0012
-2525,1978396801,Styx: Blades of Greed,1,0.0012
-2526,2023806716,Styx: Master of Shadows,1,0.0012
-2527,1746879934,Submerged: Hidden Depths,1,0.0012
-2528,754617166,Subterrain,1,0.0012
-2529,1659515488,Suika 3D Fruits,1,0.0012
-2530,2057573435,Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars,1,0.0012
-2531,1995931888,Sunderfolk,1,0.0012
-2532,90400189,SUPER BOMBERMAN R,1,0.0012
-2533,1841866029,Super Bomberman R Online,1,0.0012
-2534,2053113562,SUPER CRAZY RHYTHM CASTLE,1,0.0012
-2535,1684612075,Super Forklift 3000,1,0.0012
-2536,1866825187,Super Monkey Ball: Banana Blitz HD,1,0.0012
-2537,1849290790,Super Scooter,1,0.0012
-2538,1537932598,Super Toy Cars,1,0.0012
-2539,1708138487,Super Toy Cars 2,1,0.0012
-2540,1941370105,Supermarket Owner Simulator: Business,1,0.0012
-2541,2003002635,Survival: Foutain of Youth - Captain's Edition,1,0.0012
-2542,1933264626,Survivalist: Invisible Strain,1,0.0012
-2543,405775731,Surviving Mars,1,0.0012
-2544,1982740887,Surviving Mars: Relaunched,1,0.0012
-2545,1845322433,Suzerain,1,0.0012
-2546,1656836695,Sweet Bakery Tycoon,1,0.0012
-2547,412423425,SWORD ART ONLINE Alicization Lycoris,1,0.0012
-2548,1908989621,SWORD ART ONLINE Last Recollection,1,0.0012
-2549,2136865616,Sword of the Necromancer,1,0.0012
-2550,2015998604,Syberia - The World Before,1,0.0012
-2551,1704201327,System Shock 2: 25th Anniversary Remaster,1,0.0012
-2552,1624264477,Taiko no Tatsujin: The Drum Master!,1,0.0012
-2553,2002977221,Tails of Iron,1,0.0012
-2554,2132478540,Tails of Iron 2: Whiskers of Winter,1,0.0012
-2555,990373231,Tales of Arise,1,0.0012
-2556,1688544029,Tales of Berseria Remastered,1,0.0012
-2557,1671975688,Tales of Xillia Remastered,1,0.0012
-2558,1699999089,Talisman: Digital 5th Edition,1,0.0012
-2559,1624769204,Talisman: Digital Edition,1,0.0012
-2560,1431504864,TC's EndWar,1,0.0012
-2561,1431504853,TC's GRAW,1,0.0012
-2562,29770197,Teenage Mutant Ninja Turtles™: Mutants in Manhattan,1,0.0012
-2563,2095791088,Tennis Story,1,0.0012
-2564,1906078054,TERMINATOR: RESISTANCE,1,0.0012
-2565,1977179260,TES IV: Oblivion Remastered - Digital Artbook & Original Soundtrack,1,0.0012
-2566,1948376851,Tesla vs Lovecraft Game of the Year Edition,1,0.0012
-2567,1881824137,Tetris® Forever,1,0.0012
-2568,836165876,The Ascent,1,0.0012
-2569,157772240,The Bard's Tale IV: Director's Cut,1,0.0012
-2570,1733173772,The Bard's Tale Trilogy,1,0.0012
-2571,1968679051,The Cabin Factory,1,0.0012
-2572,1749701057,The Christmas Game,1,0.0012
-2573,2134619510,The Colonists,1,0.0012
-2574,1979014977,The Crew,1,0.0012
-2575,1997447389,The Dark Pictures Anthology: The Devil in Me,1,0.0012
-2576,125965001,The Escapists: The Walking Dead,1,0.0012
-2577,875174887,The Final Station,1,0.0012
-2578,2142793070,The Grinch: Christmas Adventures,1,0.0012
-2579,247774493,The Incredible Adventures of Van Helsing,1,0.0012
-2580,1637976314,The Jackbox Survey Scramble,1,0.0012
-2581,2047811112,The Last Hero of Nostalgaia,1,0.0012
-2582,2055782857,The Last Kids on Earth and the Staff of Doom,1,0.0012
-2583,1772965835,The Last Stand: Aftermath,1,0.0012
-2584,1832298111,THE LAST TRAIN: Baquedano,1,0.0012
-2585,2048574450,The Life and Suffering of Sir Brante,1,0.0012
-2586,2113135141,The Lullaby of Life,1,0.0012
-2587,2101138430,The Matrix Awakens: An Unreal Engine 5 Experience,1,0.0012
-2588,1962688125,The Messenger,1,0.0012
-2589,1721383054,The Outer Worlds: Spacer's Choice Edition,1,0.0012
-2590,1703407158,The Red Exile - Survival Horror,1,0.0012
-2591,2110168941,The Rogue Prince of Persia™,1,0.0012
-2592,996619018,The Sinking City,1,0.0012
-2593,2010719250,The Smurfs - Mission Vileaf,1,0.0012
-2594,1431505093,The Stick of Truth™,1,0.0012
-2595,901516198,The Surge 2,1,0.0012
-2596,1161955801,The Technomancer,1,0.0012
-2597,1858859325,The Thing: Remastered,1,0.0012
-2598,1906063010,The True,1,0.0012
-2599,2119405603,The Tyrannical Toilet and The Battle of the Beans,1,0.0012
-2600,1933187511,The Vale: Shadow of the Crown,1,0.0012
-2601,946930585,The Walking Dead Collection - The Telltale Series,1,0.0012
-2602,635298240,"The Walking Dead: Michonne - Ep. 1, In Too Deep",1,0.0012
-2603,1967005422,The Wandering Village,1,0.0012
-2604,1820279113,There Is No Light,1,0.0012
-2605,1628698678,Thief Simulator,1,0.0012
-2606,2016470925,This Bed We Made,1,0.0012
-2607,1279330262,Thrillville: OTR,1,0.0012
-2608,1963849763,Thymesia,1,0.0012
-2609,1707594112,Time Trap: Hidden Object Adventure,1,0.0012
-2610,1826137247,Tiny Little Farm,1,0.0012
-2611,2068094397,To the Moon and Beyond,1,0.0012
-2612,1984458321,ToeJam and Earl: Back in the Groove!,1,0.0012
-2613,1396901844,Tomb Raider:Legend,1,0.0012
-2614,1673810447,Tony Stewart's All-American Racing,1,0.0012
-2615,1841510170,Tony Stewart's Sprint Car Racing,1,0.0012
-2616,1480657534,Torchlight,1,0.0012
-2617,1778611337,Tour de France 2021,1,0.0012
-2618,1702020699,Tourist Bus Simulator,1,0.0012
-2619,1832512217,Townscaper,1,0.0012
-2620,1889723336,Townsmen - A Kingdom Rebuilt,1,0.0012
-2621,1721366178,Toy Soldiers HD,1,0.0012
-2622,1480657580,Toy Soldiers: Cold War,1,0.0012
-2623,1480660067,Toybox Turbos,1,0.0012
-2624,2021123644,Tram Simulator Urban Transit,1,0.0012
-2625,1642785895,TRANSFORMERS: EARTHSPARK - Expedition,1,0.0012
-2626,286890904,TRANSFORMERS: Fall of Cybertron,1,0.0012
-2627,1726945595,TRANSFORMERS: Galactic Trials,1,0.0012
-2628,2125289543,TRANSFORMERS™: Devastation,1,0.0012
-2629,1751643165,Trap for Monsters: Hidden Objects,1,0.0012
-2630,937464404,Trials Evolution,1,0.0012
-2631,1910952414,TRIALS of MANA,1,0.0012
-2632,52523189,Trials of the Blood Dragon,1,0.0012
-2633,1706700044,Trident's Tale,1,0.0012
-2634,1977889788,Trigger Witch,1,0.0012
-2635,239008106,Tropico 5 - Penultimate Edition,1,0.0012
-2636,2047601430,Truck and Logistics Simulator,1,0.0012
-2637,1022548859,Truck Driver,1,0.0012
-2638,1799638183,Turbo Overkill,1,0.0012
-2639,1987230441,Turmoil,1,0.0012
-2640,2035251227,Turnip Boy Commits Tax Evasion,1,0.0012
-2641,1866559372,Turnip Boy Robs a Bank,1,0.0012
-2642,495493033,Turok,1,0.0012
-2643,644829211,Turok 2: Seeds of Evil,1,0.0012
-2644,1944807356,Twelve Minutes,1,0.0012
-2645,1937610303,Two Point Museum,1,0.0012
-2646,1611397404,UBOAT,1,0.0012
-2647,2074316990,Ultimate General: Gettysburg,1,0.0012
-2648,2059671191,Ultimate Racing 2D,1,0.0012
-2649,1669161681,Ultimate Space Invaders,1,0.0012
-2650,2010231457,Ultra Foodmess,1,0.0012
-2651,1758041918,UNBEATABLE,1,0.0012
-2652,1611809839,Undead Horde,1,0.0012
-2653,2061154621,Under Par Golf Architect,1,0.0012
-2654,1861281641,Undernauts - Labyrinth of Yomi,1,0.0012
-2655,1754770560,Unicorn Overlord,1,0.0012
-2656,1999700268,Untitled John Wick Game,1,0.0012
-2657,1824292727,US-HY011419-ConversionState-Game1,1,0.0012
-2658,1640379056,Vagrus - The Riven Realms,1,0.0012
-2659,131540426,Valentino Rossi The Game,1,0.0012
-2660,1777656573,Vanquish,1,0.0012
-2661,2084680545,Vapor World: Over The Mind,1,0.0012
-2662,227108897,Virginia,1,0.0012
-2663,1072703684,Virtua Fighter 5 Final Showdown,1,0.0012
-2664,133113455,Voodoo Vince: Remastered,1,0.0012
-2665,1622460124,Vostok 2061,1,0.0012
-2666,1713876987,Wandersong,1,0.0012
-2667,563485628,War Planet Online: Global Conquest,1,0.0012
-2668,1732740414,Wargroove,1,0.0012
-2669,1769772134,Wargroove 2,1,0.0012
-2670,1704142080,Warhammer: Chaosbane Slayer Edition Xbox Series X|S,1,0.0012
-2671,648298719,Warhammer: Chaosbane Xbox One,1,0.0012
-2672,405657081,Warhammer: End Times - Vermintide,1,0.0012
-2673,1619935626,WarpDrive,1,0.0012
-2674,2065674058,Wavetale,1,0.0012
-2675,2114003529,Wax Heads,1,0.0012
-2676,2082586989,We. The Refugees: Ticket to Europe,1,0.0012
-2677,1753346763,We. The Revolution,1,0.0012
-2678,1740517029,West of Dead,1,0.0012
-2679,1837745362,When the Past was Around,1,0.0012
-2680,2015433008,WILL: Follow The Light,1,0.0012
-2681,2125765747,Windbound,1,0.0012
-2682,1996371924,WitchSpring R,1,0.0012
-2683,1707905497,Wolfenstein 3D,1,0.0012
-2684,496534680,Wolfenstein: Youngblood,1,0.0012
-2685,237580797,Wonder Boy: The Dragon's Trap,1,0.0012
-2686,1670435927,Word Quest Pirates,1,0.0012
-2687,1834145283,World of Tennis: Roaring ’20s,1,0.0012
-2688,1900124001,WRC 10 FIA World Rally Championship Xbox One,1,0.0012
-2689,2056599614,Wreckreation,1,0.0012
-2690,1696945475,WrestleQuest,1,0.0012
-2691,1783911946,Wrestling Trivia,1,0.0012
-2692,1834362316,WW2 Rebuilder,1,0.0012
-2693,181948997,WWE 2K15,1,0.0012
-2694,1858270096,Wylde Flowers,1,0.0012
-2695,1414793346,XCOM®: Enemy Unknown,1,0.0012
-2696,1773431897,Yakuza 6: The Song of Life,1,0.0012
-2697,1926334123,Yakuza Kiwami 3 & Dark Ties,1,0.0012
-2698,555542903,Yoku's Island Express,1,0.0012
-2699,1639870043,Youtubers Life 2,1,0.0012
-2700,2081112709,Zaccaria Pinball,1,0.0012
-2701,1848677374,ZDQ Island Engagement,1,0.0012
-2702,916812232,ZHEROS,1,0.0012
-2703,1627571135,Zombie Legion,1,0.0012
-2704,2044141925,Zombie Survivors,1,0.0012
-2705,2063029153,Zombies Overloaded,1,0.0012
-2706,1715509340,Zoo Clues,1,0.0012
-2707,1806833873,Zoo Orbs,1,0.0012
-2708,711381438,Zoo Tycoon,1,0.0012
-2709,1989279553,Zoochosis,1,0.0012
+2448,1480656916,Scramble,1,0.0012
+2449,52620879,Scribblenauts Showdown,1,0.0012
+2450,2044653846,ScubaBoys,1,0.0012
+2451,1613348546,Sea of Stars: Sunset Edition,1,0.0012
+2452,1726081569,Seal: WHAT the FUN,1,0.0012
+2453,1532956420,Sébastien Loeb Rally EVO,1,0.0012
+2454,180637000,SEUM: Speedrunners from Hell,1,0.0012
+2455,2077320849,Shadow Man Remastered,1,0.0012
+2456,2000442171,Shadow Warrior 3: Definitive Edition,1,0.0012
+2457,1935829261,Shadowrun: Hong Kong - Extended Edition,1,0.0012
+2458,944809057,Shadows: Awakening,1,0.0012
+2459,161766595,Shantae and the Pirate's Curse,1,0.0012
+2460,865750499,Shantae: Half-Genie Hero,1,0.0012
+2461,21560138,Sheltered,1,0.0012
+2462,1963476984,Sherlock Holmes Chapter One,1,0.0012
+2463,2129620077,Sherlock Holmes The Awakened,1,0.0012
+2464,36217198,Sherlock Holmes: Crimes and Punishments,1,0.0012
+2465,1781047490,Shin Megami Tensei V: Vengeance,1,0.0012
+2466,643894778,Shiness: The Lightning Kingdom,1,0.0012
+2467,903306295,Shining Resonance Refrain,1,0.0012
+2468,2040578587,SHINOBI: Art of Vengeance,1,0.0012
+2469,1709151881,Ship Graveyard Simulator 2,1,0.0012
+2470,1947938436,Shotgun Farmers,1,0.0012
+2471,1635033134,Shoulders of Giants: Ultimate,1,0.0012
+2472,1811056861,Shred! 2 - ft Sam Pilgrim,1,0.0012
+2473,1645103109,Shred! Remastered,1,0.0012
+2474,1263405029,Silent Hill Homecoming,1,0.0012
+2475,1942055330,Skinwalker 3D,1,0.0012
+2476,2063272043,Sky Roll!,1,0.0012
+2477,1480660016,Slender: The Arrival,1,0.0012
+2478,1166935255,Slender: The Arrival (2015),1,0.0012
+2479,2079129279,Slopecrashers,1,0.0012
+2480,1480656853,Small Arms,1,0.0012
+2481,1915054567,Smile For Me,1,0.0012
+2482,1785888386,Snake.io,1,0.0012
+2483,1671676860,Snakeybus,1,0.0012
+2484,1179584488,Sniper Elite V2,1,0.0012
+2485,1885214706,Snooker 19,1,0.0012
+2486,1002731481,Snooker Nation Championship,1,0.0012
+2487,1657010226,Snufkin: Melody of Moominvalley,1,0.0012
+2488,1907729638,Solasta: Crown of the Magister,1,0.0012
+2489,138528408,Solitaire,1,0.0012
+2490,1480656957,Soltrio Solitaire,1,0.0012
+2491,60656359,SOMA,1,0.0012
+2492,1865488656,Somber Echoes,1,0.0012
+2493,543798221,Song of the Deep,1,0.0012
+2494,1480657348,Sonic & Knuckles,1,0.0012
+2495,1480659614,Sonic the Fighters,1,0.0012
+2496,2016279503,SOPA - Tale of the Stolen Potato,1,0.0012
+2497,1972173548,Soul Finder,1,0.0012
+2498,2116209805,Soul Hackers 2,1,0.0012
+2499,1628869222,Soulstone Survivors,1,0.0012
+2500,1718103769,Space Gladiators,1,0.0012
+2501,546243988,Spectra,1,0.0012
+2502,2051631747,Spectre Divide,1,0.0012
+2503,2100656623,Speed Car Fighter : Remastered,1,0.0012
+2504,2015317909,Speedway Racing,1,0.0012
+2505,1851544061,Spider - Solitaire Collection,1,0.0012
+2506,196851457,Spike Volleyball,1,0.0012
+2507,1734092917,Spirit of the North: Enhanced Edition,1,0.0012
+2508,2073359006,Spirittea,1,0.0012
+2509,1671008398,Splodge Royale,1,0.0012
+2510,1480657055,SpongeBob SquarePants Underpants Slam!,1,0.0012
+2511,1641212101,Sprawl,1,0.0012
+2512,1940217918,SquadBlast (Game Preview),1,0.0012
+2513,2037835570,Square Enix Digital Content Viewer,1,0.0012
+2514,1636452571,SRX: The Game,1,0.0012
+2515,1917594775,Stampede: Racing Royale (Game Preview),1,0.0012
+2516,1112934457,STAR WARS Jedi Starfighter,1,0.0012
+2517,82653045,Starlink: Battle for Atlas,1,0.0012
+2518,1938588110,STARSEEKER: Astroneer Expeditions (Game Preview),1,0.0012
+2519,1813336489,Starship Troopers: Ultimate Bug War!,1,0.0012
+2520,1752123697,Stock Racing,1,0.0012
+2521,2104502032,Stories Untold,1,0.0012
+2522,2050520287,STRANGER OF PARADISE FINAL FANTASY ORIGIN,1,0.0012
+2523,1896598798,Street Outlaws 2: Winner Takes All,1,0.0012
+2524,1895471502,Stubbs the Zombie in Rebel Without a Pulse,1,0.0012
+2525,1414596596,Stuntman: Ignition,1,0.0012
+2526,1978396801,Styx: Blades of Greed,1,0.0012
+2527,2023806716,Styx: Master of Shadows,1,0.0012
+2528,1746879934,Submerged: Hidden Depths,1,0.0012
+2529,754617166,Subterrain,1,0.0012
+2530,1659515488,Suika 3D Fruits,1,0.0012
+2531,2057573435,Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars,1,0.0012
+2532,1995931888,Sunderfolk,1,0.0012
+2533,90400189,SUPER BOMBERMAN R,1,0.0012
+2534,1841866029,Super Bomberman R Online,1,0.0012
+2535,2053113562,SUPER CRAZY RHYTHM CASTLE,1,0.0012
+2536,1684612075,Super Forklift 3000,1,0.0012
+2537,1866825187,Super Monkey Ball: Banana Blitz HD,1,0.0012
+2538,1849290790,Super Scooter,1,0.0012
+2539,1537932598,Super Toy Cars,1,0.0012
+2540,1708138487,Super Toy Cars 2,1,0.0012
+2541,1941370105,Supermarket Owner Simulator: Business,1,0.0012
+2542,2003002635,Survival: Foutain of Youth - Captain's Edition,1,0.0012
+2543,1933264626,Survivalist: Invisible Strain,1,0.0012
+2544,405775731,Surviving Mars,1,0.0012
+2545,1982740887,Surviving Mars: Relaunched,1,0.0012
+2546,1845322433,Suzerain,1,0.0012
+2547,1656836695,Sweet Bakery Tycoon,1,0.0012
+2548,412423425,SWORD ART ONLINE Alicization Lycoris,1,0.0012
+2549,1908989621,SWORD ART ONLINE Last Recollection,1,0.0012
+2550,2136865616,Sword of the Necromancer,1,0.0012
+2551,2015998604,Syberia - The World Before,1,0.0012
+2552,1704201327,System Shock 2: 25th Anniversary Remaster,1,0.0012
+2553,1624264477,Taiko no Tatsujin: The Drum Master!,1,0.0012
+2554,2002977221,Tails of Iron,1,0.0012
+2555,2132478540,Tails of Iron 2: Whiskers of Winter,1,0.0012
+2556,990373231,Tales of Arise,1,0.0012
+2557,1688544029,Tales of Berseria Remastered,1,0.0012
+2558,1671975688,Tales of Xillia Remastered,1,0.0012
+2559,1699999089,Talisman: Digital 5th Edition,1,0.0012
+2560,1624769204,Talisman: Digital Edition,1,0.0012
+2561,1431504864,TC's EndWar,1,0.0012
+2562,1431504853,TC's GRAW,1,0.0012
+2563,29770197,Teenage Mutant Ninja Turtles™: Mutants in Manhattan,1,0.0012
+2564,2095791088,Tennis Story,1,0.0012
+2565,1906078054,TERMINATOR: RESISTANCE,1,0.0012
+2566,1977179260,TES IV: Oblivion Remastered - Digital Artbook & Original Soundtrack,1,0.0012
+2567,1948376851,Tesla vs Lovecraft Game of the Year Edition,1,0.0012
+2568,1881824137,Tetris® Forever,1,0.0012
+2569,836165876,The Ascent,1,0.0012
+2570,157772240,The Bard's Tale IV: Director's Cut,1,0.0012
+2571,1733173772,The Bard's Tale Trilogy,1,0.0012
+2572,1968679051,The Cabin Factory,1,0.0012
+2573,1749701057,The Christmas Game,1,0.0012
+2574,2134619510,The Colonists,1,0.0012
+2575,1979014977,The Crew,1,0.0012
+2576,1997447389,The Dark Pictures Anthology: The Devil in Me,1,0.0012
+2577,125965001,The Escapists: The Walking Dead,1,0.0012
+2578,875174887,The Final Station,1,0.0012
+2579,2142793070,The Grinch: Christmas Adventures,1,0.0012
+2580,247774493,The Incredible Adventures of Van Helsing,1,0.0012
+2581,1637976314,The Jackbox Survey Scramble,1,0.0012
+2582,2047811112,The Last Hero of Nostalgaia,1,0.0012
+2583,2055782857,The Last Kids on Earth and the Staff of Doom,1,0.0012
+2584,1772965835,The Last Stand: Aftermath,1,0.0012
+2585,1832298111,THE LAST TRAIN: Baquedano,1,0.0012
+2586,2048574450,The Life and Suffering of Sir Brante,1,0.0012
+2587,2113135141,The Lullaby of Life,1,0.0012
+2588,2101138430,The Matrix Awakens: An Unreal Engine 5 Experience,1,0.0012
+2589,1962688125,The Messenger,1,0.0012
+2590,1721383054,The Outer Worlds: Spacer's Choice Edition,1,0.0012
+2591,1703407158,The Red Exile - Survival Horror,1,0.0012
+2592,2110168941,The Rogue Prince of Persia™,1,0.0012
+2593,996619018,The Sinking City,1,0.0012
+2594,2010719250,The Smurfs - Mission Vileaf,1,0.0012
+2595,1431505093,The Stick of Truth™,1,0.0012
+2596,901516198,The Surge 2,1,0.0012
+2597,1161955801,The Technomancer,1,0.0012
+2598,1858859325,The Thing: Remastered,1,0.0012
+2599,1906063010,The True,1,0.0012
+2600,2119405603,The Tyrannical Toilet and The Battle of the Beans,1,0.0012
+2601,1933187511,The Vale: Shadow of the Crown,1,0.0012
+2602,946930585,The Walking Dead Collection - The Telltale Series,1,0.0012
+2603,635298240,"The Walking Dead: Michonne - Ep. 1, In Too Deep",1,0.0012
+2604,1967005422,The Wandering Village,1,0.0012
+2605,1820279113,There Is No Light,1,0.0012
+2606,1628698678,Thief Simulator,1,0.0012
+2607,2016470925,This Bed We Made,1,0.0012
+2608,1279330262,Thrillville: OTR,1,0.0012
+2609,1963849763,Thymesia,1,0.0012
+2610,1707594112,Time Trap: Hidden Object Adventure,1,0.0012
+2611,1826137247,Tiny Little Farm,1,0.0012
+2612,2068094397,To the Moon and Beyond,1,0.0012
+2613,1984458321,ToeJam and Earl: Back in the Groove!,1,0.0012
+2614,1396901844,Tomb Raider:Legend,1,0.0012
+2615,1673810447,Tony Stewart's All-American Racing,1,0.0012
+2616,1841510170,Tony Stewart's Sprint Car Racing,1,0.0012
+2617,1480657534,Torchlight,1,0.0012
+2618,1778611337,Tour de France 2021,1,0.0012
+2619,1702020699,Tourist Bus Simulator,1,0.0012
+2620,1832512217,Townscaper,1,0.0012
+2621,1889723336,Townsmen - A Kingdom Rebuilt,1,0.0012
+2622,1721366178,Toy Soldiers HD,1,0.0012
+2623,1480657580,Toy Soldiers: Cold War,1,0.0012
+2624,1480660067,Toybox Turbos,1,0.0012
+2625,2021123644,Tram Simulator Urban Transit,1,0.0012
+2626,1642785895,TRANSFORMERS: EARTHSPARK - Expedition,1,0.0012
+2627,286890904,TRANSFORMERS: Fall of Cybertron,1,0.0012
+2628,1726945595,TRANSFORMERS: Galactic Trials,1,0.0012
+2629,2125289543,TRANSFORMERS™: Devastation,1,0.0012
+2630,1751643165,Trap for Monsters: Hidden Objects,1,0.0012
+2631,937464404,Trials Evolution,1,0.0012
+2632,1910952414,TRIALS of MANA,1,0.0012
+2633,52523189,Trials of the Blood Dragon,1,0.0012
+2634,1706700044,Trident's Tale,1,0.0012
+2635,1977889788,Trigger Witch,1,0.0012
+2636,239008106,Tropico 5 - Penultimate Edition,1,0.0012
+2637,2047601430,Truck and Logistics Simulator,1,0.0012
+2638,1022548859,Truck Driver,1,0.0012
+2639,1799638183,Turbo Overkill,1,0.0012
+2640,1987230441,Turmoil,1,0.0012
+2641,2035251227,Turnip Boy Commits Tax Evasion,1,0.0012
+2642,1866559372,Turnip Boy Robs a Bank,1,0.0012
+2643,495493033,Turok,1,0.0012
+2644,644829211,Turok 2: Seeds of Evil,1,0.0012
+2645,1944807356,Twelve Minutes,1,0.0012
+2646,1937610303,Two Point Museum,1,0.0012
+2647,1611397404,UBOAT,1,0.0012
+2648,2074316990,Ultimate General: Gettysburg,1,0.0012
+2649,2059671191,Ultimate Racing 2D,1,0.0012
+2650,1669161681,Ultimate Space Invaders,1,0.0012
+2651,2010231457,Ultra Foodmess,1,0.0012
+2652,1758041918,UNBEATABLE,1,0.0012
+2653,1611809839,Undead Horde,1,0.0012
+2654,2061154621,Under Par Golf Architect,1,0.0012
+2655,1861281641,Undernauts - Labyrinth of Yomi,1,0.0012
+2656,1754770560,Unicorn Overlord,1,0.0012
+2657,1999700268,Untitled John Wick Game,1,0.0012
+2658,1824292727,US-HY011419-ConversionState-Game1,1,0.0012
+2659,1640379056,Vagrus - The Riven Realms,1,0.0012
+2660,131540426,Valentino Rossi The Game,1,0.0012
+2661,1777656573,Vanquish,1,0.0012
+2662,2084680545,Vapor World: Over The Mind,1,0.0012
+2663,227108897,Virginia,1,0.0012
+2664,1072703684,Virtua Fighter 5 Final Showdown,1,0.0012
+2665,133113455,Voodoo Vince: Remastered,1,0.0012
+2666,1622460124,Vostok 2061,1,0.0012
+2667,1713876987,Wandersong,1,0.0012
+2668,563485628,War Planet Online: Global Conquest,1,0.0012
+2669,1732740414,Wargroove,1,0.0012
+2670,1769772134,Wargroove 2,1,0.0012
+2671,1704142080,Warhammer: Chaosbane Slayer Edition Xbox Series X|S,1,0.0012
+2672,648298719,Warhammer: Chaosbane Xbox One,1,0.0012
+2673,405657081,Warhammer: End Times - Vermintide,1,0.0012
+2674,1619935626,WarpDrive,1,0.0012
+2675,2065674058,Wavetale,1,0.0012
+2676,2114003529,Wax Heads,1,0.0012
+2677,2082586989,We. The Refugees: Ticket to Europe,1,0.0012
+2678,1753346763,We. The Revolution,1,0.0012
+2679,1740517029,West of Dead,1,0.0012
+2680,1837745362,When the Past was Around,1,0.0012
+2681,2015433008,WILL: Follow The Light,1,0.0012
+2682,2125765747,Windbound,1,0.0012
+2683,1996371924,WitchSpring R,1,0.0012
+2684,1707905497,Wolfenstein 3D,1,0.0012
+2685,496534680,Wolfenstein: Youngblood,1,0.0012
+2686,237580797,Wonder Boy: The Dragon's Trap,1,0.0012
+2687,1670435927,Word Quest Pirates,1,0.0012
+2688,1834145283,World of Tennis: Roaring ’20s,1,0.0012
+2689,1900124001,WRC 10 FIA World Rally Championship Xbox One,1,0.0012
+2690,2056599614,Wreckreation,1,0.0012
+2691,1696945475,WrestleQuest,1,0.0012
+2692,1783911946,Wrestling Trivia,1,0.0012
+2693,1834362316,WW2 Rebuilder,1,0.0012
+2694,181948997,WWE 2K15,1,0.0012
+2695,1858270096,Wylde Flowers,1,0.0012
+2696,1414793346,XCOM®: Enemy Unknown,1,0.0012
+2697,1773431897,Yakuza 6: The Song of Life,1,0.0012
+2698,1926334123,Yakuza Kiwami 3 & Dark Ties,1,0.0012
+2699,555542903,Yoku's Island Express,1,0.0012
+2700,1639870043,Youtubers Life 2,1,0.0012
+2701,2081112709,Zaccaria Pinball,1,0.0012
+2702,1848677374,ZDQ Island Engagement,1,0.0012
+2703,916812232,ZHEROS,1,0.0012
+2704,1627571135,Zombie Legion,1,0.0012
+2705,2044141925,Zombie Survivors,1,0.0012
+2706,2063029153,Zombies Overloaded,1,0.0012
+2707,1715509340,Zoo Clues,1,0.0012
+2708,1806833873,Zoo Orbs,1,0.0012
+2709,711381438,Zoo Tycoon,1,0.0012
+2710,1989279553,Zoochosis,1,0.0012

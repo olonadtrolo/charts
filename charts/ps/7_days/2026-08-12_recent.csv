@@ -1,4 +1,3 @@
-# 2026-08-30 22:18:23 ; Found 699930 viable session entries from 300490 unique users.
 rank,title_id,title,players,percentage,release_date
 14,10017189,Big Walk,5955,1.9818,2026-08-04
 48,10016736,EA SPORTS™ Madden NFL 27,2018,0.6716,2026-08-06
@@ -24,6 +23,7 @@ rank,title_id,title,players,percentage,release_date
 1000,10014600,Duskfade,24,0.008,2026-08-13
 1087,10017931,The King is Watching,21,0.007,2026-07-29
 1091,10019326,Wreck Runners,21,0.007,2026-07-16
+1127,10014425,Hell Let Loose: Vietnam,19,0.0063,2026-08-12
 1346,10010534,Ultra Kingdoms,13,0.0043,2026-07-17
 1381,10017247,Moss: The Forgotten Relic,12,0.004,2026-07-16
 1416,10014823,Full Stride,11,0.0037,2026-07-16

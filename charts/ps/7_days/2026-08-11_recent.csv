@@ -1,4 +1,3 @@
-# 2026-08-30 22:18:11 ; Found 665748 viable session entries from 288790 unique users.
 rank,title_id,title,players,percentage,release_date
 14,10017189,Big Walk,5754,1.9925,2026-08-04
 49,10008019,MARVEL Tōkon: Fighting Souls,1683,0.5828,2026-08-06
@@ -21,6 +20,7 @@ rank,title_id,title,players,percentage,release_date
 978,10015063,Denshattack!,24,0.0083,2026-07-15
 979,10014600,Duskfade,24,0.0083,2026-08-13
 1071,10017931,The King is Watching,20,0.0069,2026-07-29
+1096,10014425,Hell Let Loose: Vietnam,19,0.0066,2026-08-12
 1117,10019326,Wreck Runners,19,0.0066,2026-07-16
 1341,10017247,Moss: The Forgotten Relic,12,0.0042,2026-07-16
 1417,10010147,The Relic: First Guardian,11,0.0038,2026-07-31

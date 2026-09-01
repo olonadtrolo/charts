@@ -1,10 +1,9 @@
-# 2026-08-30 16:52:21 ; Found 131489 viable session entries from 74630 unique users.
 rank,title_id,title,players,percentage,release_date
 52,2079757188,Forza Horizon 6,352,0.4717,2026-05-18
 56,1950263247,Mixtape,329,0.4408,2026-05-07
 72,1892502964,Hades II,252,0.3377,2026-04-14
 95,2136186351,MOTORSLICE,184,0.2465,2026-05-05
-110,1792405589,Sledding Game,169,0.2265,2026-04-29
+110,1792405589,Sledding Game,169,0.2264,2026-04-29
 148,2120617189,Invincible VS,125,0.1675,2026-04-30
 164,1728296368,Vampire Crawlers: The Turbo Wildcard from Vampire Survivors,115,0.1541,2026-04-21
 170,1641858093,Albion Online,108,0.1447,2026-04-22
@@ -44,13 +43,13 @@ rank,title_id,title,players,percentage,release_date
 1923,1646780412,Dentist Bling,1,0.0013,2026-05-15
 1950,2099244998,Drill Core,1,0.0013,2026-04-28
 2075,1775503484,Inhuman Resources: A Literary Machination,1,0.0013,2026-04-17
-2147,1950004384,Magin: The Rat Project Stories,1,0.0013,2026-04-29
-2217,1819981071,Old Market Simulator,1,0.0013,2026-04-27
-2225,1679564487,Outbound,1,0.0013,2026-05-11
-2349,1708383800,So Much Stuff Collector's Edition,1,0.0013,2026-05-07
-2379,2050564609,Strange Antiquities,1,0.0013,2026-04-30
-2386,2119021593,Subnautica 2 (Game Preview),1,0.0013,2026-05-14
-2508,2061154621,Under Par Golf Architect,1,0.0013,2026-04-16
-2509,1907156135,Underling Uprising,1,0.0013,2026-05-14
-2544,1708238224,Word Quest Fantasy,1,0.0013,2026-04-17
-2545,1709000658,Word Quest: Cyberpunk,1,0.0013,2026-04-24
+2148,1950004384,Magin: The Rat Project Stories,1,0.0013,2026-04-29
+2218,1819981071,Old Market Simulator,1,0.0013,2026-04-27
+2226,1679564487,Outbound,1,0.0013,2026-05-11
+2352,1708383800,So Much Stuff Collector's Edition,1,0.0013,2026-05-07
+2382,2050564609,Strange Antiquities,1,0.0013,2026-04-30
+2389,2119021593,Subnautica 2 (Game Preview),1,0.0013,2026-05-14
+2511,2061154621,Under Par Golf Architect,1,0.0013,2026-04-16
+2512,1907156135,Underling Uprising,1,0.0013,2026-05-14
+2547,1708238224,Word Quest Fantasy,1,0.0013,2026-04-17
+2548,1709000658,Word Quest: Cyberpunk,1,0.0013,2026-04-24

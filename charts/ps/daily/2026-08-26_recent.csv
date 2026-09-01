@@ -1,4 +1,3 @@
-# 2026-08-30 22:22:59 ; Found 55172 viable session entries from 34154 unique users.
 rank,title_id,title,players,percentage,release_date
 14,10016736,EA SPORTS™ Madden NFL 27,535,1.5664,2026-08-06
 35,10015762,Once Human,209,0.6119,2026-08-24
@@ -8,6 +7,7 @@ rank,title_id,title,players,percentage,release_date
 79,10016651,Grounded 2,81,0.2372,2026-08-11
 80,10008019,MARVEL Tōkon: Fighting Souls,81,0.2372,2026-08-06
 87,10019078,No More Room in Hell 2,73,0.2137,2026-08-11
+93,10014425,Hell Let Loose: Vietnam,64,0.1874,2026-08-12
 124,10013884,Halo: Campaign Evolved,48,0.1405,2026-07-28
 236,10017040,Waterpark Simulator,19,0.0556,2026-07-31
 244,10017212,Mistfall Hunter,18,0.0527,2026-07-30
@@ -32,6 +32,7 @@ rank,title_id,title,players,percentage,release_date
 1326,10012547,Kynseed,1,0.0029,2026-08-04
 1363,10018714,Mexican Ninja,1,0.0029,2026-08-20
 1409,10020204,New York Mysteries 3: The Lantern of Souls,1,0.0029,2026-07-29
+1505,10020457,River Strike,1,0.0029,2026-08-20
 1648,10010147,The Relic: First Guardian,1,0.0029,2026-07-31
 1666,10018629,Tower Dominion,1,0.0029,2026-08-14
 1680,10014568,Truxton Extreme,1,0.0029,2026-07-30

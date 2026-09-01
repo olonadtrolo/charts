@@ -1,4 +1,3 @@
-# 2026-08-30 17:11:54 ; Found 63412 viable session entries from 36328 unique users.
 rank,title_id,title,players,percentage,release_date
 14,1845885580,RV There Yet?,749,2.0618,2026-06-29
 17,1674575880,EA SPORTS™ College Football 27,529,1.4562,2026-07-08
@@ -30,14 +29,15 @@ rank,title_id,title,players,percentage,release_date
 1541,1921196301,Drug Dealer Simulator 2,1,0.0028,2026-06-17
 1555,2003420588,Escape the Backrooms Together,1,0.0028,2026-06-11
 1577,1826390129,Find The Cats,1,0.0028,2026-06-18
-1595,1696603875,Gas Station Simulator,1,0.0028,2026-06-05
-1639,1682140320,House Flipper Remastered Collection,1,0.0028,2026-06-24
-1644,1624948834,I Think I Saw a Kitten,1,0.0028,2026-06-25
-1726,1864843444,Monopoly: Star Wars™ Heroes vs. Villains,1,0.0028,2026-06-30
-1742,2126139968,Murky Divers,1,0.0028,2026-06-30
-1897,1947447256,Sodaman,1,0.0028,2026-07-01
-1939,1768994193,Summer Seaside Search,1,0.0028,2026-06-19
-1950,1847130448,Supermarket Simulator - Cozy Game,1,0.0028,2026-06-10
-1996,2116788151,The Mound: Omen of Cthulhu,1,0.0028,2026-07-14
-2045,1900013719,Viking Frontiers,1,0.0028,2026-07-09
-2064,1902493145,Word Quest: Nature,1,0.0028,2026-06-26
+1587,1946693572,Freestyle Football 2 - Prime OBT,1,0.0028,2026-06-10
+1596,1696603875,Gas Station Simulator,1,0.0028,2026-06-05
+1640,1682140320,House Flipper Remastered Collection,1,0.0028,2026-06-24
+1645,1624948834,I Think I Saw a Kitten,1,0.0028,2026-06-25
+1728,1864843444,Monopoly: Star Wars™ Heroes vs. Villains,1,0.0028,2026-06-30
+1744,2126139968,Murky Divers,1,0.0028,2026-06-30
+1899,1947447256,Sodaman,1,0.0028,2026-07-01
+1941,1768994193,Summer Seaside Search,1,0.0028,2026-06-19
+1952,1847130448,Supermarket Simulator - Cozy Game,1,0.0028,2026-06-10
+1998,2116788151,The Mound: Omen of Cthulhu,1,0.0028,2026-07-14
+2047,1900013719,Viking Frontiers,1,0.0028,2026-07-09
+2066,1902493145,Word Quest: Nature,1,0.0028,2026-06-26

@@ -1,4 +1,3 @@
-# 2026-08-30 22:15:47 ; Found 81091 viable session entries from 49178 unique users.
 rank,title_id,title,players,percentage,release_date
 7,10017658,Call of Duty®: Black Ops II,2714,5.5187,2026-07-09
 17,10017657,Call of Duty®: Black Ops,720,1.4641,2026-07-09
@@ -27,6 +26,7 @@ rank,title_id,title,players,percentage,release_date
 1202,10017381,70s-style Robot Anime Geppy-X,1,0.002,2026-07-31
 1251,10017189,Big Walk,1,0.002,2026-08-04
 1260,10017140,BLUE REFLECTION Quartet,1,0.002,2026-07-30
+1425,10014425,Hell Let Loose: Vietnam,1,0.002,2026-08-12
 1569,10019822,New York Mysteries 1: Secrets of the Mafia,1,0.002,2026-07-05
 1719,10018696,Streetdog BMX,1,0.002,2026-07-15
 1754,10015316,The Caribou Trail,1,0.002,2026-07-07

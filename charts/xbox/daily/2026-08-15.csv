@@ -1,4 +1,3 @@
-# 2026-08-30 17:32:56 ; Found 112581 viable session entries from 64466 unique users.
 rank,title_id,title,players,percentage
 1,267695549,Fortnite,11765,18.2499
 2,342226876,Roblox - Xbox,9563,14.8342
@@ -2517,7 +2516,7 @@ rank,title_id,title,players,percentage
 2515,1777058720,Yakuza 5 Remastered,1,0.0016
 2516,2133604341,Yellowcreek Stories - The Cabin Watcher,1,0.0016
 2517,391356720,Yooka-Laylee,1,0.0016
-2518,1680433621,Young Suns (Game Preview),1,0.0016
+2518,1680433621,Young Suns,1,0.0016
 2519,984203469,Ys Origin,1,0.0016
 2520,1645309277,Zero Squares,1,0.0016
 2521,1520322998,Zombie Army Trilogy,1,0.0016
@@ -2525,3 +2524,4 @@ rank,title_id,title,players,percentage
 2523,2063029153,Zombies Overloaded,1,0.0016
 2524,1703114306,Zumania,1,0.0016
 2525,1779524202,Zumba - The Marble Shooter Tikki Adventure,1,0.0016
+2526,1480657053,悪魔城ドラキュラX 月下の夜想曲,1,0.0016

@@ -1,4 +1,3 @@
-# 2026-08-30 17:17:58 ; Found 59469 viable session entries from 35673 unique users.
 rank,title_id,title,players,percentage
 1,267695549,Fortnite,5693,15.9588
 2,342226876,Roblox - Xbox,5148,14.4311
@@ -1295,7 +1294,7 @@ rank,title_id,title,players,percentage
 1293,659391373,WWE 2K16,2,0.0056
 1294,1849227144,WWE 2K20,2,0.0056
 1295,1845646569,Yakuza Kiwami 2,2,0.0056
-1296,1680433621,Young Suns (Game Preview),2,0.0056
+1296,1680433621,Young Suns,2,0.0056
 1297,1148805248,Yu-Gi-Oh! Legacy of the Duelist,2,0.0056
 1298,2081112709,Zaccaria Pinball,2,0.0056
 1299,1935095398,星之翼(Starward),2,0.0056
