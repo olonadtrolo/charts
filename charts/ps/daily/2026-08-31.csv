@@ -1,0 +1,577 @@
+# 2026-08-31 18:28:19 ; Found 6715 viable session entries from 4003 unique users.
+rank,title_id,title,players,percentage
+1,228748,Fortnite,911,22.7579
+2,223118,Roblox,657,16.4127
+3,10011898,EA SPORTS FC™ 26,466,11.6413
+4,10001130,Call of Duty®,450,11.2416
+5,203715,Rocket League®,291,7.2695
+6,201930,Grand Theft Auto V,288,7.1946
+7,10018502,NBA 2K27,264,6.5951
+8,212779,Minecraft,163,4.0719
+9,203897,Tom Clancy's Rainbow Six Siege,158,3.947
+10,10014149,NBA 2K26,121,3.0227
+11,10010451,Marvel Rivals,106,2.648
+12,10016736,EA SPORTS™ Madden NFL 27,83,2.0734
+13,10017658,Call of Duty®: Black Ops II,77,1.9236
+14,10002456,Marvel's Spider-Man 2,74,1.8486
+15,232352,Apex Legends™,64,1.5988
+16,10016592,EA SPORTS™ College Football 27,62,1.5488
+17,216627,Overwatch®,57,1.4239
+18,10002427,eFootball™,55,1.374
+19,10012604,EA SPORTS™ Madden NFL 26,49,1.2241
+20,209441,Red Dead Redemption 2,47,1.1741
+21,10000657,HELLDIVERS™ 2,41,1.0242
+22,10010048,VALORANT,41,1.0242
+23,10009568,Battlefield™ 6,36,0.8993
+24,10015762,Once Human,35,0.8743
+25,227319,Dead by Daylight,34,0.8494
+26,216932,Brawlhalla,32,0.7994
+27,10002788,UFC® 5,32,0.7994
+28,10012463,EA SPORTS™ College Football 26,28,0.6995
+29,10017657,Call of Duty®: Black Ops,27,0.6745
+30,10015430,MLB® The Show™ 26,27,0.6745
+31,10006353,skate.™,26,0.6495
+32,10011247,UFC® 6,26,0.6495
+33,10003610,ARC Raiders,24,0.5996
+34,10000333,ELDEN RING,24,0.5996
+35,10011645,Call of Duty®: Modern Warfare® III,22,0.5496
+36,10004911,Mortal Kombat 1,22,0.5496
+37,10003354,Fall Guys,20,0.4996
+38,221694,For Honor,20,0.4996
+39,10002313,The Crew Motorfest,20,0.4996
+40,200763,Call of Duty®: Black Ops III,19,0.4746
+41,10010647,Forza Horizon 5,19,0.4746
+42,10000229,ASTRO's PLAYROOM,18,0.4497
+43,234567,Cyberpunk 2077,18,0.4497
+44,10001850,God of War Ragnarök,18,0.4497
+45,10000956,Gran Turismo® 7,18,0.4497
+46,10000762,Marvel's Spider-Man,18,0.4497
+47,233072,Rust Console Edition,18,0.4497
+48,10013165,Call of Duty®: Black Ops 6,17,0.4247
+49,232374,Dying Light 2,17,0.4247
+50,10000896,Genshin Impact,17,0.4247
+51,10011027,Palworld,16,0.3997
+52,10002363,Crimson Desert,15,0.3747
+53,10009763,Zenless Zone Zero,15,0.3747
+54,10008286,ARK: Survival Ascended,14,0.3497
+55,10017189,Big Walk,14,0.3497
+56,10007176,EA SPORTS FC™ 24,14,0.3497
+57,10009762,EA SPORTS FC™ 25,14,0.3497
+58,10009612,Farming Simulator 25,14,0.3497
+59,235227,Ghost of Tsushima,14,0.3497
+60,10003923,Ghost of Yōtei,14,0.3497
+61,10010481,NBA 2K25,14,0.3497
+62,10009297,Undisputed,14,0.3497
+63,10015300,WWE 2K26,14,0.3497
+64,10003151,EA SPORTS™ College Football 25,13,0.3248
+65,10004473,Resident Evil 4,13,0.3248
+66,221852,Destiny 2,12,0.2998
+67,10010058,Mortal Shell II,12,0.2998
+68,234659,Need for Speed™ Heat,12,0.2998
+69,10019078,No More Room in Hell 2,12,0.2998
+70,10013987,Assassin's Creed Black Flag Resynced,11,0.2748
+71,10006210,Kingdom Come: Deliverance II,11,0.2748
+72,232860,PUBG: BATTLEGROUNDS,11,0.2748
+73,10009029,STAR WARS Zero Company™,11,0.2748
+74,205342,Warframe,11,0.2748
+75,231756,Mortal Kombat 11,10,0.2498
+76,230955,The Elder Scrolls V: Skyrim Special Edition,10,0.2498
+77,10010198,Arma Reforger,9,0.2248
+78,10016651,Grounded 2,9,0.2248
+79,10005275,Honkai: Star Rail,9,0.2248
+80,10006873,THE FINALS,9,0.2248
+81,10010458,Vampire Survivors,9,0.2248
+82,233407,Call of Duty®: Black Ops Cold War,8,0.1999
+83,10010971,Call of Duty®: Modern Warfare® II,8,0.1999
+84,231761,Diablo® IV,8,0.1999
+85,10007902,DRAGON BALL: Sparking! ZERO,8,0.1999
+86,10004336,EA SPORTS™ FIFA 23,8,0.1999
+87,10010877,ELDEN RING NIGHTREIGN,8,0.1999
+88,10014425,Hell Let Loose: Vietnam,8,0.1999
+89,10005318,The First Descendant,8,0.1999
+90,230079,The Last of Us™ Part II,8,0.1999
+91,205366,War Thunder,8,0.1999
+92,10006560,007 First Light,7,0.1749
+93,10007144,Black Myth: Wukong,7,0.1749
+94,221727,Horizon Zero Dawn™,7,0.1749
+95,10009075,METAL GEAR SOLID: MASTER COLLECTION Vol.2,7,0.1749
+96,10008651,MLB® The Show™ 24,7,0.1749
+97,10011213,MLB® The Show™ 25,7,0.1749
+98,10002357,MY HERO ULTRA RUMBLE,7,0.1749
+99,10008972,PGA TOUR 2K25,7,0.1749
+100,10005673,Phasmophobia,7,0.1749
+101,10006270,TEKKEN 8,7,0.1749
+102,228868,theHunter: Call of the Wild™,7,0.1749
+103,201697,Tom Clancy's Ghost Recon® Wildlands,7,0.1749
+104,10011142,Where Winds Meet (F2P),7,0.1749
+105,10008740,Asphalt Legends,6,0.1499
+106,10002684,ASTRO BOT,6,0.1499
+107,10007460,Baldur's Gate 3,6,0.1499
+108,221850,DayZ,6,0.1499
+109,201511,Fallout 4,6,0.1499
+110,233961,FAR CRY®6,6,0.1499
+111,232447,Hogwarts Legacy,6,0.1499
+112,10000886,Horizon Forbidden West,6,0.1499
+113,225697,KINGDOM HEARTS - HD 1.5+2.5 ReMIX -,6,0.1499
+114,235302,Mafia: Definitive Edition,6,0.1499
+115,10008019,MARVEL Tōkon: Fighting Souls,6,0.1499
+116,10009213,Ready or Not,6,0.1499
+117,10000459,Riders Republic™,6,0.1499
+118,10002694,The Last of Us™ Part I,6,0.1499
+119,217611,3on3 Freestyle,5,0.1249
+120,10000237,Assassin's Creed Valhalla,5,0.1249
+121,229601,Assassin's Creed® Odyssey,5,0.1249
+122,10009909,Assassin’s Creed Shadows,5,0.1249
+123,200472,BATMAN™: ARKHAM KNIGHT,5,0.1249
+124,10014058,Delta Force,5,0.1249
+125,10009326,EA SPORTS™ Madden NFL 25,5,0.1249
+126,10010992,Escape the Backrooms,5,0.1249
+127,201579,FINAL FANTASY XIV Online,5,0.1249
+128,10005051,Hell is Us,5,0.1249
+129,10000248,HITMAN World of Assassination,5,0.1249
+130,10005908,Hollow Knight: Silksong,5,0.1249
+131,227139,Human Fall Flat,5,0.1249
+132,10000649,Marvel's Spider-Man: Miles Morales,5,0.1249
+133,231769,Metro Exodus,5,0.1249
+134,10017212,Mistfall Hunter,5,0.1249
+135,10000928,MX vs ATV Legends,5,0.1249
+136,227447,NARUTO TO BORUTO: SHINOBI STRIKER,5,0.1249
+137,10012874,NTE: Neverness to Everness,5,0.1249
+138,10009245,SMITE 2,5,0.1249
+139,10011934,Starfield,5,0.1249
+140,204584,The Binding of Isaac: Rebirth,5,0.1249
+141,232391,Tom Clancy's The Division® 2,5,0.1249
+142,205354,UNCHARTED: Legacy of Thieves Collection,5,0.1249
+143,10010764,Wuthering Waves,5,0.1249
+144,10009205,Arknights: Endfield,4,0.0999
+145,222066,Assassin's Creed® Origins,4,0.0999
+146,234902,Assetto Corsa Competizione,4,0.0999
+147,200520,Bloodborne™,4,0.0999
+148,10000819,Borderlands 4,4,0.0999
+149,229018,DAYS GONE,4,0.0999
+150,10009984,DOOM: The Dark Ages,4,0.0999
+151,10007638,DRAGONBALL GEKISHIN SQUADRA,4,0.0999
+152,201129,Dying Light,4,0.0999
+153,221692,Far Cry® 5,4,0.0999
+154,228744,FINAL FANTASY VII REMAKE,4,0.0999
+155,228720,Fishing Planet,4,0.0999
+156,216234,Gang Beasts,4,0.0999
+157,10001996,Hell Let Loose,4,0.0999
+158,202494,LEGO® MARVEL's Avengers,4,0.0999
+159,10014332,NASCAR 25,4,0.0999
+160,10010602,Path of Exile 2,4,0.0999
+161,10011349,REMATCH,4,0.0999
+162,10008884,Sea of Thieves,4,0.0999
+163,234959,SnowRunner,4,0.0999
+164,10005114,STAR WARS Jedi: Survivor™,4,0.0999
+165,10014720,The Seven Deadly Sins: Origin,4,0.0999
+166,205264,WATCH_DOGS™,4,0.0999
+167,204794,ウィッチャー３　ワイルドハント,4,0.0999
+168,216855,AdVenture Capitalist,3,0.0749
+169,235179,Avatar: Frontiers of Pandora™,3,0.0749
+170,233064,Back 4 Blood,3,0.0749
+171,10010334,Balatro,3,0.0749
+172,216064,Batman: Return to Arkham,3,0.0749
+173,215282,Borderlands: The Handsome Collection,3,0.0749
+174,232300,Call of Duty®: Black Ops 4,3,0.0749
+175,229182,Call of Duty®: Modern Warfare®,3,0.0749
+176,10000161,CarX Drift Racing Online,3,0.0749
+177,234762,Chivalry 2,3,0.0749
+178,10001369,Cuphead,3,0.0749
+179,231053,Dead Cells,3,0.0749
+180,10001538,DEATH STRANDING 2: ON THE BEACH,3,0.0749
+181,234585,DEATH STRANDING™,3,0.0749
+182,10000309,Diablo® II: Resurrected™,3,0.0749
+183,233030,EA SPORTS™ UFC® 4,3,0.0749
+184,10011830,F1® 25,3,0.0749
+185,232248,Fallout 76,3,0.0749
+186,10003999,FINAL FANTASY VII REBIRTH,3,0.0749
+187,10002100,FINAL FANTASY XVI,3,0.0749
+188,10014519,Football Manager 26 Console,3,0.0749
+189,10003123,Goat Simulator 3,3,0.0749
+190,227770,God of War,3,0.0749
+191,10008048,Grounded PS4® & PS5®,3,0.0749
+192,10000453,Guilty Gear -Strive-,3,0.0749
+193,10018449,Hades II,3,0.0749
+194,234689,It Takes Two  PS4™ & PS5™,3,0.0749
+195,10012067,Jurassic World Evolution 3,3,0.0749
+196,10006239,Madden NFL 24,3,0.0749
+197,10007134,Mafia: The Old Country,3,0.0749
+198,10003336,MBC Shahid,3,0.0749
+199,10005176,Monster Hunter Wilds,3,0.0749
+200,202943,Mortal Kombat X,3,0.0749
+201,10001269,Need for Speed™ Unbound,3,0.0749
+202,10012851,NHL® 26,3,0.0749
+203,203383,Plex,3,0.0749
+204,209904,Prominence Poker,3,0.0749
+205,10006164,Red Dead Redemption,3,0.0749
+206,229500,RESIDENT EVIL 2,3,0.0749
+207,235235,Resident Evil Village,3,0.0749
+208,10003386,Rise of the Ronin™,3,0.0749
+209,10014084,S.T.A.L.K.E.R. 2: Heart of Chornobyl,3,0.0749
+210,230019,SOULCALIBUR™Ⅵ,3,0.0749
+211,229438,STAR WARS™ Battlefront™ II,3,0.0749
+212,10006891,Stellar Blade™,3,0.0749
+213,10007588,Stumble Guys,3,0.0749
+214,222022,TEKKEN™7,3,0.0749
+215,231416,The Forest,3,0.0749
+216,228857,The Sims™ 4,3,0.0749
+217,10008034,Throne and Liberty,3,0.0749
+218,10009660,Two Point Museum,3,0.0749
+219,216759,WATCH_DOGS® 2,3,0.0749
+220,232796,World of Warships: Legends,3,0.0749
+221,10010684,WWE 2K25,3,0.0749
+222,10008451,7 Days to Die - Console Edition,2,0.05
+223,10009366,A Quiet Place: The Road Ahead,2,0.05
+224,10002065,Alan Wake 2,2,0.05
+225,10014695,Aliens: Fireteam Elite 2,2,0.05
+226,10002811,Among Us,2,0.05
+227,224802,ARK: Survival Evolved,2,0.05
+228,10004865,Assassin's Creed® Mirage,2,0.05
+229,10018989,Avatar Legends: The Fighting Game,2,0.05
+230,228677,Batman: The Enemy Within,2,0.05
+231,200449,Battlefield 4™,2,0.05
+232,227326,Battlefield™ V,2,0.05
+233,233032,Black Desert,2,0.05
+234,227478,Borderlands 3,2,0.05
+235,221672,Call of Duty®: Infinite Warfare,2,0.05
+236,221941,Call of Duty®: Modern Warfare® Remastered,2,0.05
+237,10001917,CarX Street,2,0.05
+238,10008503,Clair Obscur: Expedition 33,2,0.05
+239,231819,Control,2,0.05
+240,227649,Crash Bandicoot N. Sane Trilogy,2,0.05
+241,10000264,Crash Bandicoot™ 4: It’s About Time,2,0.05
+242,233410,Crash™ Team Racing Nitro-Fueled,2,0.05
+243,201190,DARK SOULS™ III,2,0.05
+244,200995,DC Universe Online,2,0.05
+245,201061,Dead Island 2,2,0.05
+246,10002958,Dead Space,2,0.05
+247,233495,DELTARUNE,2,0.05
+248,10000368,Demon's Souls,2,0.05
+249,232084,Divinity: Original Sin 2 - Definitive Edition,2,0.05
+250,228726,DRAGON BALL FighterZ,2,0.05
+251,10011468,Dying Light: The Beast,2,0.05
+252,10000349,eFootball PES 2021 SEASON UPDATE,2,0.05
+253,10001771,Farming Simulator 22,2,0.05
+254,220518,FIFA 15,2,0.05
+255,231776,FIFA 19,2,0.05
+256,10008409,Firefighting Simulator: Ignite,2,0.05
+257,201957,Grand Theft Auto: San Andreas,2,0.05
+258,10003552,Grand Theft Auto: San Andreas – The Definitive Edition,2,0.05
+259,10013884,Halo: Campaign Evolved,2,0.05
+260,232654,Hollow Knight,2,0.05
+261,217244,Kerbal Space Program Enhanced Edition,2,0.05
+262,10005321,Killing Floor 3,2,0.05
+263,208810,KINGDOM HEARTS Ⅲ,2,0.05
+264,10008537,LEGO® Batman™: Legacy of the Dark Knight,2,0.05
+265,10006052,Lies of P,2,0.05
+266,10008649,Mafia: Trilogy,2,0.05
+267,10008864,Marathon,2,0.05
+268,10003464,Maximum Football,2,0.05
+269,216695,Middle-earth™: Shadow of War™,2,0.05
+270,10005744,MLB® The Show™ 23,2,0.05
+271,233621,Mount & Blade II: Bannerlord,2,0.05
+272,212870,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,2,0.05
+273,10004744,NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS,2,0.05
+274,10004836,NBA 2K23,2,0.05
+275,10011746,NBA THE RUN,2,0.05
+276,10014010,Nioh 3,2,0.05
+277,10019710,Onimusha: Dawn of Dreams,2,0.05
+278,10013248,Onimusha: Way of the Sword,2,0.05
+279,10013935,OSN+,2,0.05
+280,10000950,Path Of Titans,2,0.05
+281,10001555,Persona 3 Reload,2,0.05
+282,203427,Plants vs Zombies GW2,2,0.05
+283,216741,Pluto TV ,2,0.05
+284,10003763,Predecessor,2,0.05
+285,10000669,Ratchet & Clank: Rift Apart,2,0.05
+286,10010999,REANIMAL,2,0.05
+287,233069,RESIDENT EVIL 3,2,0.05
+288,232116,Resident Evil 6,2,0.05
+289,220037,RESIDENT EVIL 7 biohazard,2,0.05
+290,232120,Resident Evil Revelations 2,2,0.05
+291,10015413,Resonance: A Plague Tale Legacy,2,0.05
+292,10000176,Returnal,2,0.05
+293,235037,Rogue Company,2,0.05
+294,10013315,Rooftops & Alleys: The Parkour Game,2,0.05
+295,10013838,Rugby League 26,2,0.05
+296,232189,SEGA Mega Drive Classics,2,0.05
+297,10000171,Share Factory Studio,2,0.05
+298,233594,Sid Meier's Civilization VI,2,0.05
+299,233476,Slay the Spire,2,0.05
+300,234363,Sniper Elite 5,2,0.05
+301,10005570,Sonic Racing: CrossWorlds,2,0.05
+302,232043,Stick Fight: The Game,2,0.05
+303,10001615,Street Fighter 6,2,0.05
+304,10010865,The Lord of the Rings: War in the North™ - Legacy Edition,2,0.05
+305,10001988,The Outlast Trials,2,0.05
+306,10016323,Tokyo Xtreme Racer,2,0.05
+307,233112,Tom Clancy’s Ghost Recon® Breakpoint,2,0.05
+308,10004708,TopSpin 2K25,2,0.05
+309,10004289,UFL,2,0.05
+310,205353,Uncharted™: The Nathan Drake Collection,2,0.05
+311,10009101,War Robots: Frontiers,2,0.05
+312,10010263,"Warhammer 40,000: Darktide",2,0.05
+313,10003330,"Warhammer 40,000: Space Marine 2",2,0.05
+314,232581,Watch Dogs: Legion,2,0.05
+315,10017040,Waterpark Simulator,2,0.05
+316,235238,Yakuza: Like A Dragon,2,0.05
+317,227061,A Way Out,1,0.025
+318,10014070,Absolum,1,0.025
+319,10015335,Achilles: Survivor,1,0.025
+320,10009260,Age of Mythology: Retold,1,0.025
+321,10005356,Akane,1,0.025
+322,10009923,Another Crab’s Treasure,1,0.025
+323,218738,ARCADE GAME SERIES: Ms. PAC-MAN,1,0.025
+324,225519,Assassin's Creed The Ezio Collection,1,0.025
+325,200089,Assassin's Creed® IV Black Flag,1,0.025
+326,234630,ASTRONEER,1,0.025
+327,10006316,Atomic Heart,1,0.025
+328,10003264,Avatar The Last Airbender: Quest for Balance,1,0.025
+329,10018445,Bag Fight,1,0.025
+330,10016190,BALL x PIT,1,0.025
+331,200461,Battle Islands,1,0.025
+332,221824,Battlefield™ 1,1,0.025
+333,10004355,bilibili,1,0.025
+334,10003743,BINGE,1,0.025
+335,10011854,Blades of Fire,1,0.025
+336,234422,Blasphemous,1,0.025
+337,10002097,Bleach: Brave Souls Anime Game,1,0.025
+338,227087,Bloons TD 5,1,0.025
+339,10006070,Bluey: The Videogame,1,0.025
+340,10008379,BMX Streets,1,0.025
+341,200756,Call of Duty®: Advanced Warfare,1,0.025
+342,10003945,Call of the Wild: The Angler™,1,0.025
+343,10008958,Capcom Fighting Collection 2,1,0.025
+344,10001967,Car Mechanic Simulator 2021,1,0.025
+345,231477,Celeste,1,0.025
+346,205996,Channel 4,1,0.025
+347,234050,Clone Drone in the Danger Zone,1,0.025
+348,10017298,CloverPit,1,0.025
+349,231261,Conan Exiles,1,0.025
+350,10008761,Cookie Clicker,1,0.025
+351,10008698,Coral Island,1,0.025
+352,10008264,Cricket 24,1,0.025
+353,10001858,Crusader Kings III,1,0.025
+354,10002047,d anime store,1,0.025
+355,10009413,DAVE THE DIVER,1,0.025
+356,231800,DEAD OR ALIVE 6,1,0.025
+357,10007312,Deceit 2,1,0.025
+358,222727,Detroit: Become Human™,1,0.025
+359,232009,Devil May Cry HD Collection,1,0.025
+360,227129,DiRT 4,1,0.025
+361,10002466,Disney Dreamlight Valley,1,0.025
+362,10008074,Disney Epic Mickey: Rebrushed,1,0.025
+363,10004933,Disney•Pixar Toy Story 2: Buzz Lightyear to the Rescue!,1,0.025
+364,10013259,Dispatch,1,0.025
+365,232624,DOOM Eternal,1,0.025
+366,10008191,DYNASTY WARRIORS: ORIGINS,1,0.025
+367,10001789,EA SPORTS™ PGA TOUR™,1,0.025
+368,201336,EA SPORTS™ UFC® 2,1,0.025
+369,10017627,eBaseball™: PRO SPIRIT 2026,1,0.025
+370,10010956,Echoes of Aincrad,1,0.025
+371,10008790,Expeditions: A MudRunner Game (PS4 & PS5),1,0.025
+372,201624,Far Cry® 4,1,0.025
+373,10012795,Farm Together 2,1,0.025
+374,231872,Farming Simulator 19,1,0.025
+375,201407,FIFA 17,1,0.025
+376,10002538,FIFA 22,1,0.025
+377,201597,FINAL FANTASY XV,1,0.025
+378,10002024,Fishing: North Atlantic,1,0.025
+379,234740,Five Nights at Freddy's,1,0.025
+380,234277,Five Nights at Freddy's VR: Help Wanted,1,0.025
+381,10001137,Five Nights at Freddy's: Security Breach,1,0.025
+382,10011010,For The King II,1,0.025
+383,204590,Four Kings Casino and Slots,1,0.025
+384,10012871,FragPunk,1,0.025
+385,10014396,Gallipoli,1,0.025
+386,10010730,Garten of Banban 4,1,0.025
+387,201815,Gauntlet™,1,0.025
+388,10008829,Gears of War: Reloaded,1,0.025
+389,10003301,GigaBash,1,0.025
+390,228618,God of War® III Remastered,1,0.025
+391,215358,Gran Turismo™SPORT,1,0.025
+392,229066,Granblue Fantasy: Relink,1,0.025
+393,201960,Grand Theft Auto: Vice City,1,0.025
+394,10003551,Grand Theft Auto: Vice City – The Definitive Edition,1,0.025
+395,10018871,Grand Vegas Casino,1,0.025
+396,10003648,Happy's Humble Burger Farm,1,0.025
+397,201916,Hasbro Family Fun Pack,1,0.025
+398,10014870,Haste,1,0.025
+399,231840,HITMAN™ 2,1,0.025
+400,231717,Horizon Chase Turbo,1,0.025
+401,234014,HUNT: SHOWDOWN 1896,1,0.025
+402,10016411,Hydroneer,1,0.025
+403,10014030,"Hypermarket Simulator: Supermarket, reimagined.",1,0.025
+404,202138,inFAMOUS™ Second Son,1,0.025
+405,10004842,Infinity Nikki,1,0.025
+406,227147,Insurgency: Sandstorm [PS4 & PS5],1,0.025
+407,10005862,Jujutsu Kaisen Cursed Clash,1,0.025
+408,232717,JUMP FORCE,1,0.025
+409,10002577,Jurassic World Evolution 2,1,0.025
+410,227410,Kingdom Come: Deliverance,1,0.025
+411,221709,KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE,1,0.025
+412,202450,LEGO® Jurassic World™,1,0.025
+413,202493,LEGO® Marvel™ Super Heroes,1,0.025
+414,232630,Life is Strange 2,1,0.025
+415,10017404,Ligue 1+,1,0.025
+416,10004462,Like a Dragon: Infinite Wealth PS4 & PS5,1,0.025
+417,223059,Little Nightmares,1,0.025
+418,232583,Little Nightmares II,1,0.025
+419,10012778,Lost Soul Aside™,1,0.025
+420,233202,Maneater,1,0.025
+421,234665,Marvel's Guardians of the Galaxy,1,0.025
+422,10000606,Mass Effect™ Legendary Edition,1,0.025
+423,10002991,MechWarrior 5: Mercenaries,1,0.025
+424,234427,MediEvil,1,0.025
+425,202861,METAL GEAR SOLID V: GROUND ZEROES,1,0.025
+426,202860,METAL GEAR SOLID V: THE PHANTOM PAIN,1,0.025
+427,202878,METAL SLUG XX,1,0.025
+428,10011463,Microsoft Flight Simulator 2024,1,0.025
+429,10009198,Mighty Morphin Power Rangers: Rita's Rewind,1,0.025
+430,10000378,Minecraft Dungeons,1,0.025
+431,10005250,Monster Hunter Rise,1,0.025
+432,10007583,Monster Hunter Stories 2: Wings of Ruin,1,0.025
+433,10013075,Monster Hunter Stories 3: Twisted Reflection,1,0.025
+434,228785,Monster Hunter: World,1,0.025
+435,10009581,MotoGP™24,1,0.025
+436,10016581,MotoGP™26,1,0.025
+437,10011588,My First Gran Turismo,1,0.025
+438,10002581,My Friend Peppa Pig: Complete Edition,1,0.025
+439,10004405,NARAKA: BLADEPOINT,1,0.025
+440,232321,NBA 2K19,1,0.025
+441,10000470,NBA 2K21,1,0.025
+442,10002860,NBA 2K22,1,0.025
+443,10007788,NBA 2K24,1,0.025
+444,212864,Need for Speed™,1,0.025
+445,10000781,Need for Speed™ Hot Pursuit Remastered,1,0.025
+446,223086,Need for Speed™ Payback,1,0.025
+447,217642,Neverwinter,1,0.025
+448,10008585,NEW MONOPOLY®,1,0.025
+449,235325,NHL® 21,1,0.025
+450,10009268,NHL® 25,1,0.025
+451,10008091,Nickelodeon All-Star Brawl 2,1,0.025
+452,217551,NieR:Automata,1,0.025
+453,10001248,NINJA GAIDEN Master Collection,1,0.025
+454,216600,No Man's Sky,1,0.025
+455,10005126,OCTOPATH TRAVELER II PS4＆PS5,1,0.025
+456,10008971,Off The Grid - Early Access,1,0.025
+457,235359,Olympic Games Tokyo 2020 – The Official Video Game™,1,0.025
+458,10001193,ON THE ROAD - The Truck Simulator,1,0.025
+459,231377,Onimusha: Warlords,1,0.025
+460,10000899,Overcooked! All You Can Eat,1,0.025
+461,217712,Paladins,1,0.025
+462,10010023,Party Animals,1,0.025
+463,235243,Patapon™2 Remastered,1,0.025
+464,10007263,PAYDAY 3,1,0.025
+465,234529,Persona 5 Royal,1,0.025
+466,10003285,PGA TOUR 2K23,1,0.025
+467,10015126,Piece Out: Avatarland,1,0.025
+468,10007967,Pizza Possum,1,0.025
+469,203420,Plants vs Zombies Garden Warfare,1,0.025
+470,10006452,Pool Blitz,1,0.025
+471,10009028,Poppy Playtime: Chapter 1,1,0.025
+472,10012036,Poppy Playtime: Chapter 4,1,0.025
+473,233468,Power Rangers - Battle for The Grid,1,0.025
+474,10011314,PowerWash Simulator 2,1,0.025
+475,10005985,Prince of Persia The Lost Crown,1,0.025
+476,203474,PSO2 NEW GENESIS,1,0.025
+477,10009602,Raft,1,0.025
+478,203902,Rayman Legends,1,0.025
+479,10004544,Remnant II®,1,0.025
+480,10005150,Resident Evil 2,1,0.025
+481,232114,resident evil 4 (2005),1,0.025
+482,10005142,Resident Evil Director’s Cut,1,0.025
+483,234386,Risk of Rain 2,1,0.025
+484,10006025,RoadCraft,1,0.025
+485,10009990,ROUNDS,1,0.025
+486,10008324,Rugby 25,1,0.025
+487,10002042,Saints Row,1,0.025
+488,204433,Saints Row IV: Re-Elected,1,0.025
+489,234481,Saints Row®: The Third™ Remastered,1,0.025
+490,10005069,SAROS,1,0.025
+491,10014026,Scott Pilgrim EX,1,0.025
+492,232898,Sekiro™: Shadows Die Twice,1,0.025
+493,10001973,Sifu,1,0.025
+494,10005369,SIGNALIS,1,0.025
+495,10005529,SILENT HILL 2,1,0.025
+496,225700,Skull and Bones™,1,0.025
+497,204541,Sky Go,1,0.025
+498,10002079,Sky X,1,0.025
+499,10010642,Sledders,1,0.025
+500,231868,Slime Rancher,1,0.025
+501,10009803,Slime Rancher 2,1,0.025
+502,10000888,SNIPER GHOST WARRIOR CONTRACTS 2,1,0.025
+503,10008805,Solasta: Crown of the Magister,1,0.025
+504,10002956,Sonic Frontiers PS4 & PS5,1,0.025
+505,10008755,SONIC X SHADOW GENERATIONS,1,0.025
+506,10008055,SOUTH PARK: SNOW DAY!,1,0.025
+507,232176,Spyro™ Reignited Trilogy,1,0.025
+508,232345,STAR WARS Jedi: Fallen Order™,1,0.025
+509,10005323,Star Wars Outlaws,1,0.025
+510,232519,Stranded Deep,1,0.025
+511,234410,Streets of Rage 4,1,0.025
+512,232883,Subnautica,1,0.025
+513,10019471,Summer’s Heartbeat,1,0.025
+514,234606,Super Meat Boy Forever,1,0.025
+515,204051,Super Meat Boy!,1,0.025
+516,10004282,Super Mega Baseball™ 4,1,0.025
+517,10010432,SWORN,1,0.025
+518,10007904,Teardown,1,0.025
+519,10011976,Teenage Mutant Ninja Turtles: Splintered Fate,1,0.025
+520,10012469,Terminator 2D: NO FATE,1,0.025
+521,205080,Terraria – PlayStation®4 Edition,1,0.025
+522,10001837,The Dark Pictures Anthology: House of Ashes,1,0.025
+523,204861,The Elder Scrolls Online,1,0.025
+524,10009937,The First Berserker: Khazan,1,0.025
+525,10005079,The Grinch: Christmas Adventures,1,0.025
+526,10011599,THE HOUSE OF THE DEAD 2: Remake,1,0.025
+527,10003342,THE HOUSE OF THE DEAD: Remake,1,0.025
+528,222886,The Jackbox Party Pack 3,1,0.025
+529,234226,The Jackbox Party Pack 6,1,0.025
+530,204826,The Last Guardian™,1,0.025
+531,228638,The Last of Us™ Remastered,1,0.025
+532,232098,The Legend of Heroes: Trails of Cold Steel IV,1,0.025
+533,10001886,The Legend of Heroes: Trails through Daybreak,1,0.025
+534,204880,The LEGO® Movie - Videogame (GER),1,0.025
+535,229391,The Long Dark,1,0.025
+536,10013971,The Rogue Prince of Persia™,1,0.025
+537,217462,The Technomancer,1,0.025
+538,10002719,The Texas Chain Saw Massacre,1,0.025
+539,234566,The Walking Dead: The Telltale Definitive Series,1,0.025
+540,10018596,thmanyah,1,0.025
+541,221813,Titanfall™ 2,1,0.025
+542,204941,Tom Clancy's The Division™,1,0.025
+543,233592,Tom Clancy’s Rainbow Six® Extraction,1,0.025
+544,235234,Trailmakers,1,0.025
+545,221793,Tricky Towers,1,0.025
+546,205046,Trine 2: Complete Story,1,0.025
+547,230059,Trine 4: The Nightmare Prince,1,0.025
+548,226957,Trine Enchanted Edition,1,0.025
+549,10015336,Tung Tung Tung Sahur Runner,1,0.025
+550,10015887,TVer/民放公式テレビ配信サービス,1,0.025
+551,204583,TVNZ+,1,0.025
+552,235268,TY the Tasmanian Tiger™,1,0.025
+553,10008192,Umamusume: Pretty Derby – Party Dash,1,0.025
+554,217373,UNO®,1,0.025
+555,205132,Until Dawn™,1,0.025
+556,10006160,Viewfinder,1,0.025
+557,10016955,War Robots,1,0.025
+558,10008102,"Warhammer 40,000: Rogue Trader",1,0.025
+559,232764,Warhammer: Vermintide 2,1,0.025
+560,10002172,Wayfinder,1,0.025
+561,10007749,Who's Your Daddy?!,1,0.025
+562,10004116,Wo Long: Fallen Dynasty,1,0.025
+563,229533,Wolfenstein® II: The New Colossus™,1,0.025
+564,212581,World of Tanks Modern Armor,1,0.025
+565,10011450,World of Tanks: HEAT,1,0.025
+566,10004982,WRC Generations – The FIA WRC Official Game,1,0.025
+567,10005853,WUCHANG: Fallen Feathers,1,0.025
+568,234734,WWE 2K Battlegrounds,1,0.025
+569,10001814,WWE 2K22,1,0.025
+570,10007978,WWE 2K24,1,0.025
+571,205421,YAKUZA 3,1,0.025
+572,10010467,Yet Another Zombie Survivors,1,0.025
+573,10001481,Yu-Gi-Oh! MASTER DUEL,1,0.025
+574,227552,ザ クルー2,1,0.025
+575,203727,龍が如く０　誓いの場所,1,0.025
