@@ -1,5 +1,8 @@
 .vscode/
 test.py
+last_run.txt
+last_run_ps.txt
+failed_concepts.txt
 
 
 # Byte-compiled / optimized / DLL files
