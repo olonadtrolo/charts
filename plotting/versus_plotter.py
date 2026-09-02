@@ -4,6 +4,7 @@ from typing import Optional, Tuple, Any
 import plotting.plotting_utils as u
 from plotting.plotting_config import PlotStyle
 from plotting.csv_plotter import CSVPlotter
+from copy import copy
 
 
 class VersusPlotter:
@@ -29,18 +30,7 @@ class VersusPlotter:
         show: bool = True,
         imgur: bool = False,
     ):
-        """
-        Fetch positions from both platforms for the given IDs and plot them side by side.
-
-        Args:
-            ps_title_id: Title ID from the PlayStation tracker.
-            xbox_title_id: Title ID from the Xbox tracker.
-            chart_type: 'daily' or '7_days'.
-            time_span: String dates OR relative ints if launch_aligned is True.
-            launch_aligned: Compare performance over days passed since official launch.
-            style: Optional PlotStyle.
-        """
-        style = style or PlotStyle()
+        style = copy(style) if style else PlotStyle()
 
         # Initialize isolated plotters for each platform
         ps_csv = CSVPlotter(
@@ -67,7 +57,11 @@ class VersusPlotter:
                         ps_df["position"],
                         ps_df["percentage"] if "percentage" in ps_df.columns else None,
                         f"{ps_title} (PlayStation)",
-                        {"linestyle": "-", "marker": "o"},
+                        {
+                            "linestyle": "-",
+                            "marker": "o",
+                            "color": "#2E67F8",
+                        },  # Set custom PS color
                     )
                 )
         except Exception as e:
@@ -95,7 +89,11 @@ class VersusPlotter:
                             else None
                         ),
                         f"{xbox_title} (Xbox)",
-                        {"linestyle": "--", "marker": "x"},
+                        {
+                            "linestyle": "--",
+                            "marker": "x",
+                            "color": "#107C10",
+                        },  # Set custom Xbox color
                     )
                 )
         except Exception as e:
@@ -108,8 +106,7 @@ class VersusPlotter:
             )
 
         if not style.title:
-            names = " vs ".join([s[3].split(" (")[0] for s in series_data])
-            style.title = f"{names} - PS vs Xbox ({chart_type})"
+            style.title = f"{ps_title} (Playstation) vs {xbox_title} (Xbox)"
 
         if launch_aligned and style.xlabel == "Date":
             style.xlabel = "Days since launch"

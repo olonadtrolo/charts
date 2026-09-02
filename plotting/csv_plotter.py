@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 from typing import Optional, Tuple, Any
 from datetime import datetime
+from copy import copy
 
 import plotting.plotting_utils as u
 from plotting.plotting_config import PlotStyle
@@ -23,6 +24,7 @@ class CSVPlotter:
     ):
         self.base_dir = Path(base_dir)
         self.platform = platform.lower()
+        self.platform_dict = {"xbox": "Xbox", "ps": "Playstation"}
         self._title_cache = {}
         self.metadata = pd.DataFrame()
 
@@ -142,7 +144,7 @@ class CSVPlotter:
         show: bool = True,
         imgur: bool = False,
     ):
-        style = style or PlotStyle()
+        style = copy(style) if style else PlotStyle()
 
         df = self._fetch_positions(title_id, time_span, launch_aligned)
         df = u.fill_isolated_nans_with_average(df, "position")
@@ -157,7 +159,7 @@ class CSVPlotter:
         series_data = [(df.index, df["position"], df["percentage"], title_name)]
 
         if not style.title:
-            style.title = f"Chart Performance: {title_name}"
+            style.title = f"{title_name} ({self.platform_dict[self.platform]})"
 
         if launch_aligned and style.xlabel == "Date":
             style.xlabel = "Days since launch"
@@ -173,7 +175,7 @@ class CSVPlotter:
         show: bool = True,
         imgur: bool = False,
     ):
-        style = style or PlotStyle()
+        style = copy(style) if style else PlotStyle()
 
         series_data = []
         missing = []
@@ -201,9 +203,7 @@ class CSVPlotter:
             raise ValueError("No valid data found for any of the provided title_ids")
 
         if not style.title:
-            style.title = (
-                f"Chart Performance Comparison ({self.platform.upper()} CSV Data)"
-            )
+            style.title = f"Performance comparison for titles on {self.platform_dict[self.platform]}"
 
         if launch_aligned and style.xlabel == "Date":
             style.xlabel = "Days since launch"

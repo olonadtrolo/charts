@@ -78,14 +78,14 @@ Both crawlers share a common limitation: **isolated players with zero friends ca
 
 ## C. Current Database Statistics
 
-The differences in discovery speeds, API limits, and default platform privacy settings have shaped two distinct datasets:
+Database stats as of 2026.09.01
 
 ### Xbox Database Profile
 *   **Total Discovered Accounts**: 121 Million
 *   **Active in the Last Month**: 28 Million
 *   **Active in the Last Year**: 48 Million
 *   **Unknown Presence Status**: ~50 Million accounts. This includes accounts with hidden online status, restricted privacy settings, or those inactive since April 2023 (when Microsoft cleared historical presence logs).
-*   **Network Growth**: ~6,000 to 7,000 newly discovered accounts are added to the directory every hour.
+*   **Network Growth**: ~6,000 to 7,000 newly discovered accounts are added to the database every hour.
 
 ### PlayStation Database Profile
 *   **Total Discovered Accounts**: 92 Million
@@ -95,7 +95,7 @@ The differences in discovery speeds, API limits, and default platform privacy se
     *   ~14% active in the last 24 hours.
     *   ~27% active in the last month.
     *   ~36% active in the last year.
-*   **Network Growth**: ~25,000 newly discovered accounts are added to the directory every hour.
+*   **Network Growth**: ~25,000 newly discovered accounts are added to the database every hour.
 
 ---
 

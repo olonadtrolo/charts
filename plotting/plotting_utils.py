@@ -52,11 +52,12 @@ def render_plot(
         label = item[3] if len(item) > 3 else "Title"
         extra = item[4] if len(item) > 4 else {}
 
-        color = next(colors_cycle)
+        # Check if a custom color is specified in the options; fallback to cycle if not
+        color = extra.get("color", next(colors_cycle))
         linestyle = extra.get("linestyle", next(line_styles))
         marker = extra.get("marker", next(markers))
 
-        # Plot rank (inverted position) on primary axis
+        # Plot position (Rank) on left axis
         ax1.plot(
             x,
             y_pos,
@@ -69,7 +70,7 @@ def render_plot(
             markersize=style.markersize,
         )
 
-        # Plot player percentage on secondary axis if enabled
+        # Plot percentage on right axis (shares the exact same color)
         if style.double_y and y_pct is not None and ax2 is not None:
             ax2.plot(
                 x,
