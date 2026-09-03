@@ -1,57 +1,57 @@
 rank,title_id,title,players,percentage
-1,228748,Fortnite,98105,29.9572
-2,223118,Roblox,61865,18.891
-3,10011898,EA SPORTS FC™ 26,51308,15.6673
-4,201930,Grand Theft Auto V,34477,10.5278
-5,10001130,Call of Duty®,31967,9.7614
-6,203715,Rocket League®,31726,9.6878
-7,212779,Minecraft,22550,6.8858
-8,10014149,NBA 2K26,21141,6.4556
-9,10017658,Call of Duty®: Black Ops II,14675,4.4811
-10,203897,Tom Clancy's Rainbow Six Siege,14474,4.4198
-11,10010451,Marvel Rivals,11936,3.6448
-12,10002456,Marvel's Spider-Man 2,11058,3.3767
-13,232352,Apex Legends™,8630,2.6352
-14,10009568,Battlefield™ 6,7308,2.2316
+1,228748,Fortnite,98105,29.9565
+2,223118,Roblox,61865,18.8906
+3,10011898,EA SPORTS FC™ 26,51308,15.667
+4,201930,Grand Theft Auto V,34477,10.5276
+5,10001130,Call of Duty®,31967,9.7612
+6,203715,Rocket League®,31726,9.6876
+7,212779,Minecraft,22550,6.8857
+8,10014149,NBA 2K26,21142,6.4557
+9,10017658,Call of Duty®: Black Ops II,14675,4.481
+10,203897,Tom Clancy's Rainbow Six Siege,14474,4.4197
+11,10010451,Marvel Rivals,11936,3.6447
+12,10002456,Marvel's Spider-Man 2,11058,3.3766
+13,232352,Apex Legends™,8631,2.6355
+14,10009568,Battlefield™ 6,7308,2.2315
 15,216627,Overwatch®,6499,1.9845
-16,10000657,HELLDIVERS™ 2,6380,1.9482
+16,10000657,HELLDIVERS™ 2,6380,1.9481
 17,10002427,eFootball™,6107,1.8648
 18,10016736,EA SPORTS™ Madden NFL 27,6012,1.8358
 19,10016592,EA SPORTS™ College Football 27,5619,1.7158
-20,209441,Red Dead Redemption 2,5183,1.5827
-21,10010048,VALORANT,5182,1.5824
-22,10012604,EA SPORTS™ Madden NFL 26,5166,1.5775
-23,10011645,Call of Duty®: Modern Warfare® III,5127,1.5656
+20,209441,Red Dead Redemption 2,5183,1.5826
+21,10010048,VALORANT,5182,1.5823
+22,10012604,EA SPORTS™ Madden NFL 26,5166,1.5774
+23,10011645,Call of Duty®: Modern Warfare® III,5127,1.5655
 24,10000762,Marvel's Spider-Man,4467,1.364
 25,10009762,EA SPORTS FC™ 25,4294,1.3112
 26,10006353,skate.™,4133,1.262
-27,10015430,MLB® The Show™ 26,4118,1.2575
+27,10015430,MLB® The Show™ 26,4118,1.2574
 28,10017657,Call of Duty®: Black Ops,4059,1.2394
 29,10002788,UFC® 5,4048,1.2361
 30,227319,Dead by Daylight,3844,1.1738
-31,10003354,Fall Guys,3612,1.103
+31,10003354,Fall Guys,3612,1.1029
 32,10017189,Big Walk,3441,1.0507
 33,10000229,ASTRO's PLAYROOM,3397,1.0373
-34,10002313,The Crew Motorfest,3369,1.0288
-35,10000956,Gran Turismo® 7,3341,1.0202
+34,10002313,The Crew Motorfest,3369,1.0287
+35,10000956,Gran Turismo® 7,3342,1.0205
 36,216932,Brawlhalla,3337,1.019
 37,200763,Call of Duty®: Black Ops III,3329,1.0165
 38,232374,Dying Light 2,3087,0.9426
 39,10011247,UFC® 6,3085,0.942
-40,10010647,Forza Horizon 5,2772,0.8465
+40,10010647,Forza Horizon 5,2772,0.8464
 41,10003610,ARC Raiders,2566,0.7835
 42,10011027,Palworld,2507,0.7655
 43,10004911,Mortal Kombat 1,2389,0.7295
 44,10007176,EA SPORTS FC™ 24,2314,0.7066
-45,10000649,Marvel's Spider-Man: Miles Morales,2305,0.7039
+45,10000649,Marvel's Spider-Man: Miles Morales,2305,0.7038
 46,10012463,EA SPORTS™ College Football 26,2267,0.6922
 47,10013987,Assassin's Creed Black Flag Resynced,2257,0.6892
 48,10013165,Call of Duty®: Black Ops 6,1903,0.5811
 49,234567,Cyberpunk 2077,1884,0.5753
 50,10007902,DRAGON BALL: Sparking! ZERO,1819,0.5554
 51,216234,Gang Beasts,1815,0.5542
-52,10015300,WWE 2K26,1653,0.5048
-53,10001850,God of War Ragnarök,1633,0.4987
+52,10015300,WWE 2K26,1653,0.5047
+53,10001850,God of War Ragnarök,1633,0.4986
 54,201697,Tom Clancy's Ghost Recon® Wildlands,1632,0.4983
 55,10000896,Genshin Impact,1614,0.4928
 56,10009612,Farming Simulator 25,1601,0.4889
@@ -59,7 +59,7 @@ rank,title_id,title,players,percentage
 58,10008019,MARVEL Tōkon: Fighting Souls,1508,0.4605
 59,221852,Destiny 2,1483,0.4528
 60,10007588,Stumble Guys,1453,0.4437
-61,10010481,NBA 2K25,1429,0.4364
+61,10010481,NBA 2K25,1429,0.4363
 62,230079,The Last of Us™ Part II,1418,0.433
 63,10006210,Kingdom Come: Deliverance II,1380,0.4214
 64,235227,Ghost of Tsushima,1358,0.4147
@@ -67,8 +67,8 @@ rank,title_id,title,players,percentage
 66,205342,Warframe,1337,0.4083
 67,10006270,TEKKEN 8,1333,0.407
 68,10003923,Ghost of Yōtei,1330,0.4061
-69,10009297,Undisputed,1329,0.4058
-70,233072,Rust Console Edition,1317,0.4022
+69,10009297,Undisputed,1330,0.4061
+70,233072,Rust Console Edition,1317,0.4021
 71,10010058,Mortal Shell II,1294,0.3951
 72,10019078,No More Room in Hell 2,1280,0.3909
 73,10002811,Among Us,1241,0.3789
@@ -86,7 +86,7 @@ rank,title_id,title,players,percentage
 85,235179,Avatar: Frontiers of Pandora™,1033,0.3154
 86,10008286,ARK: Survival Ascended,1008,0.3078
 87,10002363,Crimson Desert,1007,0.3075
-88,234659,Need for Speed™ Heat,1004,0.3066
+88,234659,Need for Speed™ Heat,1005,0.3069
 89,10008972,PGA TOUR 2K25,1004,0.3066
 90,10003151,EA SPORTS™ College Football 25,998,0.3047
 91,10008740,Asphalt Legends,990,0.3023
@@ -95,8 +95,8 @@ rank,title_id,title,players,percentage
 94,10006873,THE FINALS,945,0.2886
 95,229601,Assassin's Creed® Odyssey,922,0.2815
 96,10004473,Resident Evil 4,920,0.2809
-97,10006560,007 First Light,906,0.2767
-98,234689,It Takes Two  PS4™ & PS5™,906,0.2767
+97,10006560,007 First Light,906,0.2766
+98,234689,It Takes Two  PS4™ & PS5™,906,0.2766
 99,232447,Hogwarts Legacy,904,0.276
 100,10005673,Phasmophobia,900,0.2748
 101,233407,Call of Duty®: Black Ops Cold War,898,0.2742
@@ -104,7 +104,7 @@ rank,title_id,title,players,percentage
 103,232860,PUBG: BATTLEGROUNDS,856,0.2614
 104,228857,The Sims™ 4,847,0.2586
 105,230955,The Elder Scrolls V: Skyrim Special Edition,842,0.2571
-106,10003386,Rise of the Ronin™,831,0.2538
+106,10003386,Rise of the Ronin™,831,0.2537
 107,10007144,Black Myth: Wukong,827,0.2525
 108,10002694,The Last of Us™ Part I,817,0.2495
 109,10013884,Halo: Campaign Evolved,816,0.2492
@@ -112,12 +112,12 @@ rank,title_id,title,players,percentage
 111,10010877,ELDEN RING NIGHTREIGN,802,0.2449
 112,10007460,Baldur's Gate 3,793,0.2421
 113,202943,Mortal Kombat X,787,0.2403
-114,233112,Tom Clancy’s Ghost Recon® Breakpoint,761,0.2324
+114,233112,Tom Clancy’s Ghost Recon® Breakpoint,762,0.2327
 115,10010992,Escape the Backrooms,759,0.2318
-116,10011349,REMATCH,756,0.2309
+116,10011349,REMATCH,756,0.2308
 117,232300,Call of Duty®: Black Ops 4,754,0.2302
 118,10015533,Resident Evil Requiem,746,0.2278
-119,10002357,MY HERO ULTRA RUMBLE,738,0.2254
+119,10002357,MY HERO ULTRA RUMBLE,738,0.2253
 120,10000459,Riders Republic™,735,0.2244
 121,10008048,Grounded PS4® & PS5®,733,0.2238
 122,229182,Call of Duty®: Modern Warfare®,732,0.2235
@@ -128,7 +128,7 @@ rank,title_id,title,players,percentage
 127,227770,God of War,684,0.2089
 128,201129,Dying Light,671,0.2049
 129,10005051,Hell is Us,670,0.2046
-130,232391,Tom Clancy's The Division® 2,663,0.2025
+130,232391,Tom Clancy's The Division® 2,663,0.2024
 131,10005176,Monster Hunter Wilds,658,0.2009
 132,10009326,EA SPORTS™ Madden NFL 25,654,0.1997
 133,10002538,FIFA 22,647,0.1976
@@ -136,7 +136,7 @@ rank,title_id,title,players,percentage
 135,235302,Mafia: Definitive Edition,615,0.1878
 136,10001369,Cuphead,609,0.186
 137,231761,Diablo® IV,609,0.186
-138,10011213,MLB® The Show™ 25,607,0.1854
+138,10011213,MLB® The Show™ 25,607,0.1853
 139,10005318,The First Descendant,597,0.1823
 140,10000237,Assassin's Creed Valhalla,595,0.1817
 141,227552,ザ クルー2,587,0.1792
@@ -149,21 +149,21 @@ rank,title_id,title,players,percentage
 148,228868,theHunter: Call of the Wild™,565,0.1725
 149,229018,DAYS GONE,553,0.1689
 150,10009909,Assassin’s Creed Shadows,552,0.1686
-151,228720,Fishing Planet,532,0.1625
+151,228720,Fishing Planet,532,0.1624
 152,217012,DRAGON BALL XENOVERSE 2,529,0.1615
 153,231769,Metro Exodus,528,0.1612
 154,10000161,CarX Drift Racing Online,525,0.1603
 155,10001615,Street Fighter 6,522,0.1594
 156,10001269,Need for Speed™ Unbound,515,0.1573
 157,204794,ウィッチャー３　ワイルドハント,510,0.1557
-158,221727,Horizon Zero Dawn™,495,0.1512
+158,221727,Horizon Zero Dawn™,495,0.1511
 159,227139,Human Fall Flat,490,0.1496
 160,10001481,Yu-Gi-Oh! MASTER DUEL,488,0.149
 161,10007638,DRAGONBALL GEKISHIN SQUADRA,486,0.1484
 162,227115,Call of Duty®: WWII,482,0.1472
 163,10014720,The Seven Deadly Sins: Origin,481,0.1469
 164,10008755,SONIC X SHADOW GENERATIONS,480,0.1466
-165,231416,The Forest,476,0.1454
+165,231416,The Forest,476,0.1453
 166,10000177,Sackboy: A Big Adventure,474,0.1447
 167,10000248,HITMAN World of Assassination,473,0.1444
 168,10008651,MLB® The Show™ 24,471,0.1438
@@ -192,7 +192,7 @@ rank,title_id,title,players,percentage
 191,216600,No Man's Sky,391,0.1194
 192,224802,ARK: Survival Evolved,387,0.1182
 193,232796,World of Warships: Legends,385,0.1176
-194,10004865,Assassin's Creed® Mirage,383,0.117
+194,10004865,Assassin's Creed® Mirage,383,0.1169
 195,10008884,Sea of Thieves,380,0.116
 196,234762,Chivalry 2,377,0.1151
 197,10005323,Star Wars Outlaws,375,0.1145
@@ -224,7 +224,7 @@ rank,title_id,title,players,percentage
 223,10007978,WWE 2K24,310,0.0947
 224,10008409,Firefighting Simulator: Ignite,309,0.0944
 225,234959,SnowRunner,309,0.0944
-226,221824,Battlefield™ 1,308,0.0941
+226,221824,Battlefield™ 1,308,0.094
 227,10001771,Farming Simulator 22,307,0.0937
 228,203902,Rayman Legends,307,0.0937
 229,10011588,My First Gran Turismo,306,0.0934
@@ -263,7 +263,7 @@ rank,title_id,title,players,percentage
 262,10002474,Enlisted,261,0.0797
 263,10011468,Dying Light: The Beast,258,0.0788
 264,10000663,POLICE SIMULATOR: PATROL OFFICERS,255,0.0779
-265,201190,DARK SOULS™ III,252,0.077
+265,201190,DARK SOULS™ III,252,0.0769
 266,200088,Assassin's Creed® Unity,249,0.076
 267,10004708,TopSpin 2K25,249,0.076
 268,212581,World of Tanks Modern Armor,247,0.0754
@@ -273,7 +273,7 @@ rank,title_id,title,players,percentage
 272,10005908,Hollow Knight: Silksong,240,0.0733
 273,222727,Detroit: Become Human™,239,0.073
 274,10002719,The Texas Chain Saw Massacre,238,0.0727
-275,227326,Battlefield™ V,234,0.0715
+275,227326,Battlefield™ V,235,0.0718
 276,10000278,FIFA 21,233,0.0711
 277,227137,FIFA 18,228,0.0696
 278,10000264,Crash Bandicoot™ 4: It’s About Time,227,0.0693
@@ -386,8 +386,8 @@ rank,title_id,title,players,percentage
 385,221941,Call of Duty®: Modern Warfare® Remastered,142,0.0434
 386,10010248,The Elder Scrolls IV: Oblivion Remastered,142,0.0434
 387,10010023,Party Animals,141,0.0431
-388,232624,DOOM Eternal,140,0.0428
-389,232120,Resident Evil Revelations 2,140,0.0428
+388,232624,DOOM Eternal,140,0.0427
+389,232120,Resident Evil Revelations 2,140,0.0427
 390,10005841,2XKO,139,0.0424
 391,215282,Borderlands: The Handsome Collection,138,0.0421
 392,10011746,NBA THE RUN,138,0.0421
@@ -526,11 +526,11 @@ rank,title_id,title,players,percentage
 525,10008192,Umamusume: Pretty Derby – Party Dash,86,0.0263
 526,200914,Diablo III: Eternal Collection,85,0.026
 527,235298,Subnautica: Below Zero,85,0.026
-528,234630,ASTRONEER,84,0.0257
-529,221667,Batman,84,0.0257
-530,232583,Little Nightmares II,84,0.0257
-531,225857,SHADOW OF THE COLOSSUS™,84,0.0257
-532,10009208,The Sinking City 2,84,0.0257
+528,234630,ASTRONEER,84,0.0256
+529,221667,Batman,84,0.0256
+530,232583,Little Nightmares II,84,0.0256
+531,225857,SHADOW OF THE COLOSSUS™,84,0.0256
+532,10009208,The Sinking City 2,84,0.0256
 533,234740,Five Nights at Freddy's,83,0.0253
 534,233383,Gotham Knights,83,0.0253
 535,224875,LEGO® CITY UNDERCOVER,83,0.0253
@@ -927,22 +927,22 @@ rank,title_id,title,players,percentage
 926,233979,WWE 2K20,29,0.0089
 927,10015219,Yakuza Kiwami 3 & Dark Ties PS4 & PS5,29,0.0089
 928,235376,Yu-Gi-Oh! Legacy of the Duelist : Link Evolution,29,0.0089
-929,10002591,Aliens: Fireteam Elite,28,0.0086
-930,228896,Attack on Titan 2,28,0.0086
-931,232977,Castlevania Requiem: Symphony Of The Night & Rondo Of Blood,28,0.0086
-932,10008357,Directive 8020,28,0.0086
-933,228209,FINAL FANTASY Ⅻ THE ZODIAC AGE,28,0.0086
-934,10012344,Five Nights at Freddy's: Secret of the Mimic,28,0.0086
-935,202523,Let It Die,28,0.0086
-936,10011704,Like a Dragon: Pirate Yakuza in Hawaii,28,0.0086
-937,10002616,Lost Judgment,28,0.0086
-938,10007583,Monster Hunter Stories 2: Wings of Ruin,28,0.0086
-939,10004025,NHL® 23 PS5™,28,0.0086
-940,10001193,ON THE ROAD - The Truck Simulator,28,0.0086
-941,10010296,Sly Cooper™ and the Thievius Raccoonus,28,0.0086
-942,10016957,The Bus,28,0.0086
-943,10008902,The Precinct,28,0.0086
-944,10006870,Truck and Logistics Simulator,28,0.0086
+929,10002591,Aliens: Fireteam Elite,28,0.0085
+930,228896,Attack on Titan 2,28,0.0085
+931,232977,Castlevania Requiem: Symphony Of The Night & Rondo Of Blood,28,0.0085
+932,10008357,Directive 8020,28,0.0085
+933,228209,FINAL FANTASY Ⅻ THE ZODIAC AGE,28,0.0085
+934,10012344,Five Nights at Freddy's: Secret of the Mimic,28,0.0085
+935,202523,Let It Die,28,0.0085
+936,10011704,Like a Dragon: Pirate Yakuza in Hawaii,28,0.0085
+937,10002616,Lost Judgment,28,0.0085
+938,10007583,Monster Hunter Stories 2: Wings of Ruin,28,0.0085
+939,10004025,NHL® 23 PS5™,28,0.0085
+940,10001193,ON THE ROAD - The Truck Simulator,28,0.0085
+941,10010296,Sly Cooper™ and the Thievius Raccoonus,28,0.0085
+942,10016957,The Bus,28,0.0085
+943,10008902,The Precinct,28,0.0085
+944,10006870,Truck and Logistics Simulator,28,0.0085
 945,203587,[PROTOTYPE®2],27,0.0082
 946,234613,Ben 10: Power Trip!,27,0.0082
 947,10008760,Broken Sword - Shadow of the Templars: Reforged,27,0.0082
