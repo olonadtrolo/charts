@@ -90,7 +90,7 @@ class VersusPlotter:
                         ),
                         f"{xbox_title} (Xbox)",
                         {
-                            "linestyle": "--",
+                            "linestyle": "-",
                             "marker": "x",
                             "color": "#107C10",
                         },  # Set custom Xbox color
