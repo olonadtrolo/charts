@@ -144,7 +144,7 @@ class CSVPlotter:
         show: bool = True,
         imgur: bool = False,
     ):
-        style = copy(style) if style else PlotStyle()
+        style = copy.copy(style) if style else PlotStyle()
 
         df = self._fetch_positions(title_id, time_span, launch_aligned)
         df = u.fill_isolated_nans_with_average(df, "position")
@@ -153,13 +153,17 @@ class CSVPlotter:
 
         title_name = self._get_title_name(title_id)
 
-        if df.empty or df["position"].isna().all():
+        # Allow validation of either position or percentage metrics
+        if df.empty or (df["position"].isna().all() and df["percentage"].isna().all()):
             raise ValueError(f"No chart data found for title_id: {title_id}")
 
         series_data = [(df.index, df["position"], df["percentage"], title_name)]
 
         if not style.title:
-            style.title = f"{title_name} ({self.platform_dict[self.platform]})"
+            if style.percentage_only:
+                style.title = f"Player Base Engagement (%): {title_name}"
+            else:
+                style.title = f"Chart Performance: {title_name}"
 
         if launch_aligned and style.xlabel == "Date":
             style.xlabel = "Days since launch"
@@ -175,7 +179,7 @@ class CSVPlotter:
         show: bool = True,
         imgur: bool = False,
     ):
-        style = copy(style) if style else PlotStyle()
+        style = copy.copy(style) if style else PlotStyle()
 
         series_data = []
         missing = []
@@ -189,7 +193,10 @@ class CSVPlotter:
 
             title_name = self._get_title_name(resolved_id)
 
-            if df.empty or df["position"].isna().all():
+            # Allow validation of either position or percentage metrics
+            if df.empty or (
+                df["position"].isna().all() and df["percentage"].isna().all()
+            ):
                 missing.append(title_id)
             else:
                 series_data.append(
@@ -203,7 +210,12 @@ class CSVPlotter:
             raise ValueError("No valid data found for any of the provided title_ids")
 
         if not style.title:
-            style.title = f"Performance comparison for titles on {self.platform_dict[self.platform]}"
+            metric_label = (
+                "Engagement Comparison"
+                if style.percentage_only
+                else "Performance Comparison"
+            )
+            style.title = f"Chart {metric_label} ({self.platform.upper()} CSV Data)"
 
         if launch_aligned and style.xlabel == "Date":
             style.xlabel = "Days since launch"

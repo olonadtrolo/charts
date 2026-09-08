@@ -34,8 +34,8 @@ def render_plot(
     markers = itertools.cycle(["o", "s", "D", "^", "v"])
     colors_cycle = itertools.cycle(colors)
 
-    # Setup twin axes if double y-axis is requested
-    if style.double_y:
+    # Setup twin axes if double y-axis is requested and NOT percentage_only
+    if style.double_y and not style.percentage_only:
         ax2 = ax1.twinx()
         if style.dark_mode:
             ax1.yaxis.label.set_color("white")
@@ -52,46 +52,58 @@ def render_plot(
         label = item[3] if len(item) > 3 else "Title"
         extra = item[4] if len(item) > 4 else {}
 
-        # Check if a custom color is specified in the options; fallback to cycle if not
         color = extra.get("color", next(colors_cycle))
         linestyle = extra.get("linestyle", next(line_styles))
         marker = extra.get("marker", next(markers))
 
-        # Plot position (Rank) on left axis
-        ax1.plot(
-            x,
-            y_pos,
-            label=f"{label} (Rank)",
-            color=color,
-            linestyle=linestyle,
-            marker=marker,
-            linewidth=style.line_width,
-            alpha=style.line_alpha,
-            markersize=style.markersize,
-        )
-
-        # Plot percentage on right axis (shares the exact same color)
-        if style.double_y and y_pct is not None and ax2 is not None:
-            ax2.plot(
+        if style.percentage_only:
+            # Plot ONLY percentage on the primary axis (ax1)
+            if y_pct is not None:
+                ax1.plot(
+                    x,
+                    y_pct,
+                    label=f"{label} (%)",
+                    color=color,
+                    linestyle=linestyle,
+                    marker=marker,
+                    linewidth=style.line_width,
+                    alpha=style.line_alpha,
+                    markersize=style.markersize,
+                )
+        else:
+            # Standard: Plot position (Rank) on left axis
+            ax1.plot(
                 x,
-                y_pct,
-                label=f"{label} (%)",
+                y_pos,
+                label=f"{label} (Rank)",
                 color=color,
-                linestyle=":",
-                marker="x",
+                linestyle=linestyle,
+                marker=marker,
                 linewidth=style.line_width,
-                alpha=style.line_alpha * 0.7,
+                alpha=style.line_alpha,
                 markersize=style.markersize,
             )
 
-    # 4. Axis Formatting
-    ax1.invert_yaxis()  # Rank 1 is top
-    ax1.yaxis.set_major_locator(MaxNLocator(integer=True))
-    ax1.set_xlabel(style.xlabel)
-    ax1.set_ylabel(style.ylabel)
+            # Plot percentage on secondary axis (ax2) if double_y is True
+            if style.double_y and y_pct is not None and ax2 is not None:
+                ax2.plot(
+                    x,
+                    y_pct,
+                    label=f"{label} (%)",
+                    color=color,
+                    linestyle=":",
+                    marker="x",
+                    linewidth=style.line_width,
+                    alpha=style.line_alpha * 0.7,
+                    markersize=style.markersize,
+                )
 
-    if style.double_y and ax2 is not None:
-        ax2.set_ylabel("Player Percentage (%)")
+    # 4. Axis Formatting
+    ax1.set_xlabel(style.xlabel)
+
+    if style.percentage_only:
+        ax1.set_ylabel("Player Percentage (%)")
+        # Do NOT invert Y-axis; start from 0 up to max percentage plus margin
         all_pcts = [
             item[2].dropna()
             for item in series_data
@@ -100,7 +112,24 @@ def render_plot(
         if all_pcts:
             flat_pcts = pd.concat(all_pcts)
             if not flat_pcts.empty:
-                ax2.set_ylim(0, flat_pcts.max() * 1.1)
+                ax1.set_ylim(0, flat_pcts.max() * 1.1)
+    else:
+        # Rank Mode: Invert primary Y-axis (Rank 1 is at top)
+        ax1.invert_yaxis()
+        ax1.yaxis.set_major_locator(MaxNLocator(integer=True))
+        ax1.set_ylabel(style.ylabel)
+
+        if style.double_y and ax2 is not None:
+            ax2.set_ylabel("Player Percentage (%)")
+            all_pcts = [
+                item[2].dropna()
+                for item in series_data
+                if len(item) > 2 and item[2] is not None
+            ]
+            if all_pcts:
+                flat_pcts = pd.concat(all_pcts)
+                if not flat_pcts.empty:
+                    ax2.set_ylim(0, flat_pcts.max() * 1.1)
 
     # Handle Date Formatting if X is datetime
     if len(series_data) > 0 and isinstance(
@@ -118,9 +147,8 @@ def render_plot(
         ax1.grid(**{"linestyle": "--", "alpha": 0.5, **style.grid_kwargs})
 
     if style.legend:
-        # Combine handles and labels across both axes for a clean merged legend
         lines1, labels1 = ax1.get_legend_handles_labels()
-        if style.double_y and ax2 is not None:
+        if style.double_y and not style.percentage_only and ax2 is not None:
             lines2, labels2 = ax2.get_legend_handles_labels()
             lines = lines1 + lines2
             labels = labels1 + labels2

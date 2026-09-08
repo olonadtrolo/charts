@@ -25,6 +25,7 @@ class PlotStyle:
 
     # Double Y-axis setting (plots rank on left, playerbase percentage on right)
     double_y: bool = False
+    percentage_only: bool = False
 
     # Advanced
     custom_hook: Optional[Callable] = None  # Function(ax) -> None
