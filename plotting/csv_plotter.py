@@ -144,7 +144,7 @@ class CSVPlotter:
         show: bool = True,
         imgur: bool = False,
     ):
-        style = copy.copy(style) if style else PlotStyle()
+        style = copy(style) if style else PlotStyle()
 
         df = self._fetch_positions(title_id, time_span, launch_aligned)
         df = u.fill_isolated_nans_with_average(df, "position")
@@ -179,7 +179,7 @@ class CSVPlotter:
         show: bool = True,
         imgur: bool = False,
     ):
-        style = copy.copy(style) if style else PlotStyle()
+        style = copy(style) if style else PlotStyle()
 
         series_data = []
         missing = []

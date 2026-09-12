@@ -5,6 +5,8 @@ last_run.txt
 last_run_ps.txt
 failed_concepts.txt
 run_loop.py
+august.py
+august.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
