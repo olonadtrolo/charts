@@ -1,16 +1,16 @@
 rank,title_id,title,players,percentage
-1,228748,Fortnite,96354,26.8521
+1,228748,Fortnite,96355,26.8523
 2,223118,Roblox,66125,18.4278
 3,10011898,EA SPORTS FC™ 26,53409,14.8841
 4,201930,Grand Theft Auto V,43634,12.16
 5,10001130,Call of Duty®,43351,12.0811
-6,203715,Rocket League®,35685,9.9448
+6,203715,Rocket League®,35685,9.9447
 7,212779,Minecraft,24130,6.7246
 8,203897,Tom Clancy's Rainbow Six Siege,16246,4.5275
 9,10014149,NBA 2K26,13580,3.7845
 10,10018502,NBA 2K27,13105,3.6521
 11,10017658,Call of Duty®: Black Ops II,11886,3.3124
-12,10010451,Marvel Rivals,10702,2.9825
+12,10010451,Marvel Rivals,10702,2.9824
 13,10002456,Marvel's Spider-Man 2,9680,2.6976
 14,232352,Apex Legends™,9027,2.5157
 15,209441,Red Dead Redemption 2,7757,2.1617
@@ -42,7 +42,7 @@ rank,title_id,title,players,percentage
 41,10010647,Forza Horizon 5,3111,0.867
 42,10011247,UFC® 6,2898,0.8076
 43,10007176,EA SPORTS FC™ 24,2611,0.7276
-44,10004911,Mortal Kombat 1,2587,0.721
+44,10004911,Mortal Kombat 1,2587,0.7209
 45,10000333,ELDEN RING,2513,0.7003
 46,10003610,ARC Raiders,2478,0.6906
 47,10012463,EA SPORTS™ College Football 26,2346,0.6538
@@ -50,7 +50,7 @@ rank,title_id,title,players,percentage
 49,234567,Cyberpunk 2077,2191,0.6106
 50,10000649,Marvel's Spider-Man: Miles Morales,2142,0.5969
 51,10013165,Call of Duty®: Black Ops 6,2129,0.5933
-52,10011027,Palworld,2071,0.5772
+52,10011027,Palworld,2071,0.5771
 53,216234,Gang Beasts,2015,0.5615
 54,10001850,God of War Ragnarök,2000,0.5574
 55,10017189,Big Walk,1985,0.5532
@@ -66,7 +66,7 @@ rank,title_id,title,players,percentage
 65,10002363,Crimson Desert,1551,0.4322
 66,235227,Ghost of Tsushima,1546,0.4308
 67,221694,For Honor,1537,0.4283
-68,231756,Mortal Kombat 11,1494,0.4164
+68,231756,Mortal Kombat 11,1494,0.4163
 69,221852,Destiny 2,1453,0.4049
 70,205342,Warframe,1448,0.4035
 71,10003923,Ghost of Yōtei,1430,0.3985
@@ -162,7 +162,7 @@ rank,title_id,title,players,percentage
 161,10001615,Street Fighter 6,588,0.1639
 162,228638,The Last of Us™ Remastered,587,0.1636
 163,10005318,The First Descendant,585,0.163
-164,10000161,CarX Drift Racing Online,584,0.1628
+164,10000161,CarX Drift Racing Online,584,0.1627
 165,10008048,Grounded PS4® & PS5®,583,0.1625
 166,10008537,LEGO® Batman™: Legacy of the Dark Knight,582,0.1622
 167,212870,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,576,0.1605
