@@ -1,20 +1,20 @@
 rank,title_id,title,players,percentage
-1,228748,Fortnite,90105,24.9951
-2,223118,Roblox,65261,18.1034
+1,228748,Fortnite,90105,24.995
+2,223118,Roblox,65261,18.1033
 3,10011898,EA SPORTS FC™ 26,52180,14.4747
 4,201930,Grand Theft Auto V,39950,11.0821
 5,203715,Rocket League®,34193,9.4851
-6,10001130,Call of Duty®,28699,7.9611
+6,10001130,Call of Duty®,28700,7.9613
 7,212779,Minecraft,23879,6.624
-8,203897,Tom Clancy's Rainbow Six Siege,15705,4.3566
-9,10018502,NBA 2K27,14480,4.0168
-10,10010451,Marvel Rivals,12391,3.4373
+8,203897,Tom Clancy's Rainbow Six Siege,15705,4.3565
+9,10018502,NBA 2K27,14480,4.0167
+10,10010451,Marvel Rivals,12391,3.4372
 11,10017658,Call of Duty®: Black Ops II,10618,2.9454
 12,10014149,NBA 2K26,9506,2.637
 13,232352,Apex Legends™,8790,2.4383
 14,10002456,Marvel's Spider-Man 2,7808,2.1659
 15,209441,Red Dead Redemption 2,7515,2.0847
-16,216627,Overwatch®,7449,2.0664
+16,216627,Overwatch®,7449,2.0663
 17,10002427,eFootball™,7123,1.9759
 18,10015430,MLB® The Show™ 26,6537,1.8134
 19,10009568,Battlefield™ 6,6364,1.7654
@@ -22,7 +22,7 @@ rank,title_id,title,players,percentage
 21,10016736,EA SPORTS™ Madden NFL 27,6083,1.6874
 22,10016592,EA SPORTS™ College Football 27,5464,1.5157
 23,10009762,EA SPORTS FC™ 25,5321,1.476
-24,10010048,VALORANT,5033,1.3962
+24,10010048,VALORANT,5033,1.3961
 25,10012604,EA SPORTS™ Madden NFL 26,4755,1.319
 26,10000657,HELLDIVERS™ 2,4599,1.2758
 27,10011645,Call of Duty®: Modern Warfare® III,4413,1.2242
@@ -30,7 +30,7 @@ rank,title_id,title,players,percentage
 29,10008716,Sniper Elite: Resistance,4139,1.1482
 30,227319,Dead by Daylight,4113,1.1409
 31,10002313,The Crew Motorfest,3840,1.0652
-32,10004896,Wobbly Life,3803,1.055
+32,10004896,Wobbly Life,3803,1.0549
 33,10003354,Fall Guys,3701,1.0267
 34,10002788,UFC® 5,3700,1.0264
 35,10000762,Marvel's Spider-Man,3567,0.9895
@@ -134,7 +134,7 @@ rank,title_id,title,players,percentage
 133,227115,Call of Duty®: WWII,740,0.2053
 134,10007460,Baldur's Gate 3,738,0.2047
 135,233112,Tom Clancy’s Ghost Recon® Breakpoint,720,0.1997
-136,232391,Tom Clancy's The Division® 2,719,0.1995
+136,232391,Tom Clancy's The Division® 2,719,0.1994
 137,10001369,Cuphead,716,0.1986
 138,229018,DAYS GONE,700,0.1942
 139,10010764,Wuthering Waves,695,0.1928
@@ -163,8 +163,8 @@ rank,title_id,title,players,percentage
 162,227649,Crash Bandicoot N. Sane Trilogy,581,0.1612
 163,10009909,Assassin’s Creed Shadows,577,0.1601
 164,201129,Dying Light,577,0.1601
-165,10001269,Need for Speed™ Unbound,573,0.159
-166,10000177,Sackboy: A Big Adventure,573,0.159
+165,10001269,Need for Speed™ Unbound,573,0.1589
+166,10000177,Sackboy: A Big Adventure,573,0.1589
 167,10003552,Grand Theft Auto: San Andreas – The Definitive Edition,571,0.1584
 168,227139,Human Fall Flat,570,0.1581
 169,10016651,Grounded 2,567,0.1573
@@ -1487,60 +1487,60 @@ rank,title_id,title,players,percentage
 1486,10008876,Deer Hunting Camp,12,0.0033
 1487,10010701,DRAGON QUEST I & II HD-2D Remake,12,0.0033
 1488,10006907,Drums Rock,12,0.0033
-1489,10004920,Fate/Samurai Remnant,12,0.0033
-1490,216211,Firewatch,12,0.0033
-1491,10012804,Formula Legends,12,0.0033
-1492,10016961,Froggy Hates Snow,12,0.0033
-1493,227396,Gravel,12,0.0033
-1494,10012778,Lost Soul Aside™,12,0.0033
-1495,227873,Mega Man Legacy Collection 2,12,0.0033
-1496,10002697,Mega Zombie,12,0.0033
-1497,10012994,Midnight Murder Club,12,0.0033
-1498,233530,MXGP 2019 - The Official Motocross Videogame,12,0.0033
-1499,221929,MXGP2 - The Official Motocross Videogame,12,0.0033
-1500,202963,NBA 2K15,12,0.0033
-1501,10003263,Nickelodeon Kart Racers 3: Slime Speedway,12,0.0033
-1502,227431,Oddworld: Soulstorm,12,0.0033
-1503,10001785,OlliOlli World,12,0.0033
-1504,231377,Onimusha: Warlords,12,0.0033
-1505,233719,Overpass,12,0.0033
-1506,203372,Pathé Thuis,12,0.0033
-1507,10000873,Pile Up! Box by Box,12,0.0033
-1508,10002422,Psychonauts 2,12,0.0033
-1509,10017371,Puzzle Galaxy,12,0.0033
-1510,10007644,Ratchet & Clank: Size Matters,12,0.0033
-1511,10013999,RENNSPORT,12,0.0033
-1512,234917,Romance of the Three Kingdoms XIV,12,0.0033
-1513,10008428,Romancing SaGa 2: Revenge of the Seven - PS4&PS5,12,0.0033
-1514,10008579,S.T.A.L.K.E.R.: Call of Prypiat,12,0.0033
-1515,216394,Sniper Ghost Warrior 3,12,0.0033
-1516,10008055,SOUTH PARK: SNOW DAY!,12,0.0033
-1517,234606,Super Meat Boy Forever,12,0.0033
-1518,10013941,Supermarket Manager Simulator,12,0.0033
-1519,10003392,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,12,0.0033
-1520,10007284,The Walking Dead: Saints & Sinners,12,0.0033
-1521,10011401,TimeSplitters,12,0.0033
-1522,10008368,Twisted Metal 2,12,0.0033
-1523,10004687,Unpacking,12,0.0033
-1524,232743,Unturned,12,0.0033
-1525,10000743,Virtua Fighter 5 Ultimate Showdown,12,0.0033
-1526,235411,Yet Another Zombie Defense HD,12,0.0033
-1527,10010964,AAA Dynamic Scenes,11,0.0031
-1528,10005283,Alone in the Dark,11,0.0031
-1529,227097,Arizona Sunshine®,11,0.0031
-1530,232682,ASTRO BOT Rescue Mission,11,0.0031
-1531,227092,BERSERK and the Band of the Hawk,11,0.0031
-1532,235083,Blair Witch,11,0.0031
-1533,232987,Catherine: Full Body,11,0.0031
-1534,10002921,Chernobylite Complete Edition,11,0.0031
-1535,231069,Children of Morta,11,0.0031
-1536,10003601,Cricket 22,11,0.0031
-1537,218017,Dead Island: Riptide - Definitive Edition,11,0.0031
-1538,227309,Dead Rising 4: Frank's Big Package,11,0.0031
-1539,10003868,Destroy All Humans! 2 - Reprobed,11,0.0031
-1540,10007630,Disney•Pixar Up,11,0.0031
-1541,229931,Drunkn Bar Fight,11,0.0031
-1542,10013703,DUCKSIDE (Early Access),11,0.0031
+1489,10013703,DUCKSIDE (Early Access),12,0.0033
+1490,10004920,Fate/Samurai Remnant,12,0.0033
+1491,216211,Firewatch,12,0.0033
+1492,10012804,Formula Legends,12,0.0033
+1493,10016961,Froggy Hates Snow,12,0.0033
+1494,227396,Gravel,12,0.0033
+1495,10012778,Lost Soul Aside™,12,0.0033
+1496,227873,Mega Man Legacy Collection 2,12,0.0033
+1497,10002697,Mega Zombie,12,0.0033
+1498,10012994,Midnight Murder Club,12,0.0033
+1499,233530,MXGP 2019 - The Official Motocross Videogame,12,0.0033
+1500,221929,MXGP2 - The Official Motocross Videogame,12,0.0033
+1501,202963,NBA 2K15,12,0.0033
+1502,10003263,Nickelodeon Kart Racers 3: Slime Speedway,12,0.0033
+1503,227431,Oddworld: Soulstorm,12,0.0033
+1504,10001785,OlliOlli World,12,0.0033
+1505,231377,Onimusha: Warlords,12,0.0033
+1506,233719,Overpass,12,0.0033
+1507,203372,Pathé Thuis,12,0.0033
+1508,10000873,Pile Up! Box by Box,12,0.0033
+1509,10002422,Psychonauts 2,12,0.0033
+1510,10017371,Puzzle Galaxy,12,0.0033
+1511,10007644,Ratchet & Clank: Size Matters,12,0.0033
+1512,10013999,RENNSPORT,12,0.0033
+1513,234917,Romance of the Three Kingdoms XIV,12,0.0033
+1514,10008428,Romancing SaGa 2: Revenge of the Seven - PS4&PS5,12,0.0033
+1515,10008579,S.T.A.L.K.E.R.: Call of Prypiat,12,0.0033
+1516,216394,Sniper Ghost Warrior 3,12,0.0033
+1517,10008055,SOUTH PARK: SNOW DAY!,12,0.0033
+1518,234606,Super Meat Boy Forever,12,0.0033
+1519,10013941,Supermarket Manager Simulator,12,0.0033
+1520,10003392,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,12,0.0033
+1521,10007284,The Walking Dead: Saints & Sinners,12,0.0033
+1522,10011401,TimeSplitters,12,0.0033
+1523,10008368,Twisted Metal 2,12,0.0033
+1524,10004687,Unpacking,12,0.0033
+1525,232743,Unturned,12,0.0033
+1526,10000743,Virtua Fighter 5 Ultimate Showdown,12,0.0033
+1527,235411,Yet Another Zombie Defense HD,12,0.0033
+1528,10010964,AAA Dynamic Scenes,11,0.0031
+1529,10005283,Alone in the Dark,11,0.0031
+1530,227097,Arizona Sunshine®,11,0.0031
+1531,232682,ASTRO BOT Rescue Mission,11,0.0031
+1532,227092,BERSERK and the Band of the Hawk,11,0.0031
+1533,235083,Blair Witch,11,0.0031
+1534,232987,Catherine: Full Body,11,0.0031
+1535,10002921,Chernobylite Complete Edition,11,0.0031
+1536,231069,Children of Morta,11,0.0031
+1537,10003601,Cricket 22,11,0.0031
+1538,218017,Dead Island: Riptide - Definitive Edition,11,0.0031
+1539,227309,Dead Rising 4: Frank's Big Package,11,0.0031
+1540,10003868,Destroy All Humans! 2 - Reprobed,11,0.0031
+1541,10007630,Disney•Pixar Up,11,0.0031
+1542,229931,Drunkn Bar Fight,11,0.0031
 1543,10019550,EMPULSE,11,0.0031
 1544,10002761,Evil Dead: The Game,11,0.0031
 1545,10003269,Far Cry® 3 Blood Dragon Classic Edition,11,0.0031
