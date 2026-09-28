@@ -526,44 +526,49 @@
             "unique_users": 391057
         },
         "2026-09-20": {
-            "compilation_time": "2026-09-27 18:38:46",
-            "total_sessions": 916501,
-            "unique_users": 392136
+            "compilation_time": "2026-09-28 23:45:34",
+            "total_sessions": 917026,
+            "unique_users": 392551
         },
         "2026-09-21": {
-            "compilation_time": "2026-09-27 18:38:58",
-            "total_sessions": 903960,
-            "unique_users": 383278
+            "compilation_time": "2026-09-28 23:45:53",
+            "total_sessions": 908733,
+            "unique_users": 386822
         },
         "2026-09-22": {
-            "compilation_time": "2026-09-27 18:39:10",
-            "total_sessions": 864572,
-            "unique_users": 363914
+            "compilation_time": "2026-09-28 23:46:16",
+            "total_sessions": 876794,
+            "unique_users": 372426
         },
         "2026-09-23": {
-            "compilation_time": "2026-09-27 18:39:24",
-            "total_sessions": 829206,
-            "unique_users": 345262
+            "compilation_time": "2026-09-28 23:46:32",
+            "total_sessions": 849912,
+            "unique_users": 358500
         },
         "2026-09-24": {
-            "compilation_time": "2026-09-27 18:39:37",
-            "total_sessions": 775172,
-            "unique_users": 322890
+            "compilation_time": "2026-09-28 23:46:45",
+            "total_sessions": 805237,
+            "unique_users": 340534
         },
         "2026-09-25": {
-            "compilation_time": "2026-09-27 18:39:49",
-            "total_sessions": 685297,
-            "unique_users": 285361
+            "compilation_time": "2026-09-28 23:46:59",
+            "total_sessions": 727611,
+            "unique_users": 307985
         },
         "2026-09-26": {
-            "compilation_time": "2026-09-27 18:39:59",
-            "total_sessions": 580130,
-            "unique_users": 242163
+            "compilation_time": "2026-09-28 23:47:10",
+            "total_sessions": 642391,
+            "unique_users": 271612
         },
         "2026-09-27": {
-            "compilation_time": "2026-09-27 18:40:07",
-            "total_sessions": 435699,
-            "unique_users": 188117
+            "compilation_time": "2026-09-28 23:47:21",
+            "total_sessions": 535502,
+            "unique_users": 226465
+        },
+        "2026-09-28": {
+            "compilation_time": "2026-09-28 23:47:29",
+            "total_sessions": 451843,
+            "unique_users": 189541
         }
     },
     "daily": {
@@ -1113,19 +1118,24 @@
             "unique_users": 39680
         },
         "2026-09-24": {
-            "compilation_time": "2026-09-27 18:39:38",
-            "total_sessions": 62382,
-            "unique_users": 40027
+            "compilation_time": "2026-09-28 23:46:47",
+            "total_sessions": 62948,
+            "unique_users": 40496
         },
         "2026-09-25": {
-            "compilation_time": "2026-09-27 18:39:50",
-            "total_sessions": 45796,
-            "unique_users": 30026
+            "compilation_time": "2026-09-28 23:47:00",
+            "total_sessions": 52976,
+            "unique_users": 35253
         },
         "2026-09-26": {
-            "compilation_time": "2026-09-27 18:40:01",
-            "total_sessions": 53360,
-            "unique_users": 30244
+            "compilation_time": "2026-09-28 23:47:12",
+            "total_sessions": 73292,
+            "unique_users": 43330
+        },
+        "2026-09-27": {
+            "compilation_time": "2026-09-28 23:47:22",
+            "total_sessions": 55228,
+            "unique_users": 31961
         }
     }
 }
