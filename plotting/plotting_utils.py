@@ -77,7 +77,7 @@ def render_plot(
                 y_pos,
                 label=f"{label} (Rank)",
                 color=color,
-                linestyle=linestyle,
+                # linestyle=linestyle,
                 marker=marker,
                 linewidth=style.line_width,
                 alpha=style.line_alpha,
