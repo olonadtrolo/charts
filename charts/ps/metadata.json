@@ -571,44 +571,54 @@
             "unique_users": 334642
         },
         "2026-09-29": {
-            "compilation_time": "2026-10-06 21:31:45",
-            "total_sessions": 769202,
-            "unique_users": 342393
+            "compilation_time": "2026-10-08 23:42:17",
+            "total_sessions": 769267,
+            "unique_users": 342449
         },
         "2026-09-30": {
-            "compilation_time": "2026-10-06 21:31:56",
-            "total_sessions": 785705,
-            "unique_users": 345173
+            "compilation_time": "2026-10-08 23:42:27",
+            "total_sessions": 791229,
+            "unique_users": 349484
         },
         "2026-10-01": {
-            "compilation_time": "2026-10-06 21:32:07",
-            "total_sessions": 800182,
-            "unique_users": 345548
+            "compilation_time": "2026-10-08 23:42:39",
+            "total_sessions": 818455,
+            "unique_users": 358593
         },
         "2026-10-02": {
-            "compilation_time": "2026-10-06 21:32:18",
-            "total_sessions": 831215,
-            "unique_users": 350957
+            "compilation_time": "2026-10-08 23:42:52",
+            "total_sessions": 868301,
+            "unique_users": 375275
         },
         "2026-10-03": {
-            "compilation_time": "2026-10-06 21:32:30",
-            "total_sessions": 824133,
-            "unique_users": 344622
+            "compilation_time": "2026-10-08 23:43:05",
+            "total_sessions": 889817,
+            "unique_users": 382926
         },
         "2026-10-04": {
-            "compilation_time": "2026-10-06 21:32:42",
-            "total_sessions": 784372,
-            "unique_users": 325030
+            "compilation_time": "2026-10-08 23:43:19",
+            "total_sessions": 888768,
+            "unique_users": 377575
         },
         "2026-10-05": {
-            "compilation_time": "2026-10-06 21:32:53",
-            "total_sessions": 736260,
-            "unique_users": 300800
+            "compilation_time": "2026-10-08 23:43:33",
+            "total_sessions": 873083,
+            "unique_users": 363233
         },
         "2026-10-06": {
-            "compilation_time": "2026-10-06 21:33:03",
-            "total_sessions": 648032,
-            "unique_users": 267369
+            "compilation_time": "2026-10-08 23:43:45",
+            "total_sessions": 833701,
+            "unique_users": 341792
+        },
+        "2026-10-07": {
+            "compilation_time": "2026-10-08 23:43:56",
+            "total_sessions": 768636,
+            "unique_users": 311340
+        },
+        "2026-10-08": {
+            "compilation_time": "2026-10-08 23:44:05",
+            "total_sessions": 672580,
+            "unique_users": 277221
         }
     },
     "daily": {
@@ -1203,19 +1213,29 @@
             "unique_users": 64430
         },
         "2026-10-03": {
-            "compilation_time": "2026-10-06 21:32:31",
-            "total_sessions": 118902,
-            "unique_users": 72685
+            "compilation_time": "2026-10-08 23:43:06",
+            "total_sessions": 119057,
+            "unique_users": 72815
         },
         "2026-10-04": {
-            "compilation_time": "2026-10-06 21:32:44",
-            "total_sessions": 109731,
-            "unique_users": 64427
+            "compilation_time": "2026-10-08 23:43:20",
+            "total_sessions": 126931,
+            "unique_users": 76076
         },
         "2026-10-05": {
-            "compilation_time": "2026-10-06 21:32:54",
-            "total_sessions": 62138,
-            "unique_users": 38259
+            "compilation_time": "2026-10-08 23:43:34",
+            "total_sessions": 88829,
+            "unique_users": 56843
+        },
+        "2026-10-06": {
+            "compilation_time": "2026-10-08 23:43:46",
+            "total_sessions": 70469,
+            "unique_users": 44992
+        },
+        "2026-10-07": {
+            "compilation_time": "2026-10-08 23:43:56",
+            "total_sessions": 48272,
+            "unique_users": 30334
         }
     }
 }
