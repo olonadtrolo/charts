@@ -1,8 +1,8 @@
 rank,title_id,title,players,percentage
-1,228748,Fortnite,87416,24.3775
+1,228748,Fortnite,87416,24.3774
 2,223118,Roblox,64365,17.9493
-3,203715,Rocket League®,36993,10.3162
-4,201930,Grand Theft Auto V,35819,9.9888
+3,203715,Rocket League®,36993,10.3161
+4,201930,Grand Theft Auto V,35819,9.9887
 5,10011898,EA SPORTS FC™ 26,33717,9.4026
 6,10017332,EA SPORTS FC™ 27,33092,9.2283
 7,10001130,Call of Duty®,28334,7.9014
@@ -25,7 +25,7 @@ rank,title_id,title,players,percentage
 24,10016592,EA SPORTS™ College Football 27,5323,1.4844
 25,10010048,VALORANT,5255,1.4654
 26,10009762,EA SPORTS FC™ 25,5205,1.4515
-27,10012604,EA SPORTS™ Madden NFL 26,3963,1.1052
+27,10012604,EA SPORTS™ Madden NFL 26,3963,1.1051
 28,10002313,The Crew Motorfest,3957,1.1035
 29,10000657,HELLDIVERS™ 2,3857,1.0756
 30,10011645,Call of Duty®: Modern Warfare® III,3705,1.0332
@@ -39,7 +39,7 @@ rank,title_id,title,players,percentage
 38,204794,The Witcher 3: Wild Hunt,3299,0.92
 39,10010647,Forza Horizon 5,3143,0.8765
 40,10018491,Aniimo,3132,0.8734
-41,200763,Call of Duty®: Black Ops III,3045,0.8492
+41,200763,Call of Duty®: Black Ops III,3045,0.8491
 42,10014718,Halloween: The Game,2860,0.7976
 43,10000762,Marvel's Spider-Man,2825,0.7878
 44,10007176,EA SPORTS FC™ 24,2819,0.7861
@@ -57,7 +57,7 @@ rank,title_id,title,players,percentage
 56,10001850,God of War Ragnarök,1925,0.5368
 57,221852,Destiny 2,1918,0.5349
 58,10000333,ELDEN RING,1829,0.51
-59,10000896,Genshin Impact,1810,0.5048
+59,10000896,Genshin Impact,1810,0.5047
 60,230079,The Last of Us™ Part II,1773,0.4944
 61,235227,Ghost of Tsushima,1671,0.466
 62,231756,Mortal Kombat 11,1640,0.4573
@@ -69,7 +69,7 @@ rank,title_id,title,players,percentage
 68,10004473,Resident Evil 4,1515,0.4225
 69,10015762,Once Human,1504,0.4194
 70,221694,For Honor,1496,0.4172
-71,234659,Need for Speed™ Heat,1474,0.4111
+71,234659,Need for Speed™ Heat,1474,0.411
 72,10007902,DRAGON BALL: Sparking! ZERO,1470,0.4099
 73,205342,Warframe,1461,0.4074
 74,10013248,Onimusha: Way of the Sword,1408,0.3926
@@ -89,7 +89,7 @@ rank,title_id,title,players,percentage
 88,221850,DayZ,1115,0.3109
 89,202943,Mortal Kombat X,1113,0.3104
 90,10005176,Monster Hunter Wilds,1098,0.3062
-91,10002363,Crimson Desert,1086,0.3029
+91,10002363,Crimson Desert,1086,0.3028
 92,10006270,TEKKEN 8,1079,0.3009
 93,232374,Dying Light 2,1041,0.2903
 94,10009326,EA SPORTS™ Madden NFL 25,1040,0.29
@@ -228,7 +228,7 @@ rank,title_id,title,players,percentage
 227,216064,Batman: Return to Arkham,367,0.1023
 228,228618,God of War® III Remastered,366,0.1021
 229,222022,TEKKEN™7,366,0.1021
-230,203427,Plants vs Zombies GW2,362,0.101
+230,203427,Plants vs Zombies GW2,362,0.1009
 231,234959,SnowRunner,359,0.1001
 232,227229,Stardew Valley,359,0.1001
 233,10004865,Assassin's Creed® Mirage,358,0.0998
@@ -300,8 +300,8 @@ rank,title_id,title,players,percentage
 299,215358,Gran Turismo™SPORT,256,0.0714
 300,10009029,STAR WARS Zero Company™,256,0.0714
 301,10005908,Hollow Knight: Silksong,255,0.0711
-302,10002771,Persona 5 Royal,252,0.0703
-303,10001758,Trackmania®,252,0.0703
+302,10001758,Trackmania®,253,0.0706
+303,10002771,Persona 5 Royal,252,0.0703
 304,10016743,DYNASTY WARRIORS 3: Complete Edition Remastered,251,0.07
 305,204861,The Elder Scrolls Online,251,0.07
 306,10008649,Mafia: Trilogy,247,0.0689

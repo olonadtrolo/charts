@@ -1,6 +1,6 @@
 rank,title_id,title,players,percentage
 1,267695549,Fortnite,55078,21.3597
-2,342226876,Roblox - Xbox,49218,19.0872
+2,342226876,Roblox - Xbox,49218,19.0871
 3,1828326430,Minecraft,31275,12.1287
 4,2001700854,Call of Duty®,21922,8.5015
 5,558797228,Rocket League®,20790,8.0625
@@ -8,7 +8,7 @@ rank,title_id,title,players,percentage
 7,2047118660,EA SPORTS FC™ 27 XBOX Series X|S,10368,4.0208
 8,2079757188,Forza Horizon 6,10225,3.9653
 9,972249091,Grand Theft Auto V (Xbox One),9758,3.7842
-10,1731722945,NBA 2K27,9297,3.6055
+10,1731722945,NBA 2K27,9297,3.6054
 11,1909324253,EA SPORTS FC™ 26 Xbox Series X|S,9160,3.5523
 12,1794906646,Marvel Rivals,8322,3.2273
 13,1778348973,Grand Theft Auto Online (Xbox Series X|S),8219,3.1874
@@ -20,7 +20,7 @@ rank,title_id,title,players,percentage
 19,591405932,Red Dead Redemption 2,5251,2.0364
 20,1924639289,HELLDIVERS™ 2,4911,1.9045
 21,1962870476,EA SPORTS™ Madden NFL 27,4823,1.8704
-22,2116052231,RuneScape: Dragonwilds,4655,1.8053
+22,2116052231,RuneScape: Dragonwilds,4655,1.8052
 23,1674575880,EA SPORTS™ College Football 27,4574,1.7738
 24,1799950478,Aniimo,4348,1.6862
 25,1631143456,EA SPORTS™ Madden NFL 26,4168,1.6164
@@ -65,7 +65,7 @@ rank,title_id,title,players,percentage
 64,687339341,Brawlhalla,1767,0.6853
 65,2073302268,Ready or Not,1738,0.674
 66,2082978535,Halo: Campaign Evolved,1724,0.6686
-67,2043073184,Halo Infinite,1702,0.6601
+67,2043073184,Halo Infinite,1702,0.66
 68,374923716,Gears 5,1655,0.6418
 69,1256782258,Fallout 4,1642,0.6368
 70,1892245301,ELDEN RING,1613,0.6255
@@ -79,7 +79,7 @@ rank,title_id,title,players,percentage
 78,1717113201,Sea of Thieves: 2026 Edition,1440,0.5584
 79,1959007243,Call of Duty®: Modern Warfare® II,1438,0.5577
 80,964706972,No Man's Sky,1434,0.5561
-81,896928775,Minecraft for Windows,1423,0.5519
+81,896928775,Minecraft for Windows,1423,0.5518
 82,1746894998,Roblox - Windows,1385,0.5371
 83,1862431175,UFC® 6,1332,0.5166
 84,833960563,STAR WARS™ Battlefront™ II,1324,0.5135
@@ -96,7 +96,7 @@ rank,title_id,title,players,percentage
 95,1653663875,EA SPORTS FC™ 25 Xbox Series X|S,1150,0.446
 96,2062957237,Hell Let Loose: Vietnam,1146,0.4444
 97,321656011,The Sims™ 4,1118,0.4336
-98,1696147865,Zenless Zone Zero,1095,0.4247
+98,1696147865,Zenless Zone Zero,1095,0.4246
 99,1479758055,Batman™: Arkham Knight,1065,0.413
 100,1759802069,EA SPORTS™ College Football 25,1063,0.4122
 101,1096157269,Call of Duty®: Black Ops,1050,0.4072
@@ -212,7 +212,7 @@ rank,title_id,title,players,percentage
 211,792158305,Call of Duty®: Black Ops 4,493,0.1912
 212,1744726864,Enlisted,493,0.1912
 213,256364670,Battlefield™ V,491,0.1904
-214,45083076,Injustice™ 2,488,0.1893
+214,45083076,Injustice™ 2,488,0.1892
 215,1653280174,CONTROL Resonant,486,0.1885
 216,1854680102,Delta Force,483,0.1873
 217,1792830437,Balatro,482,0.1869
@@ -232,7 +232,7 @@ rank,title_id,title,players,percentage
 231,1852502655,EA SPORTS FC™ 24 Xbox Series X|S,432,0.1675
 232,1738914043,Assassin's Creed Shadows,431,0.1671
 233,796798669,Call of Duty®: Infinite Warfare,428,0.166
-234,1766989558,MLB® The Show™ 25,427,0.1656
+234,1766989558,MLB® The Show™ 25,428,0.166
 235,2025121273,Wuthering Waves,427,0.1656
 236,1680003655,Call of Duty®: Modern Warfare® 4 - Beta,420,0.1629
 237,308190374,LEGO® Star Wars™: The Skywalker Saga,420,0.1629
@@ -241,7 +241,7 @@ rank,title_id,title,players,percentage
 240,1096157387,Modern Warfare® 3,418,0.1621
 241,1204533074,Borderlands 2,416,0.1613
 242,1702731390,Supermarket Simulator,413,0.1602
-243,2014590773,Car Mechanic Simulator 2021,406,0.1575
+243,2014590773,Car Mechanic Simulator 2021,406,0.1574
 244,2059212977,Beast of Reincarnation,403,0.1563
 245,794552001,The Binding of Isaac: Rebirth,398,0.1543
 246,1733929983,STAR WARS Zero Company™,395,0.1532
@@ -260,7 +260,7 @@ rank,title_id,title,players,percentage
 259,1769729445,Dice A Million,372,0.1443
 260,1803410566,SpeedRunners 2: King of Speed,371,0.1439
 261,1619206606,Active Matter,370,0.1435
-262,1769971395,Clair Obscur: Expedition 33,365,0.1416
+262,1769971395,Clair Obscur: Expedition 33,365,0.1415
 263,770775860,RESIDENT EVIL 3 for Windows,364,0.1412
 264,504085184,The Crew® 2,364,0.1412
 265,1902585111,DOOM: The Dark Ages,357,0.1384
@@ -1607,7 +1607,7 @@ rank,title_id,title,players,percentage
 1606,1701212022,The Jackbox Party Pack 8,15,0.0058
 1607,1397622748,THE KING OF FIGHTERS XIII,15,0.0058
 1608,1731121397,The Quarry for Xbox One,15,0.0058
-1609,1806542452,theHunter: Call of the Wild™ - Windows 10,15,0.0058
+1609,1806542452,theHunter: Call of the Wild™,15,0.0058
 1610,1181281124,Thief,15,0.0058
 1611,2108611710,TIEBREAK – GRAND SLAM EDITION,15,0.0058
 1612,2070685355,to a T,15,0.0058
