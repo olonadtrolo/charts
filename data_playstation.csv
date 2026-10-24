@@ -203,7 +203,7 @@ title_id,title_name,release_date
 10003179,A Fungus In My Garden,
 10021136,A Game About Breaking A Cube,
 10015382,A Game About Digging A Hole™,2025-12-09
-10017496,A Game About Digging A Hole™ Together,
+10017496,A Game About Digging A Hole™ Together,2026-12-04
 10020969,A Game About Penguins,
 232894,A Gummy's Life,2021-09-24
 228903,A Hat in Time,2017-12-05
@@ -347,8 +347,8 @@ title_id,title_name,release_date
 228665,ACA NEOGEO SAMURAI SHODOWN II,2017-10-10
 204482,ACA NEOGEO SAMURAI SHODOWN III,2018-04-18
 211289,ACA NEOGEO SAMURAI SHODOWN IV,2018-06-07
-211290,ACA NEOGEO SAMURAI SHODOWN V,2019-03-11
 10003918,ACA NEOGEO SAMURAI SHODOWN V,2022-04-28
+211290,ACA NEOGEO SAMURAI SHODOWN V,2019-03-11
 10003919,ACA NEOGEO SAMURAI SHODOWN V SPECIAL,2019-04-18
 232596,ACA NEOGEO SAVAGE REIGN,2019-07-15
 224808,ACA NEOGEO SENGOKU,2017-03-15
@@ -506,6 +506,7 @@ title_id,title_name,release_date
 10004128,AeternoBlade II: Director's Rewind,
 10019355,Aether & Iron,
 10019945,Aether Keepers,2026-08-14
+10020752,AETHUS,
 10005440,AEW: Fight Forever,2023-06-29
 231205,AFFECTED: The Manor,2018-11-27
 10005823,AFL 23,2023-05-04
@@ -527,6 +528,7 @@ title_id,title_name,release_date
 10004328,Afterlove EP,2025-02-14
 10004296,Aftermath,
 232556,Afterparty,2019-10-28
+10020524,AfterZero - The Last Drive,
 10011016,Against the Storm,2025-06-26
 10011216,Agarta,2024-06-20
 10013650,Agatha Christie - Death on the Nile,2025-09-25
@@ -800,6 +802,7 @@ title_id,title_name,release_date
 10019167,Amphibarium,
 200230,Amplitude,2016-01-05
 10013867,An Aisling,2025-04-24
+10020869,An Eggcelent Sorting Game,2026-10-29
 10001096,An Evil Existence,2021-05-07
 228945,Anamorphine,2018-07-30
 10009022,ANANTA,2027-01-15
@@ -1003,6 +1006,7 @@ title_id,title_name,release_date
 10003534,Arcade Archives  Sky Kid,2021-10-28
 231056,Arcade Archives 10-Yard Fight,2018-06-13
 10015389,Arcade Archives 2 ACE DRIVER,2026-05-28
+10019755,Arcade Archives 2 ACE DRIVER VICTORY LAP,2026-10-22
 10017941,Arcade Archives 2 ADVENTURE CANOE,2026-02-19
 10015672,Arcade Archives 2 AQUA JET,2025-08-14
 10016966,Arcade Archives 2 ARKANOID,2026-05-07
@@ -1392,8 +1396,8 @@ title_id,title_name,release_date
 10015960,Arcade Archives VIDEO HUSTLER,2025-09-11
 234522,Arcade Archives VIGILANTE,2019-09-04
 10011475,Arcade Archives VIOLENCE FIGHT,2024-10-17
-10013635,Arcade Archives VIPER PHASE 1,2025-02-02
 10011824,Arcade Archives VIPER PHASE 1,2024-12-12
+10013635,Arcade Archives VIPER PHASE 1,2025-02-02
 10010054,Arcade Archives VOLFIED,2024-03-28
 10011515,Arcade Archives VS. BATTLE CITY,2024-09-12
 234880,Arcade Archives VS. CASTLEVANIA,2019-10-16
@@ -1742,8 +1746,8 @@ title_id,title_name,release_date
 10009683,Aztek Tiki Talisman,2023-12-14
 232923,Azur Lane: Crosswave,2020-02-13
 10011420,AZURA'S CRYSTALS,2024-12-12
-10001671,Azure Reflections,2021-02-22
 232263,Azure Reflections,2018-05-14
+10001671,Azure Reflections,2021-02-22
 10004858,Azure Striker GUNVOLT 3,2022-12-15
 10014566,Azure Striker Gunvolt Trilogy Enhanced,2025-07-24
 10000362,Azure Striker GUNVOLT: STRIKER PACK,2020-04-23
@@ -1977,6 +1981,7 @@ title_id,title_name,release_date
 10004887,BBC Sounds,
 10014069,BBQ Simulator: The Squad,
 10014321,Be A Bee,2025-06-26
+10021346,Beach Bar Simulator,
 200355,Beach Buggy Racing,2015-05-28
 10002398,Beach Buggy Racing 2: Island Adventure,2021-03-17
 10016348,Beach Invasion 1915 - Gallipoli,2025-12-14
@@ -2063,8 +2068,8 @@ title_id,title_name,release_date
 10019642,Bench Simulator,2026-05-28
 10006221,Bendy and the Dark Revival,2023-03-01
 10013480,Bendy and the Dark Revival,2025-07-11
-10013479,Bendy and the Ink Machine,2025-05-09
 232792,Bendy and the Ink Machine,2018-11-20
+10013479,Bendy and the Ink Machine,2025-05-09
 10014263,Bendy: Lone Wolf,2025-08-15
 10013555,Beneath,2025-10-28
 10011086,Beneath Oresa,2024-09-12
@@ -2080,6 +2085,7 @@ title_id,title_name,release_date
 10014537,Best Served Cold,2025-07-31
 10019496,Bestial Reception,2026-05-31
 10008041,Betomis,2023-09-27
+10021076,Better Chaos,
 10016573,Better Mart Simulator,2026-12-31
 233229,Betty Bat's Treasure Hunt,2018-12-04
 10005224,Between Horizons,2024-09-19
@@ -2474,6 +2480,7 @@ title_id,title_name,release_date
 10003715,Bowling (Mark Version) - Project: Summer Ice (Sports Series),2021-11-14
 10003132,Bowling (Pammy Version) - Project: Summer Ice (Sports Series),2021-07-04
 10003716,Bowling (Story Two) (Mark Version) - Project: Summer Ice,2021-11-21
+10020811,Bowling Alley Simulator,2026-11-03
 10011709,Bowling In A Skate Park,2024-08-09
 10005988,Box Align,2022-12-15
 10013394,Box in Box,2025-08-27
@@ -3020,6 +3027,7 @@ title_id,title_name,release_date
 10019004,Catch Flex,2026-09-02
 10015404,CATCH ME IF YOU CAN,2025-06-15
 10003170,Catch the Bowling Balls - Breakthrough Gaming Arcade,2021-06-13
+10021237,Catch To Fish,2026-10-28
 10000445,Catch: Carp & Coarse Fishing,2020-06-30
 10005872,CATE P,2023-06-25
 10003433,Cathedral,2022-04-12
@@ -3229,8 +3237,8 @@ title_id,title_name,release_date
 10002142,Christmas Break,
 10004121,Christmas Break 2,2021-11-05
 10004124,Christmas Break 2 Head to Head,2021-11-12
-10002029,Christmas Break Head to Head,2020-11-27
 10002028,Christmas Break Head to Head,2020-11-27
+10002029,Christmas Break Head to Head,2020-11-27
 10002030,Christmas Break Head to Head Asia,
 10006102,Christmas Fun,2022-11-18
 10012552,Christmas Gift Catcher,2024-12-19
@@ -3526,6 +3534,7 @@ title_id,title_name,release_date
 10015805,Console Archives Ninja Gaiden III: The Ancient Ship of Doom,2026-04-23
 10015706,Console Archives Nobunaga's Ambition,2026-03-05
 10015812,Console Archives Nobunaga's Ambition II,2026-09-10
+10019628,Console Archives RAIDEN PROJECT,2026-10-22
 10019067,Console Archives Rhapsody II: Ballad of the Little Princess,2026-08-20
 10017490,Console Archives Rhapsody: A Musical Adventure,2026-07-09
 10019638,Console Archives Ripple Island,2026-10-08
@@ -4003,6 +4012,7 @@ title_id,title_name,release_date
 10000755,DARIUSBURST ANOTHER CHRONICLE EX+,2021-02-24
 217997,DARIUSBURST Chronicle Saviours,2015-12-02
 10001494,DARIUSBURST: ANOTHER CHRONICLE EX+,2021-06-11
+10020602,Dark Alley,2026-11-05
 10001729,Dark Alliance,2021-06-22
 10014891,Dark Angels,2025-05-30
 227345,Dark Arcana: The Carnival,2017-06-26
@@ -4060,8 +4070,8 @@ title_id,title_name,release_date
 228188,Darksiders Warmastered Edition,2016-11-22
 10020090,Darkstone Bay,2026-07-01
 10010390,Darksword: Battle Eternity,2024-08-08
-10003579,Darkwood,2021-09-01
 232700,Darkwood,2019-05-13
+10003579,Darkwood,2021-09-01
 10001715,DARQ Complete Edition,2020-12-04
 10005528,DARQ Ultimate Edition,2022-11-10
 10001942,Darts,2020-12-10
@@ -4165,6 +4175,7 @@ title_id,title_name,release_date
 10013432,DEADLY BALLS BOUNCE,2025-08-30
 10016319,Deadly Combat,2025-11-06
 10002677,Deadly Days,2021-08-03
+10019233,Deadly Days: Roadtrip,2026-10-29
 10020789,Deadly Stakes,2026-12-31
 201050,Deadpool,2015-11-17
 10009964,Deadside,2025-02-25
@@ -4195,8 +4206,8 @@ title_id,title_name,release_date
 10011184,Death Noodle Delivery,2024-07-31
 10009279,DEATH NOTE Killer Within,2024-11-05
 10008096,Death or Treat,2023-05-11
-10021012,Death Park,2026-10-30
 10003272,Death Park,2021-09-24
+10021012,Death Park,2026-10-30
 10003273,Death Park 2,2021-10-31
 10013996,Death Park 2: 4K Remaster,2025-10-29
 10013995,Death Park: 4K Remaster,2025-05-16
@@ -4338,6 +4349,7 @@ title_id,title_name,release_date
 10000380,Depth of Extinction,2020-07-27
 232926,Déraciné™,2018-11-06
 229054,Derelict Fleet,2017-07-11
+10020388,DERELIKT,
 231228,Descenders,2020-08-25
 10006955,Descending,2023-05-17
 232254,Desert Child,2018-12-11
@@ -4548,8 +4560,8 @@ title_id,title_name,release_date
 10008999,Doctor Cat,2023-09-30
 10012587,Doctor Simulator,2025-04-06
 10001197,Doctor Who: The Edge of Reality,2021-10-14
-234934,Doctor Who: The Edge of Time,2019-11-12
 10009458,Doctor Who: The Edge of Time,2024-04-23
+234934,Doctor Who: The Edge of Time,2019-11-12
 10003125,Doctor Who: The Lonely Assassins,2021-08-12
 10006957,Dodge It,2023-09-06
 10006748,Dodge the Ball,2023-02-04
@@ -4591,7 +4603,7 @@ title_id,title_name,release_date
 10007311,Dolphin Spirit - Ocean Mission,2023-09-28
 10011948,Domenation,
 232475,DominoCraft,2018-08-13
-10020591,Dominoes Together,
+10020591,Dominoes Together,2026-10-24
 10017059,Dominus Gladiatus,
 10004173,Domynyo,
 10003729,Don't Be Afraid,2022-01-28
@@ -4611,6 +4623,7 @@ title_id,title_name,release_date
 10003667,Don't Touch this Button!,2021-09-24
 201106,Don Bradman Cricket,2016-04-25
 221682,Don Bradman Cricket 17,2016-12-15
+10020330,Don Bradman Cricket JR,
 10017767,Don’t Mess with Security,2028-12-31
 10019990,DONGDA Gangster,
 10014288,Donut Blast,2025-04-11
@@ -4656,8 +4669,8 @@ title_id,title_name,release_date
 10003948,Dordogne,2023-06-13
 10014511,Dorfromantik,2025-08-14
 10011643,Dorfs: Hammers for Hire,2024-11-14
-10020774,Dorkomon,2026-09-25
 10016322,Dorkomon,2026-01-28
+10020774,Dorkomon,2026-09-25
 10015953,Dosa Divas,2026-04-14
 10016327,Dot Connect,2025-08-23
 10018291,Dot Net,2026-02-06
@@ -4991,8 +5004,8 @@ title_id,title_name,release_date
 234611,EA Play Hub,2019-04-16
 10010783,EA Play Subscription,2024-12-31
 10007176,EA SPORTS FC™ 24,2023-09-22
-10012859,EA SPORTS FC™ 25,2024-12-05
 10009762,EA SPORTS FC™ 25,2024-09-20
+10012859,EA SPORTS FC™ 25,2024-12-05
 10011898,EA SPORTS FC™ 26,2025-09-19
 10016913,EA SPORTS FC™ 26 SHOWCASE,
 10017332,EA SPORTS FC™ 27,2026-09-25
@@ -5367,7 +5380,7 @@ title_id,title_name,release_date
 10020960,"Ex-Master, Zombie",2026-10-30
 232534,Exception,2019-08-13
 10008976,Excessive Trim,2023-11-08
-10021120,eXcise,2026-10-31
+10021120,eXcise,2026-10-28
 10014217,Exer Gale,
 10009135,Exhausted Man,2024-07-25
 221701,Exile's End,2016-10-24
@@ -5625,6 +5638,7 @@ title_id,title_name,release_date
 10019985,Femboy Battle Royale,2026-07-31
 221884,Fenix Furia,2016-06-06
 231273,Feral Fury,2018-01-30
+10021036,Feral Road,
 10005594,Fernbus - Coachbus Simulator,2023-02-28
 232488,Fernz Gate,2018-08-27
 10018216,FEROCIOUS,2026-09-14
@@ -5711,6 +5725,7 @@ title_id,title_name,release_date
 10012223,Find Room 96,2025-01-21
 10015552,Find Sort Match,2025-08-28
 10006546,Find the Bug,2023-01-28
+10021347,Find the Needle,2026-12-31
 10011298,Find The Thing,2024-07-20
 10012843,Finding America: New England Collector's Edition,2024-12-09
 10012047,Finding America: The Great Lakes CE,2024-10-24
@@ -5935,6 +5950,7 @@ title_id,title_name,release_date
 10004228,ForeVR Bowl,2023-12-19
 10008659,ForeVR Cornhole,2024-06-19
 10008662,ForeVR Pool,2023-11-30
+10021270,Forged from Monsters,
 10015193,Forgery Craft,
 10007143,Forgive Me Father,2023-09-28
 10014515,Forgive Me Father 2,2025-09-23
@@ -6637,6 +6653,7 @@ title_id,title_name,release_date
 221698,GRAVITY RUSH™ 2,2017-01-20
 226357,Gravity Rush™ Remastered,2016-02-02
 10014428,Gravity Strike,2025-04-04
+10021202,Gravity Switch,2026-11-26
 10007493,Gravity Thrust,2023-02-24
 10002718,Gray Dawn,2024-04-29
 10014192,Gray War Conflict,2025-06-27
@@ -6814,8 +6831,8 @@ title_id,title_name,release_date
 10001736,Halloween Candy Break,2020-10-13
 10003877,Halloween Candy Break 2,2021-10-01
 10003853,Halloween Candy Break 2 Head to Head,2021-09-28
-10002068,Halloween Candy Break Head to Head,2020-12-04
 10002071,Halloween Candy Break Head to Head,2020-12-04
+10002068,Halloween Candy Break Head to Head,2020-12-04
 10006106,Halloween Candy Fun,2022-10-07
 10006139,Halloween Candy Run,2022-10-21
 232227,Halloween Forever,2018-10-21
@@ -6903,6 +6920,7 @@ title_id,title_name,release_date
 10009229,HatLand - Pixel Impossible GAME OVER,2023-10-24
 201965,Hatoful Boyfriend,2015-07-20
 208474,Hatoful Boyfriend: Holiday Star,2015-12-22
+10019975,Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe,2026-10-29
 10017030,Hatsune Miku Logic Paint S,2026-03-19
 10014587,Hatsune Miku Logic Paint S+,2025-07-24
 234826,HATSUNE MIKU VR,2019-12-06
@@ -6910,6 +6928,7 @@ title_id,title_name,release_date
 216278,Hatsune Miku: Project DIVA X,2016-08-29
 216277,Hatsune Miku: VR Future Live,2016-10-12
 10005905,Hatup,2022-11-02
+10021034,Haul Yeah!,2026-12-16
 10017185,Haunt Hunter,
 10007163,Haunted - Poppy's Nightmare,2025-10-29
 10014486,Haunted Bloodlines,
@@ -6931,8 +6950,8 @@ title_id,title_name,release_date
 10019225,Hazard Pay,
 10002185,Hazel Sky,2022-07-20
 201889,HBO GO,2014-12-09
-221898,HBO Max,2021-10-13
 10007686,HBO Max,2023-05-31
+221898,HBO Max,2021-10-13
 10020938,He-Man and the Masters of the Universe™: Dragon Pearl of Destruction,2027-02-04
 10015210,Head Games,2025-08-01
 10006332,Headbangers in Holiday Hell,2022-12-21
@@ -7002,6 +7021,7 @@ title_id,title_name,release_date
 10008964,Hell Well,2023-12-13
 10012536,Hellblade II: Senua’s Saga,2025-08-12
 10013503,Hellblade: Senua’s Sacrifice,2025-08-12
+10020718,HELLBOUND INC,
 10006524,Hellboy Web of Wyrd,2023-10-18
 10002277,Hellbreachers PS4 & PS5,2021-03-24
 10016788,Hellbrella,2025-11-28
@@ -7108,6 +7128,7 @@ title_id,title_name,release_date
 10006601,Hidden Object Adventure Bundle,2025-05-08
 10006600,Hidden Object Adventure Bundle 2,2025-12-18
 10011093,Hidden Object Adventure Bundle 3,2026-09-24
+10020876,Hidden Objects,2026-10-30
 10006293,Hidden Paws,2023-12-14
 10006135,Hidden Paws Mystery,2023-02-23
 10004346,Hidden Shapes: Animals + Lovely Cats,2022-04-14
@@ -7174,8 +7195,8 @@ title_id,title_name,release_date
 10005271,Hiveswap Friendsim,2023-12-07
 10015343,HMUR,
 10017926,Ho Ho & Move,2026-01-23
-10002508,Hoa,2021-08-24
 10003695,Hoa,2022-04-05
+10002508,Hoa,2021-08-24
 10019679,Hoa 2,
 10019025,Hoarder,
 228738,Hob,2017-09-25
@@ -7326,8 +7347,8 @@ title_id,title_name,release_date
 10015567,House 2,2026-10-23
 10005439,House Builder,2022-07-15
 10018345,House Builder 2,2026-11-04
-10020844,House Cleaner Simulator,2026-11-13
 10014776,House Cleaner Simulator,2026-04-16
+10020844,House Cleaner Simulator,2026-11-13
 10013236,House Fighters: Total Mess,2025-11-07
 10000044,House Flipper,2020-02-25
 10006545,House Flipper 2,2024-04-10
@@ -7357,8 +7378,8 @@ title_id,title_name,release_date
 221896,Hue,2016-08-29
 10019375,Hue Sniper,2026-05-31
 10016786,Hula Hula Wee,2025-10-30
-10001790,Hulu,2020-10-14
 10001937,Hulu,
+10001790,Hulu,2020-10-14
 10001236,Hulu/フールー　人気の映画・ドラマ・アニメ・バラエティ・スポーツが見放題,2020-10-14
 233596,Human Anatomy VR,2023-07-23
 10016349,Human Bowling,2025-08-29
@@ -7637,6 +7658,7 @@ title_id,title_name,release_date
 223075,Inner Kung Fu Game,2016-08-03
 227380,InnerSpace,2018-01-16
 10005773,Innocence Island,2022-10-12
+10020853,Innocent Memory,
 10012209,INOUTCAR,2026-04-21
 231759,Insane Robots,2018-07-09
 10004707,Inscryption,2022-08-30
@@ -7741,6 +7763,7 @@ title_id,title_name,release_date
 10011120,Island Of Winds,
 10015381,Island Rescue,2025-06-13
 10001289,Island Saver by NatWest,2020-05-13
+10021247,Island Sort,
 10013143,"Island Survival: Craft, Build, Grow",2025-07-01
 231528,Island Time VR,2024-05-08
 10012790,Island Trouble,2025-02-28
@@ -7908,8 +7931,8 @@ title_id,title_name,release_date
 10019886,Jump in Rhythm to the Hit! Cat Disco!,2026-06-20
 10000308,Jump King,2020-06-09
 10016227,Jump Land Glow Challenge,2025-09-27
-10011937,Jump Man,2025-03-06
 10000520,Jump Man,
+10011937,Jump Man,2025-03-06
 10013388,Jump Race,2024-12-20
 222849,Jump Stars,2017-06-05
 10016695,Jump Unlock Escape,2025-09-25
@@ -8079,8 +8102,8 @@ title_id,title_name,release_date
 10014936,Kill The Emoji 2,2025-05-30
 10016820,KillCam FPS,2025-11-30
 10005847,Killer Frequency,2023-06-01
-10003978,Killer Klowns from Outer Space: The Game,
 10009210,Killer Klowns from Outer Space: The Game,2024-06-04
+10003978,Killer Klowns from Outer Space: The Game,
 221915,Killing Floor 2,2016-11-18
 10005321,Killing Floor 3,2025-07-24
 231690,Killing Floor: Incursion,2018-04-30
@@ -8107,8 +8130,8 @@ title_id,title_name,release_date
 10005107,King of Meat,2025-10-07
 10014290,King of Ping Pong: MEGAMIX,2025-09-17
 10011621,King Of Pyramid Thieves,2024-09-15
-10000830,King of Seas,2021-02-18
 10002658,King of Seas,2021-05-25
+10000830,King of Seas,2021-02-18
 10003031,King of the Hat,2023-08-24
 10013147,King of Tokyo,2026-05-21
 10017236,"King Time: Modern Weapons, Medieval Armies",2026-12-31
@@ -8156,6 +8179,7 @@ title_id,title_name,release_date
 207894,Kitten Squad,2015-09-14
 10016812,Kittengumi Short: Chapter 0,2025-10-17
 10007658,Kittengumi: The Sakabato's Thief,2023-10-13
+10021296,Kitties Solitaire,2026-10-30
 10008878,Kitty Krawler,2023-08-16
 227143,Kitty Powers' Matchmaker,2017-02-07
 10004843,Kizuna AI - Touch the Beat!,2023-02-22
@@ -8397,8 +8421,8 @@ title_id,title_name,release_date
 10014884,Legends Aligned: Minis in Conflict,2025-05-30
 10013002,Legends BMX,2025-03-28
 232896,Legends of Catalonia,2018-11-01
-10001619,Legends of Ethernal,2020-10-30
 10000667,Legends of Ethernal,2020-09-23
+10001619,Legends of Ethernal,2020-10-30
 10013116,Legends of Heropolis DX,2025-07-17
 10001980,Legends of Talia: Arcadia,2021-04-08
 10011005,Legends of the Snoot,
@@ -8522,8 +8546,8 @@ title_id,title_name,release_date
 10000925,LIGHT FANTASTIC,2020-12-31
 10008066,Light of Life,2023-04-21
 10011424,Light Snake,2024-06-10
-229188,Light Tracer,2017-09-25
 10001510,Light Tracer,2021-11-30
+229188,Light Tracer,2017-09-25
 10004406,Light Up The Room,2022-02-17
 10013485,LIGHT:Black Cat & Amnesia Girl,2026-11-05
 227416,LIGHTFIELD,2017-09-25
@@ -8642,6 +8666,7 @@ title_id,title_name,release_date
 10016555,Longboard Skate Downhill Simulator,2026-03-31
 10013213,Longvinter,
 10016563,Look Mum No Computer,2026-01-22
+10020193,Look Outside,2026-10-30
 10007108,Looking for Aliens,2023-02-10
 10019697,Looking for Fael,
 10017397,Looney Test,2025-10-31
@@ -8658,12 +8683,13 @@ title_id,title_name,release_date
 10006333,Lootbox Lyfe+,2023-02-24
 10005191,LootLite,2022-07-28
 10017966,Lord Ambermaze,2026-04-30
-10001557,Lord of the Click,2020-10-23
 10019660,Lord of the Click,2026-06-30
+10001557,Lord of the Click,2020-10-23
 10003821,Lord of the Click II,2021-10-08
 10006072,Lord of the Click III,2022-11-10
 10009137,Lord of the Click: Interstellar Wars,2023-09-27
 10007560,Lord Winklebottom Investigates,2023-10-31
+10021125,Lordcraft,
 10007918,Lords of Exile,2024-02-14
 10002848,Lords of the Fallen,2023-10-31
 202563,Lords of the Fallen (2014),2014-10-27
@@ -8765,7 +8791,7 @@ title_id,title_name,release_date
 10012402,Ludo XXL 2,2025-08-28
 10017070,Lufia I & II The Sinistrals Saga,2027-12-31
 10013340,Lulu's Temple,2025-02-21
-10013833,Luma Island,
+10013833,Luma Island,2026-12-02
 10002259,Lumberjack's Dynasty,2022-06-30
 10020210,LumenTale: Memories of Trey,
 10021161,Lumi: A Cat in the Mist,2026-12-31
@@ -8815,8 +8841,8 @@ title_id,title_name,release_date
 10015545,Mad Experiments: Escape Room - Sanctuary,
 10016127,Mad Games Tycoon 2,2026-03-26
 202765,Mad Max,2015-08-31
-10000978,Mad Rat Dead,2020-10-30
 10000500,Mad Rat Dead,2020-10-30
+10000978,Mad Rat Dead,2020-10-30
 202774,Madden NFL 16,2015-08-24
 202784,Madden NFL 17,2016-08-22
 216719,Madden NFL 18,2017-08-21
@@ -9111,8 +9137,8 @@ title_id,title_name,release_date
 10012671,Medieval Match Master,2024-11-22
 10019719,Medieval Quest,2026-06-22
 10014329,Medieval Supermarket Shop Simulator,2025-05-12
-10008138,MediEvil,2019-10-25
 234427,MediEvil,2019-10-24
+10008138,MediEvil,2019-10-25
 10009384,MediEvil II,2025-01-21
 10005032,MediEvil Resurrection™,2023-08-15
 10008931,Mediterranea Inferno PS4 & PS5,2024-03-05
@@ -9226,8 +9252,8 @@ title_id,title_name,release_date
 232571,Metal Wolf Chaos XD,2019-08-05
 10001499,Metal: Hellsinger,2022-09-15
 10010811,Metal: Hellsinger VR,2024-10-03
-10000940,Metaloid: Origin,2021-07-13
 10015923,Metaloid: Origin,2025-11-28
+10000940,Metaloid: Origin,2021-07-13
 10000555,Metamorphosis,2020-08-12
 10001029,Metaphor: ReFantazio,2024-10-11
 234034,Metaverse Keeper,2021-11-30
@@ -9278,6 +9304,7 @@ title_id,title_name,release_date
 10007132,Microarcade Rockwork,2022-11-30
 10007210,Microarcade ShapeSwarm,2023-02-23
 10011463,Microsoft Flight Simulator 2024,2025-12-08
+10021245,Microwave Simulator,
 202761,Middle-earth™: Shadow of Mordor™,2014-09-29
 216695,Middle-earth™: Shadow of War™,2017-10-09
 10018364,Middle Evil: The Priest,2026-05-15
@@ -9290,8 +9317,8 @@ title_id,title_name,release_date
 10008393,Midnight Submersion - Nightmare Horror Story,2023-08-23
 10017538,Midnight Swamp,2026-05-29
 10004571,Might & Magic: Clash of Heroes - Definitive Edition,2023-07-20
-10019284,Mighty Aphid,2026-05-31
 10003157,Mighty Aphid,2021-06-25
+10019284,Mighty Aphid,2026-05-31
 10009007,Mighty Aphid 2,2024-02-29
 10002189,Mighty Fight Federation,2021-02-25
 10001725,Mighty Goose,2021-06-05
@@ -9438,6 +9465,7 @@ title_id,title_name,release_date
 10015990,Mobile Suit Gundam: Silver Phantom,2025-11-20
 234484,Mochi Mochi Boy,2019-07-15
 233479,Modern Tales: Age of Invention,2019-01-17
+10021304,Modulink,
 10007422,Moe Waifu H,2023-04-21
 10012382,Moe Waifu H - BlockBlast,2024-10-25
 10013648,Moe Waifu H Fantasy,2025-02-18
@@ -9523,8 +9551,8 @@ title_id,title_name,release_date
 227157,Monster Slayers,2018-05-14
 10019357,Monster Slingshot Smash,2026-05-22
 10015704,Monster Spa Center Simulator,2025-07-01
-10014859,Monster Survivors,2025-04-16
 10015485,Monster Survivors,2025-10-04
+10014859,Monster Survivors,2025-04-16
 10015368,Monster Survivors: Hunting Wilds,2025-06-10
 10010256,Monster Train,2024-07-25
 10012399,Monster Train 2,2025-05-21
@@ -9663,6 +9691,7 @@ title_id,title_name,release_date
 10019432,Moving Simulator,2026-09-18
 233437,Mowin' & Throwin',2019-09-15
 10000493,MOZART'S REQUIEM,2022-09-06
+10020958,Mr Magpie's Harmless Card Game,2026-10-31
 10020287,Mr Toilet,2026-10-07
 10011252,Mr Trials,2024-09-27
 10008144,Mr. Brocco & Co.,2024-03-22
@@ -9672,7 +9701,7 @@ title_id,title_name,release_date
 10008814,Mr. Hibbl: The Lost Levels - PS4 & PS5,2023-09-09
 227406,Mr. Massagy,2017-04-03
 10004262,Mr. Prepper,2022-03-24
-10019365,MR. RECORDS,
+10019365,MR. RECORDS,2027-12-31
 10007242,Mr. Run and Jump,2023-07-25
 228790,Mr. Shifty,2017-07-10
 10019726,Mr. Sleepy Man,2026-09-30
@@ -9838,7 +9867,10 @@ title_id,title_name,release_date
 10009940,Mystery Box: Hidden Secrets,2024-02-08
 10009943,Mystery Box: The Journey,2024-02-01
 216631,Mystery Chronicle: One Way Heroics,2016-09-12
+10020713,Mystery Detective Adventure 1,
+10020751,Mystery Detective Adventure 2,
 10014629,Mystery Hotel: Hidden Objects,2025-09-30
+10021194,Mystery Suspect,
 10009194,Mystic Academy: Escape Room,2024-01-17
 10001959,Mystic Fate,2021-04-22
 10007980,Mystic Gate,2023-09-13
@@ -9943,6 +9975,7 @@ title_id,title_name,release_date
 223086,Need for Speed™ Payback,2017-11-10
 203064,Need for Speed™ Rivals,2013-11-15
 10001269,Need for Speed™ Unbound,2022-12-02
+10021208,Needle in a Haystack,2026-10-29
 10011790,NEEDY STREAMER OVERLOAD,2025-01-20
 232384,Nefarious,2018-09-10
 221958,Neighborhorde,2017-06-05
@@ -9994,8 +10027,8 @@ title_id,title_name,release_date
 10011249,Nephise: Ascension,2024-11-13
 225720,Neptune Flux,2017-08-07
 10007142,Neptunia Game Maker R:Evolution,2024-05-31
-10002169,Neptunia ReVerse,
 10002152,Neptunia ReVerse,2021-06-08
+10002169,Neptunia ReVerse,
 10009816,Neptunia Riders VS Dogoos,2025-01-31
 10001022,Neptunia Virtual Stars,2021-03-05
 10000845,Neptunia Virtual Stars,2021-03-02
@@ -10177,6 +10210,7 @@ title_id,title_name,release_date
 10005109,NNNN - Original Soundtrack,
 10018224,NO-SKIN,2026-12-31
 10018560,NO BACKUP CAMERA,2026-12-31
+10021104,No Body No Problem!,2027-12-31
 10011447,No Brakez,2024-07-10
 10019342,No Case Should Remain Unsolved,2026-08-19
 10005034,No Heroes Allowed!,2022-07-19
@@ -10203,6 +10237,7 @@ title_id,title_name,release_date
 216574,No Time To Explain,2016-03-28
 10003825,No Time to Relax,2021-12-01
 10005096,No Umbrellas Allowed,2024-07-12
+10019364,"No, I'm not a Human",
 233597,Noble Armada: Lost Worlds,2021-02-04
 10000853,Nobody Saves the World,2022-04-14
 10003635,Nobody Wants to Die,2024-07-17
@@ -10341,6 +10376,7 @@ title_id,title_name,release_date
 10007555,Offroad Truck Simulator: Heavy Duty Challenge®,2023-09-14
 224918,OGRE TALE -鬼譚-,2024-07-11
 10003788,Ogre: Console Edition,2022-05-18
+10019239,Oh Deer,
 10018975,OH DEMON! Fix my TV,
 229247,Oh My Godheads,2017-12-05
 10017558,Oh Ship! Rage Co-Op Adventure,2026-12-31
@@ -10691,9 +10727,9 @@ title_id,title_name,release_date
 10008388,Paper Ghost Stories: Third Eye Open,2024-09-05
 10009532,Paper io 2,2024-04-12
 10020884,Paper Perjury,
+10015122,Paper Plane,2025-04-25
 10018642,Paper Plane,2026-02-21
 10014873,Paper Plane,2025-04-28
-10015122,Paper Plane,2025-04-25
 10010292,Paper Plane Arena - A Medieval Fantasy,2024-11-01
 10010290,Paper Plane Arena - Lost Places,2024-04-12
 10010294,Paper Plane Arena - Shamans,2024-12-13
@@ -10814,6 +10850,8 @@ title_id,title_name,release_date
 10015779,Peachy Derby,2025-11-07
 10001601,Peacock,2020-08-20
 10008256,Peacock Beta,
+10017710,PEAK,2026-10-21
+10021272,Peak the Hills,
 10001198,Peaky Blinders: The King's Ransom Complete Edition,2023-11-02
 10011121,Pearls of Atlantis: The Cove,2024-10-01
 228810,Peasant Knight,2019-03-18
@@ -10836,6 +10874,7 @@ title_id,title_name,release_date
 10014972,People of Note,2026-04-07
 10006011,Peppa Pig: World Adventures,2023-03-17
 10011111,Pepper Grinder,2024-08-06
+10021183,Pepper the Giant Purple Dog,
 10017668,PEPPERED: An Existential Platformer,2026-04-07
 10017389,Peppermint+,2025-12-31
 228813,Perception,2018-09-26
@@ -10864,8 +10903,8 @@ title_id,title_name,release_date
 10003382,Persona 4 Golden,2023-01-19
 10011107,Persona 4 Revival,2027-02-18
 221771,Persona 5,2017-04-03
-10002771,Persona 5 Royal,2022-10-21
 234529,Persona 5 Royal,2020-03-31
+10002771,Persona 5 Royal,2022-10-21
 10005896,Persona 5 Tactica,2023-11-17
 231945,Persona 5: Dancing in Starlight,2018-12-04
 10009619,Persona 6,
@@ -11308,6 +11347,7 @@ title_id,title_name,release_date
 234596,Praetorians - HD Remaster,2020-09-18
 10001599,PRAEY FOR THE GODS,2021-12-14
 10002075,PRAGMATA,2026-04-17
+10019454,Pratfall,2027-12-31
 235288,Predator: Hunting Grounds,2020-04-24
 10011593,Predator: Hunting Grounds,2024-10-01
 10003763,Predecessor,2024-11-19
@@ -11962,6 +12002,7 @@ title_id,title_name,release_date
 10018203,Rent Car Simulator,2026-12-31
 231367,Rento Fortune,2018-01-19
 10001880,Renzo Racer,2026-02-12
+10020863,Repentant,2026-11-12
 10005798,Repentless,2022-08-23
 10013337,Repit,2025-03-20
 203665,REPLAY: VHS IS NOT DEAD,2016-02-23
@@ -12346,9 +12387,10 @@ title_id,title_name,release_date
 10005083,Rooten,2022-12-09
 10008955,Roots Of Pacha,2023-11-28
 10011840,Rope Hope,2024-09-28
+10021339,Rotten Crown,
 10008318,Rough Justice: '84,2024-01-15
-10005658,Round Invaders,2022-08-22
 10004512,Round Invaders,2022-01-26
+10005658,Round Invaders,2022-08-22
 10005800,Round Invaders Rush,2022-08-15
 10005888,Round Invaders Rush 2,2023-01-13
 203887,Roundabout,2015-05-25
@@ -12449,8 +12491,8 @@ title_id,title_name,release_date
 10017027,RUSH: Apex Edition,2025-11-06
 10004649,RUSHING BEAT X: Return Of Brawl Brothers,2026-03-19
 10008762,Russian Pinocchio,2023-10-05
-10017586,Russian Roulette Simulator,2026-12-31
 10016290,Russian Roulette Simulator,2026-12-31
+10017586,Russian Roulette Simulator,2026-12-31
 231153,Russian Subway Dogs,2023-06-28
 233072,Rust Console Edition,2021-05-21
 10008758,Rusted Moss,2024-06-20
@@ -12595,6 +12637,7 @@ title_id,title_name,release_date
 10007195,Santa Claus - Breakthrough Gaming Arcade,2022-12-25
 10018783,Santa Slide Rush,2026-04-15
 10017638,Santa´s Gifts Load,2025-11-21
+10021315,Santa´s Quest,2026-12-31
 10017588,Santa’s Christmas Story 2 The Frozen Gift War,2025-12-31
 10008471,Santas Monster Shootout,2023-05-25
 10012206,SANYA,2024-11-22
@@ -12643,12 +12686,14 @@ title_id,title_name,release_date
 10005258,Scars Above,2023-02-28
 10012595,Scary Bucketman,2024-10-15
 10018105,Scary Bunny,2027-12-31
+10021210,Scary Hot Dogs,
 10020141,Scary Shawarma: Kiosk,2026-07-31
 10010490,sCATch 2: The Painter Cat,2024-05-24
 10009749,sCATch: The Painter Cat,2024-01-08
 10008987,Scavenger Hunt: Italy,2023-07-29
 10008529,Scavenger Hunt: Switzerland,2023-06-12
 10002280,Scavengers,
+10020968,Scawy Game,
 230012,Schacht,2018-02-13
 10016538,Schedule I - Drug Dealer,2025-11-25
 10017294,Schedule: Origins,
@@ -12912,8 +12957,8 @@ title_id,title_name,release_date
 10005262,Sherlock Holmes The Awakened,2023-04-11
 235331,Sherlock Holmes: Crimes and Punishments,2020-01-09
 204526,Sherlock Holmes: Crimes and Punishments,2014-09-29
-216399,Sherlock Holmes: The Devil's Daughter,2016-10-24
 10002297,Sherlock Holmes: The Devil's Daughter,2022-11-14
+216399,Sherlock Holmes: The Devil's Daughter,2016-10-24
 10010224,Sherlock Purr 2,2024-03-15
 10008697,Shield King,2023-07-01
 10011189,Shieldwall,2024-11-08
@@ -13144,6 +13189,7 @@ title_id,title_name,release_date
 10006218,Skye Tales,2023-08-17
 222406,Skyforge,2017-03-27
 10019207,Skyforge Trails,2026-04-24
+10020901,Skygrid Courier,2026-11-11
 10011230,SkyGunner,2024-09-17
 230015,SKYHILL,2018-10-23
 227462,SkyKeepers,2017-03-30
@@ -13219,6 +13265,7 @@ title_id,title_name,release_date
 10019831,Smalland 2: Lost Realms,2026-12-31
 10008767,Smalland: Survive the Wilds,2024-02-15
 10009681,Smallthing Studios Test,
+10021248,Smartopus: IQ Quest,2026-11-30
 10016869,Smash Balls,2025-11-14
 10003176,Smash Drums,2025-05-15
 229310,Smash Hit Plunder,2018-12-11
@@ -13368,8 +13415,8 @@ title_id,title_name,release_date
 10014212,Solid Void - Nature Puzzles,2025-03-05
 10018617,Solid Void - Topsy Turvy World,2026-04-09
 10016303,Solid Void Art Nonograms,2025-11-20
-204298,Solitaire,2016-10-10
 10018695,Solitaire,2026-03-08
+204298,Solitaire,2016-10-10
 10018995,Solitaire Crime Stories Chapter 1,2026-04-01
 10018996,Solitaire Crime Stories Chapter 2,2026-04-09
 10018997,Solitaire Crime Stories Chapter 3,2026-04-16
@@ -13419,6 +13466,7 @@ title_id,title_name,release_date
 10011015,Soraja Invaders,2024-05-23
 10010504,Soraja Towers,2024-05-03
 10010796,Sorry We're Closed,2025-03-06
+10021328,Sort The Bunnies,2026-11-30
 10016785,SortCraft,2025-10-10
 10010465,SOS OPS!,2024-12-02
 204289,Soul Axiom,2016-06-06
@@ -13904,6 +13952,8 @@ title_id,title_name,release_date
 10002035,STORY OF SEASONS: Friends of Mineral Town,2021-10-15
 10010859,STORY OF SEASONS: Grand Bazaar,2026-05-28
 10003254,STORY OF SEASONS: Pioneers of Olive Town,2022-07-26
+10021313,Story Time,2026-10-30
+10021209,Story Time: Night Before Christmas,2026-12-18
 10008353,Storyblocks: The King,2024-02-23
 227195,STRAFE,2017-05-08
 233401,Straimium Immortaly,2019-12-17
@@ -14103,8 +14153,8 @@ title_id,title_name,release_date
 10000714,SUPER ANIMAL ROYALE,2021-06-01
 10004159,Super Arcade Football,2022-05-26
 10004171,Super Arcade Racing,2022-02-28
-10003465,Super Arcade Soccer 2021,2021-10-07
 10003172,Super Arcade Soccer 2021,2021-10-06
+10003465,Super Arcade Soccer 2021,2021-10-07
 10018920,Super Battle Golf,
 227458,Super Blackjack Battle 2 Turbo Edition,2018-10-08
 216402,Super Blast Deluxe,2016-12-20
@@ -14633,6 +14683,7 @@ title_id,title_name,release_date
 10008625,The 7th Guest VR,2023-10-19
 10016600,The 9th Charnel,2026-01-30
 10012998,The Abandoned Planet,2025-05-08
+10021037,The Abjuration Stand,2026-10-30
 10001698,The Addams Family: Mansion Mayhem,2021-09-24
 229867,The Adventure Pals,2018-04-02
 235312,The Adventures of 00 Dilly®,2020-02-11
@@ -14654,7 +14705,7 @@ title_id,title_name,release_date
 10013364,The Ancient Magus' Bride Midsummer Pilgrimage,2025-10-02
 10003561,The Angry 4,2021-08-29
 234412,The Angry Birds Movie 2 VR: Under Pressure,2019-08-05
-10020445,The Apothecary Diaries: The False Imperial Brother,
+10020445,The Apothecary Diaries: The False Imperial Brother,2027-03-18
 10021048,The Aquarium,
 231530,The Aquatic Adventure of the Last Human,2018-01-23
 232981,The Arcslinger,2019-03-12
@@ -14782,8 +14833,8 @@ title_id,title_name,release_date
 10015751,The Cursed Frog,2025-07-18
 10017376,The Cute Whale,2025-11-26
 10005358,The Czech Run,2022-07-09
-10001961,The Dark Crystal: Age of Resistance Tactics,
 235133,The Dark Crystal: Age of Resistance Tactics,2020-02-04
+10001961,The Dark Crystal: Age of Resistance Tactics,
 10000414,THE DARK EYE: CHAINS OF SATINAV,2021-01-27
 10000415,THE DARK EYE: MEMORIA,2021-01-27
 10001837,The Dark Pictures Anthology: House of Ashes,2021-10-22
@@ -14792,6 +14843,7 @@ title_id,title_name,release_date
 10004192,The Dark Pictures Anthology: The Devil In Me,2022-11-18
 10004042,The Dark Pictures: Switchback VR,2023-03-16
 10005902,The Dark Prophecy,2022-09-16
+10020530,The Dark Queen of Mortholme,2026-12-03
 10004477,The Darkest Tales,2022-11-10
 10001276,The Darkside Detective,2021-04-08
 10001277,The Darkside Detective: A Fumble in the Dark,2021-04-15
@@ -15607,7 +15659,9 @@ title_id,title_name,release_date
 10020488,Tidy Town,
 10016438,Tidy Toys,2025-09-04
 10020870,Tidy Up the Flower Shop,
+10021114,Tidy Up the Halloween Shop,
 10021011,Tidy Up with Friends: At the Supermarket,2026-12-31
+10021172,Tidy Up: Electronic Store Simulator,2026-11-30
 10007649,TIEBREAK – GRAND SLAM EDITION,2024-08-22
 10007116,Tiger Blade,2023-12-20
 10017071,Tiger RPG Simulator,2026-12-31
@@ -15647,8 +15701,8 @@ title_id,title_name,release_date
 10003571,Timothy's Night,2021-08-27
 10002025,Timothy and the Mysterious Forest,2021-01-22
 230054,Timothy vs the Aliens,2018-02-27
-10001082,Tin & Kuna,2020-09-11
 10000583,Tin & Kuna,2020-09-25
+10001082,Tin & Kuna,2020-09-11
 10007203,Tin Can,2023-04-27
 10002494,Tin Hearts,2023-05-16
 211920,Tina's Toy Factory,2015-08-24
@@ -15695,8 +15749,8 @@ title_id,title_name,release_date
 10009012,Titan Quest II,
 204803,Titan Souls,2015-04-13
 221813,Titanfall™ 2,2016-10-27
-10020828,Titanic Escape Simulator™,2026-12-31
 10015183,Titanic Escape Simulator™,2026-08-31
+10020828,Titanic Escape Simulator™,2026-12-31
 10016716,Titanic Survival Simulator,2026-03-13
 231189,Titanic VR,2018-11-22
 10020159,Titanium Court,2026-10-29
@@ -15961,6 +16015,7 @@ title_id,title_name,release_date
 10020264,Trash Raccoon,2026-07-19
 10003126,Trash Sailors,2021-10-06
 10016029,Trasmoz Legends,2025-09-11
+10021326,TRAUMABOX,
 10008210,Travel The Words,2023-05-30
 233528,Travis Strikes Again: No More Heroes Complete Edition,2019-10-16
 235002,Trax,2019-12-02
@@ -16217,6 +16272,7 @@ title_id,title_name,release_date
 10002305,Ultimate Ski Jumping 2020,2021-06-09
 10014127,Ultimate Sparring,2026-02-07
 10017858,Ultimate Theater Simulator,
+10020665,Ultimate Wobble Run,2026-10-30
 10013984,Ultimate Zombie Defense,2025-12-04
 233268,Ultra Age,2021-09-09
 10017321,Ultra Bonk Survivors,2025-11-27
@@ -16518,6 +16574,7 @@ title_id,title_name,release_date
 10009114,Vetrix Worlds,2023-12-21
 216752,VEV: Viva Ex Vivo VR Edition,2016-05-16
 205156,VEVO,2015-04-10
+10020627,VEXMORN,2027-01-31
 10019299,Vice: Magic City Mayhem,
 10004535,VICO,2022-12-31
 10004959,VICO 2: SAVE THE CHILDREN,2022-04-20
@@ -16714,6 +16771,7 @@ title_id,title_name,release_date
 232764,Warhammer: Vermintide 2,2018-12-14
 225003,WarhammerQuest,2017-02-21
 212119,Warhedz,2016-04-04
+10020991,Warhounds,
 10003872,Warlander,2023-05-16
 230091,Warlock's Tower,2019-05-27
 10014981,Warlock: Dungeons & Dragons,2027-12-31
@@ -17232,6 +17290,7 @@ title_id,title_name,release_date
 10017056,Yakuza Simulator,2026-12-31
 235238,Yakuza: Like A Dragon,2020-11-10
 222055,YamaYama,2017-07-10
+10020169,YAMIGATARI: FOR3ST,2026-12-09
 10019397,YAR: Forgotten Throne,2026-10-14
 10010102,Yars Rising,2024-09-10
 10005471,Yars: Recharged,2022-08-23
@@ -17263,8 +17322,8 @@ title_id,title_name,release_date
 10004168,Yomawari: Lost in the Dark,2022-10-25
 10018843,Yomawari: The Long Night Collection,2026-11-05
 10015776,Yomi 2,2026-05-13
-10002491,Yonder: The Cloud Catcher Chronicles,2021-07-27
 227249,Yonder: The Cloud Catcher Chronicles,2017-07-17
+10002491,Yonder: The Cloud Catcher Chronicles,2021-07-27
 221810,Yooka-Laylee,2017-04-10
 234377,Yooka-Laylee and the Impossible Lair,2019-10-07
 10012610,Yooka-Replaylee,2025-10-09
@@ -17338,8 +17397,8 @@ title_id,title_name,release_date
 10016673,ZERO PARADES: Director's Cut,2026-11-03
 10000330,Zero Strain,2020-08-12
 10011485,Zero the Kamikaze Squirrel,2024-10-04
-10000815,Zero Zero Zero Zero,2020-02-06
 228672,Zero Zero Zero Zero,2020-02-04
+10000815,Zero Zero Zero Zero,2020-02-06
 233431,Zeroptian Invasion,2019-04-22
 10005078,Zeus Quest - The Rebirth of Earth,2022-06-10
 231465,Zeus Quest Remastered,2018-03-18
