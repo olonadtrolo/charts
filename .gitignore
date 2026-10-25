@@ -10,6 +10,9 @@ august.py
 august.ipynb
 09_september.py
 test.ipynb
+platforms.sql
+releases_xbox.sql
+releases.sql
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
