@@ -195,7 +195,8 @@ class CSVvsDBPlotter:
                                 df_csv.index,
                                 df_csv["position"],
                                 f"{title} (CSV Dataset)",
-                                {"linestyle": "--", "marker": "x"},
+                                f"{title} (Compiled chart)",
+                                # {"linestyle": "--", "marker": "x"},
                             )
                         )
                     else:
@@ -217,7 +218,8 @@ class CSVvsDBPlotter:
                                 df_db.index,
                                 df_db["position"],
                                 f"{title} (DB Xbox US)",
-                                {"linestyle": "-", "marker": "o"},
+                                f"{title} (Xbox.com US chart)",
+                                # {"linestyle": "-", "marker": "o"},
                             )
                         )
                     else:
