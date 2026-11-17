@@ -4,12 +4,11 @@ rank,title_id,title,players,percentage,release_date
 25,10014718,Halloween: The Game,398,0.8333,2026-09-08
 35,10017405,RuneScape: Dragonwilds,276,0.5778,2026-09-15
 42,10018491,Aniimo,246,0.515,2026-09-16
-47,10015762,Once Human,213,0.4459,2026-08-24
+47,10015762,Once Human (F2P),213,0.4459,2026-08-24
 52,10013248,Onimusha: Way of the Sword,184,0.3852,2026-09-04
 68,10013855,The Blood of Dawnwalker,128,0.268,2026-09-03
-84,10017367,NHL® 27,104,0.2177,2026-09-04
+84,10017367,NHL® 27,104,0.2177,2026-09-11
 142,10014397,Valheim,54,0.1131,2026-09-09
-155,10010058,Mortal Shell II,49,0.1026,2026-08-20
 202,10009029,STAR WARS Zero Company™,34,0.0712,2026-08-27
 237,10009075,METAL GEAR SOLID: MASTER COLLECTION Vol.2,27,0.0565,2026-08-27
 253,10017920,Gladio Mori,25,0.0523,2026-09-16
@@ -26,23 +25,23 @@ rank,title_id,title,players,percentage,release_date
 754,10014858,SpeedRunners 2: King of Speed,4,0.0084,2026-09-03
 773,10016388,Active Matter,3,0.0063,2026-09-15
 867,10015413,Resonance: A Plague Tale Legacy,3,0.0063,2026-08-27
-929,10007642,Atlantis: The Lost Empire [PS1 Emulation],2,0.0042,2026-08-18
-944,10017883,Carry The Glass,2,0.0042,2026-08-31
-968,10018006,Deconstruction Simulator,2,0.0042,2026-09-10
-978,10018333,Dragon Quest Heroes: Torneko‘s Mystery Dungeon -Classic HD-,2,0.0042,2026-09-09
-983,10017332,EA SPORTS FC™ 27,2,0.0042,2026-09-25
-1001,10018725,Fortress Merge,2,0.0042,2026-09-04
-1011,10018528,Graveyard Keeper 2,2,0.0042,2026-09-22
-1036,10018993,Jonah Lomu Rugby Challenge 4 Remastered,2,0.0042,2026-08-28
-1149,10019916,Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil,2,0.0042,2026-09-09
-1155,10017650,Trails in the Sky 2nd Chapter,2,0.0042,2026-09-17
-1157,10019606,Train Sim World® 7,2,0.0042,2026-09-15
+928,10007642,Atlantis: The Lost Empire [PS1 Emulation],2,0.0042,2026-08-18
+967,10018006,Deconstruction Simulator,2,0.0042,2026-09-10
+977,10018333,Dragon Quest Heroes: Torneko‘s Mystery Dungeon -Classic HD-,2,0.0042,2026-09-09
+982,10017332,EA SPORTS FC™ 27,2,0.0042,2026-09-25
+1000,10018725,Fortress Merge,2,0.0042,2026-09-04
+1010,10018528,Graveyard Keeper 2,2,0.0042,2026-09-22
+1035,10018993,Jonah Lomu Rugby Challenge 4 Remastered,2,0.0042,2026-08-28
+1147,10019916,Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil,2,0.0042,2026-09-09
+1153,10017650,Trails in the Sky 2nd Chapter,2,0.0042,2026-09-17
+1155,10019606,Train Sim World® 7,2,0.0042,2026-09-15
+1180,10010467,Yet Another Zombie Survivors,2,0.0042,2026-08-20
 1389,10014396,Gallipoli,1,0.0021,2026-08-20
 1406,10019613,Ground Zero Hero,1,0.0021,2026-08-20
 1464,10020270,Legendary Tales 1: Stolen Life,1,0.0021,2026-09-16
 1491,10017553,Marsupilami 2 - Salsa Palombia,1,0.0021,2026-09-03
-1661,10018326,Sniper Dan,1,0.0021,2026-09-17
-1687,10015004,Starsand Island,1,0.0021,2026-08-18
-1748,10019973,The NOexistenceN of you AND me,1,0.0021,2026-09-10
-1755,10009208,The Sinking City 2,1,0.0021,2026-08-18
-1772,10020348,Together: Moon Escape,1,0.0021,2026-09-11
+1658,10018326,Sniper Dan,1,0.0021,2026-09-17
+1684,10015004,Starsand Island,1,0.0021,2026-08-18
+1745,10019973,The NOexistenceN of you AND me,1,0.0021,2026-09-10
+1752,10009208,The Sinking City 2,1,0.0021,2026-08-18
+1769,10020348,Together: Moon Escape,1,0.0021,2026-09-11

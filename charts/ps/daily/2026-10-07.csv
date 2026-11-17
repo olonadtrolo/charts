@@ -47,7 +47,7 @@ rank,title_id,title,players,percentage
 46,10010647,Forza Horizon 5,183,0.4498
 47,10017405,RuneScape: Dragonwilds,181,0.4448
 48,10000229,ASTRO's PLAYROOM,175,0.4301
-49,10000896,Genshin Impact,168,0.4129
+49,10000896,Genshin Impact 6th Anniversary,168,0.4129
 50,10007176,EA SPORTS FC™ 24,165,0.4055
 51,221852,Destiny 2,163,0.4006
 52,200763,Call of Duty®: Black Ops III,161,0.3957
@@ -62,7 +62,7 @@ rank,title_id,title,players,percentage
 61,221694,For Honor,123,0.3023
 62,10007902,DRAGON BALL: Sparking! ZERO,120,0.2949
 63,10004911,Mortal Kombat 1,118,0.29
-64,10015762,Once Human,118,0.29
+64,10015762,Once Human (F2P),118,0.29
 65,10001850,God of War Ragnarök,116,0.2851
 66,235227,Ghost of Tsushima,113,0.2777
 67,10010971,Call of Duty®: Modern Warfare® II,112,0.2753
@@ -108,7 +108,7 @@ rank,title_id,title,players,percentage
 107,232860,PUBG: BATTLEGROUNDS,69,0.1696
 108,10008740,Asphalt Legends,68,0.1671
 109,10003330,"Warhammer 40,000: Space Marine 2",68,0.1671
-110,10002363,Crimson Desert,66,0.1622
+110,10002363,Crimson Desert Enhanced,66,0.1622
 111,232391,Tom Clancy's The Division® 2,66,0.1622
 112,10014058,Delta Force,64,0.1573
 113,232374,Dying Light 2,63,0.1548
@@ -743,7 +743,7 @@ rank,title_id,title,players,percentage
 742,10014695,Aliens: Fireteam Elite 2,3,0.0074
 743,10005565,Among Us 3D: VR,3,0.0074
 744,10011009,Anno 117: Pax Romana,3,0.0074
-745,10003143,Anno 1800™ Console Edition,3,0.0074
+745,10003143,Anno 1800,3,0.0074
 746,233432,AO Tennis 2,3,0.0074
 747,205920,Assetto Corsa,3,0.0074
 748,10006316,Atomic Heart,3,0.0074
@@ -949,8 +949,8 @@ rank,title_id,title,players,percentage
 948,221868,Dragon Quest X Online,2,0.0049
 949,221177,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,2,0.0049
 950,10002862,EARTH DEFENSE FORCE 6,2,0.0049
-951,10003867,eBASEBALL POWERFUL PRO BASEBALL 2022,2,0.0049
-952,10017627,eBaseball™: PRO SPIRIT 2026,2,0.0049
+951,10017627,eBaseball™: PRO SPIRIT 2026,2,0.0049
+952,10003867,eBASEBALLパワフルプロ野球2022,2,0.0049
 953,10019616,Ecchi Crush,2,0.0049
 954,235085,Empire of Sin,2,0.0049
 955,10012639,EVERYBODY'S GOLF HOT SHOTS,2,0.0049
@@ -987,7 +987,7 @@ rank,title_id,title,players,percentage
 986,10010137,Jak and Daxter™: The Precursor Legacy,2,0.0049
 987,10004956,John Carpenter's Toxic Commando,2,0.0049
 988,10015542,Jotunnslayer: Hordes of Hel,2,0.0049
-989,10004701,Just Dance 2026 Edition,2,0.0049
+989,10004701,Just Dance: Decades of Hits,2,0.0049
 990,10000328,KINGDOM HEARTS Melody of Memory,2,0.0049
 991,232735,Kingdom: Two Crowns,2,0.0049
 992,10007589,LEGO Star Wars II: The Original Trilogy,2,0.0049
@@ -1089,7 +1089,7 @@ rank,title_id,title,players,percentage
 1088,10007126,The Thaumaturge,2,0.0049
 1089,204807,The Wolf Among Us,2,0.0049
 1090,10000707,Thief Simulator,2,0.0049
-1091,10007649,TIEBREAK: Official game of the ATP and WTA,2,0.0049
+1091,10007649,TIEBREAK – GRAND SLAM EDITION,2,0.0049
 1092,10016323,Tokyo Xtreme Racer,2,0.0049
 1093,233592,Tom Clancy’s Rainbow Six® Extraction,2,0.0049
 1094,10009018,Tony Hawk's™ Pro Skater™ 3 + 4,2,0.0049
@@ -1274,10 +1274,10 @@ rank,title_id,title,players,percentage
 1273,10003486,Eiyuden Chronicle: Rising,1,0.0025
 1274,10002570,Eldest Souls,1,0.0025
 1275,221902,Elite Dangerous,1,0.0025
-1276,10004764,Elite Sports Gaming Football,1,0.0025
-1277,10001730,Embr,1,0.0025
-1278,234806,Erica,1,0.0025
-1279,10010777,Escape the Glitch 2: Backrooms,1,0.0025
+1276,10001730,Embr,1,0.0025
+1277,234806,Erica,1,0.0025
+1278,10010777,Escape the Glitch 2: Backrooms,1,0.0025
+1279,10004764,ESG Football 27,1,0.0025
 1280,10000864,Eternal Kingdom Battle Peak,1,0.0025
 1281,10001843,Eternal Radiance,1,0.0025
 1282,209065,Everybody's Golf™,1,0.0025
@@ -1395,374 +1395,374 @@ rank,title_id,title,players,percentage
 1394,10001727,Kinopoisk,1,0.0025
 1395,207894,Kitten Squad,1,0.0025
 1396,10015504,KLETKA,1,0.0025
-1397,10017478,KYOTO XANADU -the Blooming Phantom-,1,0.0025
-1398,10003149,Lake,1,0.0025
-1399,10019066,Lamp Clicker,1,0.0025
-1400,10003583,Lawn Mowing Simulator,1,0.0025
-1401,10019300,Lawn Mowing Simulator 2,1,0.0025
-1402,10012698,Legacy of Kain: Defiance PS4 & PS5,1,0.0025
-1403,10016155,Legacy of Kain: Defiance Remastered,1,0.0025
-1404,10020592,Legendary Tales 4: Map of Hope,1,0.0025
-1405,202454,LEGO® The Hobbit™,1,0.0025
-1406,10007296,Lempo,1,0.0025
-1407,232630,Life is Strange 2,1,0.0025
-1408,229439,Life is Strange: Before the Storm,1,0.0025
-1409,10008306,Like a Dragon Gaiden: The Man Who Erased His Name PS4 & PS5,1,0.0025
-1410,10011704,Like a Dragon: Pirate Yakuza in Hawaii,1,0.0025
-1411,202533,LIMBO,1,0.0025
-1412,10007183,Living with Horses: My Horse Farm,1,0.0025
-1413,10004655,LocoRoco Midnight Carnival,1,0.0025
-1414,227869,LocoRoco™ 2 Remastered,1,0.0025
-1415,234290,Lonely Mountains: Downhill,1,0.0025
-1416,10018619,Lost Lands 7: Redemption,1,0.0025
-1417,216344,Lovers in a Dangerous Spacetime,1,0.0025
-1418,229796,Madden NFL 19,1,0.0025
-1419,10004909,MADiSON,1,0.0025
-1420,10003237,Make Way,1,0.0025
-1421,10004736,Mandragora: Whispers of the Witch Tree,1,0.0025
-1422,233079,Mark of the Ninja: Remastered,1,0.0025
-1423,10002129,Marvel's Midnight Suns,1,0.0025
-1424,227158,Marvel’s Guardians of the Galaxy: The Telltale Series,1,0.0025
-1425,227871,Mass Effect™: Andromeda,1,0.0025
-1426,225252,Megaton Rainfall,1,0.0025
-1427,10006448,Metaball,1,0.0025
-1428,10008291,Metal Eden,1,0.0025
-1429,202861,METAL GEAR SOLID V: GROUND ZEROES,1,0.0025
-1430,202880,METAL SLUG 3,1,0.0025
-1431,226459,Metro: Last Light Redux,1,0.0025
-1432,10012994,Midnight Murder Club,1,0.0025
-1433,202820,MLB® The Show™ 16,1,0.0025
-1434,231332,MLB® The Show™ 18,1,0.0025
-1435,221735,Molotov,1,0.0025
-1436,10002216,Monopoly Madness,1,0.0025
-1437,232641,Monster Energy Supercross - The Official Videogame 2,1,0.0025
-1438,234651,Monster Energy Supercross - The Official Videogame 3,1,0.0025
-1439,10000838,Monster Energy Supercross - The Official Videogame 4,1,0.0025
-1440,10013075,Monster Hunter Stories 3: Twisted Reflection,1,0.0025
-1441,10000430,Monster Jam Steel Titans 2,1,0.0025
-1442,232689,Monster Jam: Steel Titans,1,0.0025
-1443,10000346,Monster Truck Championship,1,0.0025
-1444,10013474,Monstrix TCG Card Shop,1,0.0025
-1445,10008133,Moonlighter 2: The Endless Vault,1,0.0025
-1446,10011090,Moorhuhn Kart 4,1,0.0025
-1447,221733,Moto Racer 4,1,0.0025
-1448,227399,MotoGP™17,1,0.0025
-1449,10001934,MotoGP™21,1,0.0025
-1450,10004098,MotoGP™22,1,0.0025
-1451,202645,MouseCraft,1,0.0025
-1452,10015324,Multigun,1,0.0025
-1453,229210,Mutant Football League,1,0.0025
-1454,229659,MX vs. ATV Supercross Encore,1,0.0025
-1455,233530,MXGP 2019 - The Official Motocross Videogame,1,0.0025
-1456,231327,MXGP PRO,1,0.0025
-1457,221929,MXGP2 - The Official Motocross Videogame,1,0.0025
-1458,235155,My Friend Pedro - Blood Bullets Bananas,1,0.0025
-1459,10015164,My Little Puppy,1,0.0025
-1460,10007685,My Time at Sandrock,1,0.0025
-1461,10015049,MySims™: Cozy Bundle,1,0.0025
-1462,203143,NARUTO SHIPPUDEN: Ultimate Ninja STORM 2,1,0.0025
-1463,231986,NBA 2K Playgrounds 2,1,0.0025
-1464,209689,NBA 2K14,1,0.0025
-1465,209437,NBA LIVE 16,1,0.0025
-1466,10001848,Necromunda: Hired Gun,1,0.0025
-1467,10000314,Neon Abyss,1,0.0025
-1468,10000800,New Super Lucky's Tale,1,0.0025
-1469,10019993,New York Mysteries 2: High Voltage,1,0.0025
-1470,10003749,NHRA Championship Drag Racing: Speed For All,1,0.0025
-1471,10013105,Nice Day for Fishing,1,0.0025
-1472,10002186,Niche - a genetics survival game,1,0.0025
-1473,232032,Nickelodeon Kart Racers,1,0.0025
-1474,10014501,Nicktoons & The Dice of Destiny,1,0.0025
-1475,10000272,NieR Replicant ver.1.22474487139…,1,0.0025
-1476,10001248,NINJA GAIDEN Master Collection,1,0.0025
-1477,213861,Nioh,1,0.0025
-1478,10000853,Nobody Saves the World,1,0.0025
-1479,234580,Northgard,1,0.0025
-1480,10001519,Observer: System Redux,1,0.0025
-1481,203183,Octodad: Dadliest Catch,1,0.0025
-1482,10009066,OCTOPATH TRAVELER PS4＆PS5,1,0.0025
-1483,10001785,OlliOlli World,1,0.0025
-1484,203288,ONE PIECE BURNING BLOOD,1,0.0025
-1485,229543,One Piece Unlimited World Red Deluxe Edition,1,0.0025
-1486,230008,ONRUSH™,1,0.0025
-1487,10019166,Order Automatica,1,0.0025
-1488,229826,Outer Wilds,1,0.0025
-1489,221740,Overcooked,1,0.0025
-1490,10012237,Overthrown,1,0.0025
-1491,234884,Pacify,1,0.0025
-1492,232965,Paraiso Island,1,0.0025
-1493,10003816,Parkitect: Deluxe Edition,1,0.0025
-1494,231146,Party Hard 2,1,0.0025
-1495,227969,Patapon™ Remastered,1,0.0025
-1496,10006932,Patrick's Parabox,1,0.0025
-1497,10000811,PAW PAtrol Mighty Pups Save Adventure Bay,1,0.0025
-1498,10014311,PAW Patrol™: Dino World,1,0.0025
-1499,10015043,PBA Pro Bowling 2026,1,0.0025
-1500,10000598,PHOGS!,1,0.0025
-1501,10013625,Piece Out,1,0.0025
-1502,232759,PIPE,1,0.0025
-1503,10007967,Pizza Possum,1,0.0025
-1504,10002220,PJ Masks: Heroes of the Night,1,0.0025
-1505,10011971,Platform 8,1,0.0025
-1506,221798,PlayStation® VR WORLDS,1,0.0025
-1507,10000299,POKER CLUB,1,0.0025
-1508,10015761,Police Car Simulator : EVO,1,0.0025
-1509,10011786,POOLS,1,0.0025
-1510,10010722,Poppy Playtime: Chapter 3,1,0.0025
-1511,10003295,Postal: Brain Damaged,1,0.0025
-1512,224929,Prey,1,0.0025
-1513,10002488,Primal Carnage: Evolution,1,0.0025
-1514,10005985,Prince of Persia The Lost Crown,1,0.0025
-1515,232233,Pro Fishing Simulator,1,0.0025
-1516,10006226,Professional Baseball Spirits 2024-2025,1,0.0025
-1517,203576,Project CARS,1,0.0025
-1518,221998,Project CARS 2,1,0.0025
-1519,10008195,Promise Mascot Agency,1,0.0025
-1520,10016223,Psi-Ops: The Mindgate Conspiracy,1,0.0025
-1521,10015274,PUBG: DED.NET,1,0.0025
-1522,203250,Puyo Puyo™ Tetris®,1,0.0025
-1523,10005398,Puzzle Quest 3: Match 3 RPG,1,0.0025
-1524,221982,Rain World,1,0.0025
-1525,10000875,RAJI: AN ANCIENT EPIC,1,0.0025
-1526,10017810,Ratatan,1,0.0025
-1527,10007644,Ratchet & Clank: Size Matters,1,0.0025
-1528,10005682,Ravenswatch,1,0.0025
-1529,10018900,Real Cake Maker,1,0.0025
-1530,10003812,Red Bull TV PS5,1,0.0025
-1531,231129,Remnant: From the Ashes,1,0.0025
-1532,232113,Resident Evil 0,1,0.0025
-1533,10005142,Resident Evil Director’s Cut,1,0.0025
-1534,232118,Resident Evil Revelations,1,0.0025
-1535,10004653,Resistance: Retribution,1,0.0025
-1536,10009791,Revenge of the Savage Planet,1,0.0025
-1537,10001073,RiMS Racing,1,0.0025
-1538,232985,RMC Sport,1,0.0025
-1539,10002472,RMC Sport,1,0.0025
-1540,221754,Road Rage,1,0.0025
-1541,10010255,Roboquest,1,0.0025
-1542,203701,Rock Band 4,1,0.0025
-1543,216615,Rock of Ages 2,1,0.0025
-1544,10007575,ROMANCE OF THE THREE KINGDOMS 8 REMAKE,1,0.0025
-1545,234917,Romance of the Three Kingdoms XIV,1,0.0025
-1546,10002595,Rubber Bandits,1,0.0025
-1547,233755,Rugby 20,1,0.0025
-1548,10010759,Rugrats: Adventures in Gameland,1,0.0025
-1549,10008579,S.T.A.L.K.E.R.: Call of Prypiat,1,0.0025
-1550,10008578,S.T.A.L.K.E.R.: Clear Sky,1,0.0025
-1551,204445,Saint Seiya: Soldiers' Soul,1,0.0025
-1552,213748,Saints Row: Gat out of Hell,1,0.0025
-1553,10003140,Sally Face,1,0.0025
-1554,10005069,SAROS,1,0.0025
-1555,10004085,SBK™22,1,0.0025
-1556,10016538,Schedule I - Drug Dealer,1,0.0025
-1557,210948,Screencheat,1,0.0025
-1558,231843,Scribblenauts Showdown,1,0.0025
-1559,10001098,SD GUNDAM BATTLE ALLIANCE PS4 & PS5,1,0.0025
-1560,233364,SD GUNDAM G 世代 火線縱橫,1,0.0025
-1561,10004226,Sea of Stars: Sunset Edition,1,0.0025
-1562,10011569,Seafarer: The Ship Sim,1,0.0025
-1563,232189,SEGA Mega Drive Classics,1,0.0025
-1564,204506,Serious Sam Collection,1,0.0025
-1565,10009253,Serious Sam: Shatterverse,1,0.0025
-1566,221784,Shadow Warrior 2,1,0.0025
-1567,234417,ShellShock Live,1,0.0025
-1568,10016580,Sheriff Park Ranger,1,0.0025
-1569,10000341,Shin Megami Tensei III Nocturne HD Remaster,1,0.0025
-1570,10005039,Ship of Fools,1,0.0025
-1571,10002418,Shredders,1,0.0025
-1572,10016634,SILLY POLLY BEAST,1,0.0025
-1573,10017331,Silver Pines,1,0.0025
-1574,10014385,Skate Story,1,0.0025
-1575,10002426,Skul: The Hero Slayer,1,0.0025
-1576,204293,Skullgirls 2nd Encore,1,0.0025
-1577,204277,Skulls of the Shogun,1,0.0025
-1578,204305,Slender - The Arrival,1,0.0025
-1579,10010296,Sly Cooper™ and the Thievius Raccoonus,1,0.0025
-1580,204339,Sniper Elite 3,1,0.0025
-1581,216394,Sniper Ghost Warrior 3,1,0.0025
-1582,232642,SNK 40th Anniversary Collection,1,0.0025
-1583,10008891,SNK VS. CAPCOM SVC CHAOS,1,0.0025
-1584,221785,Song of the Deep,1,0.0025
-1585,10013240,Soulstone Survivors,1,0.0025
-1586,10002535,Space Engineers,1,0.0025
-1587,10002965,Space Explore (PSVR2),1,0.0025
-1588,227988,Space Hulk: Deathwing,1,0.0025
-1589,204044,Sparkle 2,1,0.0025
-1590,10003848,SpiderHeck,1,0.0025
-1591,10019659,Splash of Color,1,0.0025
-1592,10007960,SpongeBob SquarePants™: The Patrick Star Game,1,0.0025
-1593,231764,Sportsnet,1,0.0025
-1594,204219,STAR OCEAN: Integrity and Faithlessness,1,0.0025
-1595,210465,Star Ocean®: Till The End Of Time™,1,0.0025
-1596,10010609,Star Overdrive,1,0.0025
-1597,10010584,STAR WARS The Clone Wars,1,0.0025
-1598,10002872,Star+,1,0.0025
-1599,231404,Starlit Adventures,1,0.0025
-1600,10016557,Starship Troopers: Ultimate Bug War!,1,0.0025
-1601,10017239,Starstruck Vagabond,1,0.0025
-1602,10003849,Stranded: Alien Dawn,1,0.0025
-1603,10007748,Stray Gods: The Roleplaying Musical,1,0.0025
-1604,234410,Streets of Rage 4,1,0.0025
-1605,10010312,STRIDE: Fates,1,0.0025
-1606,204227,STRIDER,1,0.0025
-1607,10013888,Stupid Never Dies,1,0.0025
-1608,204173,Styx: Master of Shadows,1,0.0025
-1609,232076,SUPER BOMBERMAN R,1,0.0025
-1610,10004838,SUPER BOMBERMAN R 2,1,0.0025
-1611,204040,Super Exploding Zoo,1,0.0025
-1612,10015730,Super Meat Boy 3D,1,0.0025
-1613,234606,Super Meat Boy Forever,1,0.0025
-1614,204042,Super Mega Baseball,1,0.0025
-1615,10007610,SUPER ROBOT WARS Y,1,0.0025
-1616,228844,SUPERHOT,1,0.0025
-1617,10009799,Survival: Fountain of Youth - Captain's Edition,1,0.0025
-1618,10001404,Syberia - The World Before,1,0.0025
-1619,10004816,SYNDUALITY Echo of Ada,1,0.0025
-1620,10001956,Tactics Ogre: Reborn,1,0.0025
-1621,230635,Taiko no Tatsujin: Drum Session!,1,0.0025
-1622,10002568,Tails Noir,1,0.0025
-1623,10002244,Tails of Iron,1,0.0025
-1624,234823,Tales of Arise,1,0.0025
-1625,10009737,Tales of Graces f Remastered,1,0.0025
-1626,10015436,Tanki Online,1,0.0025
-1627,10003612,Tchia,1,0.0025
-1628,10009199,Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants,1,0.0025
-1629,10011976,Teenage Mutant Ninja Turtles: Splintered Fate,1,0.0025
-1630,10005101,Tekken 6,1,0.0025
-1631,10005100,TEKKEN2,1,0.0025
-1632,10001023,Tennis World Tour 2,1,0.0025
-1633,10001332,Terminator: Resistance Enhanced,1,0.0025
-1634,10014096,Terminull Brigade™,1,0.0025
-1635,10012787,Terrifier: The ARTcade Game,1,0.0025
-1636,204946,The Amazing Spider-Man 2™,1,0.0025
-1637,10008245,The Casting of Frank Stone™,1,0.0025
-1638,231437,The Disappearance of Gensokyo,1,0.0025
-1639,10002458,The Forgotten City,1,0.0025
-1640,10004213,The Game of Life 2,1,0.0025
-1641,231167,The Gardens Between,1,0.0025
-1642,10010512,The Jackbox Naughty Pack,1,0.0025
-1643,10014727,The Jackbox Party Pack 11,1,0.0025
-1644,228852,The Jackbox Party Pack 4,1,0.0025
-1645,232168,The Jackbox Party Pack 5,1,0.0025
-1646,216401,THE LAST BLADE 2,1,0.0025
-1647,10005554,The Last Faith,1,0.0025
-1648,204826,The Last Guardian™,1,0.0025
-1649,231981,The Legend of Heroes: Trails of Cold Steel,1,0.0025
-1650,10002497,The Light in the Darkness,1,0.0025
-1651,229391,The Long Dark,1,0.0025
-1652,10003139,The Lord of the Rings: Gollum™,1,0.0025
-1653,10008445,The Lord of the Rings: Return to Moria™,1,0.0025
-1654,10010865,The Lord of the Rings: War in the North™ - Legacy Edition,1,0.0025
-1655,10006285,The Mortuary Assistant,1,0.0025
-1656,205041,The Order: 1886,1,0.0025
-1657,233096,The Pathless,1,0.0025
-1658,10018182,The Planet Crafter,1,0.0025
-1659,10008902,The Precinct,1,0.0025
-1660,10001836,The Quintessential Quintuplets - Memories of a Quintessential Summer,1,0.0025
-1661,10010147,The Relic: First Guardian,1,0.0025
-1662,10010362,The Smurfs - Village Party,1,0.0025
-1663,232932,The Sojourn,1,0.0025
-1664,232357,The Surge 2,1,0.0025
-1665,10007284,The Walking Dead: Saints & Sinners,1,0.0025
-1666,204873,The Walking Dead: Season 2,1,0.0025
-1667,232722,They Are Billions,1,0.0025
-1668,204538,Thief,1,0.0025
-1669,10008991,Thief Simulator VR: Greenview Street,1,0.0025
-1670,223177,This Is the Police,1,0.0025
-1671,10003699,This War of Mine: Final Cut,1,0.0025
-1672,204740,This War of Mine: The Little Ones,1,0.0025
-1673,10008669,Thunder Ray,1,0.0025
-1674,10003778,Thymesia,1,0.0025
-1675,10010194,Ticket to Ride®,1,0.0025
-1676,10016535,TIME CRISIS,1,0.0025
-1677,10002494,Tin Hearts,1,0.0025
-1678,227245,Titan Quest,1,0.0025
-1679,233481,Touhou Hyouibana　～ Antinomy of Common Flowers.,1,0.0025
-1680,233287,Tour de France 2019,1,0.0025
-1681,10007452,Tour de France 2023,1,0.0025
-1682,10009776,Tour de France 2024,1,0.0025
-1683,10017761,Tour de France 2026,1,0.0025
-1684,10005364,Tower of Fantasy,1,0.0025
-1685,204996,TowerFall Ascension,1,0.0025
-1686,232733,Toy Stunt Bike: Tiptop's Trials,1,0.0025
-1687,10015062,Train Sim World 6,1,0.0025
-1688,10015452,Tralalero Tralala Jumper,1,0.0025
-1689,229520,Transference,1,0.0025
-1690,205065,TRANSFORMERS: Devastation,1,0.0025
-1691,205062,TRANSFORMERS: Rise of the Dark Spark,1,0.0025
-1692,10007968,Trepang2,1,0.0025
-1693,10012776,TRIANGLE STRATEGY,1,0.0025
-1694,10019997,Tricky doors,1,0.0025
-1695,10000325,TrollHunters,1,0.0025
-1696,232234,Truck Driver,1,0.0025
-1697,10015537,Truck Simulator 25: Euro Driver VR,1,0.0025
-1698,10002483,TSUKIHIME -A piece of blue glass moon-,1,0.0025
-1699,234779,TT Isle of Man - Ride on the Edge 2,1,0.0025
-1700,10002475,TUNIC,1,0.0025
-1701,10008366,Twisted Metal,1,0.0025
-1702,10013707,Twisted Metal™ III,1,0.0025
-1703,213305,Twisted Metal™: Black,1,0.0025
-1704,10001458,Two Point Campus,1,0.0025
-1705,235268,TY the Tasmanian Tiger™,1,0.0025
-1706,10007629,UFO ROBOT GRENDIZER – The Feast of the Wolves,1,0.0025
-1707,10008360,Ultimate General: Gettysburg,1,0.0025
-1708,228660,Uncharted 3: Drake's Deception™ Remastered,1,0.0025
-1709,231650,Unravel TWO,1,0.0025
-1710,10008190,Urbek City Builder,1,0.0025
-1711,10019069,Used Cars Simulator,1,0.0025
-1712,221797,Valentino Rossi The Game,1,0.0025
-1713,205194,Valiant Hearts: The Great War,1,0.0025
-1714,230138,Valkyria Chronicles 4,1,0.0025
-1715,10002493,Vampire: The Masquerade - Bloodhunt,1,0.0025
-1716,10007767,Vampire: The Masquerade® - Bloodlines™ 2,1,0.0025
-1717,224994,Vikings: Wolves of Midgard,1,0.0025
-1718,10015221,Virtua Fighter 5 R.E.V.O. World Stage,1,0.0025
-1719,10008215,Visions of Mana,1,0.0025
-1720,10009826,Voidtrain,1,0.0025
-1721,10003851,Walkabout Mini Golf,1,0.0025
-1722,229872,Wargroove,1,0.0025
-1723,231180,"Warhammer 40,000: Inquisitor - Martyr",1,0.0025
-1724,226937,WARRIORS OROCHI 3 Ultimate,1,0.0025
-1725,10012449,WARRIORS: Abyss,1,0.0025
-1726,10001633,WE WERE HERE,1,0.0025
-1727,10007597,We Were Here Expeditions: The FriendShip,1,0.0025
-1728,10013208,Weed Lord Simulator,1,0.0025
-1729,10014965,WEED SHOP SIMULATOR,1,0.0025
-1730,234709,Werewolf: The Apocalypse - Earthblood,1,0.0025
-1731,228885,White Day:a labyrinth named school,1,0.0025
-1732,10016610,Who's at the door?,1,0.0025
-1733,10001104,Who Wants to Be a Millionaire?,1,0.0025
-1734,10005513,Wild Arms 2,1,0.0025
-1735,10017088,Winning Post 10 2026,1,0.0025
-1736,231177,Wizard of Legend,1,0.0025
-1737,10004448,Wizard with a Gun,1,0.0025
-1738,10017860,Wo Long 2: Wings of Ember,1,0.0025
-1739,205292,Wolfenstein®: The New Order,1,0.0025
-1740,205293,Wolfenstein®: The Old Blood,1,0.0025
-1741,10001676,WONDER BOY ASHA in Monster World,1,0.0025
-1742,10005255,World of Outlaws: Dirt Racing,1,0.0025
-1743,10000898,Worms Rumble,1,0.0025
-1744,10004900,Worms World Party [PS1 Emulation],1,0.0025
-1745,10018477,Wrap House Simulator,1,0.0025
-1746,205372,WRC 5 FIA World Rally Championship,1,0.0025
-1747,10000579,WRC 9 FIA World Rally Championship,1,0.0025
-1748,10019326,Wreck Runners,1,0.0025
-1749,213360,WWE 2K16,1,0.0025
-1750,10001814,WWE 2K22,1,0.0025
-1751,10015829,Yakuza 0 Director's Cut,1,0.0025
-1752,205421,YAKUZA 3,1,0.0025
-1753,10015219,Yakuza Kiwami 3 & Dark Ties PS4 & PS5,1,0.0025
-1754,235411,Yet Another Zombie Defense HD,1,0.0025
-1755,10010467,Yet Another Zombie Survivors,1,0.0025
-1756,221809,Ys VIII: Lacrimosa of DANA,1,0.0025
-1757,205441,Yu-Gi-Oh! Legacy of the Duelist,1,0.0025
-1758,205514,ZOMBI,1,0.0025
-1759,205522,Zombie Army Trilogy,1,0.0025
-1760,10006184,Zombie Army VR,1,0.0025
-1761,10009096,Zumba Garden,1,0.0025
-1762,219818,テイルズ オブ ベルセリア,1,0.0025
-1763,204990,トロピコ5,1,0.0025
-1764,203931,三國志12 対戦版,1,0.0025
+1397,10003149,Lake,1,0.0025
+1398,10019066,Lamp Clicker,1,0.0025
+1399,10003583,Lawn Mowing Simulator,1,0.0025
+1400,10019300,Lawn Mowing Simulator 2,1,0.0025
+1401,10012698,Legacy of Kain: Defiance PS4 & PS5,1,0.0025
+1402,10016155,Legacy of Kain: Defiance Remastered,1,0.0025
+1403,10020592,Legendary Tales 4: Map of Hope,1,0.0025
+1404,202454,LEGO® The Hobbit™,1,0.0025
+1405,10007296,Lempo,1,0.0025
+1406,232630,Life is Strange 2,1,0.0025
+1407,229439,Life is Strange: Before the Storm,1,0.0025
+1408,10008306,Like a Dragon Gaiden: The Man Who Erased His Name PS4 & PS5,1,0.0025
+1409,10011704,Like a Dragon: Pirate Yakuza in Hawaii,1,0.0025
+1410,202533,LIMBO,1,0.0025
+1411,10007183,Living with Horses: My Horse Farm,1,0.0025
+1412,10004655,LocoRoco Midnight Carnival,1,0.0025
+1413,227869,LocoRoco™ 2 Remastered,1,0.0025
+1414,234290,Lonely Mountains: Downhill,1,0.0025
+1415,10018619,Lost Lands 7: Redemption,1,0.0025
+1416,216344,Lovers in a Dangerous Spacetime,1,0.0025
+1417,229796,Madden NFL 19,1,0.0025
+1418,10004909,MADiSON,1,0.0025
+1419,10003237,Make Way,1,0.0025
+1420,10004736,Mandragora: Whispers of the Witch Tree,1,0.0025
+1421,233079,Mark of the Ninja: Remastered,1,0.0025
+1422,10002129,Marvel's Midnight Suns,1,0.0025
+1423,227158,Marvel’s Guardians of the Galaxy: The Telltale Series,1,0.0025
+1424,227871,Mass Effect™: Andromeda,1,0.0025
+1425,225252,Megaton Rainfall,1,0.0025
+1426,10006448,Metaball,1,0.0025
+1427,10008291,Metal Eden,1,0.0025
+1428,202861,METAL GEAR SOLID V: GROUND ZEROES,1,0.0025
+1429,202880,METAL SLUG 3,1,0.0025
+1430,226459,Metro: Last Light Redux,1,0.0025
+1431,10012994,Midnight Murder Club,1,0.0025
+1432,202820,MLB® The Show™ 16,1,0.0025
+1433,231332,MLB® The Show™ 18,1,0.0025
+1434,221735,Molotov,1,0.0025
+1435,10002216,Monopoly Madness,1,0.0025
+1436,232641,Monster Energy Supercross - The Official Videogame 2,1,0.0025
+1437,234651,Monster Energy Supercross - The Official Videogame 3,1,0.0025
+1438,10000838,Monster Energy Supercross - The Official Videogame 4,1,0.0025
+1439,10013075,Monster Hunter Stories 3: Twisted Reflection,1,0.0025
+1440,10000430,Monster Jam Steel Titans 2,1,0.0025
+1441,232689,Monster Jam: Steel Titans,1,0.0025
+1442,10000346,Monster Truck Championship,1,0.0025
+1443,10013474,Monstrix TCG Card Shop,1,0.0025
+1444,10008133,Moonlighter 2: The Endless Vault,1,0.0025
+1445,10011090,Moorhuhn Kart 4,1,0.0025
+1446,221733,Moto Racer 4,1,0.0025
+1447,227399,MotoGP™17,1,0.0025
+1448,10001934,MotoGP™21,1,0.0025
+1449,10004098,MotoGP™22,1,0.0025
+1450,202645,MouseCraft,1,0.0025
+1451,10015324,Multigun,1,0.0025
+1452,229210,Mutant Football League,1,0.0025
+1453,229659,MX vs. ATV Supercross Encore,1,0.0025
+1454,233530,MXGP 2019 - The Official Motocross Videogame,1,0.0025
+1455,231327,MXGP PRO,1,0.0025
+1456,221929,MXGP2 - The Official Motocross Videogame,1,0.0025
+1457,235155,My Friend Pedro - Blood Bullets Bananas,1,0.0025
+1458,10015164,My Little Puppy,1,0.0025
+1459,10007685,My Time at Sandrock,1,0.0025
+1460,10015049,MySims™: Cozy Bundle,1,0.0025
+1461,203143,NARUTO SHIPPUDEN: Ultimate Ninja STORM 2,1,0.0025
+1462,231986,NBA 2K Playgrounds 2,1,0.0025
+1463,209689,NBA 2K14,1,0.0025
+1464,209437,NBA LIVE 16,1,0.0025
+1465,10001848,Necromunda: Hired Gun,1,0.0025
+1466,10000314,Neon Abyss,1,0.0025
+1467,10000800,New Super Lucky's Tale,1,0.0025
+1468,10019993,New York Mysteries 2: High Voltage,1,0.0025
+1469,10003749,NHRA Championship Drag Racing: Speed For All,1,0.0025
+1470,10013105,Nice Day for Fishing,1,0.0025
+1471,10002186,Niche - a genetics survival game,1,0.0025
+1472,232032,Nickelodeon Kart Racers,1,0.0025
+1473,10014501,Nicktoons & The Dice of Destiny,1,0.0025
+1474,10000272,NieR Replicant ver.1.22474487139…,1,0.0025
+1475,10001248,NINJA GAIDEN Master Collection,1,0.0025
+1476,213861,Nioh,1,0.0025
+1477,10000853,Nobody Saves the World,1,0.0025
+1478,234580,Northgard,1,0.0025
+1479,10001519,Observer: System Redux,1,0.0025
+1480,203183,Octodad: Dadliest Catch,1,0.0025
+1481,10009066,OCTOPATH TRAVELER PS4＆PS5,1,0.0025
+1482,10001785,OlliOlli World,1,0.0025
+1483,203288,ONE PIECE BURNING BLOOD,1,0.0025
+1484,229543,One Piece Unlimited World Red Deluxe Edition,1,0.0025
+1485,230008,ONRUSH™,1,0.0025
+1486,10019166,Order Automatica,1,0.0025
+1487,229826,Outer Wilds,1,0.0025
+1488,221740,Overcooked,1,0.0025
+1489,10012237,Overthrown,1,0.0025
+1490,234884,Pacify,1,0.0025
+1491,232965,Paraiso Island,1,0.0025
+1492,10003816,Parkitect: Deluxe Edition,1,0.0025
+1493,231146,Party Hard 2,1,0.0025
+1494,227969,Patapon™ Remastered,1,0.0025
+1495,10006932,Patrick's Parabox,1,0.0025
+1496,10000811,PAW PAtrol Mighty Pups Save Adventure Bay,1,0.0025
+1497,10014311,PAW Patrol™: Dino World,1,0.0025
+1498,10015043,PBA Pro Bowling 2026,1,0.0025
+1499,10000598,PHOGS!,1,0.0025
+1500,10013625,Piece Out,1,0.0025
+1501,232759,PIPE,1,0.0025
+1502,10007967,Pizza Possum,1,0.0025
+1503,10002220,PJ Masks: Heroes of the Night,1,0.0025
+1504,10011971,Platform 8,1,0.0025
+1505,221798,PlayStation® VR WORLDS,1,0.0025
+1506,10000299,POKER CLUB,1,0.0025
+1507,10015761,Police Car Simulator : EVO,1,0.0025
+1508,10011786,POOLS,1,0.0025
+1509,10010722,Poppy Playtime: Chapter 3,1,0.0025
+1510,10003295,Postal: Brain Damaged,1,0.0025
+1511,224929,Prey,1,0.0025
+1512,10002488,Primal Carnage: Evolution,1,0.0025
+1513,10005985,Prince of Persia The Lost Crown,1,0.0025
+1514,232233,Pro Fishing Simulator,1,0.0025
+1515,203576,Project CARS,1,0.0025
+1516,221998,Project CARS 2,1,0.0025
+1517,10008195,Promise Mascot Agency,1,0.0025
+1518,10016223,Psi-Ops: The Mindgate Conspiracy,1,0.0025
+1519,10015274,PUBG: DED.NET,1,0.0025
+1520,203250,Puyo Puyo™ Tetris®,1,0.0025
+1521,10005398,Puzzle Quest 3: Match 3 RPG,1,0.0025
+1522,221982,Rain World,1,0.0025
+1523,10000875,RAJI: AN ANCIENT EPIC,1,0.0025
+1524,10017810,Ratatan,1,0.0025
+1525,10007644,Ratchet & Clank: Size Matters,1,0.0025
+1526,10005682,Ravenswatch,1,0.0025
+1527,10018900,Real Cake Maker,1,0.0025
+1528,10003812,Red Bull TV PS5,1,0.0025
+1529,231129,Remnant: From the Ashes,1,0.0025
+1530,232113,Resident Evil 0,1,0.0025
+1531,10005142,Resident Evil Director’s Cut,1,0.0025
+1532,232118,Resident Evil Revelations,1,0.0025
+1533,10004653,Resistance: Retribution,1,0.0025
+1534,10009791,Revenge of the Savage Planet,1,0.0025
+1535,10001073,RiMS Racing,1,0.0025
+1536,10002472,RMC Sport,1,0.0025
+1537,232985,RMC Sport,1,0.0025
+1538,221754,Road Rage,1,0.0025
+1539,10010255,Roboquest,1,0.0025
+1540,203701,Rock Band 4,1,0.0025
+1541,216615,Rock of Ages 2,1,0.0025
+1542,10007575,ROMANCE OF THE THREE KINGDOMS 8 REMAKE,1,0.0025
+1543,234917,Romance of the Three Kingdoms XIV,1,0.0025
+1544,10002595,Rubber Bandits,1,0.0025
+1545,233755,Rugby 20,1,0.0025
+1546,10010759,Rugrats: Adventures in Gameland,1,0.0025
+1547,10008579,S.T.A.L.K.E.R.: Call of Prypiat,1,0.0025
+1548,10008578,S.T.A.L.K.E.R.: Clear Sky,1,0.0025
+1549,204445,Saint Seiya: Soldiers' Soul,1,0.0025
+1550,213748,Saints Row: Gat out of Hell,1,0.0025
+1551,10003140,Sally Face,1,0.0025
+1552,10005069,SAROS,1,0.0025
+1553,10004085,SBK™22,1,0.0025
+1554,10016538,Schedule I - Drug Dealer,1,0.0025
+1555,210948,Screencheat,1,0.0025
+1556,231843,Scribblenauts Showdown,1,0.0025
+1557,10001098,SD GUNDAM BATTLE ALLIANCE PS4 & PS5,1,0.0025
+1558,233364,SD GUNDAM G 世代 火線縱橫,1,0.0025
+1559,10004226,Sea of Stars: Sunset Edition,1,0.0025
+1560,10011569,Seafarer: The Ship Sim,1,0.0025
+1561,232189,SEGA Mega Drive Classics,1,0.0025
+1562,204506,Serious Sam Collection,1,0.0025
+1563,10009253,Serious Sam: Shatterverse,1,0.0025
+1564,221784,Shadow Warrior 2,1,0.0025
+1565,234417,ShellShock Live,1,0.0025
+1566,10016580,Sheriff Park Ranger,1,0.0025
+1567,10000341,Shin Megami Tensei III Nocturne HD Remaster,1,0.0025
+1568,10005039,Ship of Fools,1,0.0025
+1569,10002418,Shredders,1,0.0025
+1570,10016634,SILLY POLLY BEAST,1,0.0025
+1571,10017331,Silver Pines,1,0.0025
+1572,10014385,Skate Story,1,0.0025
+1573,10002426,Skul: The Hero Slayer,1,0.0025
+1574,204293,Skullgirls 2nd Encore,1,0.0025
+1575,204277,Skulls of the Shogun,1,0.0025
+1576,204305,Slender - The Arrival,1,0.0025
+1577,10010296,Sly Cooper™ and the Thievius Raccoonus,1,0.0025
+1578,204339,Sniper Elite 3,1,0.0025
+1579,216394,Sniper Ghost Warrior 3,1,0.0025
+1580,232642,SNK 40th Anniversary Collection,1,0.0025
+1581,10008891,SNK VS. CAPCOM SVC CHAOS,1,0.0025
+1582,221785,Song of the Deep,1,0.0025
+1583,10013240,Soulstone Survivors,1,0.0025
+1584,10002535,Space Engineers,1,0.0025
+1585,10002965,Space Explore (PSVR2),1,0.0025
+1586,227988,Space Hulk: Deathwing,1,0.0025
+1587,204044,Sparkle 2,1,0.0025
+1588,10003848,SpiderHeck,1,0.0025
+1589,10019659,Splash of Color,1,0.0025
+1590,10007960,SpongeBob SquarePants™: The Patrick Star Game,1,0.0025
+1591,231764,Sportsnet,1,0.0025
+1592,204219,STAR OCEAN: Integrity and Faithlessness,1,0.0025
+1593,210465,Star Ocean®: Till The End Of Time™,1,0.0025
+1594,10010609,Star Overdrive,1,0.0025
+1595,10010584,STAR WARS The Clone Wars,1,0.0025
+1596,10002872,Star+,1,0.0025
+1597,231404,Starlit Adventures,1,0.0025
+1598,10016557,Starship Troopers: Ultimate Bug War!,1,0.0025
+1599,10017239,Starstruck Vagabond,1,0.0025
+1600,10003849,Stranded: Alien Dawn,1,0.0025
+1601,10007748,Stray Gods: The Roleplaying Musical,1,0.0025
+1602,234410,Streets of Rage 4,1,0.0025
+1603,10010312,STRIDE: Fates,1,0.0025
+1604,204227,STRIDER,1,0.0025
+1605,10013888,Stupid Never Dies,1,0.0025
+1606,204173,Styx: Master of Shadows,1,0.0025
+1607,232076,SUPER BOMBERMAN R,1,0.0025
+1608,10004838,SUPER BOMBERMAN R 2,1,0.0025
+1609,204040,Super Exploding Zoo,1,0.0025
+1610,10015730,Super Meat Boy 3D,1,0.0025
+1611,234606,Super Meat Boy Forever,1,0.0025
+1612,204042,Super Mega Baseball,1,0.0025
+1613,10007610,SUPER ROBOT WARS Y,1,0.0025
+1614,228844,SUPERHOT,1,0.0025
+1615,10009799,Survival: Fountain of Youth - Captain's Edition,1,0.0025
+1616,10001404,Syberia - The World Before,1,0.0025
+1617,10004816,SYNDUALITY Echo of Ada,1,0.0025
+1618,10001956,Tactics Ogre: Reborn,1,0.0025
+1619,230635,Taiko no Tatsujin: Drum Session!,1,0.0025
+1620,10002568,Tails Noir,1,0.0025
+1621,10002244,Tails of Iron,1,0.0025
+1622,234823,Tales of Arise,1,0.0025
+1623,10009737,Tales of Graces f Remastered,1,0.0025
+1624,10015436,Tanki Online,1,0.0025
+1625,10003612,Tchia,1,0.0025
+1626,10009199,Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants,1,0.0025
+1627,10011976,Teenage Mutant Ninja Turtles: Splintered Fate,1,0.0025
+1628,10005101,Tekken 6,1,0.0025
+1629,10005100,TEKKEN2,1,0.0025
+1630,10001023,Tennis World Tour 2,1,0.0025
+1631,10001332,Terminator: Resistance Enhanced,1,0.0025
+1632,10014096,Terminull Brigade™,1,0.0025
+1633,10012787,Terrifier: The ARTcade Game,1,0.0025
+1634,204946,The Amazing Spider-Man 2™,1,0.0025
+1635,10008245,The Casting of Frank Stone™,1,0.0025
+1636,231437,The Disappearance of Gensokyo,1,0.0025
+1637,10002458,The Forgotten City,1,0.0025
+1638,10004213,The Game of Life 2,1,0.0025
+1639,231167,The Gardens Between,1,0.0025
+1640,10010512,The Jackbox Naughty Pack,1,0.0025
+1641,10014727,The Jackbox Party Pack 11,1,0.0025
+1642,228852,The Jackbox Party Pack 4,1,0.0025
+1643,232168,The Jackbox Party Pack 5,1,0.0025
+1644,216401,THE LAST BLADE 2,1,0.0025
+1645,10005554,The Last Faith,1,0.0025
+1646,204826,The Last Guardian™,1,0.0025
+1647,231981,The Legend of Heroes: Trails of Cold Steel,1,0.0025
+1648,10002497,The Light in the Darkness: Director's Cut,1,0.0025
+1649,229391,The Long Dark,1,0.0025
+1650,10003139,The Lord of the Rings: Gollum™,1,0.0025
+1651,10008445,The Lord of the Rings: Return to Moria™,1,0.0025
+1652,10010865,The Lord of the Rings: War in the North™ - Legacy Edition,1,0.0025
+1653,10006285,The Mortuary Assistant,1,0.0025
+1654,205041,The Order: 1886,1,0.0025
+1655,233096,The Pathless,1,0.0025
+1656,10018182,The Planet Crafter,1,0.0025
+1657,10008902,The Precinct,1,0.0025
+1658,10001836,The Quintessential Quintuplets - Memories of a Quintessential Summer,1,0.0025
+1659,10010147,The Relic: First Guardian,1,0.0025
+1660,10010362,The Smurfs - Village Party,1,0.0025
+1661,232932,The Sojourn,1,0.0025
+1662,232357,The Surge 2,1,0.0025
+1663,10007284,The Walking Dead: Saints & Sinners,1,0.0025
+1664,204873,The Walking Dead: Season 2,1,0.0025
+1665,232722,They Are Billions,1,0.0025
+1666,204538,Thief,1,0.0025
+1667,10008991,Thief Simulator VR: Greenview Street,1,0.0025
+1668,223177,This Is the Police,1,0.0025
+1669,10003699,This War of Mine: Final Cut,1,0.0025
+1670,204740,This War of Mine: The Little Ones,1,0.0025
+1671,10008669,Thunder Ray,1,0.0025
+1672,10003778,Thymesia,1,0.0025
+1673,10010194,Ticket to Ride®,1,0.0025
+1674,10016535,TIME CRISIS,1,0.0025
+1675,10002494,Tin Hearts,1,0.0025
+1676,227245,Titan Quest,1,0.0025
+1677,233481,Touhou Hyouibana　～ Antinomy of Common Flowers.,1,0.0025
+1678,233287,Tour de France 2019,1,0.0025
+1679,10007452,Tour de France 2023,1,0.0025
+1680,10009776,Tour de France 2024,1,0.0025
+1681,10017761,Tour de France 2026,1,0.0025
+1682,10005364,Tower of Fantasy,1,0.0025
+1683,204996,TowerFall Ascension,1,0.0025
+1684,232733,Toy Stunt Bike: Tiptop's Trials,1,0.0025
+1685,10015062,Train Sim World 6,1,0.0025
+1686,10015452,Tralalero Tralala Jumper,1,0.0025
+1687,229520,Transference,1,0.0025
+1688,205065,TRANSFORMERS: Devastation,1,0.0025
+1689,205062,TRANSFORMERS: Rise of the Dark Spark,1,0.0025
+1690,10007968,Trepang2,1,0.0025
+1691,10012776,TRIANGLE STRATEGY,1,0.0025
+1692,10019997,Tricky doors,1,0.0025
+1693,10000325,TrollHunters,1,0.0025
+1694,232234,Truck Driver,1,0.0025
+1695,10015537,Truck Simulator 25: Euro Driver VR,1,0.0025
+1696,10002483,TSUKIHIME -A piece of blue glass moon-,1,0.0025
+1697,234779,TT Isle of Man - Ride on the Edge 2,1,0.0025
+1698,10002475,TUNIC,1,0.0025
+1699,10008366,Twisted Metal,1,0.0025
+1700,10013707,Twisted Metal™ III,1,0.0025
+1701,213305,Twisted Metal™: Black,1,0.0025
+1702,10001458,Two Point Campus,1,0.0025
+1703,235268,TY the Tasmanian Tiger™,1,0.0025
+1704,10007629,UFO ROBOT GRENDIZER – The Feast of the Wolves,1,0.0025
+1705,10008360,Ultimate General: Gettysburg,1,0.0025
+1706,228660,Uncharted 3: Drake's Deception™ Remastered,1,0.0025
+1707,231650,Unravel TWO,1,0.0025
+1708,10008190,Urbek City Builder,1,0.0025
+1709,10019069,Used Cars Simulator,1,0.0025
+1710,221797,Valentino Rossi The Game,1,0.0025
+1711,205194,Valiant Hearts: The Great War,1,0.0025
+1712,230138,Valkyria Chronicles 4,1,0.0025
+1713,10002493,Vampire: The Masquerade - Bloodhunt,1,0.0025
+1714,10007767,Vampire: The Masquerade® - Bloodlines™ 2,1,0.0025
+1715,224994,Vikings: Wolves of Midgard,1,0.0025
+1716,10015221,Virtua Fighter 5 R.E.V.O. World Stage,1,0.0025
+1717,10008215,Visions of Mana,1,0.0025
+1718,10009826,Voidtrain,1,0.0025
+1719,10003851,Walkabout Mini Golf,1,0.0025
+1720,229872,Wargroove,1,0.0025
+1721,231180,"Warhammer 40,000: Inquisitor - Martyr",1,0.0025
+1722,226937,WARRIORS OROCHI 3 Ultimate,1,0.0025
+1723,10012449,WARRIORS: Abyss,1,0.0025
+1724,10001633,WE WERE HERE,1,0.0025
+1725,10007597,We Were Here Expeditions: The FriendShip,1,0.0025
+1726,10013208,Weed Lord Simulator,1,0.0025
+1727,10014965,WEED SHOP SIMULATOR,1,0.0025
+1728,234709,Werewolf: The Apocalypse - Earthblood,1,0.0025
+1729,228885,White Day:a labyrinth named school,1,0.0025
+1730,10016610,Who's at the door?,1,0.0025
+1731,10001104,Who Wants to Be a Millionaire?,1,0.0025
+1732,10005513,Wild Arms 2,1,0.0025
+1733,10017088,Winning Post 10 2026,1,0.0025
+1734,231177,Wizard of Legend,1,0.0025
+1735,10004448,Wizard with a Gun,1,0.0025
+1736,10017860,Wo Long 2: Wings of Ember,1,0.0025
+1737,205292,Wolfenstein®: The New Order,1,0.0025
+1738,205293,Wolfenstein®: The Old Blood,1,0.0025
+1739,10001676,WONDER BOY ASHA in Monster World,1,0.0025
+1740,10005255,World of Outlaws: Dirt Racing,1,0.0025
+1741,10000898,Worms Rumble,1,0.0025
+1742,10004900,Worms World Party [PS1 Emulation],1,0.0025
+1743,10018477,Wrap House Simulator,1,0.0025
+1744,205372,WRC 5 FIA World Rally Championship,1,0.0025
+1745,10000579,WRC 9 FIA World Rally Championship,1,0.0025
+1746,10019326,Wreck Runners,1,0.0025
+1747,213360,WWE 2K16,1,0.0025
+1748,10001814,WWE 2K22,1,0.0025
+1749,10015829,Yakuza 0 Director's Cut,1,0.0025
+1750,205421,YAKUZA 3,1,0.0025
+1751,10015219,Yakuza Kiwami 3 & Dark Ties PS4 & PS5,1,0.0025
+1752,235411,Yet Another Zombie Defense HD,1,0.0025
+1753,10010467,Yet Another Zombie Survivors,1,0.0025
+1754,221809,Ys VIII: Lacrimosa of DANA,1,0.0025
+1755,205441,Yu-Gi-Oh! Legacy of the Duelist,1,0.0025
+1756,205514,ZOMBI,1,0.0025
+1757,205522,Zombie Army Trilogy,1,0.0025
+1758,10006184,Zombie Army VR,1,0.0025
+1759,10009096,Zumba Garden,1,0.0025
+1760,219818,テイルズ オブ ベルセリア,1,0.0025
+1761,204990,トロピコ5,1,0.0025
+1762,10006226,プロ野球スピリッツ2024-2025,1,0.0025
+1763,203931,三國志12 対戦版,1,0.0025
+1764,10017478,亰都ザナドゥ -桜花幻舞-,1,0.0025
 1765,201415,地球防衛軍４.１ THE SHADOW OF NEW DESPAIR,1,0.0025
 1766,235035,妖怪ウォッチ4++,1,0.0025
 1767,217754,龍が如く６　命の詩。,1,0.0025

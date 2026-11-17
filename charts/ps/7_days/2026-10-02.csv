@@ -56,7 +56,7 @@ rank,title_id,title,players,percentage
 55,234567,Cyberpunk 2077,2121,0.5624
 56,221852,Destiny 2,2050,0.5436
 57,10001850,God of War Ragnarök,2029,0.538
-58,10000896,Genshin Impact,1957,0.5189
+58,10000896,Genshin Impact 6th Anniversary,1957,0.5189
 59,10000333,ELDEN RING,1918,0.5086
 60,230079,The Last of Us™ Part II,1851,0.4908
 61,235227,Ghost of Tsushima,1737,0.4606
@@ -71,7 +71,7 @@ rank,title_id,title,players,percentage
 70,221694,For Honor,1566,0.4153
 71,10007902,DRAGON BALL: Sparking! ZERO,1560,0.4137
 72,205342,Warframe,1551,0.4113
-73,10015762,Once Human,1518,0.4025
+73,10015762,Once Human (F2P),1518,0.4025
 74,234659,Need for Speed™ Heat,1498,0.3972
 75,10013248,Onimusha: Way of the Sword,1452,0.385
 76,10011349,REMATCH,1445,0.3832
@@ -90,7 +90,7 @@ rank,title_id,title,players,percentage
 89,10005176,Monster Hunter Wilds,1170,0.3103
 90,10006270,TEKKEN 8,1170,0.3103
 91,202943,Mortal Kombat X,1167,0.3095
-92,10002363,Crimson Desert,1128,0.2991
+92,10002363,Crimson Desert Enhanced,1128,0.2991
 93,10009326,EA SPORTS™ Madden NFL 25,1106,0.2933
 94,232374,Dying Light 2,1068,0.2832
 95,228857,The Sims™ 4,1055,0.2798
@@ -769,7 +769,7 @@ rank,title_id,title,players,percentage
 768,10004658,Sonic Superstars,57,0.0151
 769,232492,Beat Saber,56,0.0148
 770,10000586,Dragon Age™: The Veilguard,56,0.0148
-771,10004701,Just Dance 2026 Edition,56,0.0148
+771,10004701,Just Dance: Decades of Hits,56,0.0148
 772,221915,Killing Floor 2,56,0.0148
 773,216051,BioShock: The Collection,55,0.0146
 774,216078,Broforce,55,0.0146
@@ -826,7 +826,7 @@ rank,title_id,title,players,percentage
 825,10011465,Project Motor Racing,50,0.0133
 826,221759,SpeedRunners,50,0.0133
 827,10005163,Still Wakes the Deep,50,0.0133
-828,10002497,The Light in the Darkness,50,0.0133
+828,10002497,The Light in the Darkness: Director's Cut,50,0.0133
 829,222227,Clicker Heroes,49,0.013
 830,10013889,Cricket 26 - The Official Game of the Ashes,49,0.013
 831,222250,Don't Starve Together: Console Edition,49,0.013
@@ -867,7 +867,7 @@ rank,title_id,title,players,percentage
 866,10012545,MARVEL Cosmic Invasion,45,0.0119
 867,229826,Outer Wilds,45,0.0119
 868,235039,Planet Coaster: Console Edition,45,0.0119
-869,10007649,TIEBREAK: Official game of the ATP and WTA,45,0.0119
+869,10007649,TIEBREAK – GRAND SLAM EDITION,45,0.0119
 870,10013799,AFL 26,44,0.0117
 871,10014719,Beast of Reincarnation,44,0.0117
 872,10011448,CODE VEIN II,44,0.0117
@@ -898,7 +898,7 @@ rank,title_id,title,players,percentage
 897,10013086,SpongeBob SquarePants: Titans of the Tide,42,0.0111
 898,10008554,STAR WARS™: Battlefront Classic Collection,42,0.0111
 899,10013520,Stellaris: Console Edition PS5,42,0.0111
-900,10003143,Anno 1800™ Console Edition,41,0.0109
+900,10003143,Anno 1800,41,0.0109
 901,206125,ARCADE GAME SERIES: PAC-MAN,41,0.0109
 902,10017298,CloverPit,41,0.0109
 903,10009413,DAVE THE DIVER,41,0.0109
@@ -1269,19 +1269,19 @@ rank,title_id,title,players,percentage
 1268,227431,Oddworld: Soulstorm,19,0.005
 1269,227401,OUTRIDERS,19,0.005
 1270,224929,Prey,19,0.005
-1271,10006226,Professional Baseball Spirits 2024-2025,19,0.005
-1272,10008428,Romancing SaGa 2: Revenge of the Seven - PS4&PS5,19,0.005
-1273,232076,SUPER BOMBERMAN R,19,0.005
-1274,10001020,Swordsman VR,19,0.005
-1275,234823,Tales of Arise,19,0.005
-1276,10005100,TEKKEN2,19,0.005
-1277,10007988,Thank Goodness You're Here!,19,0.005
-1278,10002666,The Invincible,19,0.005
-1279,10003392,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,19,0.005
-1280,10011796,The Outer Worlds 2,19,0.005
-1281,204538,Thief,19,0.005
-1282,10005573,TT Isle Of Man: Ride on the Edge 3,19,0.005
-1283,217727,WWE 2K17,19,0.005
+1271,10008428,Romancing SaGa 2: Revenge of the Seven - PS4&PS5,19,0.005
+1272,232076,SUPER BOMBERMAN R,19,0.005
+1273,10001020,Swordsman VR,19,0.005
+1274,234823,Tales of Arise,19,0.005
+1275,10005100,TEKKEN2,19,0.005
+1276,10007988,Thank Goodness You're Here!,19,0.005
+1277,10002666,The Invincible,19,0.005
+1278,10003392,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,19,0.005
+1279,10011796,The Outer Worlds 2,19,0.005
+1280,204538,Thief,19,0.005
+1281,10005573,TT Isle Of Man: Ride on the Edge 3,19,0.005
+1282,217727,WWE 2K17,19,0.005
+1283,10006226,プロ野球スピリッツ2024-2025,19,0.005
 1284,10003916,ACA NEOGEO THE KING OF FIGHTERS 2002,18,0.0048
 1285,10005351,Aliens: Dark Descent,18,0.0048
 1286,233432,AO Tennis 2,18,0.0048
@@ -1440,8 +1440,8 @@ rank,title_id,title,players,percentage
 1439,233628,Concrete Genie,14,0.0037
 1440,10010018,DRAGON QUEST III HD-2D Remake,14,0.0037
 1441,10008842,DRAGON QUEST VII Reimagined,14,0.0037
-1442,10004764,Elite Sports Gaming Football,14,0.0037
-1443,234806,Erica,14,0.0037
+1442,234806,Erica,14,0.0037
+1443,10004764,ESG Football 27,14,0.0037
 1444,10011662,Fears to Fathom - Ironbark Lookout,14,0.0037
 1445,232285,Fishing Sim World,14,0.0037
 1446,10000846,Forspoken,14,0.0037
@@ -1777,69 +1777,69 @@ rank,title_id,title,players,percentage
 1776,233994,Ys IX: Monstrum Nox,9,0.0024
 1777,205514,ZOMBI,9,0.0024
 1778,10007645,2Xtreme,8,0.0021
-1779,10019715,AA Truck Simulator Euro Roads 2026,8,0.0021
-1780,222909,ABSOLVER,8,0.0021
-1781,10007306,Aces of Thunder,8,0.0021
-1782,10004880,Achilles: Legends Untold,8,0.0021
-1783,216042,ARCADE GAME SERIES: DIG DUG,8,0.0021
-1784,229724,Black Clover: Quartet Knights,8,0.0021
-1785,10001709,Chef Life: A Restaurant Simulator,8,0.0021
-1786,10008639,Choo-Choo Charles,8,0.0021
-1787,10004780,Coffee Talk Episode 2: Hibiscus & Butterfly,8,0.0021
-1788,10003353,Dakar Desert Rally,8,0.0021
-1789,227688,Darksiders III,8,0.0021
-1790,10004750,Destroy All Humans! Clone Carnage,8,0.0021
-1791,10012029,Dog Man: Mission Impawsible,8,0.0021
-1792,10010965,DoubleDragon Revive,8,0.0021
-1793,231073,DRAGON QUEST BUILDERS 2,8,0.0021
-1794,10009882,Espresso,8,0.0021
-1795,10008015,F1® Manager 2023,8,0.0021
-1796,229048,Fate/EXTELLA LINK,8,0.0021
-1797,10004348,Firefighting Simulator - The Squad PS4™ & PS5™,8,0.0021
-1798,232563,Firewall Zero Hour™,8,0.0021
-1799,10009469,Funko Fusion,8,0.0021
-1800,234562,Garfield Kart Furious Racing,8,0.0021
-1801,10009582,Halloween Puzzle,8,0.0021
-1802,201916,Hasbro Family Fun Pack,8,0.0021
-1803,10014870,Haste,8,0.0021
-1804,10002709,Isonzo,8,0.0021
-1805,10007600,Jak and Daxter: The Lost Frontier,8,0.0021
-1806,10006168,Jusant,8,0.0021
-1807,10000646,Knockout City™,8,0.0021
-1808,202363,Kung Fu Panda: Showdown of Legendary Legends,8,0.0021
-1809,10012698,Legacy of Kain: Defiance PS4 & PS5,8,0.0021
-1810,234592,Marvel's Iron Man VR,8,0.0021
-1811,10004169,Megaman Battle Network Legacy Collection,8,0.0021
-1812,203150,NARUTO: Ultimate Ninja STORM,8,0.0021
-1813,10019822,New York Mysteries 1: Secrets of the Mafia,8,0.0021
-1814,217490,NHL™ 17,8,0.0021
-1815,232995,Ni no Kuni Wrath of the White Witch™ Remastered,8,0.0021
-1816,232032,Nickelodeon Kart Racers,8,0.0021
-1817,10001133,NOBUNAGA'S AMBITION: Awakening,8,0.0021
-1818,10005197,Oddworld: Abe's Oddysee (PS1 emulation),8,0.0021
-1819,10005141,OMORI,8,0.0021
-1820,10011533,Onimusha 2: Samurai's Destiny,8,0.0021
-1821,10014122,Orcs Must Die! Deathtrap,8,0.0021
-1822,203447,Pinball Arcade,8,0.0021
-1823,217710,Plague Inc: Evolved,8,0.0021
-1824,10003503,Redbox,8,0.0021
-1825,10003593,Road 96,8,0.0021
-1826,210699,Sébastien Loeb Rally EVO,8,0.0021
-1827,10011143,Slay the Princess - The Pristine Cut,8,0.0021
-1828,10013240,Soulstone Survivors,8,0.0021
-1829,10010584,STAR WARS The Clone Wars,8,0.0021
-1830,10001837,The Dark Pictures Anthology: House of Ashes,8,0.0021
-1831,228639,The Last of Us™ Left Behind Remastered,8,0.0021
-1832,10004087,The Matrix Awakens: An Unreal Engine 5 Experience,8,0.0021
-1833,232357,The Surge 2,8,0.0021
-1834,10007126,The Thaumaturge,8,0.0021
-1835,232129,The Walking Dead: The Final Season,8,0.0021
-1836,204807,The Wolf Among Us,8,0.0021
-1837,10004517,THEATRHYTHM FINAL BAR LINE,8,0.0021
-1838,232723,Thronebreaker: The Witcher Tales,8,0.0021
-1839,10012764,Tour de France 2025,8,0.0021
-1840,10015452,Tralalero Tralala Jumper,8,0.0021
-1841,10002134,Trek to Yomi,8,0.0021
+1779,222909,ABSOLVER,8,0.0021
+1780,10007306,Aces of Thunder,8,0.0021
+1781,10004880,Achilles: Legends Untold,8,0.0021
+1782,216042,ARCADE GAME SERIES: DIG DUG,8,0.0021
+1783,229724,Black Clover: Quartet Knights,8,0.0021
+1784,10001709,Chef Life: A Restaurant Simulator,8,0.0021
+1785,10008639,Choo-Choo Charles,8,0.0021
+1786,10004780,Coffee Talk Episode 2: Hibiscus & Butterfly,8,0.0021
+1787,10003353,Dakar Desert Rally,8,0.0021
+1788,227688,Darksiders III,8,0.0021
+1789,10004750,Destroy All Humans! Clone Carnage,8,0.0021
+1790,10012029,Dog Man: Mission Impawsible,8,0.0021
+1791,10010965,DoubleDragon Revive,8,0.0021
+1792,231073,DRAGON QUEST BUILDERS 2,8,0.0021
+1793,10009882,Espresso,8,0.0021
+1794,10008015,F1® Manager 2023,8,0.0021
+1795,229048,Fate/EXTELLA LINK,8,0.0021
+1796,10004348,Firefighting Simulator - The Squad PS4™ & PS5™,8,0.0021
+1797,232563,Firewall Zero Hour™,8,0.0021
+1798,10009469,Funko Fusion,8,0.0021
+1799,234562,Garfield Kart Furious Racing,8,0.0021
+1800,10009582,Halloween Puzzle,8,0.0021
+1801,201916,Hasbro Family Fun Pack,8,0.0021
+1802,10014870,Haste,8,0.0021
+1803,10002709,Isonzo,8,0.0021
+1804,10007600,Jak and Daxter: The Lost Frontier,8,0.0021
+1805,10006168,Jusant,8,0.0021
+1806,10000646,Knockout City™,8,0.0021
+1807,202363,Kung Fu Panda: Showdown of Legendary Legends,8,0.0021
+1808,10012698,Legacy of Kain: Defiance PS4 & PS5,8,0.0021
+1809,234592,Marvel's Iron Man VR,8,0.0021
+1810,10004169,Megaman Battle Network Legacy Collection,8,0.0021
+1811,203150,NARUTO: Ultimate Ninja STORM,8,0.0021
+1812,10019822,New York Mysteries 1: Secrets of the Mafia,8,0.0021
+1813,217490,NHL™ 17,8,0.0021
+1814,232995,Ni no Kuni Wrath of the White Witch™ Remastered,8,0.0021
+1815,232032,Nickelodeon Kart Racers,8,0.0021
+1816,10001133,NOBUNAGA'S AMBITION: Awakening,8,0.0021
+1817,10005197,Oddworld: Abe's Oddysee (PS1 emulation),8,0.0021
+1818,10005141,OMORI,8,0.0021
+1819,10011533,Onimusha 2: Samurai's Destiny,8,0.0021
+1820,10014122,Orcs Must Die! Deathtrap,8,0.0021
+1821,203447,Pinball Arcade,8,0.0021
+1822,217710,Plague Inc: Evolved,8,0.0021
+1823,10003503,Redbox,8,0.0021
+1824,10003593,Road 96,8,0.0021
+1825,210699,Sébastien Loeb Rally EVO,8,0.0021
+1826,10011143,Slay the Princess - The Pristine Cut,8,0.0021
+1827,10013240,Soulstone Survivors,8,0.0021
+1828,10010584,STAR WARS The Clone Wars,8,0.0021
+1829,10001837,The Dark Pictures Anthology: House of Ashes,8,0.0021
+1830,228639,The Last of Us™ Left Behind Remastered,8,0.0021
+1831,10004087,The Matrix Awakens: An Unreal Engine 5 Experience,8,0.0021
+1832,232357,The Surge 2,8,0.0021
+1833,10007126,The Thaumaturge,8,0.0021
+1834,232129,The Walking Dead: The Final Season,8,0.0021
+1835,204807,The Wolf Among Us,8,0.0021
+1836,10004517,THEATRHYTHM FINAL BAR LINE,8,0.0021
+1837,232723,Thronebreaker: The Witcher Tales,8,0.0021
+1838,10012764,Tour de France 2025,8,0.0021
+1839,10015452,Tralalero Tralala Jumper,8,0.0021
+1840,10002134,Trek to Yomi,8,0.0021
+1841,10019715,Truck Simulator Euro Roads 2026,8,0.0021
 1842,10013707,Twisted Metal™ III,8,0.0021
 1843,10003373,Ultros,8,0.0021
 1844,205194,Valiant Hearts: The Great War,8,0.0021
@@ -2105,7 +2105,7 @@ rank,title_id,title,players,percentage
 2104,10014600,Duskfade,5,0.0013
 2105,10001407,DYNASTY WARRIORS 9 Empires,5,0.0013
 2106,233450,DYSMANTLE,5,0.0013
-2107,10003867,eBASEBALL POWERFUL PRO BASEBALL 2022,5,0.0013
+2107,10003867,eBASEBALLパワフルプロ野球2022,5,0.0013
 2108,10003484,Eiyuden Chronicle: Hundred Heroes,5,0.0013
 2109,10002570,Eldest Souls,5,0.0013
 2110,10018062,Ember and Blade,5,0.0013
@@ -2416,58 +2416,58 @@ rank,title_id,title,players,percentage
 2415,232356,Super Destronaut DX,4,0.0011
 2416,232150,Super Kids Racing,4,0.0011
 2417,10015730,Super Meat Boy 3D,4,0.0011
-2418,10001183,Super Robot Wars 30,4,0.0011
-2419,210292,Super Star Wars,4,0.0011
-2420,10013941,Supermarket Manager Simulator,4,0.0011
-2421,10004603,Syphon Filter 2,4,0.0011
-2422,10005946,Syphon Filter 3,4,0.0011
-2423,10004429,System Shock,4,0.0011
-2424,10003077,Tales of Symphonia Remastered,4,0.0011
-2425,215974,Tearaway™ Unfolded,4,0.0011
-2426,10009199,Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants,4,0.0011
-2427,10011758,Tennis Elbow 4,4,0.0011
-2428,10012469,Terminator 2D: NO FATE,4,0.0011
-2429,10002458,The Forgotten City,4,0.0011
-2430,231167,The Gardens Between,4,0.0011
-2431,10003342,THE HOUSE OF THE DEAD: Remake,4,0.0011
-2432,10011082,"The Legend of Heroes: KAI NO KISEKI -Farewell, O Zemuria-",4,0.0011
-2433,232098,The Legend of Heroes: Trails of Cold Steel IV,4,0.0011
-2434,10001886,The Legend of Heroes: Trails through Daybreak,4,0.0011
-2435,10003139,The Lord of the Rings: Gollum™,4,0.0011
-2436,10009390,The Midnight Walk,4,0.0011
-2437,234385,The Survivalists,4,0.0011
-2438,10011616,The Thing: Remastered,4,0.0011
-2439,10002918,The Tomorrow Children: Phoenix Edition,4,0.0011
-2440,10005089,The Walking Dead: Saints & Sinners - Chapter 2: Retribution,4,0.0011
-2441,228881,The Walking Dead: The Telltale Series - Collection,4,0.0011
-2442,10007618,Thrillville,4,0.0011
-2443,10007620,Thrillville: Off the Rails,4,0.0011
-2444,211798,Thumper,4,0.0011
-2445,10003658,Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,4,0.0011
-2446,10008232,TOSS!,4,0.0011
-2447,10008908,Touhou Luna Nights,4,0.0011
-2448,10007452,Tour de France 2023,4,0.0011
-2449,10014850,Towerborne,4,0.0011
-2450,233992,Townsmen - A Kingdom Rebuilt,4,0.0011
-2451,10001327,Toy Soldiers HD,4,0.0011
-2452,10004889,Train Sim World 3,4,0.0011
-2453,10012776,TRIANGLE STRATEGY,4,0.0011
-2454,10007533,Trine 5: A Clockwork Conspiracy,4,0.0011
-2455,10013081,Truck Simulator 25: Euro Driver,4,0.0011
-2456,234779,TT Isle of Man - Ride on the Edge 2,4,0.0011
-2457,10009733,Turbo Overkill,4,0.0011
-2458,10002432,TY the Tasmanian Tiger 2: Bush Rescue HD,4,0.0011
-2459,10010534,Ultra Kingdoms,4,0.0011
-2460,10009766,UNBEATABLE,4,0.0011
-2461,10015221,Virtua Fighter 5 R.E.V.O. World Stage,4,0.0011
-2462,10018788,VORON: Raven's Story,4,0.0011
-2463,205340,War of the Monsters™,4,0.0011
-2464,10005624,We Love Katamari REROLL+ Royal Reverie,4,0.0011
-2465,10004730,Wildgate,4,0.0011
-2466,231177,Wizard of Legend,4,0.0011
-2467,10011882,Wizard of Legend 2,4,0.0011
-2468,10004900,Worms World Party [PS1 Emulation],4,0.0011
-2469,10003293,Zenith: The Last City,4,0.0011
+2418,210292,Super Star Wars,4,0.0011
+2419,10013941,Supermarket Manager Simulator,4,0.0011
+2420,10004603,Syphon Filter 2,4,0.0011
+2421,10005946,Syphon Filter 3,4,0.0011
+2422,10004429,System Shock,4,0.0011
+2423,10003077,Tales of Symphonia Remastered,4,0.0011
+2424,215974,Tearaway™ Unfolded,4,0.0011
+2425,10009199,Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants,4,0.0011
+2426,10011758,Tennis Elbow 4,4,0.0011
+2427,10012469,Terminator 2D: NO FATE,4,0.0011
+2428,10002458,The Forgotten City,4,0.0011
+2429,231167,The Gardens Between,4,0.0011
+2430,10003342,THE HOUSE OF THE DEAD: Remake,4,0.0011
+2431,232098,The Legend of Heroes: Trails of Cold Steel IV,4,0.0011
+2432,10001886,The Legend of Heroes: Trails through Daybreak,4,0.0011
+2433,10003139,The Lord of the Rings: Gollum™,4,0.0011
+2434,10009390,The Midnight Walk,4,0.0011
+2435,234385,The Survivalists,4,0.0011
+2436,10011616,The Thing: Remastered,4,0.0011
+2437,10002918,The Tomorrow Children: Phoenix Edition,4,0.0011
+2438,10005089,The Walking Dead: Saints & Sinners - Chapter 2: Retribution,4,0.0011
+2439,228881,The Walking Dead: The Telltale Series - Collection,4,0.0011
+2440,10007618,Thrillville,4,0.0011
+2441,10007620,Thrillville: Off the Rails,4,0.0011
+2442,211798,Thumper,4,0.0011
+2443,10003658,Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,4,0.0011
+2444,10008232,TOSS!,4,0.0011
+2445,10008908,Touhou Luna Nights,4,0.0011
+2446,10007452,Tour de France 2023,4,0.0011
+2447,10014850,Towerborne,4,0.0011
+2448,233992,Townsmen - A Kingdom Rebuilt,4,0.0011
+2449,10001327,Toy Soldiers HD,4,0.0011
+2450,10004889,Train Sim World 3,4,0.0011
+2451,10012776,TRIANGLE STRATEGY,4,0.0011
+2452,10007533,Trine 5: A Clockwork Conspiracy,4,0.0011
+2453,10013081,Truck Simulator 25: Euro Driver,4,0.0011
+2454,234779,TT Isle of Man - Ride on the Edge 2,4,0.0011
+2455,10009733,Turbo Overkill,4,0.0011
+2456,10002432,TY the Tasmanian Tiger 2: Bush Rescue HD,4,0.0011
+2457,10010534,Ultra Kingdoms,4,0.0011
+2458,10009766,UNBEATABLE,4,0.0011
+2459,10015221,Virtua Fighter 5 R.E.V.O. World Stage,4,0.0011
+2460,10018788,VORON: Raven's Story,4,0.0011
+2461,205340,War of the Monsters™,4,0.0011
+2462,10005624,We Love Katamari REROLL+ Royal Reverie,4,0.0011
+2463,10004730,Wildgate,4,0.0011
+2464,231177,Wizard of Legend,4,0.0011
+2465,10011882,Wizard of Legend 2,4,0.0011
+2466,10004900,Worms World Party [PS1 Emulation],4,0.0011
+2467,10003293,Zenith: The Last City,4,0.0011
+2468,10001183,スーパ－ロボット大戦30,4,0.0011
+2469,10011082,"英雄伝説 界の軌跡 -Farewell, O Zemuria-",4,0.0011
 2470,230675,.hack//G.U. Last Recode,3,0.0008
 2471,232395,9 Monkeys of Shaolin,3,0.0008
 2472,209645,ACA NEOGEO METAL SLUG,3,0.0008
@@ -2748,66 +2748,66 @@ rank,title_id,title,players,percentage
 2747,204757,THE KING OF FIGHTERS 2000™,3,0.0008
 2748,10004463,THE KING OF FIGHTERS XIII GLOBAL MATCH,3,0.0008
 2749,231876,THE LAST REMNANT Remastered,3,0.0008
-2750,10000489,The Legend of Heroes: Hajimari no Kiseki,3,0.0008
-2751,232681,The Sinking City,3,0.0008
-2752,10002353,The Smurfs - Mission Vileaf,3,0.0008
-2753,10019963,The Walking Dead: Streets of Survival,3,0.0008
-2754,10010587,Thief Simulator 2,3,0.0008
-2755,10008991,Thief Simulator VR: Greenview Street,3,0.0008
-2756,204740,This War of Mine: The Little Ones,3,0.0008
-2757,10000449,Timberman VS,3,0.0008
-2758,10002494,Tin Hearts,3,0.0008
-2759,204976,Tiny Troopers Joint Ops,3,0.0008
-2760,204920,Tony Hawk's® Pro Skater™ 5,3,0.0008
-2761,10007776,Toodee and Topdee,3,0.0008
-2762,10009275,Tools Up! - Ultimate Edition,3,0.0008
-2763,10016442,Total Chaos,3,0.0008
-2764,233481,Touhou Hyouibana　～ Antinomy of Common Flowers.,3,0.0008
-2765,10004423,Tour de France 2022,3,0.0008
-2766,10000539,Train Sim World 2,3,0.0008
-2767,10008114,Train Sim World® 4,3,0.0008
-2768,213681,TRANSFORMERS: Fall of Cybertron,3,0.0008
-2769,234756,Trials of Mana,3,0.0008
-2770,216382,Trials of the Blood Dragon™,3,0.0008
-2771,226957,Trine Enchanted Edition,3,0.0008
-2772,221794,TRON RUN/r,3,0.0008
-2773,10016158,TUNG TUNG SAHUR EXTREME,3,0.0008
-2774,10002477,Twelve Minutes,3,0.0008
-2775,235268,TY the Tasmanian Tiger™,3,0.0008
-2776,216535,UEFA EURO 2016 / PES 2016,3,0.0008
-2777,10007629,UFO ROBOT GRENDIZER – The Feast of the Wolves,3,0.0008
-2778,228660,Uncharted 3: Drake's Deception™ Remastered,3,0.0008
-2779,228659,Uncharted™ 2: Among Thieves Remastered,3,0.0008
-2780,10001989,Unknown 9: Awakening,3,0.0008
-2781,10015599,Unrailed 2: Back on Track,3,0.0008
-2782,10001076,Unspottable,3,0.0008
-2783,10004486,Until Then,3,0.0008
-2784,10000591,Until You Fall,3,0.0008
-2785,232743,Unturned,3,0.0008
-2786,233978,Valfaris,3,0.0008
-2787,226977,Valkyria Chronicles,3,0.0008
-2788,230138,Valkyria Chronicles 4,3,0.0008
-2789,205179,Videoland,3,0.0008
-2790,223215,VirZOOM Arcade,3,0.0008
-2791,10014205,Void Crew,3,0.0008
-2792,10007230,VR Skater,3,0.0008
-2793,10003851,Walkabout Mini Golf,3,0.0008
-2794,235199,War Theatre: Blood of Winter,3,0.0008
-2795,10016640,"Warhammer 40,000: Speed Freeks",3,0.0008
-2796,10001636,WE WERE HERE TOO,3,0.0008
-2797,10019691,Welcome to Kowloon,3,0.0008
-2798,10005724,Welcome to ParadiZe,3,0.0008
-2799,227569,White Noise 2,3,0.0008
-2800,10016610,Who's at the door?,3,0.0008
-2801,10005513,Wild Arms 2,3,0.0008
-2802,10001003,Wingspan,3,0.0008
-2803,10012854,Winning Post 10 2025,3,0.0008
-2804,205500,WORLD OF FINAL FANTASY,3,0.0008
-2805,10005975,Wreckreation,3,0.0008
-2806,232712,Xenon Racer,3,0.0008
-2807,10007199,Ys X: Nordics,3,0.0008
-2808,234972,Zombie Driver: Immortal Edition,3,0.0008
-2809,10000226,Zombies Ate My Neighbors and Ghoul Patrol,3,0.0008
+2750,232681,The Sinking City,3,0.0008
+2751,10002353,The Smurfs - Mission Vileaf,3,0.0008
+2752,10019963,The Walking Dead: Streets of Survival,3,0.0008
+2753,10010587,Thief Simulator 2,3,0.0008
+2754,10008991,Thief Simulator VR: Greenview Street,3,0.0008
+2755,204740,This War of Mine: The Little Ones,3,0.0008
+2756,10000449,Timberman VS,3,0.0008
+2757,10002494,Tin Hearts,3,0.0008
+2758,204976,Tiny Troopers Joint Ops,3,0.0008
+2759,204920,Tony Hawk's® Pro Skater™ 5,3,0.0008
+2760,10007776,Toodee and Topdee,3,0.0008
+2761,10009275,Tools Up! - Ultimate Edition,3,0.0008
+2762,10016442,Total Chaos,3,0.0008
+2763,233481,Touhou Hyouibana　～ Antinomy of Common Flowers.,3,0.0008
+2764,10004423,Tour de France 2022,3,0.0008
+2765,10000539,Train Sim World 2,3,0.0008
+2766,10008114,Train Sim World® 4,3,0.0008
+2767,213681,TRANSFORMERS: Fall of Cybertron,3,0.0008
+2768,234756,Trials of Mana,3,0.0008
+2769,216382,Trials of the Blood Dragon™,3,0.0008
+2770,226957,Trine Enchanted Edition,3,0.0008
+2771,221794,TRON RUN/r,3,0.0008
+2772,10016158,TUNG TUNG SAHUR EXTREME,3,0.0008
+2773,10002477,Twelve Minutes,3,0.0008
+2774,235268,TY the Tasmanian Tiger™,3,0.0008
+2775,216535,UEFA EURO 2016 / PES 2016,3,0.0008
+2776,10007629,UFO ROBOT GRENDIZER – The Feast of the Wolves,3,0.0008
+2777,228660,Uncharted 3: Drake's Deception™ Remastered,3,0.0008
+2778,228659,Uncharted™ 2: Among Thieves Remastered,3,0.0008
+2779,10001989,Unknown 9: Awakening,3,0.0008
+2780,10015599,Unrailed 2: Back on Track,3,0.0008
+2781,10001076,Unspottable,3,0.0008
+2782,10004486,Until Then,3,0.0008
+2783,10000591,Until You Fall,3,0.0008
+2784,232743,Unturned,3,0.0008
+2785,233978,Valfaris,3,0.0008
+2786,226977,Valkyria Chronicles,3,0.0008
+2787,230138,Valkyria Chronicles 4,3,0.0008
+2788,205179,Videoland,3,0.0008
+2789,223215,VirZOOM Arcade,3,0.0008
+2790,10014205,Void Crew,3,0.0008
+2791,10007230,VR Skater,3,0.0008
+2792,10003851,Walkabout Mini Golf,3,0.0008
+2793,235199,War Theatre: Blood of Winter,3,0.0008
+2794,10016640,"Warhammer 40,000: Speed Freeks",3,0.0008
+2795,10001636,WE WERE HERE TOO,3,0.0008
+2796,10019691,Welcome to Kowloon,3,0.0008
+2797,10005724,Welcome to ParadiZe,3,0.0008
+2798,227569,White Noise 2,3,0.0008
+2799,10016610,Who's at the door?,3,0.0008
+2800,10005513,Wild Arms 2,3,0.0008
+2801,10001003,Wingspan,3,0.0008
+2802,10012854,Winning Post 10 2025,3,0.0008
+2803,205500,WORLD OF FINAL FANTASY,3,0.0008
+2804,10005975,Wreckreation,3,0.0008
+2805,232712,Xenon Racer,3,0.0008
+2806,10007199,Ys X: Nordics,3,0.0008
+2807,234972,Zombie Driver: Immortal Edition,3,0.0008
+2808,10000226,Zombies Ate My Neighbors and Ghoul Patrol,3,0.0008
+2809,10000489,英雄伝説 創の軌跡,3,0.0008
 2810,216423,超級機器人大戰OG The Moon Dwellers,3,0.0008
 2811,10008873,30 Sport Games in 1,2,0.0005
 2812,10013039,3D Don't Die Mr. Robot,2,0.0005
@@ -2934,424 +2934,424 @@ rank,title_id,title,players,percentage
 2933,10010640,Docked,2,0.0005
 2934,10009533,Dodge These Balls,2,0.0005
 2935,200951,Doki-Doki Universe™,2,0.0005
-2936,10003209,Doki Doki Literature Club +,2,0.0005
-2937,10015709,Dollmare,2,0.0005
-2938,216177,DRAGON QUEST HEROES II,2,0.0005
-2939,207050,DRAGON QUEST HEROES: The World Tree's Woe and the Blight Below,2,0.0005
-2940,10003094,DRAGON QUEST X OFFLINE PS4&PS5,2,0.0005
-2941,229011,Draw a Stickman: EPIC 2,2,0.0005
-2942,229776,Dream Match Tennis VR,2,0.0005
-2943,10007944,Drift Horizon: Car Driving & Tuning,2,0.0005
-2944,10011397,Dropship: United Peace Force,2,0.0005
-2945,233207,Drowning,2,0.0005
-2946,10015907,DrumBeats VR,2,0.0005
-2947,10016953,Dungeon Clawler,2,0.0005
-2948,10010081,Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition,2,0.0005
-2949,225598,DYNASTY WARRIORS: Godseekers,2,0.0005
-2950,10015296,Egging On,2,0.0005
-2951,10002952,ELEX II,2,0.0005
-2952,10017440,Emergency Room Simulator,2,0.0005
-2953,10014950,ENDLESS Legend™ 2,2,0.0005
-2954,10002515,Endzone - A World Apart: Survivor Edition,2,0.0005
-2955,10000864,Eternal Kingdom Battle Peak,2,0.0005
-2956,10010810,Eternal Strands,2,0.0005
-2957,10007472,EVERSPACE™ 2,2,0.0005
-2958,207034,Everybody's Tennis™,2,0.0005
-2959,10008702,Evil Nun: The Broken Mask,2,0.0005
-2960,10000263,EXIT THE GUNGEON,2,0.0005
-2961,10001095,Exoprimal,2,0.0005
-2962,227134,Extinction,2,0.0005
-2963,10002960,F.I.S.T.: Forged In Shadow Torch,2,0.0005
-2964,212500,F1™ 2015,2,0.0005
-2965,231804,Fade to Silence,2,0.0005
-2966,10014310,Fading Echo,2,0.0005
-2967,234796,FAIRY TAIL,2,0.0005
-2968,10011344,Far Lands,2,0.0005
-2969,232727,Farm Together,2,0.0005
-2970,10017993,Farming Camp,2,0.0005
-2971,221690,Farpoint,2,0.0005
-2972,10015155,Fast & Furious: Arcade Edition,2,0.0005
-2973,10013130,Fast Food Manager Simulator,2,0.0005
-2974,212543,Fat Princess Adventures™,2,0.0005
-2975,10006832,Fight of Animals: Arena,2,0.0005
-2976,10002340,FINAL FANTASY II,2,0.0005
-2977,10002342,FINAL FANTASY IV,2,0.0005
-2978,228684,Firefighters: Airport Fire Department,2,0.0005
-2979,10001074,Fishing Sim World: Bass Pro Shops,2,0.0005
-2980,233224,Fishing: Barents Sea,2,0.0005
-2981,10000017,Flat Heroes,2,0.0005
-2982,10007143,Forgive Me Father,2,0.0005
-2983,229805,Fortune Street Dragon Quest & Final Fantasy 30th Anniversary,2,0.0005
-2984,234998,FoxyLand,2,0.0005
-2985,10010566,Fruit Mountain,2,0.0005
-2986,228108,FruitNinjaVR,2,0.0005
-2987,10012949,FULL METAL SCHOOLGIRL,2,0.0005
-2988,217102,Furi,2,0.0005
-2989,10001491,G-DARIUS HD,2,0.0005
-2990,10005910,Gal Guardians: Demon Purge,2,0.0005
-2991,201746,Gal*Gun Double Peace,2,0.0005
-2992,10019665,Galactic Vault,2,0.0005
-2993,10004224,Gardenia: Prologue,2,0.0005
-2994,10010718,Garten of Banban 3,2,0.0005
-2995,10010730,Garten of Banban 4,2,0.0005
-2996,10012479,Garten of Banban 6,2,0.0005
-2997,10005211,Ghost Trick: Phantom Detective,2,0.0005
-2998,218257,Ghostbusters,2,0.0005
-2999,10001057,Ghosts 'n Goblins Resurrection,2,0.0005
-3000,201731,GOD EATER RESURRECTION,2,0.0005
-3001,10005103,GODS EATER BURST,2,0.0005
-3002,234603,Golazo,2,0.0005
-3003,201835,Gone Home,2,0.0005
-3004,216218,GoPro,2,0.0005
-3005,235154,GORN,2,0.0005
-3006,201951,Grand Kingdom,2,0.0005
-3007,10008436,GRANDIA HD Collection,2,0.0005
-3008,10004102,Green Hell VR,2,0.0005
-3009,231093,GRID,2,0.0005
-3010,10017062,Grind Survivors,2,0.0005
-3011,231294,GRIP,2,0.0005
-3012,10019564,Grizzy and the Lemmings - Crazy Party,2,0.0005
-3013,221697,Grow Up,2,0.0005
-3014,227336,Guacamelee! 2,2,0.0005
-3015,201687,Guacamelee! Super Turbo Championship Edition,2,0.0005
-3016,207498,Guilty Gear Xrd -Revelator-,2,0.0005
-3017,10013892,Gunsmith Simulator,2,0.0005
-3018,231915,Guts and Glory,2,0.0005
-3019,231952,Hagwalla Legend™,2,0.0005
-3020,222857,Handball 17,2,0.0005
-3021,10002182,HAWKED,2,0.0005
-3022,10007254,Hellsweeper VR,2,0.0005
-3023,10010573,Heritage of Eternal Splitting,2,0.0005
-3024,10019908,Heroes of Magic & Cards,2,0.0005
-3025,231712,HiQ Ace,2,0.0005
-3026,10001239,Home Run High,2,0.0005
-3027,10009286,Honeycomb: The World Beyond,2,0.0005
-3028,10002234,Horse Tales: Emerald Valley Ranch,2,0.0005
-3029,10007315,Hotel Renovator,2,0.0005
-3030,10017580,House Flipper Remastered Collection,2,0.0005
-3031,227150,How To Survive 2,2,0.0005
-3032,10003895,Hypercharge: Unboxed,2,0.0005
-3033,10010803,Hyperspace Neptunia: Unlimited,2,0.0005
-3034,10016799,I'm on Observation Duty 8,2,0.0005
-3035,10001487,In Sound Mind,2,0.0005
-3036,10016283,Indoor Baseball,2,0.0005
-3037,10000559,IRON HARVEST,2,0.0005
-3038,10010468,Iron Lung,2,0.0005
-3039,10002911,ISLANDERS: Console Edition,2,0.0005
-3040,10013241,Islets,2,0.0005
-3041,10018282,JAWS: Retro Edition,2,0.0005
-3042,10008415,Jet Moto,2,0.0005
-3043,10009010,Jet Moto 2,2,0.0005
-3044,231743,Jikkyou Pawafuru Puroyakyu 2018,2,0.0005
-3045,10015902,Joyn,2,0.0005
-3046,10004413,Jumping Flash!,2,0.0005
-3047,10008710,Jurassic Park Classic Games Collection,2,0.0005
-3048,10004089,Jurassic World Aftermath Collection,2,0.0005
-3049,202233,Just Dance® 2015,2,0.0005
-3050,216293,Just Dance® 2017,2,0.0005
-3051,223047,Karaoke@DAM,2,0.0005
-3052,10000844,Kawaii Deathu Desu,2,0.0005
-3053,10017559,Keep Driving,2,0.0005
-3054,10015048,Kernel Hearts,2,0.0005
-3055,10008124,KILL IT WITH FIRE! 2,2,0.0005
-3056,202341,King's Quest,2,0.0005
-3057,10013320,"Knowledge, or know Lady",2,0.0005
-3058,227161,Kona,2,0.0005
-3059,10014894,KORG Gadget for PlayStation,2,0.0005
-3060,10008719,Kunitsu-Gami: Path of the Goddess,2,0.0005
-3061,10000517,KUUKIYOMI: Consider It!,2,0.0005
-3062,10012547,Kynseed,2,0.0005
-3063,10007938,Labyrinth,2,0.0005
-3064,202556,Lara Croft and the Temple of Osiris,2,0.0005
-3065,10004877,LAYERS OF FEAR,2,0.0005
-3066,216565,Layers of Fear (2016),2,0.0005
-3067,10018355,Leafy Corner,2,0.0005
-3068,10020270,Legendary Tales 1: Stolen Life,2,0.0005
-3069,10009386,LET IT DIE: INFERNO,2,0.0005
-3070,10015936,Lirili Larila,2,0.0005
-3071,202521,Loadout,2,0.0005
-3072,10014475,Lost Lands 1: Dark Overlord,2,0.0005
-3073,10019898,"Lost Lands 11: Stories about the Sorceress, the Prince and the Minotaur",2,0.0005
-3074,10017583,Lost Lands 4,2,0.0005
-3075,10017669,Lost Lands 5: Ice Spell,2,0.0005
-3076,10018339,Lost Lands 6: Mistakes of the Past,2,0.0005
-3077,10019148,Lost Lands 9: Stories of the First Brotherhood,2,0.0005
-3078,10019788,Lost Lands X,2,0.0005
-3079,235253,Lover Kiss,2,0.0005
-3080,208723,Mafia III: Definitive Edition,2,0.0005
-3081,222304,MALICIOUS FALLEN™,2,0.0005
-3082,10005762,Marfusha,2,0.0005
-3083,202939,Marvel Puzzle Quest,2,0.0005
-3084,10008064,Masternoid,2,0.0005
-3085,10012671,Medieval Match Master,2,0.0005
-3086,10008138,MediEvil,2,0.0005
-3087,234930,Mega Party - A Tootuff Adventure,2,0.0005
-3088,202663,Megadimension Neptunia VII,2,0.0005
-3089,10009778,Melatonin,2,0.0005
-3090,10016873,Memory Holder: Scent of Life,2,0.0005
-3091,10001499,Metal: Hellsinger,2,0.0005
-3092,10004571,Might & Magic: Clash of Heroes - Definitive Edition,2,0.0005
-3093,10012421,Minishoot' Adventures,2,0.0005
-3094,229816,Minit,2,0.0005
-3095,10010951,Mister Mosquito,2,0.0005
-3096,10014632,Monopoly: Star Wars™ Heroes vs. Villains,2,0.0005
-3097,10014415,Monument Valley 3,2,0.0005
-3098,10018175,Moomintroll: Winter's Warmth,2,0.0005
-3099,202949,Mordheim: City of the Damned,2,0.0005
-3100,10017247,Moss: The Forgotten Relic,2,0.0005
-3101,202790,Motorcycle Club,2,0.0005
-3102,224897,Move or Die,2,0.0005
-3103,10008814,Mr. Hibbl: The Lost Levels - PS4 & PS5,2,0.0005
-3104,10003008,Music Racer: Ultimate,2,0.0005
-3105,10011491,MX Dirt Bike: Unlimited Bike Experience,2,0.0005
-3106,230500,MXGP – The Official Motocross Videogame Compact,2,0.0005
-3107,10012923,My Name is Mayo: Remayo,2,0.0005
-3108,10001123,My Universe - Cooking Star Restaurant,2,0.0005
-3109,10000511,NAMCO MUSEUM ARCHIVES Vol 2,2,0.0005
-3110,232837,Narcos: Rise of the Cartels,2,0.0005
-3111,221961,NASCAR Heat Evolution,2,0.0005
-3112,232550,NBA 2K19: The Prelude,2,0.0005
-3113,10000295,NEIGHBOURS FROM HELL,2,0.0005
-3114,10002233,NEW Joe & Mac - Caveman Ninja,2,0.0005
-3115,10002770,New Tales from the Borderlands,2,0.0005
-3116,10000634,Nexomon: Extinction,2,0.0005
-3117,10014501,Nicktoons & The Dice of Destiny,2,0.0005
-3118,10018823,Nightmare Shift,2,0.0005
-3119,10015993,Nordic Ashes: The Complete Saga,2,0.0005
-3120,10005198,Oddworld: Abe's Exoddus (PS1 emulation),2,0.0005
-3121,10001422,Oddworld: Stranger's Wrath HD,2,0.0005
-3122,10014352,Of Lies and Rain,2,0.0005
-3123,10010552,ONCE UPON A KATAMARI,2,0.0005
-3124,229543,One Piece Unlimited World Red Deluxe Edition,2,0.0005
-3125,233193,ONINAKI,2,0.0005
-3126,10011462,Only Up Rush,2,0.0005
-3127,10006428,Oppidum,2,0.0005
-3128,234875,Othercide,2,0.0005
-3129,216570,Pang Adventures,2,0.0005
-3130,225329,Party Golf,2,0.0005
-3131,10012660,PATAPON 1+2 REPLAY,2,0.0005
-3132,10006932,Patrick's Parabox,2,0.0005
-3133,231932,Persona 3: Dancing in Moonlight,2,0.0005
-3134,10007347,PHANTOM BREAKER: BATTLE GROUNDS ULTIMATE,2,0.0005
-3135,232732,Pillars of Eternity 2 Deadfire,2,0.0005
-3136,229991,PixelJunk™ Monsters 2,2,0.0005
-3137,10007967,Pizza Possum,2,0.0005
-3138,10009541,Planet of Lana,2,0.0005
-3139,10009773,Please Fix The Road,2,0.0005
-3140,10016019,POLICE OFFICERS SIMULATOR,2,0.0005
-3141,234531,Police Stories,2,0.0005
-3142,229229,Pool Nation,2,0.0005
-3143,10002179,Potion Permit,2,0.0005
-3144,10018537,Princess of the Water Lilies,2,0.0005
-3145,10000542,Project Warlock,2,0.0005
-3146,203578,Pure Chess®,2,0.0005
-3147,229996,Pure Farming 2018,2,0.0005
-3148,203594,Pure Hold'em™,2,0.0005
-3149,10006276,Pursuit Force (PSP),2,0.0005
-3150,10005512,Pursuit Force: Extreme Justice (PSP),2,0.0005
-3151,10016211,Puzzle Piecer: Full Spectrum,2,0.0005
-3152,10017032,Puzzle Piecer: Leaves of Autumn,2,0.0005
-3153,10014991,Puzzle Piecer: The Pattern,2,0.0005
-3154,10004443,Pyramid Quest,2,0.0005
-3155,203623,Q*bert: Rebooted,2,0.0005
-3156,10014467,Quiz & Learn: Geography,2,0.0005
-3157,225360,Raiden V: Director's Cut,2,0.0005
-3158,227499,Railway Empire,2,0.0005
-3159,10003604,Railway Empire 2,2,0.0005
-3160,230220,Rapala Fishing: Pro Series,2,0.0005
-3161,10014440,Real Boxing 2: Remastered,2,0.0005
-3162,10003396,Record of Lodoss War -Deedlit in Wonder Labyrinth-,2,0.0005
-3163,230239,Red Faction Guerrilla Re-Mars-tered,2,0.0005
-3164,230039,Redout,2,0.0005
-3165,10000252,Remothered: Broken Porcelain,2,0.0005
-3166,232879,Resonance of Fate™ 4K/HD Edition,2,0.0005
-3167,203829,Retro City Rampage™ DX,2,0.0005
-3168,10010671,Rewind or Die,2,0.0005
-3169,221973,Rez Infinite,2,0.0005
-3170,217556,RIGS™ Mechanized Combat League,2,0.0005
-3171,10017410,Rival Stars Horse Racing,2,0.0005
-3172,10008668,Riven (PS1),2,0.0005
-3173,234070,River City Girls,2,0.0005
-3174,10005020,Road 96: Mile 0,2,0.0005
-3175,203705,Rogue Galaxy™,2,0.0005
-3176,10007723,Rogue Legacy 2,2,0.0005
-3177,10014207,Rogue Loops,2,0.0005
-3178,227206,ROGUE TROOPER REDUX,2,0.0005
-3179,10003640,Röki,2,0.0005
-3180,217680,Rollercoaster Dreams,2,0.0005
-3181,10008746,RollerCoaster Tycoon Adventures Deluxe,2,0.0005
-3182,10007379,Roman Sands RE:Build,2,0.0005
-3183,10004876,Romancing SaGa -Minstrel Song- Remastered,2,0.0005
-3184,217571,Romancing SaGa 2,2,0.0005
-3185,230641,Ruiner,2,0.0005
-3186,10006091,Run Sausage Run!,2,0.0005
-3187,10015606,Sacred 2 Remaster,2,0.0005
-3188,10003617,Sakura Swim Club,2,0.0005
-3189,10003751,Sam & Max Save the World,2,0.0005
-3190,234455,Samurai Jack: Battle Through Time,2,0.0005
-3191,229580,SAMURAI WARRIORS 4-II,2,0.0005
-3192,10009996,Santa's Speedy Quest,2,0.0005
-3193,10007343,Sausage Wars,2,0.0005
-3194,10005258,Scars Above,2,0.0005
-3195,10010213,Selfloss,2,0.0005
-3196,230935,SENRAN KAGURA Burst Re:Newal,2,0.0005
-3197,222006,Senran Kagura PEACH BEACH SPLASH,2,0.0005
-3198,10009253,Serious Sam: Shatterverse,2,0.0005
-3199,235387,Shantae and the Seven Sirens,2,0.0005
-3200,10001952,Shaolin vs Wutang,2,0.0005
-3201,10013389,Shaolin vs Wutang 2,2,0.0005
-3202,235331,Sherlock Holmes: Crimes and Punishments,2,0.0005
-3203,216399,Sherlock Holmes: The Devil's Daughter,2,0.0005
-3204,10002297,Sherlock Holmes: The Devil's Daughter,2,0.0005
-3205,10000654,Shing!,2,0.0005
-3206,229530,Shining Resonance Refrain,2,0.0005
-3207,10017733,Shop & Stuff: Supermarket Simulator,2,0.0005
-3208,10010220,SHOWMAX,2,0.0005
-3209,233586,Shred! 2 - ft Sam Pilgrim,2,0.0005
-3210,10004197,Shred! Remastered,2,0.0005
-3211,10012063,Silent Operative,2,0.0005
-3212,10016634,SILLY POLLY BEAST,2,0.0005
-3213,10015137,SimRail - The Railway Simulator,2,0.0005
-3214,229559,Sine Mora EX,2,0.0005
-3215,204382,SingStar™,2,0.0005
-3216,10011230,SkyGunner,2,0.0005
-3217,10010697,Sled Riders,2,0.0005
-3218,231160,Slyde,2,0.0005
-3219,10008767,Smalland: Survive the Wilds,2,0.0005
-3220,10014379,Snoopy & The Great Mystery Club,2,0.0005
-3221,10008805,Solasta: Crown of the Magister,2,0.0005
-3222,10004623,Someday You'll Return: Director's Cut,2,0.0005
-3223,10016279,Space Graze,2,0.0005
-3224,10002764,Spellfarers,2,0.0005
-3225,10001229,SpellForce III Reforced,2,0.0005
-3226,10005813,Spirit of the North 2,2,0.0005
-3227,10013975,Spiritfall,2,0.0005
-3228,10007960,SpongeBob SquarePants™: The Patrick Star Game,2,0.0005
-3229,10015018,SpongeBob: Krusty Cook-Off,2,0.0005
-3230,10004195,Star Ocean The Divine Force,2,0.0005
-3231,10007308,STAR OCEAN THE SECOND STORY R,2,0.0005
-3232,229332,STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster,2,0.0005
-3233,10014966,Star Trek™: Voyager® - Across the Unknown,2,0.0005
-3234,10008262,Star Trucker,2,0.0005
-3235,10014146,STAR WARS: Galactic Racer™,2,0.0005
-3236,10008369,STAR WARS™: Dark Forces Remaster,2,0.0005
-3237,204232,STARWHAL,2,0.0005
-3238,204198,SteamWorld Dig,2,0.0005
-3239,10010794,Steel Seed,2,0.0005
-3240,229444,Steven Universe: Save the Light,2,0.0005
-3241,227231,Strange Brigade,2,0.0005
-3242,10002933,Strategic Mind: The Pacific,2,0.0005
-3243,10006146,Stroke The Tortoise,2,0.0005
-3244,216499,Styx: Shards of Darkness,2,0.0005
-3245,10019954,Sudoku: Master League,2,0.0005
-3246,234606,Super Meat Boy Forever,2,0.0005
-3247,204046,Super Motherload,2,0.0005
-3248,10004813,Super Stardust Portable,2,0.0005
-3249,232042,Super Street: The Game,2,0.0005
-3250,10010441,Super Woden GP II,2,0.0005
-3251,10018518,Super Woden Rally Edge,2,0.0005
-3252,225777,Surgeon Simulator: Experience Reality,2,0.0005
-3253,229840,Surviving Mars,2,0.0005
-3254,234921,SWORD ART ONLINE Alicization Lycoris,2,0.0005
-3255,226798,SWORD ART ONLINE Re: Hollow Fragment,2,0.0005
-3256,221760,Syberia 3,2,0.0005
-3257,10004652,Syphon Filter: Dark Mirror,2,0.0005
-3258,10010195,Tales of the Shire: A The Lord of The Rings™ Game,2,0.0005
-3259,10008573,Tales of Xillia Remastered,2,0.0005
-3260,10003701,Tanuki Sunset,2,0.0005
-3261,10014980,Taram Baba,2,0.0005
-3262,231750,TerraTech,2,0.0005
-3263,10012314,Tetris® Forever,2,0.0005
-3264,213181,Tetris® Ultimate,2,0.0005
-3265,204786,That Trivia Game,2,0.0005
-3266,10012647,The Backrooms 1998,2,0.0005
-3267,10017892,The Boys,2,0.0005
-3268,204591,The Bridge,2,0.0005
-3269,231166,The Council,2,0.0005
-3270,10003580,The DioField Chronicle,2,0.0005
-3271,232593,The Eternal Cylinder,2,0.0005
-3272,10004308,The Expanse: A Telltale Series,2,0.0005
-3273,222884,The Final Station,2,0.0005
-3274,10001695,The Gravity Trickster,2,0.0005
-3275,235149,The Great Ace Attorney Chronicles,2,0.0005
-3276,10005079,The Grinch: Christmas Adventures,2,0.0005
-3277,232521,The Hong Kong Massacre,2,0.0005
-3278,234026,The House in Fata Morgana,2,0.0005
-3279,228943,The Illusionist-Andres Iniesta,2,0.0005
-3280,10008355,The Jackbox Party Pack 10,2,0.0005
-3281,10011984,The Jumping Ice Cube - PS4 & PS5,2,0.0005
-3282,10003242,The Legend of Heroes: Trails from Zero,2,0.0005
-3283,235299,The Legend Of Heroes: Zero No Kiseki Kai,2,0.0005
-3284,211634,The Mark of Kri™,2,0.0005
-3285,233096,The Pathless,2,0.0005
-3286,227519,The Persistence,2,0.0005
-3287,10007954,The Plucky Squire,2,0.0005
-3288,10004104,The Quintessential Quintuplets - Five Memories Spent With You,2,0.0005
-3289,10002245,The Riftbreaker,2,0.0005
-3290,10013140,The Rocky Horror Show Video Game,2,0.0005
-3291,10007997,The Sisters 2 - Road to Fame,2,0.0005
-3292,10010426,The Smurfs - Dreams,2,0.0005
-3293,204609,The Swapper,2,0.0005
-3294,204716,The Swindle,2,0.0005
-3295,10012495,The Talos Principle: Reawakened,2,0.0005
-3296,234428,The Walking Dead Onslaught,2,0.0005
-3297,232722,They Are Billions,2,0.0005
-3298,10008630,This Bed We Made,2,0.0005
-3299,223177,This Is the Police,2,0.0005
-3300,10010194,Ticket to Ride®,2,0.0005
-3301,227245,Titan Quest,2,0.0005
-3302,204803,Titan Souls,2,0.0005
-3303,233225,TOKYO GHOUL:re CALL to EXIST,2,0.0005
-3304,10010307,Tomba! Special Edition,2,0.0005
-3305,229858,Torchlight III,2,0.0005
-3306,204987,Toro,2,0.0005
-3307,210894,Toukiden 2,2,0.0005
-3308,10000280,TOUR DE FRANCE 2020,2,0.0005
-3309,204989,Tower of Guns,2,0.0005
-3310,10010067,Towers of Aghasba,2,0.0005
-3311,229859,Train Sim World,2,0.0005
-3312,10007398,TramSim: Console Edition,2,0.0005
-3313,10005464,Tropical Resort Story,2,0.0005
-3314,10012856,Truck Simulator 25 - American Driver,2,0.0005
-3315,10011329,Truck Simulator Cargo Driver 2024 - EURO,2,0.0005
-3316,10014568,Truxton Extreme,2,0.0005
-3317,10000778,TUROK,2,0.0005
-3318,10001865,Ultimate Fishing Simulator,2,0.0005
-3319,10017721,Ultimate General: Civil War,2,0.0005
-3320,201142,Ultra Despair Girls,2,0.0005
-3321,205120,Ultratron,2,0.0005
-3322,10013325,UNDERDOGS,2,0.0005
-3323,10002768,UnMetal,2,0.0005
-3324,10015636,Unmourned,2,0.0005
-3325,10018652,Unmourned VR,2,0.0005
-3326,220134,Until Dawn™: Rush of Blood,2,0.0005
-3327,10010899,Upin & Ipin Universe,2,0.0005
-3328,10010358,Urban Myth Dissolution Center,2,0.0005
-3329,10008190,Urbek City Builder,2,0.0005
-3330,10003017,Vagante,2,0.0005
-3331,10002356,Virtual Surfing,2,0.0005
-3332,10014658,Voidwrought,2,0.0005
-3333,10003731,Wanted: Dead,2,0.0005
-3334,10006942,"Warhammer 40,000: Chaos Gate - Daemonhunters",2,0.0005
-3335,10003872,Warlander,2,0.0005
-3336,10015338,Washeteria,2,0.0005
-3337,230086,Wasteland 3,2,0.0005
-3338,10006109,WBSC eBASEBALL™: POWER PROS,2,0.0005
-3339,222900,WINDJAMMERS,2,0.0005
-3340,10009426,Winning Post 10 2024,2,0.0005
-3341,10017088,Winning Post 10 2026,2,0.0005
-3342,10010291,Withering Rooms,2,0.0005
-3343,10005761,Wobbledogs Console Edition,2,0.0005
-3344,10012969,World Explorer Challenge,2,0.0005
-3345,10010474,Worm War: Greengrocer,2,0.0005
-3346,205331,WWE,2,0.0005
-3347,10009414,"YEAH! YOU WANT ""THOSE GAMES,"" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",2,0.0005
-3348,232766,Youtubers Life,2,0.0005
-3349,235104,Zaccaria Pinball,2,0.0005
-3350,10004407,Zorro The Chronicles,2,0.0005
-3351,229829,スーパーロボット大戦Ｘ,2,0.0005
-3352,228778,假面騎士 巔峰戰士／幪面超人 巔峰戰士,2,0.0005
-3353,203059,夏色ハイスクル青春白書,2,0.0005
+2936,10015709,Dollmare,2,0.0005
+2937,216177,DRAGON QUEST HEROES II,2,0.0005
+2938,207050,DRAGON QUEST HEROES: The World Tree's Woe and the Blight Below,2,0.0005
+2939,229011,Draw a Stickman: EPIC 2,2,0.0005
+2940,229776,Dream Match Tennis VR,2,0.0005
+2941,10007944,Drift Horizon: Car Driving & Tuning,2,0.0005
+2942,10011397,Dropship: United Peace Force,2,0.0005
+2943,233207,Drowning,2,0.0005
+2944,10015907,DrumBeats VR,2,0.0005
+2945,10016953,Dungeon Clawler,2,0.0005
+2946,10010081,Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition,2,0.0005
+2947,225598,DYNASTY WARRIORS: Godseekers,2,0.0005
+2948,10015296,Egging On,2,0.0005
+2949,10002952,ELEX II,2,0.0005
+2950,10017440,Emergency Room Simulator,2,0.0005
+2951,10014950,ENDLESS Legend™ 2,2,0.0005
+2952,10002515,Endzone - A World Apart: Survivor Edition,2,0.0005
+2953,10000864,Eternal Kingdom Battle Peak,2,0.0005
+2954,10010810,Eternal Strands,2,0.0005
+2955,10007472,EVERSPACE™ 2,2,0.0005
+2956,207034,Everybody's Tennis™,2,0.0005
+2957,10008702,Evil Nun: The Broken Mask,2,0.0005
+2958,10000263,EXIT THE GUNGEON,2,0.0005
+2959,10001095,Exoprimal,2,0.0005
+2960,227134,Extinction,2,0.0005
+2961,10002960,F.I.S.T.: Forged In Shadow Torch,2,0.0005
+2962,212500,F1™ 2015,2,0.0005
+2963,231804,Fade to Silence,2,0.0005
+2964,10014310,Fading Echo,2,0.0005
+2965,234796,FAIRY TAIL,2,0.0005
+2966,10011344,Far Lands,2,0.0005
+2967,232727,Farm Together,2,0.0005
+2968,10017993,Farming Camp,2,0.0005
+2969,221690,Farpoint,2,0.0005
+2970,10015155,Fast & Furious: Arcade Edition,2,0.0005
+2971,10013130,Fast Food Manager Simulator,2,0.0005
+2972,212543,Fat Princess Adventures™,2,0.0005
+2973,10006832,Fight of Animals: Arena,2,0.0005
+2974,10002340,FINAL FANTASY II,2,0.0005
+2975,10002342,FINAL FANTASY IV,2,0.0005
+2976,228684,Firefighters: Airport Fire Department,2,0.0005
+2977,10001074,Fishing Sim World: Bass Pro Shops,2,0.0005
+2978,233224,Fishing: Barents Sea,2,0.0005
+2979,10000017,Flat Heroes,2,0.0005
+2980,10007143,Forgive Me Father,2,0.0005
+2981,229805,Fortune Street Dragon Quest & Final Fantasy 30th Anniversary,2,0.0005
+2982,234998,FoxyLand,2,0.0005
+2983,10010566,Fruit Mountain,2,0.0005
+2984,228108,FruitNinjaVR,2,0.0005
+2985,10012949,FULL METAL SCHOOLGIRL,2,0.0005
+2986,217102,Furi,2,0.0005
+2987,10001491,G-DARIUS HD,2,0.0005
+2988,10005910,Gal Guardians: Demon Purge,2,0.0005
+2989,201746,Gal*Gun Double Peace,2,0.0005
+2990,10019665,Galactic Vault,2,0.0005
+2991,10004224,Gardenia: Prologue,2,0.0005
+2992,10010718,Garten of Banban 3,2,0.0005
+2993,10010730,Garten of Banban 4,2,0.0005
+2994,10012479,Garten of Banban 6,2,0.0005
+2995,10005211,Ghost Trick: Phantom Detective,2,0.0005
+2996,218257,Ghostbusters,2,0.0005
+2997,10001057,Ghosts 'n Goblins Resurrection,2,0.0005
+2998,201731,GOD EATER RESURRECTION,2,0.0005
+2999,10005103,GODS EATER BURST,2,0.0005
+3000,234603,Golazo,2,0.0005
+3001,201835,Gone Home,2,0.0005
+3002,216218,GoPro,2,0.0005
+3003,235154,GORN,2,0.0005
+3004,201951,Grand Kingdom,2,0.0005
+3005,10008436,GRANDIA HD Collection,2,0.0005
+3006,10004102,Green Hell VR,2,0.0005
+3007,231093,GRID,2,0.0005
+3008,10017062,Grind Survivors,2,0.0005
+3009,231294,GRIP,2,0.0005
+3010,10019564,Grizzy and the Lemmings - Crazy Party,2,0.0005
+3011,221697,Grow Up,2,0.0005
+3012,227336,Guacamelee! 2,2,0.0005
+3013,201687,Guacamelee! Super Turbo Championship Edition,2,0.0005
+3014,207498,Guilty Gear Xrd -Revelator-,2,0.0005
+3015,10013892,Gunsmith Simulator,2,0.0005
+3016,231915,Guts and Glory,2,0.0005
+3017,231952,Hagwalla Legend™,2,0.0005
+3018,222857,Handball 17,2,0.0005
+3019,10002182,HAWKED,2,0.0005
+3020,10007254,Hellsweeper VR,2,0.0005
+3021,10010573,Heritage of Eternal Splitting,2,0.0005
+3022,10019908,Heroes of Magic & Cards,2,0.0005
+3023,231712,HiQ Ace,2,0.0005
+3024,10001239,Home Run High,2,0.0005
+3025,10009286,Honeycomb: The World Beyond,2,0.0005
+3026,10002234,Horse Tales: Emerald Valley Ranch,2,0.0005
+3027,10007315,Hotel Renovator,2,0.0005
+3028,10017580,House Flipper Remastered Collection,2,0.0005
+3029,227150,How To Survive 2,2,0.0005
+3030,10003895,Hypercharge: Unboxed,2,0.0005
+3031,10016799,I'm on Observation Duty 8,2,0.0005
+3032,10001487,In Sound Mind,2,0.0005
+3033,10016283,Indoor Baseball,2,0.0005
+3034,10000559,IRON HARVEST,2,0.0005
+3035,10010468,Iron Lung,2,0.0005
+3036,10002911,ISLANDERS: Console Edition,2,0.0005
+3037,10013241,Islets,2,0.0005
+3038,10018282,JAWS: Retro Edition,2,0.0005
+3039,10008415,Jet Moto,2,0.0005
+3040,10009010,Jet Moto 2,2,0.0005
+3041,231743,Jikkyou Pawafuru Puroyakyu 2018,2,0.0005
+3042,10015902,Joyn,2,0.0005
+3043,10004413,Jumping Flash!,2,0.0005
+3044,10008710,Jurassic Park Classic Games Collection,2,0.0005
+3045,10004089,Jurassic World Aftermath Collection,2,0.0005
+3046,202233,Just Dance® 2015,2,0.0005
+3047,216293,Just Dance® 2017,2,0.0005
+3048,223047,Karaoke@DAM,2,0.0005
+3049,10000844,Kawaii Deathu Desu,2,0.0005
+3050,10017559,Keep Driving,2,0.0005
+3051,10015048,Kernel Hearts,2,0.0005
+3052,10008124,KILL IT WITH FIRE! 2,2,0.0005
+3053,202341,King's Quest,2,0.0005
+3054,10013320,"Knowledge, or know Lady",2,0.0005
+3055,227161,Kona,2,0.0005
+3056,10014894,KORG Gadget for PlayStation,2,0.0005
+3057,10008719,Kunitsu-Gami: Path of the Goddess,2,0.0005
+3058,10000517,KUUKIYOMI: Consider It!,2,0.0005
+3059,10012547,Kynseed,2,0.0005
+3060,10007938,Labyrinth,2,0.0005
+3061,202556,Lara Croft and the Temple of Osiris,2,0.0005
+3062,10004877,LAYERS OF FEAR,2,0.0005
+3063,216565,Layers of Fear (2016),2,0.0005
+3064,10018355,Leafy Corner,2,0.0005
+3065,10020270,Legendary Tales 1: Stolen Life,2,0.0005
+3066,10009386,LET IT DIE: INFERNO,2,0.0005
+3067,10015936,Lirili Larila,2,0.0005
+3068,202521,Loadout,2,0.0005
+3069,10014475,Lost Lands 1: Dark Overlord,2,0.0005
+3070,10019898,"Lost Lands 11: Stories about the Sorceress, the Prince and the Minotaur",2,0.0005
+3071,10017583,Lost Lands 4,2,0.0005
+3072,10017669,Lost Lands 5: Ice Spell,2,0.0005
+3073,10018339,Lost Lands 6: Mistakes of the Past,2,0.0005
+3074,10019148,Lost Lands 9: Stories of the First Brotherhood,2,0.0005
+3075,10019788,Lost Lands X,2,0.0005
+3076,235253,Lover Kiss,2,0.0005
+3077,208723,Mafia III: Definitive Edition,2,0.0005
+3078,222304,MALICIOUS FALLEN™,2,0.0005
+3079,10005762,Marfusha,2,0.0005
+3080,202939,Marvel Puzzle Quest,2,0.0005
+3081,10008064,Masternoid,2,0.0005
+3082,10012671,Medieval Match Master,2,0.0005
+3083,10008138,MediEvil,2,0.0005
+3084,234930,Mega Party - A Tootuff Adventure,2,0.0005
+3085,202663,Megadimension Neptunia VII,2,0.0005
+3086,10009778,Melatonin,2,0.0005
+3087,10016873,Memory Holder: Scent of Life,2,0.0005
+3088,10001499,Metal: Hellsinger,2,0.0005
+3089,10004571,Might & Magic: Clash of Heroes - Definitive Edition,2,0.0005
+3090,10012421,Minishoot' Adventures,2,0.0005
+3091,229816,Minit,2,0.0005
+3092,10010951,Mister Mosquito,2,0.0005
+3093,10014632,Monopoly: Star Wars™ Heroes vs. Villains,2,0.0005
+3094,10014415,Monument Valley 3,2,0.0005
+3095,10018175,Moomintroll: Winter's Warmth,2,0.0005
+3096,202949,Mordheim: City of the Damned,2,0.0005
+3097,10017247,Moss: The Forgotten Relic,2,0.0005
+3098,202790,Motorcycle Club,2,0.0005
+3099,224897,Move or Die,2,0.0005
+3100,10008814,Mr. Hibbl: The Lost Levels - PS4 & PS5,2,0.0005
+3101,10003008,Music Racer: Ultimate,2,0.0005
+3102,10011491,MX Dirt Bike: Unlimited Bike Experience,2,0.0005
+3103,230500,MXGP – The Official Motocross Videogame Compact,2,0.0005
+3104,10012923,My Name is Mayo: Remayo,2,0.0005
+3105,10001123,My Universe - Cooking Star Restaurant,2,0.0005
+3106,10000511,NAMCO MUSEUM ARCHIVES Vol 2,2,0.0005
+3107,232837,Narcos: Rise of the Cartels,2,0.0005
+3108,221961,NASCAR Heat Evolution,2,0.0005
+3109,232550,NBA 2K19: The Prelude,2,0.0005
+3110,10000295,NEIGHBOURS FROM HELL,2,0.0005
+3111,10002233,NEW Joe & Mac - Caveman Ninja,2,0.0005
+3112,10002770,New Tales from the Borderlands,2,0.0005
+3113,10000634,Nexomon: Extinction,2,0.0005
+3114,10014501,Nicktoons & The Dice of Destiny,2,0.0005
+3115,10018823,Nightmare Shift,2,0.0005
+3116,10015993,Nordic Ashes: The Complete Saga,2,0.0005
+3117,10005198,Oddworld: Abe's Exoddus (PS1 emulation),2,0.0005
+3118,10001422,Oddworld: Stranger's Wrath HD,2,0.0005
+3119,10014352,Of Lies and Rain,2,0.0005
+3120,10010552,ONCE UPON A KATAMARI,2,0.0005
+3121,229543,One Piece Unlimited World Red Deluxe Edition,2,0.0005
+3122,233193,ONINAKI,2,0.0005
+3123,10011462,Only Up Rush,2,0.0005
+3124,10006428,Oppidum,2,0.0005
+3125,234875,Othercide,2,0.0005
+3126,216570,Pang Adventures,2,0.0005
+3127,225329,Party Golf,2,0.0005
+3128,10012660,PATAPON 1+2 REPLAY,2,0.0005
+3129,10006932,Patrick's Parabox,2,0.0005
+3130,231932,Persona 3: Dancing in Moonlight,2,0.0005
+3131,10007347,PHANTOM BREAKER: BATTLE GROUNDS ULTIMATE,2,0.0005
+3132,232732,Pillars of Eternity 2 Deadfire,2,0.0005
+3133,229991,PixelJunk™ Monsters 2,2,0.0005
+3134,10007967,Pizza Possum,2,0.0005
+3135,10009541,Planet of Lana,2,0.0005
+3136,10009773,Please Fix The Road,2,0.0005
+3137,10016019,POLICE OFFICERS SIMULATOR,2,0.0005
+3138,234531,Police Stories,2,0.0005
+3139,229229,Pool Nation,2,0.0005
+3140,10002179,Potion Permit,2,0.0005
+3141,10018537,Princess of the Water Lilies,2,0.0005
+3142,10000542,Project Warlock,2,0.0005
+3143,203578,Pure Chess®,2,0.0005
+3144,229996,Pure Farming 2018,2,0.0005
+3145,203594,Pure Hold'em™,2,0.0005
+3146,10006276,Pursuit Force (PSP),2,0.0005
+3147,10005512,Pursuit Force: Extreme Justice (PSP),2,0.0005
+3148,10016211,Puzzle Piecer: Full Spectrum,2,0.0005
+3149,10017032,Puzzle Piecer: Leaves of Autumn,2,0.0005
+3150,10014991,Puzzle Piecer: The Pattern,2,0.0005
+3151,10004443,Pyramid Quest,2,0.0005
+3152,203623,Q*bert: Rebooted,2,0.0005
+3153,10014467,Quiz & Learn: Geography,2,0.0005
+3154,225360,Raiden V: Director's Cut,2,0.0005
+3155,227499,Railway Empire,2,0.0005
+3156,10003604,Railway Empire 2,2,0.0005
+3157,230220,Rapala Fishing: Pro Series,2,0.0005
+3158,10014440,Real Boxing 2: Remastered,2,0.0005
+3159,10003396,Record of Lodoss War -Deedlit in Wonder Labyrinth-,2,0.0005
+3160,230239,Red Faction Guerrilla Re-Mars-tered,2,0.0005
+3161,230039,Redout,2,0.0005
+3162,10000252,Remothered: Broken Porcelain,2,0.0005
+3163,232879,Resonance of Fate™ 4K/HD Edition,2,0.0005
+3164,203829,Retro City Rampage™ DX,2,0.0005
+3165,10010671,Rewind or Die,2,0.0005
+3166,221973,Rez Infinite,2,0.0005
+3167,217556,RIGS™ Mechanized Combat League,2,0.0005
+3168,10017410,Rival Stars Horse Racing,2,0.0005
+3169,10008668,Riven (PS1),2,0.0005
+3170,234070,River City Girls,2,0.0005
+3171,10005020,Road 96: Mile 0,2,0.0005
+3172,203705,Rogue Galaxy™,2,0.0005
+3173,10007723,Rogue Legacy 2,2,0.0005
+3174,10014207,Rogue Loops,2,0.0005
+3175,227206,ROGUE TROOPER REDUX,2,0.0005
+3176,10003640,Röki,2,0.0005
+3177,217680,Rollercoaster Dreams,2,0.0005
+3178,10008746,RollerCoaster Tycoon Adventures Deluxe,2,0.0005
+3179,10007379,Roman Sands RE:Build,2,0.0005
+3180,10004876,Romancing SaGa -Minstrel Song- Remastered,2,0.0005
+3181,217571,Romancing SaGa 2,2,0.0005
+3182,230641,Ruiner,2,0.0005
+3183,10006091,Run Sausage Run!,2,0.0005
+3184,10015606,Sacred 2 Remaster,2,0.0005
+3185,10003617,Sakura Swim Club,2,0.0005
+3186,10003751,Sam & Max Save the World,2,0.0005
+3187,234455,Samurai Jack: Battle Through Time,2,0.0005
+3188,229580,SAMURAI WARRIORS 4-II,2,0.0005
+3189,10009996,Santa's Speedy Quest,2,0.0005
+3190,10007343,Sausage Wars,2,0.0005
+3191,10005258,Scars Above,2,0.0005
+3192,10010213,Selfloss,2,0.0005
+3193,230935,SENRAN KAGURA Burst Re:Newal,2,0.0005
+3194,222006,Senran Kagura PEACH BEACH SPLASH,2,0.0005
+3195,10009253,Serious Sam: Shatterverse,2,0.0005
+3196,235387,Shantae and the Seven Sirens,2,0.0005
+3197,10001952,Shaolin vs Wutang,2,0.0005
+3198,10013389,Shaolin vs Wutang 2,2,0.0005
+3199,235331,Sherlock Holmes: Crimes and Punishments,2,0.0005
+3200,10002297,Sherlock Holmes: The Devil's Daughter,2,0.0005
+3201,216399,Sherlock Holmes: The Devil's Daughter,2,0.0005
+3202,10000654,Shing!,2,0.0005
+3203,229530,Shining Resonance Refrain,2,0.0005
+3204,10017733,Shop & Stuff: Supermarket Simulator,2,0.0005
+3205,10010220,SHOWMAX,2,0.0005
+3206,233586,Shred! 2 - ft Sam Pilgrim,2,0.0005
+3207,10004197,Shred! Remastered,2,0.0005
+3208,10012063,Silent Operative,2,0.0005
+3209,10016634,SILLY POLLY BEAST,2,0.0005
+3210,10015137,SimRail - The Railway Simulator,2,0.0005
+3211,229559,Sine Mora EX,2,0.0005
+3212,204382,SingStar™,2,0.0005
+3213,10011230,SkyGunner,2,0.0005
+3214,10010697,Sled Riders,2,0.0005
+3215,231160,Slyde,2,0.0005
+3216,10008767,Smalland: Survive the Wilds,2,0.0005
+3217,10014379,Snoopy & The Great Mystery Club,2,0.0005
+3218,10008805,Solasta: Crown of the Magister,2,0.0005
+3219,10004623,Someday You'll Return: Director's Cut,2,0.0005
+3220,10016279,Space Graze,2,0.0005
+3221,10002764,Spellfarers,2,0.0005
+3222,10001229,SpellForce III Reforced,2,0.0005
+3223,10005813,Spirit of the North 2,2,0.0005
+3224,10013975,Spiritfall,2,0.0005
+3225,10007960,SpongeBob SquarePants™: The Patrick Star Game,2,0.0005
+3226,10015018,SpongeBob: Krusty Cook-Off,2,0.0005
+3227,10004195,Star Ocean The Divine Force,2,0.0005
+3228,10007308,STAR OCEAN THE SECOND STORY R,2,0.0005
+3229,229332,STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster,2,0.0005
+3230,10014966,Star Trek™: Voyager® - Across the Unknown,2,0.0005
+3231,10008262,Star Trucker,2,0.0005
+3232,10014146,STAR WARS: Galactic Racer™,2,0.0005
+3233,10008369,STAR WARS™: Dark Forces Remaster,2,0.0005
+3234,204232,STARWHAL,2,0.0005
+3235,204198,SteamWorld Dig,2,0.0005
+3236,10010794,Steel Seed,2,0.0005
+3237,229444,Steven Universe: Save the Light,2,0.0005
+3238,227231,Strange Brigade,2,0.0005
+3239,10002933,Strategic Mind: The Pacific,2,0.0005
+3240,10006146,Stroke The Tortoise,2,0.0005
+3241,216499,Styx: Shards of Darkness,2,0.0005
+3242,10019954,Sudoku: Master League,2,0.0005
+3243,234606,Super Meat Boy Forever,2,0.0005
+3244,204046,Super Motherload,2,0.0005
+3245,10004813,Super Stardust Portable,2,0.0005
+3246,232042,Super Street: The Game,2,0.0005
+3247,10010441,Super Woden GP II,2,0.0005
+3248,10018518,Super Woden Rally Edge,2,0.0005
+3249,225777,Surgeon Simulator: Experience Reality,2,0.0005
+3250,229840,Surviving Mars,2,0.0005
+3251,234921,SWORD ART ONLINE Alicization Lycoris,2,0.0005
+3252,226798,SWORD ART ONLINE Re: Hollow Fragment,2,0.0005
+3253,221760,Syberia 3,2,0.0005
+3254,10004652,Syphon Filter: Dark Mirror,2,0.0005
+3255,10010195,Tales of the Shire: A The Lord of The Rings™ Game,2,0.0005
+3256,10008573,Tales of Xillia Remastered,2,0.0005
+3257,10003701,Tanuki Sunset,2,0.0005
+3258,10014980,Taram Baba,2,0.0005
+3259,231750,TerraTech,2,0.0005
+3260,10012314,Tetris® Forever,2,0.0005
+3261,213181,Tetris® Ultimate,2,0.0005
+3262,204786,That Trivia Game,2,0.0005
+3263,10012647,The Backrooms 1998,2,0.0005
+3264,10017892,The Boys,2,0.0005
+3265,204591,The Bridge,2,0.0005
+3266,231166,The Council,2,0.0005
+3267,10003580,The DioField Chronicle,2,0.0005
+3268,232593,The Eternal Cylinder,2,0.0005
+3269,10004308,The Expanse: A Telltale Series,2,0.0005
+3270,222884,The Final Station,2,0.0005
+3271,10001695,The Gravity Trickster,2,0.0005
+3272,235149,The Great Ace Attorney Chronicles,2,0.0005
+3273,10005079,The Grinch: Christmas Adventures,2,0.0005
+3274,232521,The Hong Kong Massacre,2,0.0005
+3275,234026,The House in Fata Morgana,2,0.0005
+3276,228943,The Illusionist-Andres Iniesta,2,0.0005
+3277,10008355,The Jackbox Party Pack 10,2,0.0005
+3278,10011984,The Jumping Ice Cube - PS4 & PS5,2,0.0005
+3279,10003242,The Legend of Heroes: Trails from Zero,2,0.0005
+3280,235299,The Legend Of Heroes: Zero No Kiseki Kai,2,0.0005
+3281,211634,The Mark of Kri™,2,0.0005
+3282,233096,The Pathless,2,0.0005
+3283,227519,The Persistence,2,0.0005
+3284,10007954,The Plucky Squire,2,0.0005
+3285,10004104,The Quintessential Quintuplets - Five Memories Spent With You,2,0.0005
+3286,10002245,The Riftbreaker,2,0.0005
+3287,10013140,The Rocky Horror Show Video Game,2,0.0005
+3288,10007997,The Sisters 2 - Road to Fame,2,0.0005
+3289,10010426,The Smurfs - Dreams,2,0.0005
+3290,204609,The Swapper,2,0.0005
+3291,204716,The Swindle,2,0.0005
+3292,10012495,The Talos Principle: Reawakened,2,0.0005
+3293,234428,The Walking Dead Onslaught,2,0.0005
+3294,232722,They Are Billions,2,0.0005
+3295,10008630,This Bed We Made,2,0.0005
+3296,223177,This Is the Police,2,0.0005
+3297,10010194,Ticket to Ride®,2,0.0005
+3298,227245,Titan Quest,2,0.0005
+3299,204803,Titan Souls,2,0.0005
+3300,233225,TOKYO GHOUL:re CALL to EXIST,2,0.0005
+3301,10010307,Tomba! Special Edition,2,0.0005
+3302,229858,Torchlight III,2,0.0005
+3303,204987,Toro,2,0.0005
+3304,210894,Toukiden 2,2,0.0005
+3305,10000280,TOUR DE FRANCE 2020,2,0.0005
+3306,204989,Tower of Guns,2,0.0005
+3307,10010067,Towers of Aghasba,2,0.0005
+3308,229859,Train Sim World,2,0.0005
+3309,10007398,TramSim: Console Edition,2,0.0005
+3310,10005464,Tropical Resort Story,2,0.0005
+3311,10012856,Truck Simulator 25 - American Driver,2,0.0005
+3312,10011329,Truck Simulator Cargo Driver 2024 - EURO,2,0.0005
+3313,10014568,Truxton Extreme,2,0.0005
+3314,10000778,TUROK,2,0.0005
+3315,10001865,Ultimate Fishing Simulator,2,0.0005
+3316,10017721,Ultimate General: Civil War,2,0.0005
+3317,201142,Ultra Despair Girls,2,0.0005
+3318,205120,Ultratron,2,0.0005
+3319,10013325,UNDERDOGS,2,0.0005
+3320,10002768,UnMetal,2,0.0005
+3321,10015636,Unmourned,2,0.0005
+3322,10018652,Unmourned VR,2,0.0005
+3323,220134,Until Dawn™: Rush of Blood,2,0.0005
+3324,10010899,Upin & Ipin Universe,2,0.0005
+3325,10010358,Urban Myth Dissolution Center,2,0.0005
+3326,10008190,Urbek City Builder,2,0.0005
+3327,10003017,Vagante,2,0.0005
+3328,10002356,Virtual Surfing,2,0.0005
+3329,10014658,Voidwrought,2,0.0005
+3330,10003731,Wanted: Dead,2,0.0005
+3331,10006942,"Warhammer 40,000: Chaos Gate - Daemonhunters",2,0.0005
+3332,10003872,Warlander,2,0.0005
+3333,10015338,Washeteria,2,0.0005
+3334,230086,Wasteland 3,2,0.0005
+3335,10006109,WBSC eBASEBALL™: POWER PROS,2,0.0005
+3336,222900,WINDJAMMERS,2,0.0005
+3337,10009426,Winning Post 10 2024,2,0.0005
+3338,10017088,Winning Post 10 2026,2,0.0005
+3339,10010291,Withering Rooms,2,0.0005
+3340,10005761,Wobbledogs Console Edition,2,0.0005
+3341,10012969,World Explorer Challenge,2,0.0005
+3342,10010474,Worm War: Greengrocer,2,0.0005
+3343,205331,WWE,2,0.0005
+3344,10009414,"YEAH! YOU WANT ""THOSE GAMES,"" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",2,0.0005
+3345,232766,Youtubers Life,2,0.0005
+3346,235104,Zaccaria Pinball,2,0.0005
+3347,10004407,Zorro The Chronicles,2,0.0005
+3348,229829,スーパーロボット大戦Ｘ,2,0.0005
+3349,10003209,ドキドキ文芸部プラス！,2,0.0005
+3350,10003094,ドラゴンクエストX　目覚めし五つの種族　オフライン,2,0.0005
+3351,228778,假面騎士 巔峰戰士／幪面超人 巔峰戰士,2,0.0005
+3352,203059,夏色ハイスクル青春白書,2,0.0005
+3353,10010803,超新時空ゲイム ネプテューヌ∞,2,0.0005
 3354,221763,超級機器人大戰Ｖ,2,0.0005
 3355,217641,√Letter,1,0.0003
 3356,10020598,1-2-Splendid Word Search!,1,0.0003
@@ -3396,1529 +3396,1529 @@ rank,title_id,title,players,percentage
 3395,10010214,Across the Obelisk,1,0.0003
 3396,10001622,Actraiser Renaissance,1,0.0003
 3397,232064,ADIOS Amigos: Galactic Explorers,1,0.0003
-3398,10013221,ADVANCED V.G. Saturn Tribute PS4 & PS5,1,0.0003
-3399,229876,Aegis Defenders,1,0.0003
-3400,216814,AFL Evolution,1,0.0003
-3401,10011016,Against the Storm,1,0.0003
-3402,10001109,Agatha Christie - Hercule Poirot: The First Cases,1,0.0003
-3403,232179,Agent A,1,0.0003
-3404,10002183,Agent Intercept,1,0.0003
-3405,10001476,Aground,1,0.0003
-3406,234420,Aikagi: Kimi to Issho ni,1,0.0003
-3407,10009605,Air Aces,1,0.0003
-3408,200264,Air Conflicts: Secret Wars,1,0.0003
-3409,10004526,Airoheart,1,0.0003
-3410,234561,AKIBA'S TRIP: Hellbound & Debriefed,1,0.0003
-3411,200075,AKIBA'S TRIP: UNDEAD ＆ UNDRESSED,1,0.0003
-3412,206057,Alekhine's Gun,1,0.0003
-3413,10001044,ALESTE COLLECTION,1,0.0003
-3414,10020426,Alien Breed 35th Anniversary,1,0.0003
-3415,10004398,All-In-One Sports VR,1,0.0003
-3416,10009832,All I Want for Christmas are Subgames,1,0.0003
-3417,10013683,All in Abyss: Judge the Fake,1,0.0003
-3418,10018717,All Motors Racing Simulator,1,0.0003
-3419,10007732,Ambulance Life: A Paramedic Simulator,1,0.0003
-3420,10018067,Amer: The Chase Hit and Run,1,0.0003
-3421,10018543,Angle Of Attack,1,0.0003
-3422,213407,Angry Birds Star Wars,1,0.0003
-3423,10001179,Angry Video Game Nerd I & II Deluxe,1,0.0003
-3424,10015214,Animal Bomber,1,0.0003
-3425,10015585,Anime Girls: Highschool of Dead,1,0.0003
-3426,10013101,Anime Girls: Sun of a Beach,1,0.0003
-3427,10018381,Anime Uni 6 3D,1,0.0003
-3428,10010387,Anime vs Evil: Apocalypse,1,0.0003
-3429,10011310,Anomaly Agent,1,0.0003
-3430,234115,ANONYMOUS;CODE,1,0.0003
-3431,10009091,Anthology of Fear,1,0.0003
-3432,10015693,Anthology of the Killer,1,0.0003
-3433,232031,AO International Tennis,1,0.0003
-3434,10011587,Apartment No 129,1,0.0003
-3435,200006,Ape Escape™ 2,1,0.0003
-3436,10007223,Aphelion,1,0.0003
-3437,10018698,Apidya' Special,1,0.0003
-3438,216815,Apollo 11 VR,1,0.0003
-3439,200034,Apotheon,1,0.0003
-3440,10001021,Aragami 2,1,0.0003
-3441,10018890,Arcade Archives 2 Lady Bug,1,0.0003
-3442,10015409,Arcade Archives 2 MACH BREAKERS,1,0.0003
-3443,10018625,Arcade Archives 2 Mr.Do!,1,0.0003
-3444,10016982,Arcade Archives 2 SPACE INVADERS,1,0.0003
-3445,10019961,Arcade Archives 2 XEVIOUS 3D/G,1,0.0003
-3446,10009452,Arcade Archives AERO FIGHTERS,1,0.0003
-3447,232320,Arcade Archives ARGUS,1,0.0003
-3448,10001117,Arcade Archives Burger Time,1,0.0003
-3449,10000982,Arcade Archives CIRCUS CHARLIE,1,0.0003
-3450,216044,Arcade Archives CONTRA,1,0.0003
-3451,10009031,Arcade Archives COSMO GANG THE PUZZLE,1,0.0003
-3452,10014153,Arcade Archives CRAZY BALLOON,1,0.0003
-3453,200295,Arcade Archives CRAZY CLIMBER,1,0.0003
-3454,10002275,Arcade Archives CYBATTLER,1,0.0003
-3455,10010049,Arcade Archives Exvania,1,0.0003
-3456,235082,Arcade Archives FROGGER,1,0.0003
-3457,10006918,Arcade Archives GROBDA,1,0.0003
-3458,10005302,Arcade Archives Gun Frontier,1,0.0003
-3459,228685,Arcade Archives HAUNTED CASTLE,1,0.0003
-3460,235084,Arcade Archives HYPER SPORTS,1,0.0003
-3461,200305,Arcade Archives Karate Champ,1,0.0003
-3462,216039,Arcade Archives KIKI KAIKAI,1,0.0003
-3463,214796,Arcade Archives MAGMAX,1,0.0003
-3464,10003510,Arcade Archives MAPPY,1,0.0003
-3465,233916,Arcade Archives NINJA GAIDEN,1,0.0003
-3466,233589,Arcade Archives Ninja Spirit,1,0.0003
-3467,10005517,Arcade Archives PAC-MANIA,1,0.0003
-3468,10008608,Arcade Archives POLE POSITION II,1,0.0003
-3469,10009437,Arcade Archives SUPER CONTRA,1,0.0003
-3470,10004015,Arcade Archives SUPER PAC-MAN,1,0.0003
-3471,10006268,Arcade Archives TETRIS THE ABSOLUTE THE GRAND MASTER 2 PLUS,1,0.0003
-3472,10004001,Arcade Archives TETRIS® THE GRAND MASTER,1,0.0003
-3473,10007207,Arcade Archives The New Zealand Story,1,0.0003
-3474,234525,Arcade Archives TRACK & FIELD,1,0.0003
-3475,10006894,ArcRunner,1,0.0003
-3476,10013771,Ariana and the Elder Codex,1,0.0003
-3477,10009596,Arken Age,1,0.0003
-3478,200332,Armello,1,0.0003
-3479,10009671,Arranger: A Role-Puzzling Adventure,1,0.0003
-3480,216065,Art of Fighting Anthology,1,0.0003
-3481,10017965,Artifact Seekers,1,0.0003
-3482,10002562,Ascendshaft and Endless Shaft,1,0.0003
-3483,10013717,Asphalt Racing Bundle Speedway & Grand Prix,1,0.0003
-3484,10008894,Assault Suit Leynos 2 Saturn Tribute PS4 & PS5,1,0.0003
-3485,10005233,Asterigos: Curse of the Stars,1,0.0003
-3486,10015356,Asterix & Obelix - Mission Babylon,1,0.0003
-3487,10001110,Asterix & Obelix Slap them All!,1,0.0003
-3488,10005402,Asterix & Obelix XXXL : The Ram From Hibernia,1,0.0003
-3489,10002816,Astral Ascent,1,0.0003
-3490,10011469,Astrea: Six-Sided Oracles,1,0.0003
-3491,10010375,ASTROSMASH,1,0.0003
-3492,234728,Atelier Ayesha: The Alchemist of Dusk DX,1,0.0003
-3493,233206,Atelier Lulua ~The Scion of Arland~,1,0.0003
-3494,232610,Atelier Meruru ~The Apprentice of Arland~ DX,1,0.0003
-3495,10012578,Atelier Resleriana: The Red Alchemist & the White Guardian,1,0.0003
-3496,10003063,Atelier Sophie 2: The Alchemist of the Mysterious Dream,1,0.0003
-3497,234863,Atomicrops,1,0.0003
-3498,222942,ATV Renegades,1,0.0003
-3499,228897,Autobahn Police Simulator 2,1,0.0003
-3500,10002739,Autonauts,1,0.0003
-3501,10003264,Avatar The Last Airbender: Quest for Balance,1,0.0003
-3502,225020,Aven Colony,1,0.0003
-3503,10009167,AWAKEN - Astral Blade,1,0.0003
-3504,10008498,Axis Football 2024,1,0.0003
-3505,10013692,Axis Football 2026,1,0.0003
-3506,10020773,Axis Football 2027,1,0.0003
-3507,10004607,Ayleouna,1,0.0003
-3508,10005730,Baby Shark™: Sing & Swim Party,1,0.0003
-3509,10016994,Back to the Dawn,1,0.0003
-3510,200400,Back to the Future: The Game,1,0.0003
-3511,200421,Backgammon Blitz,1,0.0003
-3512,10012988,Bad Cheese,1,0.0003
-3513,10010936,Baking Time!,1,0.0003
-3514,10014439,Balance Blox,1,0.0003
-3515,10015366,Ball Rush,1,0.0003
-3516,10011309,Barbie™ Horse Trails,1,0.0003
-3517,10011654,Barista Simulator,1,0.0003
-3518,234701,Barton Lynch Pro Surfing,1,0.0003
-3519,10004384,Basketball - Breakthrough Gaming Arcade,1,0.0003
-3520,10003930,Batora: Lost Haven,1,0.0003
-3521,216886,Battle Chef Brigade,1,0.0003
-3522,10013168,Battle Engine Aquila,1,0.0003
-3523,221826,Battle Garegga Rev.2016,1,0.0003
-3524,10012188,Beach Invasion 1945 - Pacific,1,0.0003
-3525,10007449,Bear and Breakfast,1,0.0003
-3526,10002620,BEAUTIFUL DESOLATION,1,0.0003
-3527,10012799,Before Exit: Gas Station,1,0.0003
-3528,10011391,Before Exit: Supermarket,1,0.0003
-3529,10003780,Before We Leave,1,0.0003
-3530,10004835,Behind the Frame: The Finest Scenery,1,0.0003
-3531,10013555,Beneath,1,0.0003
-3532,10011086,Beneath Oresa,1,0.0003
-3533,232290,Bibi & Tina – Adventures with Horses,1,0.0003
-3534,10018279,"Bibi & Tina – Ready, Set, Ride!",1,0.0003
-3535,10016837,Big Trouble in Little Chimney,1,0.0003
-3536,10014445,Bigfoot Hunting,1,0.0003
-3537,10004756,Biolab Wars,1,0.0003
-3538,10011138,BIOMORPH,1,0.0003
-3539,10011377,Bionic Bay,1,0.0003
-3540,10010903,Biped 2,1,0.0003
-3541,10012275,Birthday Boy,1,0.0003
-3542,221875,Birthdays the Beginning,1,0.0003
-3543,10010032,BIT.TRIP RERUNNER,1,0.0003
-3544,10014845,Blacksmith Simulator,1,0.0003
-3545,10005559,Blade Assault,1,0.0003
-3546,200528,BLADESTORM: Nightmare,1,0.0003
-3547,228310,BLAZBLUE CHRONOPHANTASMA EXTEND,1,0.0003
-3548,10001868,Blaze and the Monster Machines: Axle City Racers,1,0.0003
-3549,10005382,Blazing Strike,1,0.0003
-3550,234527,Blim,1,0.0003
-3551,10000288,Blind Men,1,0.0003
-3552,10014722,Blocky Blast,1,0.0003
-3553,10019522,Blood Dungeon,1,0.0003
-3554,10012169,Blood West,1,0.0003
-3555,10004758,Bloodwash,1,0.0003
-3556,10009078,Bloomtown: A Different Story,1,0.0003
-3557,224799,BLUE REFLECTION,1,0.0003
-3558,10011791,BMX CITY RUN,1,0.0003
-3559,231065,Bomber Crew,1,0.0003
-3560,232925,Borderlands® 2 VR,1,0.0003
-3561,10003374,Bowling (Jane Version) - Project: Summer Ice (Sports Series),1,0.0003
-3562,10003715,Bowling (Mark Version) - Project: Summer Ice (Sports Series),1,0.0003
-3563,10003132,Bowling (Pammy Version) - Project: Summer Ice (Sports Series),1,0.0003
-3564,10003716,Bowling (Story Two) (Mark Version) - Project: Summer Ice,1,0.0003
-3565,235127,Boxed In,1,0.0003
-3566,10007138,Boxer,1,0.0003
-3567,10004402,Boxville,1,0.0003
-3568,10013009,Boxville 2,1,0.0003
-3569,10011996,Boys Race,1,0.0003
-3570,234470,Brain Breaker,1,0.0003
-3571,10016406,Brave × Junction,1,0.0003
-3572,10004881,Bravery and Greed,1,0.0003
-3573,200590,BRAVIA TV Player,1,0.0003
-3574,10005266,Breakers Collection,1,0.0003
-3575,234836,Breeder Homegrown,1,0.0003
-3576,10003003,Brewmaster: Beer Brewing Simulator,1,0.0003
-3577,10010550,Brick Buster,1,0.0003
-3578,216084,Bridge Constructor,1,0.0003
-3579,230115,Bridge Constructor Portal,1,0.0003
-3580,10004566,Bright Lights of Svetlov,1,0.0003
-3581,200617,Brothers : a Tale of Two Sons,1,0.0003
-3582,10000239,BRUNSWICK PRO BILLIARDS,1,0.0003
-3583,10013068,Bubbelsche Deluxe,1,0.0003
-3584,10000990,Bubble Bobble 4 Friends: The Baron is Back!,1,0.0003
-3585,10011102,Bubble Riders,1,0.0003
-3586,10014438,Bubble Shooter DX,1,0.0003
-3587,228948,Bubsy: The Woolies Strike Back,1,0.0003
-3588,10008170,Bud Spencer & Terence Hill - Slaps And Beans 2,1,0.0003
-3589,10000410,Bug Fables: The Everlasting Sapling,1,0.0003
-3590,10008443,Burnhouse Lane,1,0.0003
-3591,10009498,Burning Secrets - A Bara Visual Novel,1,0.0003
-3592,10010537,Bus Simulator Driver 2024 : City Zone,1,0.0003
-3593,10005072,C-Smash VRS New Dimension,1,0.0003
-3594,10008941,Cafe Owner Simulator,1,0.0003
-3595,10016150,Cakey's Twisted Bakery,1,0.0003
-3596,10016298,CALC+-,1,0.0003
-3597,10009485,Caligo,1,0.0003
-3598,10010861,Campfire Oasis,1,0.0003
-3599,10014126,Campfire of Oasis 2,1,0.0003
-3600,10015351,Candivity,1,0.0003
-3601,232197,Candle - The Power of the Flame,1,0.0003
-3602,10001457,Cannibal Cuisine,1,0.0003
-3603,10011547,Captain Blood,1,0.0003
-3604,10013969,Captain Puff MacFly,1,0.0003
-3605,10016647,Car Dealer Garage Simulator 2026,1,0.0003
-3606,10014174,Car Mechanic Shop Simulator,1,0.0003
-3607,10014522,CARD SHOP GAME STORE - TCG SIMULATOR,1,0.0003
-3608,10000821,Carnivores: Dinosaur Hunt,1,0.0003
-3609,10019387,Case Solved: The London Files,1,0.0003
-3610,10016744,CASSETTE BOY,1,0.0003
-3611,200691,CastleStorm - Definitive Edition,1,0.0003
-3612,10016858,Cat From Hell 2,1,0.0003
-3613,10009000,Cat Pipes,1,0.0003
-3614,10019004,Catch Flex,1,0.0003
-3615,10013603,CATO: Buttered Cat,1,0.0003
-3616,10013497,Cats and Seek : Dino Park,1,0.0003
-3617,10013706,Cave Crave,1,0.0003
-3618,10002212,Cave Digger 2,1,0.0003
-3619,206342,Cel Damage HD,1,0.0003
-3620,200675,CHAOS;CHILD,1,0.0003
-3621,200696,Chasm,1,0.0003
-3622,10000775,CHESS,1,0.0003
-3623,10011331,Chess Infinity,1,0.0003
-3624,10000774,Chicken Police,1,0.0003
-3625,10002468,Chicory: A Colorful Tale,1,0.0003
-3626,232849,Chimparty™,1,0.0003
-3627,10012328,Chornobyl Liquidators,1,0.0003
-3628,10000793,CHORUS,1,0.0003
-3629,10016302,Chorus of Carcosa,1,0.0003
-3630,10002266,Christmas Break,1,0.0003
-3631,10002029,Christmas Break Head to Head,1,0.0003
-3632,10009921,Christmas Journey Puzzle,1,0.0003
-3633,10009054,Christmas Massacre,1,0.0003
-3634,216962,Chroma Squad,1,0.0003
-3635,10013371,Chronicles of the Wolf,1,0.0003
-3636,10001162,Ciel Nosurge -Ushinawareta Hoshi e Sasagu Uta- DX,1,0.0003
-3637,10012913,City Bus Manager,1,0.0003
-3638,10012195,City Bus Simulator 2026,1,0.0003
-3639,10009508,City Transport Simulator: Bus + Tram,1,0.0003
-3640,200772,CLANNAD,1,0.0003
-3641,10011173,Clash: Robot Detective - Complete Edition,1,0.0003
-3642,10015075,Classic Solitaire,1,0.0003
-3643,10017856,Cleaning Up!,1,0.0003
-3644,10009801,Cleansheet Football,1,0.0003
-3645,10004977,Clive 'N' Wrench,1,0.0003
-3646,10012015,Clothing Supermarket Store Simulator,1,0.0003
-3647,10014978,Cloud Roll,1,0.0003
-3648,10000251,Cloudpunk,1,0.0003
-3649,233409,Coaster,1,0.0003
-3650,10000300,Cobra Kai: The Karate Kid Saga Continues,1,0.0003
-3651,200777,Color Guardians,1,0.0003
-3652,10016003,Color Water Sort,1,0.0003
-3653,216940,Color Zen,1,0.0003
-3654,10001890,Colossus Down,1,0.0003
-3655,10007746,Commandos: Origins,1,0.0003
-3656,10008193,COMPOUND,1,0.0003
-3657,234458,Conan Chop Chop,1,0.0003
-3658,232852,Conception PLUS: Maidens of the Twelve Stars,1,0.0003
-3659,10015794,Console Archives NINJA GAIDEN II: THE DARK SWORD OF CHAOS,1,0.0003
-3660,10018999,Console Archives T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy,1,0.0003
-3661,10014757,Constance,1,0.0003
-3662,235051,Construction Simulator 3 - Console Edition,1,0.0003
-3663,200798,Constructor,1,0.0003
-3664,232767,"Cook, Serve, Delicious! 2!!",1,0.0003
-3665,10001180,"Cook, Serve, Delicious! 3?!",1,0.0003
-3666,10010633,Cop Officers: Police Simulator of NYPD City,1,0.0003
-3667,10011541,COPA CITY,1,0.0003
-3668,216120,Corridor Z,1,0.0003
-3669,200682,Costume Quest 2,1,0.0003
-3670,10003975,Cotton 100%,1,0.0003
-3671,10002088,Cozy Grove,1,0.0003
-3672,10019291,Cozy Grove: Camp Spirit,1,0.0003
-3673,10011476,Crasho Cars,1,0.0003
-3674,231786,Crayola Scoot,1,0.0003
-3675,10018228,Crazy Cats Survivors,1,0.0003
-3676,10014014,Crazy Cats vs. Crazy Cyborgs,1,0.0003
-3677,10002523,Crazy Chicken Shooter Edition,1,0.0003
-3678,10000345,Creaks,1,0.0003
-3679,10016133,Creepy Shift: Roadside Diner,1,0.0003
-3680,10014216,Crime Opera Fandisk: The Caterpillar Candids,1,0.0003
-3681,10007148,Criminal Expert,1,0.0003
-3682,10001088,Cris Tales,1,0.0003
-3683,10012891,Criss Cross Bomb,1,0.0003
-3684,235139,Croc's World 3,1,0.0003
-3685,10005672,Crown Wars: The Black Prince,1,0.0003
-3686,228985,Cruz Brothers,1,0.0003
-3687,10008704,Cry Babies Magic Tears: The Big Game,1,0.0003
-3688,10007151,CRYMACHINA,1,0.0003
-3689,231262,Crypt of the Serpent King,1,0.0003
-3690,228691,CRYSTAR,1,0.0003
-3691,10014086,Cubic Odyssey,1,0.0003
-3692,10014446,Cute Puppy Academy,1,0.0003
-3693,235248,Cyber Troopers Virtual-On Masterpiece 1995-2001,1,0.0003
-3694,225256,Cyberdimension Neptunia: 4 Goddesses Online,1,0.0003
-3695,10004231,CYGNI: All Guns Blazing,1,0.0003
-3696,232211,D-Day Enhanced,1,0.0003
-3697,10016420,D-topia,1,0.0003
-3698,231085,Dandara,1,0.0003
-3699,10002321,Danganronpa S: Ultimate Summer Camp,1,0.0003
-3700,232934,Dangerous Driving,1,0.0003
-3701,217979,Dangerous Golf,1,0.0003
-3702,234942,Danmaku Unlimited 3,1,0.0003
-3703,234935,Darius Cozmic Collection Arcade,1,0.0003
-3704,10001494,DARIUSBURST: ANOTHER CHRONICLE EX+,1,0.0003
-3705,10016450,Dark Auction,1,0.0003
-3706,10010787,Dark Deity 2,1,0.0003
-3707,10007200,Dark Light,1,0.0003
-3708,227343,Dark Mystery,1,0.0003
-3709,10020202,Dark Town Secrets: Lost Lulu Collector’s Edition,1,0.0003
-3710,234403,Darkestville Castle,1,0.0003
-3711,200896,Day of the Tentacle Remastered,1,0.0003
-3712,10012086,Daylight Dread,1,0.0003
-3713,221855,Dead Effect 2,1,0.0003
-3714,222247,Dead Island: Definitive Collection,1,0.0003
-3715,10012670,Dead Land 2 VR,1,0.0003
-3716,227320,DeadAge,1,0.0003
-3717,222964,DEADBOLT,1,0.0003
-3718,221866,Dear Esther: Landmark Edition,1,0.0003
-3719,222833,Death's Gambit: Afterlife,1,0.0003
-3720,10003709,Death and Taxes,1,0.0003
-3721,10001184,Death Come True,1,0.0003
-3722,10006282,Death Relives,1,0.0003
-3723,231052,Decay of Logos,1,0.0003
-3724,10014088,Deep Under,1,0.0003
-3725,200917,Defense Grid 2,1,0.0003
-3726,10003378,Deliver Us Mars,1,0.0003
-3727,10009806,Dementium: The Ward,1,0.0003
-3728,10008951,Democracy 4: Console Edition,1,0.0003
-3729,10009468,Demolish & Build Classic,1,0.0003
-3730,10008801,Demon Slayer -Kimetsu no Yaiba- Sweep the Board!,1,0.0003
-3731,10007754,Demonschool,1,0.0003
-3732,216977,Deponia,1,0.0003
-3733,232926,Déraciné™,1,0.0003
-3734,10018716,Desert Storm War FPS,1,0.0003
-3735,10004302,Despot's Game,1,0.0003
-3736,10008349,Dessert DIY,1,0.0003
-3737,10009095,Detective Agency: Gray Tie 2 Collector's Edition,1,0.0003
-3738,10016530,Detective VR,1,0.0003
-3739,232170,Devious Dungeon,1,0.0003
-3740,10020438,Dice A Million,1,0.0003
-3741,10008642,Diesel Legacy: The Brazen Age,1,0.0003
-3742,221861,Dino Dini's Kick Off Revival,1,0.0003
-3743,10019370,Dino Odyssey,1,0.0003
-3744,10012023,Dinosaur Fossil Hunter,1,0.0003
-3745,10011821,Disco Simulator,1,0.0003
-3746,234649,Disgaea 4 Complete+,1,0.0003
-3747,10004335,Disgaea 6 Complete,1,0.0003
-3748,10004787,Disgaea 7: Vows of the Virtueless,1,0.0003
-3749,10007631,Disney•Pixar Buzz Lightyear of Star Command,1,0.0003
-3750,10003138,Divine Knockout (DKO),1,0.0003
-3751,10010921,DIY Fashion Star,1,0.0003
-3752,10009458,Doctor Who: The Edge of Time,1,0.0003
-3753,10010150,Doggy Up!,1,0.0003
-3754,235356,Dogurai,1,0.0003
-3755,10002698,Dolmen,1,0.0003
-3756,10003729,Don't Be Afraid,1,0.0003
-3757,201106,Don Bradman Cricket,1,0.0003
-3758,228700,DOOM VFR,1,0.0003
-3759,235336,DORAEMON STORY OF SEASONS,1,0.0003
-3760,10012806,Dora™: Rainforest Rescue,1,0.0003
-3761,10003948,Dordogne,1,0.0003
-3762,10014511,Dorfromantik,1,0.0003
-3763,10009569,Dr. Frank's Build a Boyfriend,1,0.0003
-3764,229681,Dragon's Lair Trilogy,1,0.0003
-3765,232591,Dragon Star VARNIR,1,0.0003
-3766,235393,DragonRideVR,1,0.0003
-3767,10004734,Dragons in Space,1,0.0003
-3768,10019989,Dream Cage,1,0.0003
-3769,10007273,DreamWorks Trolls Remix Rescue,1,0.0003
-3770,10016686,Drill Core,1,0.0003
-3771,10010218,DRUNKEN SUPERHERO,1,0.0003
-3772,221676,DUCATI - 90th Anniversary,1,0.0003
-3773,10009788,Dungeon Adventure,1,0.0003
-3774,10002059,DUNGEON ENCOUNTERS,1,0.0003
-3775,232216,Dungeons of Sundaria,1,0.0003
-3776,233413,Dungreed,1,0.0003
-3777,10013544,Dunjungle,1,0.0003
-3778,10003721,Dusk Diver 2,1,0.0003
-3779,229000,Dynasty Feud,1,0.0003
-3780,216171,Eagle Flight,1,0.0003
-3781,10000167,eBASEBALL POWERFUL PRO BASEBALL 2020,1,0.0003
-3782,10013327,EBOLA III,1,0.0003
-3783,10011320,EBOLA VILLAGE,1,0.0003
-3784,10004656,echochrome,1,0.0003
-3785,10008930,Edge of Reality,1,0.0003
-3786,235058,Edna and Harvey - The Breakout - Anniversary Edition,1,0.0003
-3787,10005981,Eikan Nine Crossroad,1,0.0003
-3788,10003486,Eiyuden Chronicle: Rising,1,0.0003
-3789,10012717,Electrician Simulator VR,1,0.0003
-3790,10003762,Elemental War 2,1,0.0003
-3791,10016639,Elementallis,1,0.0003
-3792,217046,ELEX,1,0.0003
-3793,230619,Eliosi's Hunt,1,0.0003
-3794,10007363,Elypse,1,0.0003
-3795,10011030,Ember Knights: Heroes of the Nexus Edition,1,0.0003
-3796,10012775,Entropy Survivors,1,0.0003
-3797,201386,Entwined™,1,0.0003
-3798,231803,Epic Dumpster Bear,1,0.0003
-3799,10009571,Eriksholm: The Stolen Dream,1,0.0003
-3800,10005014,Escape First,1,0.0003
-3801,10010302,Escape from Ever After,1,0.0003
-3802,10012853,Escape the Backrooms Bodycam,1,0.0003
-3803,233467,ESP Ra.De. Psi,1,0.0003
-3804,10012383,Eternal Evil,1,0.0003
-3805,10004814,Eternights,1,0.0003
-3806,10017487,Etrange Overlord,1,0.0003
-3807,10000609,Evan's Remains,1,0.0003
-3808,201297,Everybody's Gone To The Rapture™,1,0.0003
-3809,10002054,Evil Inside,1,0.0003
-3810,231075,Evoland: Legendary Edition,1,0.0003
-3811,201324,Exist Archive,1,0.0003
-3812,10019301,EXSTETRA,1,0.0003
-3813,10009265,Extreme Bike Racing,1,0.0003
-3814,10019610,Extreme Cycling Championship,1,0.0003
-3815,201351,Extreme Exorcism,1,0.0003
-3816,10012476,Extremely Powerful Capybaras,1,0.0003
-3817,10009574,Fabledom,1,0.0003
-3818,10011532,FAIRY TAIL 2,1,0.0003
-3819,10016729,FAITH: The Unholy Trinity,1,0.0003
-3820,10004481,Fall of Porcupine,1,0.0003
-3821,10002837,Fantasy Friends : Under The Sea,1,0.0003
-3822,201538,FantaVision™,1,0.0003
-3823,10003018,Farm Frenzy: Refreshed,1,0.0003
-3824,10015725,Farm Simulator 2026,1,0.0003
-3825,231274,Farmer's Dynasty,1,0.0003
-3826,10000611,Fast Gear,1,0.0003
-3827,10006174,FATAL FRAME: Mask of the Lunar Eclipse,1,0.0003
-3828,10008118,Fate Seeker II,1,0.0003
-3829,10011333,FATE: Reawakened,1,0.0003
-3830,10008828,Fearmonium,1,0.0003
-3831,10011205,Feed My Raptor,1,0.0003
-3832,201435,FEZ,1,0.0003
-3833,235138,Fight'N Rage,1,0.0003
-3834,231080,FIGHTING EX LAYER,1,0.0003
-3835,10004222,Figment 2: Creed Valley,1,0.0003
-3836,10017986,File Destined,1,0.0003
-3837,10015664,Fill The Cup 2,1,0.0003
-3838,10010831,Final Frog,1,0.0003
-3839,10004778,Final Vendetta,1,0.0003
-3840,10012843,Finding America: New England Collector's Edition,1,0.0003
-3841,10015084,Fire & Water,1,0.0003
-3842,224853,Firefighters - The Simulation,1,0.0003
-3843,231487,Firefighters: Plant Fire Department,1,0.0003
-3844,10004162,Firegirl: Hack 'n Splash Rescue DX,1,0.0003
-3845,10019711,Five Elements Chess,1,0.0003
-3846,10015125,Flamecraft,1,0.0003
-3847,10018392,Flesh Made Fear,1,0.0003
-3848,201488,flOw,1,0.0003
-3849,201530,Flower,1,0.0003
-3850,10010156,Flute The Snake Charmer,1,0.0003
-3851,221883,Flywrench,1,0.0003
-3852,10004006,Fobia - St. Dinfna Hotel,1,0.0003
-3853,10010192,Food Truck Simulator,1,0.0003
-3854,233499,"Football, Tactics & Glory",1,0.0003
-3855,10019410,FORENSIC - M.E. Protocol,1,0.0003
-3856,10018499,Forensics: Crime Scene Detective,1,0.0003
-3857,10009004,Forklift Extreme: Deluxe Edition,1,0.0003
-3858,10010507,Forklift Simulator,1,0.0003
-3859,201623,forma.8,1,0.0003
-3860,10006414,Formula Retro Racing - World Tour,1,0.0003
-3861,201611,Fort Defense,1,0.0003
-3862,232156,FOX n FORESTS,1,0.0003
-3863,10004823,FPV Simulator,1,0.0003
-3864,10002687,Fracked,1,0.0003
-3865,10015477,Frame Cat,1,0.0003
-3866,10007382,Fran Bow,1,0.0003
-3867,10000995,Freddy Spaghetti,1,0.0003
-3868,10000262,Freedom Finger,1,0.0003
-3869,10016558,FreeStyle Football 2,1,0.0003
-3870,10005934,Frogo 2,1,0.0003
-3871,10006526,Frogo 3,1,0.0003
-3872,10008008,From Space,1,0.0003
-3873,10015411,FRONT MISSION 3: Remake,1,0.0003
-3874,10009836,Frontier Hunter : Erza’s Wheel of Fortune,1,0.0003
-3875,10017342,Frost Survival – Winter,1,0.0003
-3876,10011853,Fruits' harvest sorter,1,0.0003
-3877,10013038,Fuel Station Simulator,1,0.0003
-3878,10012099,Fuga: Melodies of Steel 3,1,0.0003
-3879,10000772,FURAIKI4,1,0.0003
-3880,10001631,FutureGPXCyberFormulaSinVier,1,0.0003
-3881,10014496,Galactic Cat,1,0.0003
-3882,10008221,Galaxy Champions TV,1,0.0003
-3883,10002754,Galaxy Kart,1,0.0003
-3884,10010645,Gallop Glory: Obstacle Racing & Horse Simulator,1,0.0003
-3885,10014766,Game & Console Supermarket: Business Simulator,1,0.0003
-3886,10012503,Gamer Quest,1,0.0003
-3887,216233,Games of Glory,1,0.0003
-3888,10007320,Garden Life: A Cozy Simulator,1,0.0003
-3889,10009822,Garden Witch Life,1,0.0003
-3890,10012444,Garfield Kart 2 - All You Can Drift,1,0.0003
-3891,10012588,Garten of Banban 7,1,0.0003
-3892,10003096,Gefragt Gejagt - Das Spiel,1,0.0003
-3893,10003059,Gelly Break Deluxe,1,0.0003
-3894,232751,Genesis,1,0.0003
-3895,231084,Genesis Alpha One,1,0.0003
-3896,10000307,Genetic Disaster,1,0.0003
-3897,10019311,Gennady,1,0.0003
-3898,201860,Geometry Wars³: Dimensions,1,0.0003
-3899,207361,Get Even,1,0.0003
-3900,10005200,Get to the Top 2 - Breakthrough Gaming Arcade,1,0.0003
-3901,10014230,Gex Trilogy,1,0.0003
-3902,10017245,Ghost Master: Resurrection Core Edition,1,0.0003
-3903,233085,Ghost of a Tale,1,0.0003
-3904,10005004,Ghost Song,1,0.0003
-3905,201669,Giana Sisters: Twisted Dreams – Director’s Cut,1,0.0003
-3906,232874,GIGA WRECKER ALT.,1,0.0003
-3907,10003931,Gigantosaurus: Dino Kart,1,0.0003
-3908,10011826,Gimmick! 2,1,0.0003
-3909,10006506,Gimmick! Special Edition,1,0.0003
-3910,232805,Ginsei Mahjong,1,0.0003
-3911,10008468,GIRLS FRANTIC CLAN,1,0.0003
-3912,10013803,Gladiator Warrior,1,0.0003
-3913,10008230,GNOSIA,1,0.0003
-3914,10000242,GODS WILL FALL,1,0.0003
-3915,10020531,Gods With Guns,1,0.0003
-3916,10000258,Going Under,1,0.0003
-3917,10017080,Gold Digging 2026 Simulator,1,0.0003
-3918,10015188,Golden Tee Arcade Classics,1,0.0003
-3919,10001072,Golf,1,0.0003
-3920,10009985,Golfing in Aether,1,0.0003
-3921,10013805,Golfing Over It with Alva Majo,1,0.0003
-3922,10013351,Goosebumps: Terror in Little Creek,1,0.0003
-3923,10004945,Gori: Cuddly Carnage,1,0.0003
-3924,10013375,Gorilla Attack,1,0.0003
-3925,231898,Gorogoa,1,0.0003
-3926,10010662,Gothic Classic,1,0.0003
-3927,10000953,Gothic Murder: Adventure That Changes Destiny,1,0.0003
-3928,234059,Granblue Fantasy: Versus,1,0.0003
-3929,10018871,Grand Vegas Casino,1,0.0003
-3930,10008233,Grandia,1,0.0003
-3931,10017662,Gravity Biker,1,0.0003
-3932,10006297,Gravity Circuit,1,0.0003
-3933,10007237,Gravity Crash Portable,1,0.0003
-3934,10014218,Gravity Jump,1,0.0003
-3935,10014192,Gray War Conflict,1,0.0003
-3936,10002747,Griftlands,1,0.0003
-3937,201876,Grim Fandango Remastered,1,0.0003
-3938,227138,Grim Legends: The Forsaken Bride,1,0.0003
-3939,10016444,Grim Trials,1,0.0003
-3940,10017769,GRIME II,1,0.0003
-3941,10019613,Ground Zero Hero,1,0.0003
-3942,212721,GUILTY GEAR,1,0.0003
-3943,201753,Guilty Gear Xrd -SIGN-,1,0.0003
-3944,10017081,Gunboat God,1,0.0003
-3945,201828,GUNDAM BREAKER 3 BREAK EDITION,1,0.0003
-3946,227154,GUNDAM VERSUS,1,0.0003
-3947,10014788,Gym Manager,1,0.0003
-3948,234013,Habroxia,1,0.0003
-3949,10007205,Hades' Star: DARK NEBULA,1,0.0003
-3950,10010160,Hairdresser Simulator,1,0.0003
-3951,10012704,Halloween Memory Quest,1,0.0003
-3952,10005894,Halloween Pinball,1,0.0003
-3953,10002655,HAMIDASHI CREATIVE,1,0.0003
-3954,10004263,Hammerwatch II,1,0.0003
-3955,10010139,Hand in Hand,1,0.0003
-3956,202038,Hand of Fate,1,0.0003
-3957,227361,Happy Dungeons,1,0.0003
-3958,10009393,Happy Words,1,0.0003
-3959,10008565,HappyFunland,1,0.0003
-3960,217207,Hard Reset Redux,1,0.0003
-3961,10001523,Hardspace: Shipbreaker,1,0.0003
-3962,232798,Harold Halibut,1,0.0003
-3963,10005202,Harvest Moon: The Winds of Anthos,1,0.0003
-3964,10014280,Harvest Moon®: Home Sweet Home Special Edition,1,0.0003
-3965,10017030,Hatsune Miku Logic Paint S,1,0.0003
-3966,10005049,Haunted House,1,0.0003
-3967,10000983,Haven,1,0.0003
-3968,201889,HBO GO,1,0.0003
-3969,10004875,Headbangers: Rhythm Royale,1,0.0003
-3970,10001586,Heavy Metal Machines,1,0.0003
-3971,10004773,Heidelberg 1693,1,0.0003
-3972,10010143,Helichapter X,1,0.0003
-3973,10015009,Hell Froze Over,1,0.0003
-3974,10004873,Hell Pie,1,0.0003
-3975,10006454,Hello Neighbor: Search and Rescue,1,0.0003
-3976,235113,Hellpoint,1,0.0003
-3977,10013909,Hentai Girls Succubus,1,0.0003
-3978,10002276,Hentai vs. Evil,1,0.0003
-3979,10008196,Hero Survival,1,0.0003
-3980,232806,Heroes of Hammerwatch,1,0.0003
-3981,10019296,Heroines Through My Lens,1,0.0003
-3982,229802,Hidden Agenda,1,0.0003
-3983,10011301,Hidden Cats in Berlin,1,0.0003
-3984,10017901,Hidden Cats in Christmas,1,0.0003
-3985,10008176,Hidden Cats in London,1,0.0003
-3986,10010314,Hidden Cats in New York,1,0.0003
-3987,10010315,Hidden Cats in Paris,1,0.0003
-3988,10012673,Hidden Cats in Santa's Realm,1,0.0003
-3989,10012204,Hidden Cats in Spooky Town,1,0.0003
-3990,10015029,Hidden Cats in Tokyo,1,0.0003
-3991,10009130,Hidden Through Time 2: Myths & Magic,1,0.0003
-3992,10013649,Hide The Corpse,1,0.0003
-3993,232690,Higurashi no Naku Koro ni Hou,1,0.0003
-3994,234799,Himno,1,0.0003
-3995,10000713,HIQ ACE Unlimited,1,0.0003
-3996,234556,Hitchhiker - A Mystery Game,1,0.0003
-3997,218377,Hitman GO: Definitive Edition,1,0.0003
-3998,10002508,Hoa,1,0.0003
-3999,10003404,Hobo: Tough Life,1,0.0003
-4000,10003839,Hokko Life,1,0.0003
-4001,235322,Holfraine,1,0.0003
-4002,10015028,Hollowbody,1,0.0003
-4003,10011019,Home Safety Hotline,1,0.0003
-4004,10000293,Hood: Outlaws & Legends,1,0.0003
-4005,10009853,Hoodie Survivor,1,0.0003
-4006,10015329,Horror Night with Tung Tung Tung Sahur,1,0.0003
-4007,10001318,HORSE CLUB ADVENTURES,1,0.0003
-4008,10005001,Horse Club™ Adventures 2: Hazelwood Stories,1,0.0003
-4009,231095,Hotel Transylvania 3: Monsters Overboard,1,0.0003
-4010,10005439,House Builder,1,0.0003
-4011,10003236,House Flipper VR,1,0.0003
-4012,221896,Hue,1,0.0003
-4013,233596,Human Anatomy VR,1,0.0003
-4014,10010476,Humble Haunted House,1,0.0003
-4015,10002168,Hunter's Arena: Legends,1,0.0003
-4016,222257,Hustle Kings™ VR,1,0.0003
-4017,10009771,HYKE:Northern Light(s),1,0.0003
-4018,10012127,Hyper Rider,1,0.0003
-4019,10012272,Hyper Team Recon,1,0.0003
-4020,10010639,Hyperdimension Neptunia Re;Birth3 V GENERATION,1,0.0003
-4021,231779,I'm Hungry,1,0.0003
-4022,10010146,I'm on Observation Duty 6,1,0.0003
-4023,10013341,I'm on Observation Duty 7,1,0.0003
-4024,10017830,I Hate This Place,1,0.0003
-4025,10002382,I Saw Black Clouds,1,0.0003
-4026,10001043,"I, AI",1,0.0003
-4027,229153,Iconoclasts,1,0.0003
-4028,10018486,Idle Immortal,1,0.0003
-4029,208008,IGN,1,0.0003
-4030,231304,Ikaruga,1,0.0003
-4031,227381,ImmortalRedneck,1,0.0003
-4032,10011048,Immortals Fenyx Rising (China),1,0.0003
-4033,10004066,Imp of the Sun,1,0.0003
-4034,10018662,In Fair Spirits,1,0.0003
-4035,10001075,In rays of the Light,1,0.0003
-4036,10016664,Incantation,1,0.0003
-4037,221705,INDIGO PROPHECY,1,0.0003
-4038,216306,Indivisible,1,0.0003
-4039,10007628,Indoor Kickball,1,0.0003
-4040,224854,Industry Giant 2,1,0.0003
-4041,10016827,Infection Inspection,1,0.0003
-4042,10003982,Infernax,1,0.0003
-4043,10005547,Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5,1,0.0003
-4044,10013171,Internet Cafe Simulator 2025,1,0.0003
-4045,10013367,Into Black,1,0.0003
-4046,217196,INVERSUS Deluxe,1,0.0003
-4047,216301,"Invisible, Inc. Console Edition",1,0.0003
-4048,233277,Ion Fury,1,0.0003
-4049,10009729,Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle,1,0.0003
-4050,10013490,Is this Game Trying to Kill Me?,1,0.0003
-4051,231528,Island Time VR,1,0.0003
-4052,10018589,It Reaches,1,0.0003
-4053,10005215,Itorah,1,0.0003
-4054,232228,Jake Hunter Detective Story: Prism of Eyes,1,0.0003
-4055,10018791,Japanese Rail Sim: Real Pro Express Hinotori - Kintetsu Railway,1,0.0003
-4056,221707,Jazzpunk: Director's Cut,1,0.0003
-4057,10012435,Jet Combat: Cats VS Dogs Military Simulator,1,0.0003
-4058,10012286,Jewel Fever 3,1,0.0003
-4059,10017822,Jewel Match Solitaire L'Amour,1,0.0003
-4060,10019106,Jewel Match Solitaire X,1,0.0003
-4061,216298,Joe Dever's Lone Wolf Console Edition,1,0.0003
-4062,202220,Joysound.TV Plus,1,0.0003
-4063,10005757,Junkyard Fury 2,1,0.0003
-4064,10010555,Junkyard Simulator,1,0.0003
-4065,202237,Just Dance® 2016,1,0.0003
-4066,227149,Just Dance® 2018,1,0.0003
-4067,10015528,Kaku - Ancient Seal,1,0.0003
-4068,202677,Kamen Rider: Battride War Genesis,1,0.0003
-4069,10008937,KAMiBAKO - Mythology of Cube -,1,0.0003
-4070,10015091,Kamla,1,0.0003
-4071,10004111,Kansei: The Second Turn HD,1,0.0003
-4072,10001045,Katamari Damacy REROLL,1,0.0003
-4073,10014049,Kawaii Puzzle Quest,1,0.0003
-4074,10016182,Kawaii Puzzle Quest 2,1,0.0003
-4075,234990,Kaze and the Wild Masks,1,0.0003
-4076,10014278,Keeper's Toll,1,0.0003
-4077,232844,Ketsui Deathtiny -Kizuna Jigoku Tachi-,1,0.0003
-4078,10003085,KID A MNESIA EXHIBITION,1,0.0003
-4079,233982,Kid Tripp,1,0.0003
-4080,202323,Kill Strain™,1,0.0003
-4081,231690,Killing Floor: Incursion,1,0.0003
-4082,10017667,Kiln,1,0.0003
-4083,10007265,Kingdom Eighties,1,0.0003
-4084,10005028,Kingdom of Paradise,1,0.0003
-4085,10014681,Kinki Spiritual Affairs Bureau,1,0.0003
-4086,10001061,Klang 2,1,0.0003
-4087,10009861,Kong: Survivor Instinct,1,0.0003
-4088,223046,Korix,1,0.0003
-4089,10009665,Krimson,1,0.0003
-4090,10016721,Kristala,1,0.0003
-4091,10006108,Kukoos: Lost Pets,1,0.0003
-4092,202358,Kung Fury: Street Rage - Ultimate Edition,1,0.0003
-4093,10007595,Kuroi Tsubasa,1,0.0003
-4094,10017478,KYOTO XANADU -the Blooming Phantom-,1,0.0003
-4095,10004078,L.O.L. Surprise! B.B.s BORN TO TRAVEL™,1,0.0003
-4096,10006880,LABYRINTH OF THE DEMON KING,1,0.0003
-4097,10002574,Labyrinth of Zangetsu,1,0.0003
-4098,10004074,Lady in a Leotard With a Gun,1,0.0003
-4099,10010672,Lakeview Cabin Collection,1,0.0003
-4100,10019066,Lamp Clicker,1,0.0003
-4101,10010299,Last Time I Saw You,1,0.0003
-4102,10013037,Learn to Play Vol. 10 - Gravity Space Walk,1,0.0003
-4103,10017045,Learn to Play Vol. 13 - Pumpkin Smash!,1,0.0003
-4104,10012937,Learn to Play Vol. 8 - Penalty Shootout,1,0.0003
-4105,10013124,Learn to Play Vol. 9 - Santa's Sleigh Ride,1,0.0003
-4106,231288,LEFT ALIVE,1,0.0003
-4107,10001295,Legend of Mana,1,0.0003
-4108,232093,Legendary Eleven,1,0.0003
-4109,10006306,Legendary Tales,1,0.0003
-4110,10013002,Legends BMX,1,0.0003
-4111,232684,Leisure Suit Larry - Wet Dreams Don't Dry,1,0.0003
-4112,10002052,Let's Cook Together,1,0.0003
-4113,221716,Let's Sing 2017,1,0.0003
-4114,10018947,Letter Snap: Word Puzzle,1,0.0003
-4115,10013192,Liar's Pub,1,0.0003
-4116,10002424,Liberated: Enhanced Edition,1,0.0003
-4117,10011490,Life in Terminal Simulator : Airport Adventures,1,0.0003
-4118,10009316,Life of Slime,1,0.0003
-4119,221923,Lifeless Planet,1,0.0003
-4120,10008374,Lil Gator Game,1,0.0003
-4121,227421,Linelight,1,0.0003
-4122,10017862,Liquor Store Simulator,1,0.0003
-4123,10000661,Little Big Workshop,1,0.0003
-4124,235408,Little Misfortune,1,0.0003
-4125,10014636,Little Strays,1,0.0003
-4126,10017671,Little Strays 2,1,0.0003
-4127,10005297,LIVE A LIVE PS4&PS5,1,0.0003
-4128,221714,Livelock,1,0.0003
-4129,10007183,Living with Horses: My Horse Farm,1,0.0003
-4130,10008403,Llamasoft: The Jeff Minter Story PS4 & PS5,1,0.0003
-4131,227162,Lock's Quest,1,0.0003
-4132,10020532,Lofi Witch Hatch,1,0.0003
-4133,10018524,LogIQ Boost,1,0.0003
-4134,10019697,Looking for Fael,1,0.0003
-4135,10009580,Looney Tunes: Wacky World of Sports,1,0.0003
-4136,10011409,Lorelei and the Laser Eyes,1,0.0003
-4137,229187,Lost Castle,1,0.0003
-4138,10017363,Lost Lands 2: The Four Horsemen,1,0.0003
-4139,10017399,Lost Lands 3,1,0.0003
-4140,10018827,Lost Lands 8: Sand Captivity,1,0.0003
-4141,10018616,Lost Little Things,1,0.0003
-4142,231289,LoveR,1,0.0003
-4143,10018646,Luna Abyss,1,0.0003
-4144,10007113,MACROSS -Shooting Insight-,1,0.0003
-4145,10014333,Maestro,1,0.0003
-4146,10007557,Magic Exposure - Yuri Visual Novel,1,0.0003
-4147,10018509,Magic Exposure 2,1,0.0003
-4148,10009878,Magical Bakery,1,0.0003
-4149,229177,Mahou Daisakusen,1,0.0003
-4150,10012680,Maisons de repos,1,0.0003
-4151,209513,Manga Kakeru,1,0.0003
-4152,10012407,Maniac,1,0.0003
-4153,222033,Manual Samuel Last Tuesday Edition,1,0.0003
-4154,10001413,Maquette,1,0.0003
-4155,10017564,Marathon Server Slam,1,0.0003
-4156,233186,Marble It Up! Ultra,1,0.0003
-4157,10001147,March to a Million,1,0.0003
-4158,233079,Mark of the Ninja: Remastered,1,0.0003
-4159,10013478,Mars Survivor,1,0.0003
-4160,10001528,Martha Is Dead,1,0.0003
-4161,10008737,Master Maker 3D Ultimate,1,0.0003
-4162,10014826,Masters Bowling HD,1,0.0003
-4163,229792,Masters of Anima,1,0.0003
-4164,10015353,Masters Pool HD,1,0.0003
-4165,10014412,Match it,1,0.0003
-4166,10009034,Matchbox™ Driving Adventures,1,0.0003
-4167,10004845,MathLand,1,0.0003
-4168,10002637,Mayhem Brawler,1,0.0003
-4169,10006171,MechWarrior 5: Clans,1,0.0003
-4170,10004068,Meet Your Maker,1,0.0003
-4171,10001469,Mega Mall Story2,1,0.0003
-4172,10001920,MEGATON MUSASHI,1,0.0003
-4173,10008905,MEGATON MUSASHI W: WIRED,1,0.0003
-4174,10004291,Meme Run 2,1,0.0003
-4175,10019579,Mementos: Star Constellations,1,0.0003
-4176,10003807,Memories of East Coast,1,0.0003
-4177,10001691,Memories Off Yubikiri no Kioku,1,0.0003
-4178,10013407,Memory Holder: Animal Kingdom,1,0.0003
-4179,10014213,Memory Holder: The Colors,1,0.0003
-4180,10016352,Memory Holder: The Numbers,1,0.0003
-4181,202969,Mercenary Kings,1,0.0003
-4182,235121,METAL MAX Xeno Reborn,1,0.0003
-4183,10008007,METAL SLUG ATTACK RELOADED,1,0.0003
-4184,10012938,METAL SUITS: Counter-attack,1,0.0003
-4185,232571,Metal Wolf Chaos XD,1,0.0003
-4186,222305,Metrico+,1,0.0003
-4187,10009509,Metro Awakening,1,0.0003
-4188,10011772,MetroLand,1,0.0003
-4189,10010009,MFC - Midnight Fight Club,1,0.0003
-4190,227398,Micro Machines World Series,1,0.0003
-4191,10001725,Mighty Goose,1,0.0003
-4192,10017259,Miiridian Prime,1,0.0003
-4193,10013010,Mind Loop,1,0.0003
-4194,235131,Mini Motor Racing X,1,0.0003
-4195,10010037,MIO: Memories in Orbit,1,0.0003
-4196,10010300,Miraculous: Paris Under Siege,1,0.0003
-4197,10003547,Miraculous: Rise of the Sphinx,1,0.0003
-4198,234828,MISTOVER,1,0.0003
-4199,202812,MLB 14 The Show,1,0.0003
-4200,10001164,MOBILE SUIT GUNDAM BATTLE OPERATION Code Fairy,1,0.0003
-4201,10011124,Momodora: Moonlit Farewell,1,0.0003
-4202,231335,MONKEY KING: HERO IS BACK,1,0.0003
-4203,213590,MONOPOLY DEAL,1,0.0003
-4204,10002141,Monster Blast,1,0.0003
-4205,10020551,Monster Nursery,1,0.0003
-4206,10019145,Monster Rush Survivors,1,0.0003
-4207,10000423,Monster Sanctuary,1,0.0003
-4208,10015368,Monster Survivors: Hunting Wilds,1,0.0003
-4209,10013474,Monstrix TCG Card Shop,1,0.0003
-4210,232412,Monstrum,1,0.0003
-4211,10007502,Montgomery Fox and the Case of the Missing Ballerinas,1,0.0003
-4212,10013177,Monument Valley 2,1,0.0003
-4213,10001077,moon,1,0.0003
-4214,221736,Moon Hunters,1,0.0003
-4215,10005567,Moonscars,1,0.0003
-4216,10005186,Morbid: The Lords of Ire,1,0.0003
-4217,10012334,Morsels,1,0.0003
-4218,233873,MORTAL BLITZ : COMBAT ARENA - SIEA,1,0.0003
-4219,10011600,Mortisomem,1,0.0003
-4220,10011188,Mother's Day Journey,1,0.0003
-4221,230495,MotoGP™14 Compact,1,0.0003
-4222,10009807,Motorcycle Mechanic Simulator 2021,1,0.0003
-4223,10019432,Moving Simulator,1,0.0003
-4224,10017309,MTB Bike Simulator,1,0.0003
-4225,10003544,Murder House,1,0.0003
-4226,10002686,Murder Mystery Machine,1,0.0003
-4227,10004581,Murder on the Marine Express,1,0.0003
-4228,10011611,Mutant Boxing League VR,1,0.0003
-4229,229210,Mutant Football League,1,0.0003
-4230,10010031,Mutant Football League 2,1,0.0003
-4231,232411,Mutant Year Zero: Road to Eden,1,0.0003
-4232,10008681,My Child Lebensborn Remastered,1,0.0003
-4233,10010727,My Incubi Harem,1,0.0003
-4234,10003584,My Name is Mayo 3,1,0.0003
-4235,10012954,My Recycling Center,1,0.0003
-4236,10011935,My Summer Drive,1,0.0003
-4237,231112,My Time at Portia,1,0.0003
-4238,10000505,MY UNIVERSE - MY FASHION,1,0.0003
-4239,10016524,MY WINTER DRIVE,1,0.0003
-4240,231790,Mysterious Mail,1,0.0003
-4241,10009943,Mystery Box: The Journey,1,0.0003
-4242,10004944,NAIAD,1,0.0003
-4243,227451,NASCAR Heat 2,1,0.0003
-4244,224891,NBA,1,0.0003
-4245,10012016,NBA BOUNCE,1,0.0003
-4246,225232,NBA Playgrounds,1,0.0003
-4247,10001904,NBA Rakuten,1,0.0003
-4248,10017979,Necrophosis: Full Consciousness,1,0.0003
-4249,10011209,Neon Bash,1,0.0003
-4250,10016056,Neon Inferno,1,0.0003
-4251,10003498,Neptunia x SENRAN KAGURA: Ninja Wars,1,0.0003
-4252,10002670,Neptunia: Sisters VS Sisters,1,0.0003
-4253,10010646,Nerd Survivors,1,0.0003
-4254,221738,NeuroVoider,1,0.0003
-4255,202994,Never Alone,1,0.0003
-4256,233984,Neverwinter Nights: Enhanced Edition,1,0.0003
-4257,231549,New GUNDAM BREAKER,1,0.0003
-4258,10005857,New Star™ GP,1,0.0003
-4259,10004947,New World: Aeternum,1,0.0003
-4260,221747,Nex Machina,1,0.0003
-4261,10001211,Nexomon:Extinction,1,0.0003
-4262,234514,NEXTGEN SANDBOX,1,0.0003
-4263,201201,NFL SUNDAY TICKET,1,0.0003
-4264,10001214,NHL™ 94 REWIND,1,0.0003
-4265,10014834,Nickelodeon Splat Pack,1,0.0003
-4266,10011924,Night of the Dead Simulator,1,0.0003
-4267,10011325,Night Slashers: Remake,1,0.0003
-4268,10016417,Night Swarm,1,0.0003
-4269,10012737,NIMRODS,1,0.0003
-4270,10007611,NINJA KIDZ TIME MASTERS,1,0.0003
-4271,232737,Ninjin - Clash of Carrots,1,0.0003
-4272,231730,Nippon Marathon,1,0.0003
-4273,203068,NITROPLUS BLASTERZ -HEROINES INFINITE DUEL-,1,0.0003
-4274,10005034,No Heroes Allowed!,1,0.0003
-4275,10020374,No More Slimes!!,1,0.0003
-4276,226519,NOBUNAGA'S AMBITION: Sphere of Influence,1,0.0003
-4277,216678,NOBUNAGA'S AMBITION: SPHERE OF INFLUENCE - ASCENSION,1,0.0003
-4278,10012287,Noctuary,1,0.0003
-4279,203122,Nom Nom Galaxy,1,0.0003
-4280,203067,NOT A HERO,1,0.0003
-4281,10007448,Nova Lands,1,0.0003
-4282,10016441,Nun of Your Business,1,0.0003
-4283,10008158,Oaken,1,0.0003
-4284,10020205,Obby Sprunki Towers,1,0.0003
-4285,221739,Obliteracers,1,0.0003
-4286,217581,Oceanhorn,1,0.0003
-4287,10003113,Oceanhorn 2: Knights of the Lost Realm,1,0.0003
-4288,10019611,OilClicker,1,0.0003
-4289,10018167,Old Market Simulator,1,0.0003
-4290,10015354,Old School Rally,1,0.0003
-4291,10011923,Olympic 2024 Journey,1,0.0003
-4292,10015764,Omega Pilot Evolution,1,0.0003
-4293,10003298,One-Eyed Lee and the Dinner Party,1,0.0003
-4294,10013942,One Fear,1,0.0003
-4295,10001030,One Finger Death Punch 2,1,0.0003
-4296,234039,One Night Stand,1,0.0003
-4297,10002015,One Strike,1,0.0003
-4298,233725,OneeChanbara Origin,1,0.0003
-4299,10002192,Ooops!2,1,0.0003
-4300,235136,Open Country,1,0.0003
-4301,10009144,OPUS: Echo of Starsong - Full Bloom Edition,1,0.0003
-4302,234037,Othello,1,0.0003
-4303,10009129,OTXO,1,0.0003
-4304,10016149,Our Adventurer Guild,1,0.0003
-4305,10005465,Outbreak: Shades of Horror,1,0.0003
-4306,227430,Outcast - Second Contact,1,0.0003
-4307,217578,Oxenfree,1,0.0003
-4308,10004255,Oxide Room 104,1,0.0003
-4309,10005748,Pajama Sam 2: Thunder and Lightning Aren't so Frightening,1,0.0003
-4310,10011509,PAKU PAKU,1,0.0003
-4311,10006658,Panic House,1,0.0003
-4312,10003974,Panorama Cotton,1,0.0003
-4313,232711,PaperDolls,1,0.0003
-4314,10002720,Paradise Killer,1,0.0003
-4315,217538,Paragon,1,0.0003
-4316,225331,Paranormal Activity: The Lost Soul,1,0.0003
-4317,10011895,Parking Masters,1,0.0003
-4318,233113,Party Arcade,1,0.0003
-4319,10007338,PARTY BINGO,1,0.0003
-4320,232547,Party Crashers,1,0.0003
-4321,10013118,Path Of The Builder,1,0.0003
-4322,233355,Pathfinder: Kingmaker,1,0.0003
-4323,10000206,Pathologic 2,1,0.0003
-4324,10012863,Pathologic 3,1,0.0003
-4325,10016373,PATLABOR the Case Files,1,0.0003
-4326,10001587,Paw Paw Paw,1,0.0003
-4327,10018855,Pawbay,1,0.0003
-4328,10003871,PBA Pro Bowling 2023,1,0.0003
-4329,231385,PDP Cloud Remote App,1,0.0003
-4330,10008047,Pentiment,1,0.0003
-4331,235285,Persona 5 Scramble: The Phantom Strikers,1,0.0003
-4332,10006266,Pets at Work,1,0.0003
-4333,10010629,Phantom Brave: The Hermuda Triangle Remastered,1,0.0003
-4334,233464,Pic-a-Pix Classic,1,0.0003
-4335,227445,Pillars of Eternity: Complete Edition,1,0.0003
-4336,10004380,Pinball - Breakthrough Gaming Arcade,1,0.0003
-4337,10014133,Pinchcliffe Grand Prix Anniversary Edition,1,0.0003
-4338,10006611,Pink Pong,1,0.0003
-4339,10008321,Pixel Driver,1,0.0003
-4340,10016452,Pixicharm - Blaster Orbit,1,0.0003
-4341,10017219,Pixicharm - Celestibun,1,0.0003
-4342,10014659,Pixicharm - Jack-O-Fall,1,0.0003
-4343,10012712,Pixicharm - Kickabit,1,0.0003
-4344,10016604,Pixicharm - Ribbiverse,1,0.0003
-4345,10007261,PJ Masks Power Heroes: Mighty Alliance,1,0.0003
-4346,10002242,Plague Hunters,1,0.0003
-4347,10017344,Plaguetrix,1,0.0003
-4348,10017519,Plane Flight Simulator,1,0.0003
-4349,229995,Planetbase,1,0.0003
-4350,10010738,Plastomorphosis,1,0.0003
-4351,203433,PlayMemories Online,1,0.0003
-4352,210187,PlayStation® F.C.,1,0.0003
-4353,10010977,Please Be Happy,1,0.0003
-4354,10008997,Plumbers Don't Wear Ties: Definitive Edition,1,0.0003
-4355,10007310,Pocket Bravery,1,0.0003
-4356,10003224,Pocky & Rocky Reshrined,1,0.0003
-4357,232873,Pode,1,0.0003
-4358,10018225,Polygon Mayhem,1,0.0003
-4359,10015624,Pool Cleaning Simulator,1,0.0003
-4360,10011557,Population Quiz,1,0.0003
-4361,10011670,Possessor(s),1,0.0003
-4362,10006435,Post Trauma,1,0.0003
-4363,10006867,Power The Light,1,0.0003
-4364,10001599,PRAEY FOR THE GODS,1,0.0003
-4365,10013986,"Press ""X"" to win",1,0.0003
-4366,10017635,Priest Simulator: Vampire Show,1,0.0003
-4367,203612,Primal™,1,0.0003
-4368,232454,Prison Boss VR,1,0.0003
-4369,10016617,Prison Escape Simulator,1,0.0003
-4370,232233,Pro Fishing Simulator,1,0.0003
-4371,10014796,Project Drift Japan Challenge,1,0.0003
-4372,231781,Project Highrise: Architect's Edition,1,0.0003
-4373,10016429,Project Songbird,1,0.0003
-4374,10010539,Project Tower,1,0.0003
-4375,10007228,Promenade,1,0.0003
-4376,10008195,Promise Mascot Agency,1,0.0003
-4377,10008161,Propagation: Paradise Hotel,1,0.0003
-4378,10019692,Psalm 5:9-13,1,0.0003
-4379,203294,Psychonauts™,1,0.0003
-4380,10015660,Psychopathy Assessment,1,0.0003
-4381,10011585,Puppet House,1,0.0003
-4382,10011276,Purpose 1951,1,0.0003
-4383,10003927,Puzzle Bobble™2X/BUST-A-MOVE™2 Arcade Edition & Puzzle Bobble™3/BUST-A-MOVE™3 S-Tribute,1,0.0003
-4384,209960,Puzzle by Nikoli 4: Yajirin,1,0.0003
-4385,10017785,Puzzle Piecer: The Holiday Spirit,1,0.0003
-4386,10010572,Pyramids and Aliens: Escape Room,1,0.0003
-4387,221992,Pyre,1,0.0003
-4388,10000412,Quiplash 2 InterLASHional: The Say Anything Party Game!,1,0.0003
-4389,10013515,Quiz & Learn: Food & Drink,1,0.0003
-4390,10006235,Quiz Thiz USA,1,0.0003
-4391,233752,R.B.I. Baseball 20,1,0.0003
-4392,10000422,R.B.I. Baseball 21,1,0.0003
-4393,10014229,Racing Tokyo Racer X,1,0.0003
-4394,10009052,Racket Fury: Table Tennis VR,1,0.0003
-4395,10005056,Radical Rex (QUByte Classics),1,0.0003
-4396,10017260,Ragdoll Playground Sandbox,1,0.0003
-4397,231858,Raging Justice,1,0.0003
-4398,224923,Raging Loop,1,0.0003
-4399,10003684,Ragnarock,1,0.0003
-4400,10012729,RAIDEN FIGHTERS 2 REMIX,1,0.0003
-4401,10010604,RAIDEN FIGHTERS REMIX COLLECTION,1,0.0003
-4402,10003798,Raiden III × MIKADO MANIAX,1,0.0003
-4403,10012386,Rally Arcade Classics DEMO,1,0.0003
-4404,10012020,Ram Simulator,1,0.0003
-4405,10012625,Ramp Bike Racing,1,0.0003
-4406,10011194,Raptor Rampage: Dino Hunter,1,0.0003
-4407,10005249,Ray'z Arcade Chronology,1,0.0003
-4408,231783,RAZED,1,0.0003
-4409,227495,RC Airplane Challenge,1,0.0003
-4410,10000468,Re:Turn - One Way Trip,1,0.0003
-4411,10012024,Reach,1,0.0003
-4412,10012083,Real Heroes: Firefighter HD,1,0.0003
-4413,227498,RealFarm,1,0.0003
-4414,10012139,Rebeloid VR,1,0.0003
-4415,212963,Red Faction,1,0.0003
-4416,233114,Red Matter,1,0.0003
-4417,232341,Redeemer: Enhanced Edition,1,0.0003
-4418,10008920,Remorse: The List,1,0.0003
-4419,10014835,"Ren & Stimpy Happy, Happy, Joy, Joy, Collection",1,0.0003
-4420,10013366,Resist,1,0.0003
-4421,10008837,Restaurant Tycoon My Cooking Empire,1,0.0003
-4422,10010663,RetroRealms,1,0.0003
-4423,10009564,Return of Red Riding Hood Enhanced Edition,1,0.0003
-4424,234733,Return of the Obra Dinn,1,0.0003
-4425,10008839,REVEIL,1,0.0003
-4426,10016344,Revenge On Gold Diggers,1,0.0003
-4427,10009107,Richie's Plank Experience,1,0.0003
-4428,231611,RICO,1,0.0003
-4429,10011428,Rinthylab labyrinth,1,0.0003
-4430,224947,Riot,1,0.0003
-4431,203657,Riptide GP2,1,0.0003
-4432,203685,Rise of the Kasai™,1,0.0003
-4433,203764,Risen 3: Titan Lords - Enhanced Edition,1,0.0003
-4434,216619,Risk of Rain,1,0.0003
-4435,232985,RMC Sport,1,0.0003
-4436,10014841,Road Cafe Simulator,1,0.0003
-4437,10004318,Road Maintenance Simulator,1,0.0003
-4438,10012147,Road Maintenance Simulator 2 + Winter Services,1,0.0003
-4439,232560,Road Redemption,1,0.0003
-4440,10010819,ROAD TO EXOTICS: RACING GAME,1,0.0003
-4441,10014369,Roboquest VR,1,0.0003
-4442,216615,Rock of Ages 2,1,0.0003
-4443,227204,Rogue Aces,1,0.0003
-4444,10012771,Rogue Flight,1,0.0003
-4445,222872,Rogue Stormers,1,0.0003
-4446,10005423,Roll The Cat,1,0.0003
-4447,229794,RollerCoaster Legends,1,0.0003
-4448,10005299,Rollerdrome,1,0.0003
-4449,10007225,Romancelvania,1,0.0003
-4450,10016000,ROMEO IS A DEAD MAN,1,0.0003
-4451,10011776,Rooftop Rascal: The Midnight Cat,1,0.0003
-4452,10018707,Rooftop Rascal: The Pirate Cat,1,0.0003
-4453,10008955,Roots Of Pacha,1,0.0003
-4454,10017724,Royal Revolt Survivors,1,0.0003
-4455,10009745,RPG MAKER WITH,1,0.0003
-4456,10009058,RTL+,1,0.0003
-4457,10014770,Rue Valley,1,0.0003
-4458,220617,Rugby15,1,0.0003
-4459,10016589,Rugrats: Retro Rewind Collection,1,0.0003
-4460,10006962,Run To Infinity,1,0.0003
-4461,232706,Rush VR,1,0.0003
-4462,221985,Saban’s Mighty Morphin Power Rangers: Mega Battle,1,0.0003
-4463,10008157,Sable's Grimoire: Man And Elf,1,0.0003
-4464,10008631,SaGa Frontier 2 Remastered,1,0.0003
-4465,10002076,SaGa Frontier Remastered,1,0.0003
-4466,10006608,Sailing Era,1,0.0003
-4467,10016988,Saint Slayer: Spear of Sacrilege,1,0.0003
-4468,10001923,Samurai Aces,1,0.0003
-4469,229579,SAMURAI WARRIORS 4 Empires,1,0.0003
-4470,227214,SAMURAI WARRIORS: Spirit of Sanada,1,0.0003
-4471,10012678,Save Christmas With Santa,1,0.0003
-4472,10012544,Save Farty The Trivia Game,1,0.0003
-4473,10012388,Save The Doge,1,0.0003
-4474,10017999,Save The Penguin,1,0.0003
-4475,10009606,Save The World,1,0.0003
-4476,233247,Sayonara Wild Hearts,1,0.0003
-4477,10013557,Scandinavian Cottage Survival Simulator,1,0.0003
-4478,10010670,Scholar's Mate,1,0.0003
-4479,10014771,SCHOOLBOY SIM,1,0.0003
-4480,10007417,Sclash,1,0.0003
-4481,210948,Screencheat,1,0.0003
-4482,232799,Season Match 3,1,0.0003
-4483,10015750,Sector Shooter,1,0.0003
-4484,232397,SEPARATION,1,0.0003
-4485,10004759,Serious Sam: Siberian Mayhem,1,0.0003
-4486,10003700,Severed Steel,1,0.0003
-4487,216508,Shadow Complex Remastered,1,0.0003
-4488,235340,Shadow Corridor,1,0.0003
-4489,10014762,Shadow Corridor 2,1,0.0003
-4490,234269,Shadow Legend VR,1,0.0003
-4491,10009142,Shadow Tactics: Aiko's Choice,1,0.0003
-4492,10002084,Shadowrun Trilogy,1,0.0003
-4493,231176,Shadows: Awakening,1,0.0003
-4494,228845,Shakedown: Hawaii™,1,0.0003
-4495,10005306,Shantae,1,0.0003
-4496,211120,Shantae and the Pirate's Curse,1,0.0003
-4497,10005479,Shark Pinball,1,0.0003
-4498,10010376,SHARK! SHARK!,1,0.0003
-4499,10018476,Shattered Frames,1,0.0003
-4500,10019087,Shattered Frames 2: Under the Sea,1,0.0003
-4501,10019129,Shattered Frames 3: Skies Above,1,0.0003
-4502,10019174,Shattered Frames 4: Micro Worlds,1,0.0003
-4503,10006842,Shatterline,1,0.0003
-4504,10001772,She Sees Red,1,0.0003
-4505,232274,Shenmue III,1,0.0003
-4506,222882,Shiness: The Lightning Kingdom,1,0.0003
-4507,10006096,SHIRONE THE DRAGON GIRL,1,0.0003
-4508,10005806,Shotgun King: The Final Checkmate,1,0.0003
-4509,10010772,Shovel Knight Dig,1,0.0003
-4510,10010621,Showgunners,1,0.0003
-4511,232518,Sigi - A Fart for Melusina,1,0.0003
-4512,224961,Silence,1,0.0003
-4513,10002776,Silenced: The House,1,0.0003
-4514,10002629,SILT,1,0.0003
-4515,230016,Silver Chains,1,0.0003
-4516,10014975,siMarket Cloth Store Simulator,1,0.0003
-4517,10018113,SiN Reloaded,1,0.0003
-4518,10002664,SINce Memories: Off The Starry Sky,1,0.0003
-4519,222009,SiriusXM Radio,1,0.0003
-4520,10006613,SkateBIRD,1,0.0003
-4521,10005307,Sker Ritual,1,0.0003
-4522,204277,Skulls of the Shogun,1,0.0003
-4523,10011270,Sky Dunk,1,0.0003
-4524,10003642,Skydance's BEHEMOTH,1,0.0003
-4525,204304,Skylanders SWAP Force,1,0.0003
-4526,10015416,Skyline Bowling,1,0.0003
-4527,232487,Slaps And Beans,1,0.0003
-4528,10012703,Slasher: Origins,1,0.0003
-4529,10009798,SlavicPunk: Oldtimer,1,0.0003
-4530,10011233,SLEEP AWAKE,1,0.0003
-4531,10018077,Slots & Daggers,1,0.0003
-4532,10011281,Smells Like a Mushroom,1,0.0003
-4533,227212,Snake Pass,1,0.0003
-4534,10000766,SNIPER,1,0.0003
-4535,232642,SNK 40th Anniversary Collection,1,0.0003
-4536,10008891,SNK VS. CAPCOM SVC CHAOS,1,0.0003
-4537,10012181,Snowboard Legends,1,0.0003
-4538,10009088,So Much Stuff Collector's Edition,1,0.0003
-4539,10002444,Sociable Soccer Champions,1,0.0003
-4540,10002440,SOL CRESTA,1,0.0003
-4541,10001115,Solar Ash,1,0.0003
-4542,10014162,Somber Echoes,1,0.0003
-4543,10007617,Somerville,1,0.0003
-4544,10001249,SONG OF HORROR,1,0.0003
-4545,221785,Song of the Deep,1,0.0003
-4546,10008692,Songs of Conquest,1,0.0003
-4547,10011866,Songs of Silence,1,0.0003
-4548,10010465,SOS OPS!,1,0.0003
-4549,10004320,Souldiers,1,0.0003
-4550,10003036,Soulstice,1,0.0003
-4551,10002820,Soundfall,1,0.0003
-4552,10004688,Source of Madness,1,0.0003
-4553,10002844,Space 2 - Breakthrough Gaming Arcade,1,0.0003
-4554,10002965,Space Explore (PSVR2),1,0.0003
-4555,231570,Space Hulk: Tactics,1,0.0003
-4556,232966,Space Junkies,1,0.0003
-4557,10015247,Space KaBAAM: Neon II,1,0.0003
-4558,10009817,SPACE PENGUINS,1,0.0003
-4559,235132,Spacebase Startopia,1,0.0003
-4560,213750,Sparkle Unleashed,1,0.0003
-4561,10001200,Speed 3: Grand Prix,1,0.0003
-4562,10008860,Spellcaster University,1,0.0003
-4563,10006495,Spirit Hunters: Infinite Horde,1,0.0003
-4564,232707,Spirit of the North,1,0.0003
-4565,10001854,Spirit Of The North: Enhanced Edition,1,0.0003
-4566,224938,Splasher,1,0.0003
-4567,10015148,Split Fiction,1,0.0003
-4568,234924,Spooky's Jump Scare Mansion: HD Renovation,1,0.0003
-4569,10018933,SPORTAL,1,0.0003
-4570,10006902,Sprawl,1,0.0003
-4571,10017182,SPRAWL zero,1,0.0003
-4572,10013245,Spray Paint Simulator,1,0.0003
-4573,217292,Spy Chameleon,1,0.0003
-4574,10014650,Star Archer,1,0.0003
-4575,204219,STAR OCEAN: Integrity and Faithlessness,1,0.0003
-4576,222447,Star Trek™: Bridge Crew,1,0.0003
-4577,10008489,STAR WARS Episode I: Jedi Power Battles,1,0.0003
-4578,235122,STAR WARS™ Jedi Knight: Jedi Academy,1,0.0003
-4579,204268,Star Wars™: Racer Revenge™,1,0.0003
-4580,10009356,Stasis: Bone Totem,1,0.0003
-4581,10016376,Stay Still,1,0.0003
-4582,227194,SteamWorld Dig 2,1,0.0003
-4583,228847,Steel Rats™,1,0.0003
-4584,234652,STEINS;GATE: My Darling's Embrace,1,0.0003
-4585,10018078,Stick Infinite Kingdom,1,0.0003
-4586,10012677,Stick Up,1,0.0003
-4587,10008759,Sticks Aim Trainer,1,0.0003
-4588,10011878,Sticky Business,1,0.0003
-4589,10009077,Stilt,1,0.0003
-4590,10015000,Storage Hunter Bid War Simulator,1,0.0003
-4591,10019732,Storebound,1,0.0003
-4592,10009382,Stories from Sol: The Gun-Dog,1,0.0003
-4593,234526,Story of a Gladiator,1,0.0003
-4594,10017445,Strange Antiquities,1,0.0003
-4595,10010650,Stranger Things VR,1,0.0003
-4596,10002932,Strategic Mind: Blitzkrieg,1,0.0003
-4597,10005393,Strategic Mind: Spectre of Communism,1,0.0003
-4598,10008372,Strategic Mind: Spirit of Liberty,1,0.0003
-4599,10000659,Strawberry Vinegar,1,0.0003
-4600,10007748,Stray Gods: The Roleplaying Musical,1,0.0003
-4601,10004938,Stray Souls,1,0.0003
-4602,10006286,Strike Team Gladius,1,0.0003
-4603,10001921,STRIKERS 1945,1,0.0003
-4604,10006802,Stroke The Beaver,1,0.0003
-4605,10006069,Stroke The Dog,1,0.0003
-4606,10006145,Stroke The Fish,1,0.0003
-4607,10005707,Stroke The Hedgehog,1,0.0003
-4608,10006143,Stroke The Parrot,1,0.0003
-4609,10005939,Stroke The Snake,1,0.0003
-4610,233521,Strongest Mahjong,1,0.0003
-4611,10011668,Stunt Paradise,1,0.0003
-4612,10011897,Stunt Scooter Simulator,1,0.0003
-4613,10002410,SturmFront - The Mutant War: Übel Edition,1,0.0003
-4614,10019435,Such a Guy,1,0.0003
-4615,233353,Suicide Guy Sleepin' Deeply,1,0.0003
-4616,10019795,Suika Game Planet,1,0.0003
-4617,10000222,Summer in Mara,1,0.0003
-4618,10019471,Summer’s Heartbeat,1,0.0003
-4619,10007295,Summum Aeterna,1,0.0003
-4620,227228,Sundered,1,0.0003
-4621,10010574,Sunderfolk,1,0.0003
-4622,10016807,Sunset Motel,1,0.0003
-4623,10010850,SUNSOFT is Back! Retro Game Selection,1,0.0003
-4624,10003465,Super Arcade Soccer 2021,1,0.0003
-4625,10005829,Super Double Dragon,1,0.0003
-4626,10005088,Super Kids Racing - Snow Edition,1,0.0003
-4627,217342,Super Mega Baseball 2,1,0.0003
-4628,10011896,Super Mombo Quest,1,0.0003
-4629,10000429,Super Soccer Blast,1,0.0003
-4630,10002604,Super Soccer Blast: America vs Europe,1,0.0003
-4631,215894,Super Stardust™Ultra,1,0.0003
-4632,223403,Super Stardust™Ultra VR,1,0.0003
-4633,10013047,Super Technos World: River City & Technos Arcade Classics,1,0.0003
-4634,10002388,Super Toy Cars Offroad,1,0.0003
-4635,10004854,Super Woden GP,1,0.0003
-4636,10003517,SURV1V3,1,0.0003
-4637,10006439,Sword & Fairy Inn 2,1,0.0003
-4638,216398,SWORD ART ONLINE: HOLLOW REALIZATION,1,0.0003
-4639,10015158,Syberia - Remastered,1,0.0003
-4640,235392,Synth Riders,1,0.0003
-4641,231789,Tacoma,1,0.0003
-4642,10002568,Tails Noir,1,0.0003
-4643,10003666,Tales of Kenzera™: ZAU,1,0.0003
-4644,10002778,Tank Mechanic Simulator,1,0.0003
-4645,10012731,Tank Mechanic Simulator - Reinforced,1,0.0003
-4646,232153,Tarot Readings Premium,1,0.0003
-4647,10010103,Tarzan VR™,1,0.0003
-4648,10015945,Tavern Manager Simulator,1,0.0003
-4649,10010339,Techtonica,1,0.0003
-4650,10007488,TEETER,1,0.0003
-4651,230053,Tempest 4000,1,0.0003
-4652,204949,Tennis in the Face,1,0.0003
-4653,10008168,Tennis On-Court,1,0.0003
-4654,227565,TENNIS TV,1,0.0003
-4655,10009338,Terminal 81,1,0.0003
-4656,10001060,Terra Bomber,1,0.0003
-4657,10006292,Terror of Hemasaurus,1,0.0003
-4658,10005057,Teslagrad 2,1,0.0003
-4659,224971,Tethered,1,0.0003
-4660,10008625,The 7th Guest VR,1,0.0003
-4661,10018192,The Alighieri Circle,1,0.0003
-4662,233248,The Ascent,1,0.0003
-4663,10015603,The Backrooms Zombie Survival,1,0.0003
-4664,204587,The Banner Saga,1,0.0003
-4665,224974,The Bard's Tale: Remastered and Resnarkled,1,0.0003
-4666,10005194,The Bat D,1,0.0003
-4667,204564,THE BIT.TRIP,1,0.0003
-4668,10000835,The Bluecoats: North & South,1,0.0003
-4669,10009896,The Bridge Curse 2: The Extrication,1,0.0003
-4670,223983,The Bunker,1,0.0003
-4671,10002027,The Centennial Case : A Shijima Story PS4&PS5,1,0.0003
-4672,10002823,The Chant,1,0.0003
-4673,10013473,The Coin Game,1,0.0003
-4674,227551,The Coma: Recut,1,0.0003
-4675,10000347,The Complex,1,0.0003
-4676,10005731,The Crackpet Show: Happy Tree Friends Edition,1,0.0003
-4677,10012782,The Crimson Maid,1,0.0003
-4678,10000415,THE DARK EYE: MEMORIA,1,0.0003
-4679,10004042,The Dark Pictures: Switchback VR,1,0.0003
-4680,10002250,THE EVIL KING AND THE FINE HERO,1,0.0003
-4681,10012268,The Exit Project: Backstreets,1,0.0003
-4682,10005780,The Forest Quartet,1,0.0003
-4683,10010524,The Glass Staircase,1,0.0003
-4684,213182,The Golf Club,1,0.0003
-4685,232841,The Golf Club 2019,1,0.0003
-4686,10013936,The House of Da Vinci VR,1,0.0003
-4687,10011599,THE HOUSE OF THE DEAD 2: Remake,1,0.0003
-4688,10000304,THE IDOLM@STER STARLIT SEASON,1,0.0003
-4689,10008494,The Inheritance of Crimson Manor,1,0.0003
-4690,10005634,The Jumping Brownie,1,0.0003
-4691,10005635,The Jumping Brownie: TURBO,1,0.0003
-4692,10005285,The Jumping Burger,1,0.0003
-4693,10011944,The Jumping Burger Rush - PS4 & PS5,1,0.0003
-4694,10006136,The Jumping Chicken Wings,1,0.0003
-4695,10006137,The Jumping Chicken Wings: TURBO,1,0.0003
-4696,10005503,The Jumping Hot Dog,1,0.0003
-4697,10005504,The Jumping Hot Dog: TURBO,1,0.0003
-4698,10005993,The Jumping Ice Cream,1,0.0003
-4699,10005994,The Jumping Ice Cream: TURBO,1,0.0003
-4700,10015130,The Jumping Orange 2 - PS4 & PS5,1,0.0003
-4701,10005366,The Jumping Pizza,1,0.0003
-4702,10005312,The Jumping Taco,1,0.0003
-4703,10010264,The Karate Kid: Street Rumble,1,0.0003
-4704,10000531,The Last Campfire,1,0.0003
-4705,10002752,The Last Worker,1,0.0003
-4706,10012789,The Legend of Heroes: Trails beyond the Horizon,1,0.0003
-4707,10003228,The Legend of Heroes: Trails into Reverie,1,0.0003
-4708,231981,The Legend of Heroes: Trails of Cold Steel,1,0.0003
-4709,204881,The Legend of Heroes: Trails of Cold Steel II,1,0.0003
-4710,10004596,The Legend of Heroes: Trails through Daybreak II,1,0.0003
-4711,10003823,The Legend of Tianding,1,0.0003
-4712,231841,The Liar Princess and the Blind Prince,1,0.0003
-4713,10011892,The Lonesome Guild,1,0.0003
-4714,10003741,The Mageseeker: A League of Legends Story™ PS4 & PS5,1,0.0003
-4715,232259,The MISSING: J.J. Macfield and the Island of Memories,1,0.0003
-4716,228869,The Mummy Demastered,1,0.0003
-4717,234319,THE NINJA SAVIORS Return of the Warriors,1,0.0003
-4718,10015645,The Perplexing Orb Touch!,1,0.0003
-4719,10005357,The Psychoduck,1,0.0003
-4720,232046,The Raven Remastered,1,0.0003
-4721,234820,The Room VR: A Dark Matter,1,0.0003
-4722,10008935,The Rumble Fish +,1,0.0003
-4723,227521,The Seven Deadly Sins　Knights of Britannia,1,0.0003
-4724,10008362,The Stone of Madness,1,0.0003
-4725,10006597,"THE Table Game Deluxe Pack-Mahjong, Go, Shogi, Tsume Shogi, Othello, Card, Hanafuda, Shisen Mahjong Solitaire, Chess, Backgam",1,0.0003
-4726,10007994,The Testament of Sherlock Holmes,1,0.0003
-4727,10008083,The Utility Room,1,0.0003
-4728,10018521,The Vig,1,0.0003
-4729,222506,The Voice,1,0.0003
-4730,217318,The Walking Dead: Michonne,1,0.0003
-4731,233016,The Walking Vegetables: Radical Edition,1,0.0003
-4732,10001788,The Wardrobe: Even Better Edition,1,0.0003
-4733,10015178,The Wellmonts Case,1,0.0003
-4734,226877,The Witch and the Hundred Knight: Revival Edition,1,0.0003
-4735,10019122,The Zibbo Show,1,0.0003
-4736,10003636,Them Bombs,1,0.0003
-4737,10001051,Theme Park Simulator: Rollercoaster Paradise,1,0.0003
-4738,10016078,Thief Puzzle,1,0.0003
-4739,10013934,Thrill Penguin,1,0.0003
-4740,10008669,Thunder Ray,1,0.0003
-4741,232502,Ticket To Ride,1,0.0003
-4742,10015068,Tides of Tomorrow,1,0.0003
-4743,232795,Timespinner,1,0.0003
-4744,10007416,Tintin Reporter - Cigars of the Pharaoh,1,0.0003
-4745,10016208,Tiny Bookshop,1,0.0003
-4746,10010404,Tiny Tales: Heart of the Forest,1,0.0003
-4747,10003847,Tinykin,1,0.0003
-4748,204800,Titan Attacks!,1,0.0003
-4749,227808,ToeJam & Earl: Back in the Groove!,1,0.0003
-4750,233470,Toki,1,0.0003
-4751,232602,Tom Grennan VR,1,0.0003
-4752,10015010,Tomba! 2 Special Edition,1,0.0003
-4753,10001036,Tony Stewart's All-American Racing,1,0.0003
-4754,234898,Tools Up,1,0.0003
-4755,10009754,Top Racer Collection,1,0.0003
-4756,233563,TORCHLIGHT 2,1,0.0003
-4757,10018263,TORO 2 (BULL 2),1,0.0003
-4758,10004637,Tortuga - A Pirate's Tale,1,0.0003
-4759,10011973,Touhou Danmaku Kagura Phantasia Lost,1,0.0003
-4760,224967,Touhou Shinpiroku - Urban Legend in Limbo,1,0.0003
-4761,213300,Toukiden: Kiwami,1,0.0003
-4762,216431,Tour de France 2016,1,0.0003
-4763,233287,Tour de France 2019,1,0.0003
-4764,10018629,Tower Dominion,1,0.0003
-4765,10002985,Train Life: A Railway Simulator,1,0.0003
-4766,10017784,TRALALERO TRALALA Shooting Gallery,1,0.0003
-4767,10015026,Tralalero Tralala™: Battle Royale,1,0.0003
-4768,10009242,Tram Simulator Urban Transit,1,0.0003
-4769,10004935,Transformers Beyond Reality,1,0.0003
-4770,235017,TRANSFORMERS: BATTLEGROUNDS,1,0.0003
-4771,10007577,TRANSFORMERS: EARTHSPARK - Expedition,1,0.0003
-4772,10008499,TRANSFORMERS: Galactic Trials,1,0.0003
-4773,205062,TRANSFORMERS: Rise of the Dark Spark,1,0.0003
-4774,10008210,Travel The Words,1,0.0003
-4775,10010444,Tribe: Primitive Builder,1,0.0003
-4776,10000337,Trinity Trigger,1,0.0003
-4777,222895,Troll and I™,1,0.0003
-4778,10000325,TrollHunters,1,0.0003
-4779,10000538,TROUBLESHOOTER,1,0.0003
-4780,231198,Trover Saves the Universe,1,0.0003
-4781,10007558,Truck Driver: The American Dream,1,0.0003
-4782,10015537,Truck Simulator 25: Euro Driver VR,1,0.0003
-4783,10008543,Truck Simulator Cargo Driver 2024 - USA,1,0.0003
-4784,10008344,Truck Simulator Driver USA 2024,1,0.0003
-4785,228873,True Fear: Forsaken Souls,1,0.0003
-4786,10017023,True Fear: Forsaken Souls - Part 3,1,0.0003
-4787,10015512,Tsugunohi -The Chamber of Phantom Name-,1,0.0003
-4788,10002483,TSUKIHIME -A piece of blue glass moon-,1,0.0003
-4789,10015303,TUNG SAHUR Supermarket Simulator,1,0.0003
-4790,10005212,Turmoil,1,0.0003
-4791,10001629,Turok 2: Seeds Of Evil,1,0.0003
-4792,10001488,TURRICAN FLASHBACK COLLECTION,1,0.0003
-4793,215117,TV3,1,0.0003
-4794,224987,Twin Robots,1,0.0003
-4795,10012150,Twins of Legacy : Elemental,1,0.0003
-4796,10006158,TWO FACED,1,0.0003
-4797,10005873,TWO LANE,1,0.0003
-4798,10018751,Two Point Hospital: Full Health Collection,1,0.0003
-4799,10012456,Two Strikes,1,0.0003
-4800,10012158,Uboat Attack,1,0.0003
-4801,10017021,UFOPHILIA,1,0.0003
-4802,10008360,Ultimate General: Gettysburg,1,0.0003
-4803,10014875,Ultimate Sheep Raccoon,1,0.0003
-4804,10014127,Ultimate Sparring,1,0.0003
-4805,10010433,Ultra Foodmess 2,1,0.0003
-4806,10009419,UNABLES,1,0.0003
-4807,228658,Uncharted™: Drake's Fortune Remastered,1,0.0003
-4808,10008160,Undead Citadel,1,0.0003
-4809,216476,Unepic,1,0.0003
-4810,10006287,Unicorn Fun,1,0.0003
-4811,10006490,Unplugged - Air Guitar,1,0.0003
-4812,10001215,Unrailed!,1,0.0003
-4813,10017763,Unsealed: The Mare,1,0.0003
-4814,10003562,UNSIGHTED,1,0.0003
-4815,10010949,Unsolved Case Series,1,0.0003
-4816,227238,Use Your Words,1,0.0003
-4817,10014851,Use Your Words 2,1,0.0003
-4818,10019069,Used Cars Simulator,1,0.0003
-4819,222897,Valhalla Hills,1,0.0003
-4820,10004508,VALKYRIE PROFILE: LENNETH,1,0.0003
-4821,234030,Vambrace: Cold Soul,1,0.0003
-4822,10011203,Vampire Hunters,1,0.0003
-4823,10001409,Vampire: The Masquerade - Swansong,1,0.0003
-4824,10004864,VARIOUS DAYLIFE,1,0.0003
-4825,10007567,Velocity Noodle,1,0.0003
-4826,10014899,Velocity Riders,1,0.0003
-4827,10009197,Ven VR Adventure,1,0.0003
-4828,10010902,VENDETTA FOREVER,1,0.0003
-4829,10007772,Venice 2089,1,0.0003
-4830,10003117,Venus: Improbable Dream,1,0.0003
-4831,10007426,Verdict Guilty,1,0.0003
-4832,10018501,Verho - Curse of Faces,1,0.0003
-4833,10009050,Vertigo 2,1,0.0003
-4834,10018585,Village of the Curse,1,0.0003
-4835,10002653,Violett,1,0.0003
-4836,10003651,Virtuous Western,1,0.0003
-4837,234429,Void Bastards,1,0.0003
-4838,10013733,VOID/BREAKER,1,0.0003
-4839,221796,Volgarr the Viking,1,0.0003
-4840,233888,VR Ping Pong Pro,1,0.0003
-4841,10016446,VRacer Hoverbike,1,0.0003
-4842,232204,Vroom Kaboom,1,0.0003
-4843,10009278,Wall World,1,0.0003
-4844,10018024,Wall World 2,1,0.0003
-4845,10011513,Wanderstop,1,0.0003
-4846,10005572,War Hospital,1,0.0003
-4847,235042,"Warhammer 40,000 : Mechanicus",1,0.0003
-4848,10003190,"Warhammer 40,000: Shootas, Blood & Teef",1,0.0003
-4849,227168,WARRIORS ALL-STARS,1,0.0003
-4850,10002640,WATCHA,1,0.0003
-4851,10004980,Watcher Chronicles,1,0.0003
-4852,235112,WatchVR,1,0.0003
-4853,10000724,Water Balloon Mania,1,0.0003
-4854,10016474,Water Delivery,1,0.0003
-4855,10010057,Watermelon Fruits Puzzle,1,0.0003
-4856,10016856,Waterpark Simulator 25,1,0.0003
-4857,10013844,We Could Be Heroes,1,0.0003
-4858,10015007,Weed & Greed,1,0.0003
-4859,10003275,Weedcraft Inc,1,0.0003
-4860,10005146,Welcome to the World of ZJ the Ball (Visual Novel),1,0.0003
-4861,234794,Wer Weiß Denn Sowas? - Das Spiel 2,1,0.0003
-4862,10015133,What is Older?,1,0.0003
-4863,10006350,WHAT THE BAT?,1,0.0003
-4864,10003668,White Shadows,1,0.0003
-4865,10002807,Wife Quest,1,0.0003
-4866,10011136,Wild Island Quest,1,0.0003
-4867,10014159,Wild West Legacy,1,0.0003
-4868,10008021,Wildshade: Unicorn Champions,1,0.0003
-4869,10004340,Will You Snail?,1,0.0003
-4870,235300,Winning Post 9 2020,1,0.0003
-4871,10001778,Winning Post 9 2021,1,0.0003
-4872,10003898,Winning Post 9 2022,1,0.0003
-4873,10003646,Winter Games 2023,1,0.0003
-4874,10005293,Witch College Bundle,1,0.0003
-4875,10004510,WITCH ON THE HOLY NIGHT,1,0.0003
-4876,10010849,WitchSpring R,1,0.0003
-4877,10003061,Within the Blade,1,0.0003
-4878,10014634,Without a Voice,1,0.0003
-4879,10010381,Wizardry: Proving Grounds of the Mad Overlord,1,0.0003
-4880,10007140,WiZmans World Re;Try PS4 & PS5,1,0.0003
-4881,232888,Wolfenstein: Cyberpilot,1,0.0003
-4882,234675,WONDER BOY RETURNS REMIX,1,0.0003
-4883,234708,WoodleTree,1,0.0003
-4884,10004713,Word Mesh,1,0.0003
-4885,10018205,WORD SEARCH BY JGABRIB,1,0.0003
-4886,10004560,Wordbreaker by POWGI,1,0.0003
-4887,10006260,WORLD OF HORROR,1,0.0003
-4888,10010119,Worm War,1,0.0003
-4889,10009765,Worms Armageddon: Anniversary Edition,1,0.0003
-4890,10008316,Worms Pinball [PS1 Emulation],1,0.0003
-4891,10014432,WRATH: Aeon of Ruin VR - Brutal Edition,1,0.0003
-4892,10013675,Wylde Flowers,1,0.0003
-4893,10011214,X-Out: Resurfaced,1,0.0003
-4894,10003097,XEL,1,0.0003
-4895,10001018,Xuan-Yuan Sword VII,1,0.0003
-4896,10000509,Y School Heroes: Bustlin’ School life,1,0.0003
-4897,234558,Yaga,1,0.0003
-4898,10010102,Yars Rising,1,0.0003
-4899,10013231,Yasha: Legends of the Demon Blade,1,0.0003
-4900,10008888,Yatzi,1,0.0003
-4901,10008910,Yohane the Parhelion - NUMAZU in the MIRAGE -,1,0.0003
-4902,234377,Yooka-Laylee and the Impossible Lair,1,0.0003
-4903,10012610,Yooka-Replaylee,1,0.0003
-4904,10007319,Ys Memoire: The Oath in Felghana,1,0.0003
-4905,10013170,Ys X -Proud NORDICS-,1,0.0003
-4906,10016514,Ys X: Proud Nordics,1,0.0003
-4907,10003302,Yurukill: The Calumniation Games,1,0.0003
-4908,229430,Zanki Zero: Last Beginning,1,0.0003
-4909,227251,Zero Escape: The Nonary Games,1,0.0003
-4910,10011485,Zero the Kamikaze Squirrel,1,0.0003
-4911,10010325,Zombie Survivors,1,0.0003
-4912,205517,Zombie Vikings,1,0.0003
-4913,233516,Zombieland: Double Tap - Road Trip,1,0.0003
-4914,10014904,Zombies Overloaded,1,0.0003
-4915,232440,ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS,1,0.0003
-4916,10008479,Zoo Park Story,1,0.0003
-4917,10009096,Zumba Garden,1,0.0003
-4918,229680,ドラゴンクエストⅡ　悪霊の神々,1,0.0003
-4919,229679,勇者鬥惡龍,1,0.0003
-4920,232993,神田川JET GIRLS,1,0.0003
-4921,228735,銀魂亂舞,1,0.0003
-4922,228734,限界凸城 キャッスルパンツァーズ,1,0.0003
-4923,215305,電撃文庫 FIGHTING CLIMAX IGNITION,1,0.0003
+3398,229876,Aegis Defenders,1,0.0003
+3399,216814,AFL Evolution,1,0.0003
+3400,10011016,Against the Storm,1,0.0003
+3401,10001109,Agatha Christie - Hercule Poirot: The First Cases,1,0.0003
+3402,232179,Agent A,1,0.0003
+3403,10002183,Agent Intercept,1,0.0003
+3404,10001476,Aground,1,0.0003
+3405,234420,Aikagi: Kimi to Issho ni,1,0.0003
+3406,10009605,Air Aces,1,0.0003
+3407,200264,Air Conflicts: Secret Wars,1,0.0003
+3408,10004526,Airoheart,1,0.0003
+3409,234561,AKIBA'S TRIP: Hellbound & Debriefed,1,0.0003
+3410,200075,AKIBA'S TRIP: UNDEAD ＆ UNDRESSED,1,0.0003
+3411,206057,Alekhine's Gun,1,0.0003
+3412,10020426,Alien Breed 35th Anniversary,1,0.0003
+3413,10004398,All-In-One Sports VR,1,0.0003
+3414,10009832,All I Want for Christmas are Subgames,1,0.0003
+3415,10013683,All in Abyss: Judge the Fake,1,0.0003
+3416,10018717,All Motors Racing Simulator,1,0.0003
+3417,10007732,Ambulance Life: A Paramedic Simulator,1,0.0003
+3418,10018067,Amer: The Chase Hit and Run,1,0.0003
+3419,10018543,Angle Of Attack,1,0.0003
+3420,213407,Angry Birds Star Wars,1,0.0003
+3421,10001179,Angry Video Game Nerd I & II Deluxe,1,0.0003
+3422,10015214,Animal Bomber,1,0.0003
+3423,10015585,Anime Girls: Highschool of Dead,1,0.0003
+3424,10013101,Anime Girls: Sun of a Beach,1,0.0003
+3425,10018381,Anime Uni 6 3D,1,0.0003
+3426,10010387,Anime vs Evil: Apocalypse,1,0.0003
+3427,10011310,Anomaly Agent,1,0.0003
+3428,234115,ANONYMOUS;CODE,1,0.0003
+3429,10009091,Anthology of Fear,1,0.0003
+3430,10015693,Anthology of the Killer,1,0.0003
+3431,232031,AO International Tennis,1,0.0003
+3432,10011587,Apartment No 129,1,0.0003
+3433,200006,Ape Escape™ 2,1,0.0003
+3434,10007223,Aphelion,1,0.0003
+3435,10018698,Apidya' Special,1,0.0003
+3436,216815,Apollo 11 VR,1,0.0003
+3437,200034,Apotheon,1,0.0003
+3438,10001021,Aragami 2,1,0.0003
+3439,10018890,Arcade Archives 2 Lady Bug,1,0.0003
+3440,10015409,Arcade Archives 2 MACH BREAKERS,1,0.0003
+3441,10018625,Arcade Archives 2 Mr.Do!,1,0.0003
+3442,10016982,Arcade Archives 2 SPACE INVADERS,1,0.0003
+3443,10019961,Arcade Archives 2 XEVIOUS 3D/G,1,0.0003
+3444,10009452,Arcade Archives AERO FIGHTERS,1,0.0003
+3445,232320,Arcade Archives ARGUS,1,0.0003
+3446,10001117,Arcade Archives Burger Time,1,0.0003
+3447,10000982,Arcade Archives CIRCUS CHARLIE,1,0.0003
+3448,216044,Arcade Archives CONTRA,1,0.0003
+3449,10009031,Arcade Archives COSMO GANG THE PUZZLE,1,0.0003
+3450,10014153,Arcade Archives CRAZY BALLOON,1,0.0003
+3451,200295,Arcade Archives CRAZY CLIMBER,1,0.0003
+3452,10002275,Arcade Archives CYBATTLER,1,0.0003
+3453,10010049,Arcade Archives Exvania,1,0.0003
+3454,235082,Arcade Archives FROGGER,1,0.0003
+3455,10006918,Arcade Archives GROBDA,1,0.0003
+3456,10005302,Arcade Archives Gun Frontier,1,0.0003
+3457,228685,Arcade Archives HAUNTED CASTLE,1,0.0003
+3458,235084,Arcade Archives HYPER SPORTS,1,0.0003
+3459,200305,Arcade Archives Karate Champ,1,0.0003
+3460,216039,Arcade Archives KIKI KAIKAI,1,0.0003
+3461,214796,Arcade Archives MAGMAX,1,0.0003
+3462,10003510,Arcade Archives MAPPY,1,0.0003
+3463,233916,Arcade Archives NINJA GAIDEN,1,0.0003
+3464,233589,Arcade Archives Ninja Spirit,1,0.0003
+3465,10005517,Arcade Archives PAC-MANIA,1,0.0003
+3466,10008608,Arcade Archives POLE POSITION II,1,0.0003
+3467,10009437,Arcade Archives SUPER CONTRA,1,0.0003
+3468,10004015,Arcade Archives SUPER PAC-MAN,1,0.0003
+3469,10006268,Arcade Archives TETRIS THE ABSOLUTE THE GRAND MASTER 2 PLUS,1,0.0003
+3470,10004001,Arcade Archives TETRIS® THE GRAND MASTER,1,0.0003
+3471,10007207,Arcade Archives The New Zealand Story,1,0.0003
+3472,234525,Arcade Archives TRACK & FIELD,1,0.0003
+3473,10006894,ArcRunner,1,0.0003
+3474,10013771,Ariana and the Elder Codex,1,0.0003
+3475,10009596,Arken Age,1,0.0003
+3476,200332,Armello,1,0.0003
+3477,10009671,Arranger: A Role-Puzzling Adventure,1,0.0003
+3478,216065,Art of Fighting Anthology,1,0.0003
+3479,10017965,Artifact Seekers,1,0.0003
+3480,10002562,Ascendshaft and Endless Shaft,1,0.0003
+3481,10013717,Asphalt Racing Bundle Speedway & Grand Prix,1,0.0003
+3482,10008894,Assault Suit Leynos 2 Saturn Tribute PS4 & PS5,1,0.0003
+3483,10005233,Asterigos: Curse of the Stars,1,0.0003
+3484,10015356,Asterix & Obelix - Mission Babylon,1,0.0003
+3485,10001110,Asterix & Obelix Slap them All!,1,0.0003
+3486,10005402,Asterix & Obelix XXXL : The Ram From Hibernia,1,0.0003
+3487,10002816,Astral Ascent,1,0.0003
+3488,10011469,Astrea: Six-Sided Oracles,1,0.0003
+3489,10010375,ASTROSMASH,1,0.0003
+3490,234728,Atelier Ayesha: The Alchemist of Dusk DX,1,0.0003
+3491,233206,Atelier Lulua ~The Scion of Arland~,1,0.0003
+3492,232610,Atelier Meruru ~The Apprentice of Arland~ DX,1,0.0003
+3493,10012578,Atelier Resleriana: The Red Alchemist & the White Guardian,1,0.0003
+3494,10003063,Atelier Sophie 2: The Alchemist of the Mysterious Dream,1,0.0003
+3495,234863,Atomicrops,1,0.0003
+3496,222942,ATV Renegades,1,0.0003
+3497,228897,Autobahn Police Simulator 2,1,0.0003
+3498,10002739,Autonauts,1,0.0003
+3499,10003264,Avatar The Last Airbender: Quest for Balance,1,0.0003
+3500,225020,Aven Colony,1,0.0003
+3501,10009167,AWAKEN - Astral Blade,1,0.0003
+3502,10008498,Axis Football 2024,1,0.0003
+3503,10013692,Axis Football 2026,1,0.0003
+3504,10020773,Axis Football 2027,1,0.0003
+3505,10004607,Ayleouna,1,0.0003
+3506,10005730,Baby Shark™: Sing & Swim Party,1,0.0003
+3507,10016994,Back to the Dawn,1,0.0003
+3508,200400,Back to the Future: The Game,1,0.0003
+3509,200421,Backgammon Blitz,1,0.0003
+3510,10012988,Bad Cheese,1,0.0003
+3511,10010936,Baking Time!,1,0.0003
+3512,10014439,Balance Blox,1,0.0003
+3513,10015366,Ball Rush,1,0.0003
+3514,10011309,Barbie™ Horse Trails,1,0.0003
+3515,10011654,Barista Simulator,1,0.0003
+3516,234701,Barton Lynch Pro Surfing,1,0.0003
+3517,10004384,Basketball - Breakthrough Gaming Arcade,1,0.0003
+3518,10003930,Batora: Lost Haven,1,0.0003
+3519,216886,Battle Chef Brigade,1,0.0003
+3520,10013168,Battle Engine Aquila,1,0.0003
+3521,221826,Battle Garegga Rev.2016,1,0.0003
+3522,10012188,Beach Invasion 1945 - Pacific,1,0.0003
+3523,10007449,Bear and Breakfast,1,0.0003
+3524,10002620,BEAUTIFUL DESOLATION,1,0.0003
+3525,10012799,Before Exit: Gas Station,1,0.0003
+3526,10011391,Before Exit: Supermarket,1,0.0003
+3527,10003780,Before We Leave,1,0.0003
+3528,10004835,Behind the Frame: The Finest Scenery,1,0.0003
+3529,10013555,Beneath,1,0.0003
+3530,10011086,Beneath Oresa,1,0.0003
+3531,232290,Bibi & Tina – Adventures with Horses,1,0.0003
+3532,10018279,"Bibi & Tina – Ready, Set, Ride!",1,0.0003
+3533,10016837,Big Trouble in Little Chimney,1,0.0003
+3534,10014445,Bigfoot Hunting,1,0.0003
+3535,10004756,Biolab Wars,1,0.0003
+3536,10011138,BIOMORPH,1,0.0003
+3537,10011377,Bionic Bay,1,0.0003
+3538,10010903,Biped 2,1,0.0003
+3539,10012275,Birthday Boy,1,0.0003
+3540,221875,Birthdays the Beginning,1,0.0003
+3541,10010032,BIT.TRIP RERUNNER,1,0.0003
+3542,10014845,Blacksmith Simulator,1,0.0003
+3543,10005559,Blade Assault,1,0.0003
+3544,200528,BLADESTORM: Nightmare,1,0.0003
+3545,228310,BLAZBLUE CHRONOPHANTASMA EXTEND,1,0.0003
+3546,10001868,Blaze and the Monster Machines: Axle City Racers,1,0.0003
+3547,10005382,Blazing Strike,1,0.0003
+3548,234527,Blim,1,0.0003
+3549,10000288,Blind Men,1,0.0003
+3550,10014722,Blocky Blast,1,0.0003
+3551,10019522,Blood Dungeon,1,0.0003
+3552,10012169,Blood West,1,0.0003
+3553,10004758,Bloodwash,1,0.0003
+3554,10009078,Bloomtown: A Different Story,1,0.0003
+3555,224799,BLUE REFLECTION,1,0.0003
+3556,10011791,BMX CITY RUN,1,0.0003
+3557,231065,Bomber Crew,1,0.0003
+3558,232925,Borderlands® 2 VR,1,0.0003
+3559,10003374,Bowling (Jane Version) - Project: Summer Ice (Sports Series),1,0.0003
+3560,10003715,Bowling (Mark Version) - Project: Summer Ice (Sports Series),1,0.0003
+3561,10003132,Bowling (Pammy Version) - Project: Summer Ice (Sports Series),1,0.0003
+3562,10003716,Bowling (Story Two) (Mark Version) - Project: Summer Ice,1,0.0003
+3563,235127,Boxed In,1,0.0003
+3564,10007138,Boxer,1,0.0003
+3565,10004402,Boxville,1,0.0003
+3566,10013009,Boxville 2,1,0.0003
+3567,10011996,Boys Race,1,0.0003
+3568,234470,Brain Breaker,1,0.0003
+3569,10016406,Brave × Junction,1,0.0003
+3570,10004881,Bravery and Greed,1,0.0003
+3571,200590,BRAVIA TV Player,1,0.0003
+3572,10005266,Breakers Collection,1,0.0003
+3573,234836,Breeder Homegrown,1,0.0003
+3574,10003003,Brewmaster: Beer Brewing Simulator,1,0.0003
+3575,10010550,Brick Buster,1,0.0003
+3576,216084,Bridge Constructor,1,0.0003
+3577,230115,Bridge Constructor Portal,1,0.0003
+3578,10004566,Bright Lights of Svetlov,1,0.0003
+3579,200617,Brothers : a Tale of Two Sons,1,0.0003
+3580,10000239,BRUNSWICK PRO BILLIARDS,1,0.0003
+3581,10013068,Bubbelsche Deluxe,1,0.0003
+3582,10000990,Bubble Bobble 4 Friends: The Baron is Back!,1,0.0003
+3583,10011102,Bubble Riders,1,0.0003
+3584,10014438,Bubble Shooter DX,1,0.0003
+3585,228948,Bubsy: The Woolies Strike Back,1,0.0003
+3586,10008170,Bud Spencer & Terence Hill - Slaps And Beans 2,1,0.0003
+3587,10000410,Bug Fables: The Everlasting Sapling,1,0.0003
+3588,10008443,Burnhouse Lane,1,0.0003
+3589,10009498,Burning Secrets - A Bara Visual Novel,1,0.0003
+3590,10010537,Bus Simulator Driver 2024 : City Zone,1,0.0003
+3591,10005072,C-Smash VRS New Dimension,1,0.0003
+3592,10008941,Cafe Owner Simulator,1,0.0003
+3593,10016150,Cakey's Twisted Bakery,1,0.0003
+3594,10016298,CALC+-,1,0.0003
+3595,10009485,Caligo,1,0.0003
+3596,10010861,Campfire Oasis,1,0.0003
+3597,10014126,Campfire of Oasis 2,1,0.0003
+3598,10015351,Candivity,1,0.0003
+3599,232197,Candle - The Power of the Flame,1,0.0003
+3600,10001457,Cannibal Cuisine,1,0.0003
+3601,10011547,Captain Blood,1,0.0003
+3602,10013969,Captain Puff MacFly,1,0.0003
+3603,10016647,Car Dealer Garage Simulator 2026,1,0.0003
+3604,10014174,Car Mechanic Shop Simulator,1,0.0003
+3605,10014522,CARD SHOP GAME STORE - TCG SIMULATOR,1,0.0003
+3606,10000821,Carnivores: Dinosaur Hunt,1,0.0003
+3607,10019387,Case Solved: The London Files,1,0.0003
+3608,10016744,CASSETTE BOY,1,0.0003
+3609,200691,CastleStorm - Definitive Edition,1,0.0003
+3610,10016858,Cat From Hell 2,1,0.0003
+3611,10009000,Cat Pipes,1,0.0003
+3612,10019004,Catch Flex,1,0.0003
+3613,10013603,CATO: Buttered Cat,1,0.0003
+3614,10013497,Cats and Seek : Dino Park,1,0.0003
+3615,10013706,Cave Crave,1,0.0003
+3616,10002212,Cave Digger 2,1,0.0003
+3617,206342,Cel Damage HD,1,0.0003
+3618,200675,CHAOS;CHILD,1,0.0003
+3619,200696,Chasm,1,0.0003
+3620,10000775,CHESS,1,0.0003
+3621,10011331,Chess Infinity,1,0.0003
+3622,10000774,Chicken Police,1,0.0003
+3623,10002468,Chicory: A Colorful Tale,1,0.0003
+3624,232849,Chimparty™,1,0.0003
+3625,10012328,Chornobyl Liquidators,1,0.0003
+3626,10000793,CHORUS,1,0.0003
+3627,10016302,Chorus of Carcosa,1,0.0003
+3628,10002266,Christmas Break,1,0.0003
+3629,10002029,Christmas Break Head to Head,1,0.0003
+3630,10009921,Christmas Journey Puzzle,1,0.0003
+3631,10009054,Christmas Massacre,1,0.0003
+3632,216962,Chroma Squad,1,0.0003
+3633,10013371,Chronicles of the Wolf,1,0.0003
+3634,10012913,City Bus Manager,1,0.0003
+3635,10012195,City Bus Simulator 2026,1,0.0003
+3636,10009508,City Transport Simulator: Bus + Tram,1,0.0003
+3637,200772,CLANNAD,1,0.0003
+3638,10011173,Clash: Robot Detective - Complete Edition,1,0.0003
+3639,10015075,Classic Solitaire,1,0.0003
+3640,10017856,Cleaning Up!,1,0.0003
+3641,10009801,Cleansheet Football,1,0.0003
+3642,10004977,Clive 'N' Wrench,1,0.0003
+3643,10012015,Clothing Supermarket Store Simulator,1,0.0003
+3644,10014978,Cloud Roll,1,0.0003
+3645,10000251,Cloudpunk,1,0.0003
+3646,233409,Coaster,1,0.0003
+3647,10000300,Cobra Kai: The Karate Kid Saga Continues,1,0.0003
+3648,200777,Color Guardians,1,0.0003
+3649,10016003,Color Water Sort,1,0.0003
+3650,216940,Color Zen,1,0.0003
+3651,10001890,Colossus Down,1,0.0003
+3652,10007746,Commandos: Origins,1,0.0003
+3653,10008193,COMPOUND,1,0.0003
+3654,234458,Conan Chop Chop,1,0.0003
+3655,232852,Conception PLUS: Maidens of the Twelve Stars,1,0.0003
+3656,10015794,Console Archives NINJA GAIDEN II: THE DARK SWORD OF CHAOS,1,0.0003
+3657,10018999,Console Archives T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy,1,0.0003
+3658,10014757,Constance,1,0.0003
+3659,235051,Construction Simulator 3 - Console Edition,1,0.0003
+3660,200798,Constructor,1,0.0003
+3661,232767,"Cook, Serve, Delicious! 2!!",1,0.0003
+3662,10001180,"Cook, Serve, Delicious! 3?!",1,0.0003
+3663,10010633,Cop Officers: Police Simulator of NYPD City,1,0.0003
+3664,10011541,COPA CITY,1,0.0003
+3665,216120,Corridor Z,1,0.0003
+3666,200682,Costume Quest 2,1,0.0003
+3667,10003975,Cotton 100%,1,0.0003
+3668,10002088,Cozy Grove,1,0.0003
+3669,10019291,Cozy Grove: Camp Spirit,1,0.0003
+3670,10011476,Crasho Cars,1,0.0003
+3671,231786,Crayola Scoot,1,0.0003
+3672,10018228,Crazy Cats Survivors,1,0.0003
+3673,10014014,Crazy Cats vs. Crazy Cyborgs,1,0.0003
+3674,10002523,Crazy Chicken Shooter Edition,1,0.0003
+3675,10000345,Creaks,1,0.0003
+3676,10016133,Creepy Shift: Roadside Diner,1,0.0003
+3677,10014216,Crime Opera Fandisk: The Caterpillar Candids,1,0.0003
+3678,10007148,Criminal Expert,1,0.0003
+3679,10001088,Cris Tales,1,0.0003
+3680,10012891,Criss Cross Bomb,1,0.0003
+3681,235139,Croc's World 3,1,0.0003
+3682,10005672,Crown Wars: The Black Prince,1,0.0003
+3683,228985,Cruz Brothers,1,0.0003
+3684,10008704,Cry Babies Magic Tears: The Big Game,1,0.0003
+3685,10007151,CRYMACHINA,1,0.0003
+3686,231262,Crypt of the Serpent King,1,0.0003
+3687,228691,CRYSTAR,1,0.0003
+3688,10014086,Cubic Odyssey,1,0.0003
+3689,10014446,Cute Puppy Academy,1,0.0003
+3690,235248,Cyber Troopers Virtual-On Masterpiece 1995-2001,1,0.0003
+3691,225256,Cyberdimension Neptunia: 4 Goddesses Online,1,0.0003
+3692,10004231,CYGNI: All Guns Blazing,1,0.0003
+3693,232211,D-Day Enhanced,1,0.0003
+3694,10016420,D-topia,1,0.0003
+3695,231085,Dandara,1,0.0003
+3696,10002321,Danganronpa S: Ultimate Summer Camp,1,0.0003
+3697,232934,Dangerous Driving,1,0.0003
+3698,217979,Dangerous Golf,1,0.0003
+3699,234942,Danmaku Unlimited 3,1,0.0003
+3700,234935,Darius Cozmic Collection Arcade,1,0.0003
+3701,10001494,DARIUSBURST: ANOTHER CHRONICLE EX+,1,0.0003
+3702,10016450,Dark Auction,1,0.0003
+3703,10010787,Dark Deity 2,1,0.0003
+3704,10007200,Dark Light,1,0.0003
+3705,227343,Dark Mystery,1,0.0003
+3706,10020202,Dark Town Secrets: Lost Lulu Collector’s Edition,1,0.0003
+3707,234403,Darkestville Castle,1,0.0003
+3708,200896,Day of the Tentacle Remastered,1,0.0003
+3709,10012086,Daylight Dread,1,0.0003
+3710,221855,Dead Effect 2,1,0.0003
+3711,222247,Dead Island: Definitive Collection,1,0.0003
+3712,10012670,Dead Land 2 VR,1,0.0003
+3713,227320,DeadAge,1,0.0003
+3714,222964,DEADBOLT,1,0.0003
+3715,221866,Dear Esther: Landmark Edition,1,0.0003
+3716,222833,Death's Gambit: Afterlife,1,0.0003
+3717,10003709,Death and Taxes,1,0.0003
+3718,10001184,Death Come True,1,0.0003
+3719,10006282,Death Relives,1,0.0003
+3720,231052,Decay of Logos,1,0.0003
+3721,10014088,Deep Under,1,0.0003
+3722,200917,Defense Grid 2,1,0.0003
+3723,10003378,Deliver Us Mars,1,0.0003
+3724,10009806,Dementium: The Ward,1,0.0003
+3725,10008951,Democracy 4: Console Edition,1,0.0003
+3726,10009468,Demolish & Build Classic,1,0.0003
+3727,10008801,Demon Slayer -Kimetsu no Yaiba- Sweep the Board!,1,0.0003
+3728,10007754,Demonschool,1,0.0003
+3729,216977,Deponia,1,0.0003
+3730,232926,Déraciné™,1,0.0003
+3731,10018716,Desert Storm War FPS,1,0.0003
+3732,10004302,Despot's Game,1,0.0003
+3733,10008349,Dessert DIY,1,0.0003
+3734,10009095,Detective Agency: Gray Tie 2 Collector's Edition,1,0.0003
+3735,10016530,Detective VR,1,0.0003
+3736,232170,Devious Dungeon,1,0.0003
+3737,10020438,Dice A Million,1,0.0003
+3738,10008642,Diesel Legacy: The Brazen Age,1,0.0003
+3739,221861,Dino Dini's Kick Off Revival,1,0.0003
+3740,10019370,Dino Odyssey,1,0.0003
+3741,10012023,Dinosaur Fossil Hunter,1,0.0003
+3742,10011821,Disco Simulator,1,0.0003
+3743,234649,Disgaea 4 Complete+,1,0.0003
+3744,10004335,Disgaea 6 Complete,1,0.0003
+3745,10004787,Disgaea 7: Vows of the Virtueless,1,0.0003
+3746,10007631,Disney•Pixar Buzz Lightyear of Star Command,1,0.0003
+3747,10003138,Divine Knockout (DKO),1,0.0003
+3748,10010921,DIY Fashion Star,1,0.0003
+3749,10009458,Doctor Who: The Edge of Time,1,0.0003
+3750,10010150,Doggy Up!,1,0.0003
+3751,235356,Dogurai,1,0.0003
+3752,10002698,Dolmen,1,0.0003
+3753,10003729,Don't Be Afraid,1,0.0003
+3754,201106,Don Bradman Cricket,1,0.0003
+3755,228700,DOOM VFR,1,0.0003
+3756,235336,DORAEMON STORY OF SEASONS,1,0.0003
+3757,10012806,Dora™: Rainforest Rescue,1,0.0003
+3758,10003948,Dordogne,1,0.0003
+3759,10014511,Dorfromantik,1,0.0003
+3760,10009569,Dr. Frank's Build a Boyfriend,1,0.0003
+3761,229681,Dragon's Lair Trilogy,1,0.0003
+3762,232591,Dragon Star VARNIR,1,0.0003
+3763,235393,DragonRideVR,1,0.0003
+3764,10004734,Dragons in Space,1,0.0003
+3765,10019989,Dream Cage,1,0.0003
+3766,10007273,DreamWorks Trolls Remix Rescue,1,0.0003
+3767,10016686,Drill Core,1,0.0003
+3768,10010218,DRUNKEN SUPERHERO,1,0.0003
+3769,221676,DUCATI - 90th Anniversary,1,0.0003
+3770,10009788,Dungeon Adventure,1,0.0003
+3771,10002059,DUNGEON ENCOUNTERS,1,0.0003
+3772,232216,Dungeons of Sundaria,1,0.0003
+3773,233413,Dungreed,1,0.0003
+3774,10013544,Dunjungle,1,0.0003
+3775,10003721,Dusk Diver 2,1,0.0003
+3776,229000,Dynasty Feud,1,0.0003
+3777,216171,Eagle Flight,1,0.0003
+3778,10000167,eBASEBALLパワフルプロ野球2020,1,0.0003
+3779,10013327,EBOLA III,1,0.0003
+3780,10011320,EBOLA VILLAGE,1,0.0003
+3781,10004656,echochrome,1,0.0003
+3782,10008930,Edge of Reality,1,0.0003
+3783,235058,Edna and Harvey - The Breakout - Anniversary Edition,1,0.0003
+3784,10003486,Eiyuden Chronicle: Rising,1,0.0003
+3785,10012717,Electrician Simulator VR,1,0.0003
+3786,10003762,Elemental War 2,1,0.0003
+3787,10016639,Elementallis,1,0.0003
+3788,217046,ELEX,1,0.0003
+3789,230619,Eliosi's Hunt,1,0.0003
+3790,10007363,Elypse,1,0.0003
+3791,10011030,Ember Knights: Heroes of the Nexus Edition,1,0.0003
+3792,10012775,Entropy Survivors,1,0.0003
+3793,201386,Entwined™,1,0.0003
+3794,231803,Epic Dumpster Bear,1,0.0003
+3795,10009571,Eriksholm: The Stolen Dream,1,0.0003
+3796,10005014,Escape First,1,0.0003
+3797,10010302,Escape from Ever After,1,0.0003
+3798,10012853,Escape the Backrooms Bodycam,1,0.0003
+3799,233467,ESP Ra.De. Psi,1,0.0003
+3800,10012383,Eternal Evil,1,0.0003
+3801,10004814,Eternights,1,0.0003
+3802,10017487,Etrange Overlord,1,0.0003
+3803,10000609,Evan's Remains,1,0.0003
+3804,201297,Everybody's Gone To The Rapture™,1,0.0003
+3805,10002054,Evil Inside,1,0.0003
+3806,231075,Evoland: Legendary Edition,1,0.0003
+3807,201324,Exist Archive,1,0.0003
+3808,10019301,EXSTETRA,1,0.0003
+3809,10009265,Extreme Bike Racing,1,0.0003
+3810,10019610,Extreme Cycling Championship,1,0.0003
+3811,201351,Extreme Exorcism,1,0.0003
+3812,10012476,Extremely Powerful Capybaras,1,0.0003
+3813,10009574,Fabledom,1,0.0003
+3814,10011532,FAIRY TAIL 2,1,0.0003
+3815,10016729,FAITH: The Unholy Trinity,1,0.0003
+3816,10004481,Fall of Porcupine,1,0.0003
+3817,10002837,Fantasy Friends : Under The Sea,1,0.0003
+3818,201538,FantaVision™,1,0.0003
+3819,10003018,Farm Frenzy: Refreshed,1,0.0003
+3820,10015725,Farm Simulator 2026,1,0.0003
+3821,231274,Farmer's Dynasty,1,0.0003
+3822,10000611,Fast Gear,1,0.0003
+3823,10006174,FATAL FRAME: Mask of the Lunar Eclipse,1,0.0003
+3824,10008118,Fate Seeker II,1,0.0003
+3825,10011333,FATE: Reawakened,1,0.0003
+3826,10008828,Fearmonium,1,0.0003
+3827,10011205,Feed My Raptor,1,0.0003
+3828,201435,FEZ,1,0.0003
+3829,235138,Fight'N Rage,1,0.0003
+3830,231080,FIGHTING EX LAYER,1,0.0003
+3831,10004222,Figment 2: Creed Valley,1,0.0003
+3832,10017986,File Destined,1,0.0003
+3833,10015664,Fill The Cup 2,1,0.0003
+3834,10010831,Final Frog,1,0.0003
+3835,10004778,Final Vendetta,1,0.0003
+3836,10012843,Finding America: New England Collector's Edition,1,0.0003
+3837,10015084,Fire & Water,1,0.0003
+3838,224853,Firefighters - The Simulation,1,0.0003
+3839,231487,Firefighters: Plant Fire Department,1,0.0003
+3840,10004162,Firegirl: Hack 'n Splash Rescue DX,1,0.0003
+3841,10019711,Five Elements Chess,1,0.0003
+3842,10015125,Flamecraft,1,0.0003
+3843,10018392,Flesh Made Fear,1,0.0003
+3844,201488,flOw,1,0.0003
+3845,201530,Flower,1,0.0003
+3846,10010156,Flute The Snake Charmer,1,0.0003
+3847,221883,Flywrench,1,0.0003
+3848,10004006,Fobia - St. Dinfna Hotel,1,0.0003
+3849,10010192,Food Truck Simulator,1,0.0003
+3850,233499,"Football, Tactics & Glory",1,0.0003
+3851,10019410,FORENSIC - M.E. Protocol,1,0.0003
+3852,10018499,Forensics: Crime Scene Detective,1,0.0003
+3853,10009004,Forklift Extreme: Deluxe Edition,1,0.0003
+3854,10010507,Forklift Simulator,1,0.0003
+3855,201623,forma.8,1,0.0003
+3856,10006414,Formula Retro Racing - World Tour,1,0.0003
+3857,201611,Fort Defense,1,0.0003
+3858,232156,FOX n FORESTS,1,0.0003
+3859,10004823,FPV Simulator,1,0.0003
+3860,10002687,Fracked,1,0.0003
+3861,10015477,Frame Cat,1,0.0003
+3862,10007382,Fran Bow,1,0.0003
+3863,10000995,Freddy Spaghetti,1,0.0003
+3864,10000262,Freedom Finger,1,0.0003
+3865,10016558,FreeStyle Football 2,1,0.0003
+3866,10005934,Frogo 2,1,0.0003
+3867,10006526,Frogo 3,1,0.0003
+3868,10008008,From Space,1,0.0003
+3869,10015411,FRONT MISSION 3: Remake,1,0.0003
+3870,10009836,Frontier Hunter : Erza’s Wheel of Fortune,1,0.0003
+3871,10017342,Frost Survival – Winter,1,0.0003
+3872,10011853,Fruits' harvest sorter,1,0.0003
+3873,10013038,Fuel Station Simulator,1,0.0003
+3874,10012099,Fuga: Melodies of Steel 3,1,0.0003
+3875,10014496,Galactic Cat,1,0.0003
+3876,10008221,Galaxy Champions TV,1,0.0003
+3877,10002754,Galaxy Kart,1,0.0003
+3878,10010645,Gallop Glory: Obstacle Racing & Horse Simulator,1,0.0003
+3879,10014766,Game & Console Supermarket: Business Simulator,1,0.0003
+3880,10012503,Gamer Quest,1,0.0003
+3881,216233,Games of Glory,1,0.0003
+3882,10007320,Garden Life: A Cozy Simulator,1,0.0003
+3883,10009822,Garden Witch Life,1,0.0003
+3884,10012444,Garfield Kart 2 - All You Can Drift,1,0.0003
+3885,10012588,Garten of Banban 7,1,0.0003
+3886,10003096,Gefragt Gejagt - Das Spiel,1,0.0003
+3887,10003059,Gelly Break Deluxe,1,0.0003
+3888,232751,Genesis,1,0.0003
+3889,231084,Genesis Alpha One,1,0.0003
+3890,10000307,Genetic Disaster,1,0.0003
+3891,10019311,Gennady,1,0.0003
+3892,201860,Geometry Wars³: Dimensions,1,0.0003
+3893,207361,Get Even,1,0.0003
+3894,10005200,Get to the Top 2 - Breakthrough Gaming Arcade,1,0.0003
+3895,10014230,Gex Trilogy,1,0.0003
+3896,10017245,Ghost Master: Resurrection Core Edition,1,0.0003
+3897,233085,Ghost of a Tale,1,0.0003
+3898,10005004,Ghost Song,1,0.0003
+3899,201669,Giana Sisters: Twisted Dreams – Director’s Cut,1,0.0003
+3900,232874,GIGA WRECKER ALT.,1,0.0003
+3901,10003931,Gigantosaurus: Dino Kart,1,0.0003
+3902,10011826,Gimmick! 2,1,0.0003
+3903,10006506,Gimmick! Special Edition,1,0.0003
+3904,232805,Ginsei Mahjong,1,0.0003
+3905,10013803,Gladiator Warrior,1,0.0003
+3906,10008230,GNOSIA,1,0.0003
+3907,10000242,GODS WILL FALL,1,0.0003
+3908,10020531,Gods With Guns,1,0.0003
+3909,10000258,Going Under,1,0.0003
+3910,10017080,Gold Digging 2026 Simulator,1,0.0003
+3911,10015188,Golden Tee Arcade Classics,1,0.0003
+3912,10001072,Golf,1,0.0003
+3913,10009985,Golfing in Aether,1,0.0003
+3914,10013805,Golfing Over It with Alva Majo,1,0.0003
+3915,10013351,Goosebumps: Terror in Little Creek,1,0.0003
+3916,10004945,Gori: Cuddly Carnage,1,0.0003
+3917,10013375,Gorilla Attack,1,0.0003
+3918,231898,Gorogoa,1,0.0003
+3919,10010662,Gothic Classic,1,0.0003
+3920,10000953,Gothic Murder: Adventure That Changes Destiny,1,0.0003
+3921,234059,Granblue Fantasy: Versus,1,0.0003
+3922,10018871,Grand Vegas Casino,1,0.0003
+3923,10008233,Grandia,1,0.0003
+3924,10017662,Gravity Biker,1,0.0003
+3925,10006297,Gravity Circuit,1,0.0003
+3926,10007237,Gravity Crash Portable,1,0.0003
+3927,10014218,Gravity Jump,1,0.0003
+3928,10014192,Gray War Conflict,1,0.0003
+3929,10002747,Griftlands,1,0.0003
+3930,201876,Grim Fandango Remastered,1,0.0003
+3931,227138,Grim Legends: The Forsaken Bride,1,0.0003
+3932,10016444,Grim Trials,1,0.0003
+3933,10017769,GRIME II,1,0.0003
+3934,10019613,Ground Zero Hero,1,0.0003
+3935,212721,GUILTY GEAR,1,0.0003
+3936,201753,Guilty Gear Xrd -SIGN-,1,0.0003
+3937,10017081,Gunboat God,1,0.0003
+3938,201828,GUNDAM BREAKER 3 BREAK EDITION,1,0.0003
+3939,227154,GUNDAM VERSUS,1,0.0003
+3940,10014788,Gym Manager,1,0.0003
+3941,234013,Habroxia,1,0.0003
+3942,10007205,Hades' Star: DARK NEBULA,1,0.0003
+3943,10010160,Hairdresser Simulator,1,0.0003
+3944,10012704,Halloween Memory Quest,1,0.0003
+3945,10005894,Halloween Pinball,1,0.0003
+3946,10004263,Hammerwatch II,1,0.0003
+3947,10010139,Hand in Hand,1,0.0003
+3948,202038,Hand of Fate,1,0.0003
+3949,227361,Happy Dungeons,1,0.0003
+3950,10009393,Happy Words,1,0.0003
+3951,10008565,HappyFunland,1,0.0003
+3952,217207,Hard Reset Redux,1,0.0003
+3953,10001523,Hardspace: Shipbreaker,1,0.0003
+3954,232798,Harold Halibut,1,0.0003
+3955,10005202,Harvest Moon: The Winds of Anthos,1,0.0003
+3956,10014280,Harvest Moon®: Home Sweet Home Special Edition,1,0.0003
+3957,10017030,Hatsune Miku Logic Paint S,1,0.0003
+3958,10005049,Haunted House,1,0.0003
+3959,10000983,Haven,1,0.0003
+3960,201889,HBO GO,1,0.0003
+3961,10004875,Headbangers: Rhythm Royale,1,0.0003
+3962,10001586,Heavy Metal Machines,1,0.0003
+3963,10004773,Heidelberg 1693,1,0.0003
+3964,10010143,Helichapter X,1,0.0003
+3965,10015009,Hell Froze Over,1,0.0003
+3966,10004873,Hell Pie,1,0.0003
+3967,10006454,Hello Neighbor: Search and Rescue,1,0.0003
+3968,235113,Hellpoint,1,0.0003
+3969,10013909,Hentai Girls Succubus,1,0.0003
+3970,10002276,Hentai vs. Evil,1,0.0003
+3971,10008196,Hero Survival,1,0.0003
+3972,232806,Heroes of Hammerwatch,1,0.0003
+3973,10019296,Heroines Through My Lens,1,0.0003
+3974,229802,Hidden Agenda,1,0.0003
+3975,10011301,Hidden Cats in Berlin,1,0.0003
+3976,10017901,Hidden Cats in Christmas,1,0.0003
+3977,10008176,Hidden Cats in London,1,0.0003
+3978,10010314,Hidden Cats in New York,1,0.0003
+3979,10010315,Hidden Cats in Paris,1,0.0003
+3980,10012673,Hidden Cats in Santa's Realm,1,0.0003
+3981,10012204,Hidden Cats in Spooky Town,1,0.0003
+3982,10015029,Hidden Cats in Tokyo,1,0.0003
+3983,10009130,Hidden Through Time 2: Myths & Magic,1,0.0003
+3984,10013649,Hide The Corpse,1,0.0003
+3985,232690,Higurashi no Naku Koro ni Hou,1,0.0003
+3986,234799,Himno,1,0.0003
+3987,10000713,HIQ ACE Unlimited,1,0.0003
+3988,234556,Hitchhiker - A Mystery Game,1,0.0003
+3989,218377,Hitman GO: Definitive Edition,1,0.0003
+3990,10002508,Hoa,1,0.0003
+3991,10003404,Hobo: Tough Life,1,0.0003
+3992,10003839,Hokko Life,1,0.0003
+3993,235322,Holfraine,1,0.0003
+3994,10015028,Hollowbody,1,0.0003
+3995,10011019,Home Safety Hotline,1,0.0003
+3996,10000293,Hood: Outlaws & Legends,1,0.0003
+3997,10009853,Hoodie Survivor,1,0.0003
+3998,10015329,Horror Night with Tung Tung Tung Sahur,1,0.0003
+3999,10001318,HORSE CLUB ADVENTURES,1,0.0003
+4000,10005001,Horse Club™ Adventures 2: Hazelwood Stories,1,0.0003
+4001,231095,Hotel Transylvania 3: Monsters Overboard,1,0.0003
+4002,10005439,House Builder,1,0.0003
+4003,10003236,House Flipper VR,1,0.0003
+4004,221896,Hue,1,0.0003
+4005,233596,Human Anatomy VR,1,0.0003
+4006,10010476,Humble Haunted House,1,0.0003
+4007,10002168,Hunter's Arena: Legends,1,0.0003
+4008,222257,Hustle Kings™ VR,1,0.0003
+4009,10009771,HYKE:Northern Light(s),1,0.0003
+4010,10012127,Hyper Rider,1,0.0003
+4011,10012272,Hyper Team Recon,1,0.0003
+4012,10010639,Hyperdimension Neptunia Re;Birth3 V GENERATION,1,0.0003
+4013,231779,I'm Hungry,1,0.0003
+4014,10010146,I'm on Observation Duty 6,1,0.0003
+4015,10013341,I'm on Observation Duty 7,1,0.0003
+4016,10017830,I Hate This Place,1,0.0003
+4017,10002382,I Saw Black Clouds,1,0.0003
+4018,10001043,"I, AI",1,0.0003
+4019,229153,Iconoclasts,1,0.0003
+4020,10018486,Idle Immortal,1,0.0003
+4021,208008,IGN,1,0.0003
+4022,231304,Ikaruga,1,0.0003
+4023,227381,ImmortalRedneck,1,0.0003
+4024,10011048,Immortals Fenyx Rising (China),1,0.0003
+4025,10004066,Imp of the Sun,1,0.0003
+4026,10018662,In Fair Spirits,1,0.0003
+4027,10001075,In rays of the Light,1,0.0003
+4028,10016664,Incantation,1,0.0003
+4029,221705,INDIGO PROPHECY,1,0.0003
+4030,216306,Indivisible,1,0.0003
+4031,10007628,Indoor Kickball,1,0.0003
+4032,224854,Industry Giant 2,1,0.0003
+4033,10016827,Infection Inspection,1,0.0003
+4034,10003982,Infernax,1,0.0003
+4035,10005547,Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5,1,0.0003
+4036,10013171,Internet Cafe Simulator 2025,1,0.0003
+4037,10013367,Into Black,1,0.0003
+4038,217196,INVERSUS Deluxe,1,0.0003
+4039,216301,"Invisible, Inc. Console Edition",1,0.0003
+4040,233277,Ion Fury,1,0.0003
+4041,10009729,Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle,1,0.0003
+4042,10013490,Is this Game Trying to Kill Me?,1,0.0003
+4043,231528,Island Time VR,1,0.0003
+4044,10018589,It Reaches,1,0.0003
+4045,10005215,Itorah,1,0.0003
+4046,232228,Jake Hunter Detective Story: Prism of Eyes,1,0.0003
+4047,221707,Jazzpunk: Director's Cut,1,0.0003
+4048,10012435,Jet Combat: Cats VS Dogs Military Simulator,1,0.0003
+4049,10012286,Jewel Fever 3,1,0.0003
+4050,10017822,Jewel Match Solitaire L'Amour,1,0.0003
+4051,10019106,Jewel Match Solitaire X,1,0.0003
+4052,216298,Joe Dever's Lone Wolf Console Edition,1,0.0003
+4053,202220,Joysound.TV Plus,1,0.0003
+4054,10005757,Junkyard Fury 2,1,0.0003
+4055,10010555,Junkyard Simulator,1,0.0003
+4056,202237,Just Dance® 2016,1,0.0003
+4057,227149,Just Dance® 2018,1,0.0003
+4058,10015528,Kaku - Ancient Seal,1,0.0003
+4059,202677,Kamen Rider: Battride War Genesis,1,0.0003
+4060,10008937,KAMiBAKO - Mythology of Cube -,1,0.0003
+4061,10015091,Kamla,1,0.0003
+4062,10004111,Kansei: The Second Turn HD,1,0.0003
+4063,10001045,Katamari Damacy REROLL,1,0.0003
+4064,10014049,Kawaii Puzzle Quest,1,0.0003
+4065,10016182,Kawaii Puzzle Quest 2,1,0.0003
+4066,234990,Kaze and the Wild Masks,1,0.0003
+4067,10014278,Keeper's Toll,1,0.0003
+4068,232844,Ketsui Deathtiny -Kizuna Jigoku Tachi-,1,0.0003
+4069,10003085,KID A MNESIA EXHIBITION,1,0.0003
+4070,233982,Kid Tripp,1,0.0003
+4071,202323,Kill Strain™,1,0.0003
+4072,231690,Killing Floor: Incursion,1,0.0003
+4073,10017667,Kiln,1,0.0003
+4074,10007265,Kingdom Eighties,1,0.0003
+4075,10005028,Kingdom of Paradise,1,0.0003
+4076,10014681,Kinki Spiritual Affairs Bureau,1,0.0003
+4077,10001061,Klang 2,1,0.0003
+4078,10009861,Kong: Survivor Instinct,1,0.0003
+4079,223046,Korix,1,0.0003
+4080,10009665,Krimson,1,0.0003
+4081,10016721,Kristala,1,0.0003
+4082,10006108,Kukoos: Lost Pets,1,0.0003
+4083,202358,Kung Fury: Street Rage - Ultimate Edition,1,0.0003
+4084,10007595,Kuroi Tsubasa,1,0.0003
+4085,10004078,L.O.L. Surprise! B.B.s BORN TO TRAVEL™,1,0.0003
+4086,10006880,LABYRINTH OF THE DEMON KING,1,0.0003
+4087,10002574,Labyrinth of Zangetsu,1,0.0003
+4088,10004074,Lady in a Leotard With a Gun,1,0.0003
+4089,10010672,Lakeview Cabin Collection,1,0.0003
+4090,10019066,Lamp Clicker,1,0.0003
+4091,10010299,Last Time I Saw You,1,0.0003
+4092,10013037,Learn to Play Vol. 10 - Gravity Space Walk,1,0.0003
+4093,10017045,Learn to Play Vol. 13 - Pumpkin Smash!,1,0.0003
+4094,10012937,Learn to Play Vol. 8 - Penalty Shootout,1,0.0003
+4095,10013124,Learn to Play Vol. 9 - Santa's Sleigh Ride,1,0.0003
+4096,231288,LEFT ALIVE,1,0.0003
+4097,10001295,Legend of Mana,1,0.0003
+4098,232093,Legendary Eleven,1,0.0003
+4099,10006306,Legendary Tales,1,0.0003
+4100,10013002,Legends BMX,1,0.0003
+4101,232684,Leisure Suit Larry - Wet Dreams Don't Dry,1,0.0003
+4102,10002052,Let's Cook Together,1,0.0003
+4103,221716,Let's Sing 2017,1,0.0003
+4104,10018947,Letter Snap: Word Puzzle,1,0.0003
+4105,10013192,Liar's Pub,1,0.0003
+4106,10002424,Liberated: Enhanced Edition,1,0.0003
+4107,10011490,Life in Terminal Simulator : Airport Adventures,1,0.0003
+4108,10009316,Life of Slime,1,0.0003
+4109,221923,Lifeless Planet,1,0.0003
+4110,10008374,Lil Gator Game,1,0.0003
+4111,227421,Linelight,1,0.0003
+4112,10017862,Liquor Store Simulator,1,0.0003
+4113,10000661,Little Big Workshop,1,0.0003
+4114,235408,Little Misfortune,1,0.0003
+4115,10014636,Little Strays,1,0.0003
+4116,10017671,Little Strays 2,1,0.0003
+4117,10005297,LIVE A LIVE PS4&PS5,1,0.0003
+4118,221714,Livelock,1,0.0003
+4119,10007183,Living with Horses: My Horse Farm,1,0.0003
+4120,10008403,Llamasoft: The Jeff Minter Story PS4 & PS5,1,0.0003
+4121,227162,Lock's Quest,1,0.0003
+4122,10020532,Lofi Witch Hatch,1,0.0003
+4123,10018524,LogIQ Boost,1,0.0003
+4124,10019697,Looking for Fael,1,0.0003
+4125,10009580,Looney Tunes: Wacky World of Sports,1,0.0003
+4126,10011409,Lorelei and the Laser Eyes,1,0.0003
+4127,229187,Lost Castle,1,0.0003
+4128,10017363,Lost Lands 2: The Four Horsemen,1,0.0003
+4129,10017399,Lost Lands 3,1,0.0003
+4130,10018827,Lost Lands 8: Sand Captivity,1,0.0003
+4131,10018616,Lost Little Things,1,0.0003
+4132,231289,LoveR,1,0.0003
+4133,10018646,Luna Abyss,1,0.0003
+4134,10007113,MACROSS -Shooting Insight-,1,0.0003
+4135,10014333,Maestro,1,0.0003
+4136,10007557,Magic Exposure - Yuri Visual Novel,1,0.0003
+4137,10018509,Magic Exposure 2,1,0.0003
+4138,10009878,Magical Bakery,1,0.0003
+4139,229177,Mahou Daisakusen,1,0.0003
+4140,10012680,Maisons de repos,1,0.0003
+4141,209513,Manga Kakeru,1,0.0003
+4142,10012407,Maniac,1,0.0003
+4143,222033,Manual Samuel Last Tuesday Edition,1,0.0003
+4144,10001413,Maquette,1,0.0003
+4145,10017564,Marathon Server Slam,1,0.0003
+4146,233186,Marble It Up! Ultra,1,0.0003
+4147,10001147,March to a Million,1,0.0003
+4148,233079,Mark of the Ninja: Remastered,1,0.0003
+4149,10013478,Mars Survivor,1,0.0003
+4150,10001528,Martha Is Dead,1,0.0003
+4151,10008737,Master Maker 3D Ultimate,1,0.0003
+4152,10014826,Masters Bowling HD,1,0.0003
+4153,229792,Masters of Anima,1,0.0003
+4154,10015353,Masters Pool HD,1,0.0003
+4155,10014412,Match it,1,0.0003
+4156,10009034,Matchbox™ Driving Adventures,1,0.0003
+4157,10004845,MathLand,1,0.0003
+4158,10002637,Mayhem Brawler,1,0.0003
+4159,10006171,MechWarrior 5: Clans,1,0.0003
+4160,10004068,Meet Your Maker,1,0.0003
+4161,10001469,Mega Mall Story2,1,0.0003
+4162,10008905,MEGATON MUSASHI W: WIRED,1,0.0003
+4163,10004291,Meme Run 2,1,0.0003
+4164,10019579,Mementos: Star Constellations,1,0.0003
+4165,10003807,Memories of East Coast,1,0.0003
+4166,10013407,Memory Holder: Animal Kingdom,1,0.0003
+4167,10014213,Memory Holder: The Colors,1,0.0003
+4168,10016352,Memory Holder: The Numbers,1,0.0003
+4169,202969,Mercenary Kings,1,0.0003
+4170,235121,METAL MAX Xeno Reborn,1,0.0003
+4171,10008007,METAL SLUG ATTACK RELOADED,1,0.0003
+4172,10012938,METAL SUITS: Counter-attack,1,0.0003
+4173,232571,Metal Wolf Chaos XD,1,0.0003
+4174,222305,Metrico+,1,0.0003
+4175,10009509,Metro Awakening,1,0.0003
+4176,10011772,MetroLand,1,0.0003
+4177,10010009,MFC - Midnight Fight Club,1,0.0003
+4178,227398,Micro Machines World Series,1,0.0003
+4179,10001725,Mighty Goose,1,0.0003
+4180,10017259,Miiridian Prime,1,0.0003
+4181,10013010,Mind Loop,1,0.0003
+4182,235131,Mini Motor Racing X,1,0.0003
+4183,10010037,MIO: Memories in Orbit,1,0.0003
+4184,10010300,Miraculous: Paris Under Siege,1,0.0003
+4185,10003547,Miraculous: Rise of the Sphinx,1,0.0003
+4186,234828,MISTOVER,1,0.0003
+4187,202812,MLB 14 The Show,1,0.0003
+4188,10001164,MOBILE SUIT GUNDAM BATTLE OPERATION Code Fairy,1,0.0003
+4189,10011124,Momodora: Moonlit Farewell,1,0.0003
+4190,231335,MONKEY KING: HERO IS BACK,1,0.0003
+4191,213590,MONOPOLY DEAL,1,0.0003
+4192,10002141,Monster Blast,1,0.0003
+4193,10020551,Monster Nursery,1,0.0003
+4194,10019145,Monster Rush Survivors,1,0.0003
+4195,10000423,Monster Sanctuary,1,0.0003
+4196,10015368,Monster Survivors: Hunting Wilds,1,0.0003
+4197,10013474,Monstrix TCG Card Shop,1,0.0003
+4198,232412,Monstrum,1,0.0003
+4199,10007502,Montgomery Fox and the Case of the Missing Ballerinas,1,0.0003
+4200,10013177,Monument Valley 2,1,0.0003
+4201,10001077,moon,1,0.0003
+4202,221736,Moon Hunters,1,0.0003
+4203,10005567,Moonscars,1,0.0003
+4204,10005186,Morbid: The Lords of Ire,1,0.0003
+4205,10012334,Morsels,1,0.0003
+4206,233873,MORTAL BLITZ : COMBAT ARENA - SIEA,1,0.0003
+4207,10011600,Mortisomem,1,0.0003
+4208,10011188,Mother's Day Journey,1,0.0003
+4209,230495,MotoGP™14 Compact,1,0.0003
+4210,10009807,Motorcycle Mechanic Simulator 2021,1,0.0003
+4211,10019432,Moving Simulator,1,0.0003
+4212,10017309,MTB Bike Simulator,1,0.0003
+4213,10003544,Murder House,1,0.0003
+4214,10002686,Murder Mystery Machine,1,0.0003
+4215,10004581,Murder on the Marine Express,1,0.0003
+4216,10011611,Mutant Boxing League VR,1,0.0003
+4217,229210,Mutant Football League,1,0.0003
+4218,10010031,Mutant Football League 2,1,0.0003
+4219,232411,Mutant Year Zero: Road to Eden,1,0.0003
+4220,10008681,My Child Lebensborn Remastered,1,0.0003
+4221,10010727,My Incubi Harem,1,0.0003
+4222,10003584,My Name is Mayo 3,1,0.0003
+4223,10012954,My Recycling Center,1,0.0003
+4224,10011935,My Summer Drive,1,0.0003
+4225,231112,My Time at Portia,1,0.0003
+4226,10000505,MY UNIVERSE - MY FASHION,1,0.0003
+4227,10016524,MY WINTER DRIVE,1,0.0003
+4228,231790,Mysterious Mail,1,0.0003
+4229,10009943,Mystery Box: The Journey,1,0.0003
+4230,10004944,NAIAD,1,0.0003
+4231,227451,NASCAR Heat 2,1,0.0003
+4232,224891,NBA,1,0.0003
+4233,10012016,NBA BOUNCE,1,0.0003
+4234,225232,NBA Playgrounds,1,0.0003
+4235,10001904,NBA Rakuten,1,0.0003
+4236,10017979,Necrophosis: Full Consciousness,1,0.0003
+4237,10011209,Neon Bash,1,0.0003
+4238,10016056,Neon Inferno,1,0.0003
+4239,10003498,Neptunia x SENRAN KAGURA: Ninja Wars,1,0.0003
+4240,10002670,Neptunia: Sisters VS Sisters,1,0.0003
+4241,10010646,Nerd Survivors,1,0.0003
+4242,221738,NeuroVoider,1,0.0003
+4243,202994,Never Alone,1,0.0003
+4244,233984,Neverwinter Nights: Enhanced Edition,1,0.0003
+4245,231549,New GUNDAM BREAKER,1,0.0003
+4246,10005857,New Star™ GP,1,0.0003
+4247,10004947,New World: Aeternum,1,0.0003
+4248,221747,Nex Machina,1,0.0003
+4249,234514,NEXTGEN SANDBOX,1,0.0003
+4250,201201,NFL SUNDAY TICKET,1,0.0003
+4251,10001214,NHL™ 94 REWIND,1,0.0003
+4252,10014834,Nickelodeon Splat Pack,1,0.0003
+4253,10011924,Night of the Dead Simulator,1,0.0003
+4254,10011325,Night Slashers: Remake,1,0.0003
+4255,10016417,Night Swarm,1,0.0003
+4256,10012737,NIMRODS,1,0.0003
+4257,10007611,NINJA KIDZ TIME MASTERS,1,0.0003
+4258,232737,Ninjin - Clash of Carrots,1,0.0003
+4259,231730,Nippon Marathon,1,0.0003
+4260,203068,NITROPLUS BLASTERZ -HEROINES INFINITE DUEL-,1,0.0003
+4261,10005034,No Heroes Allowed!,1,0.0003
+4262,10020374,No More Slimes!!,1,0.0003
+4263,226519,NOBUNAGA'S AMBITION: Sphere of Influence,1,0.0003
+4264,216678,NOBUNAGA'S AMBITION: SPHERE OF INFLUENCE - ASCENSION,1,0.0003
+4265,10012287,Noctuary,1,0.0003
+4266,203122,Nom Nom Galaxy,1,0.0003
+4267,203067,NOT A HERO,1,0.0003
+4268,10007448,Nova Lands,1,0.0003
+4269,10016441,Nun of Your Business,1,0.0003
+4270,10008158,Oaken,1,0.0003
+4271,10020205,Obby Sprunki Towers,1,0.0003
+4272,221739,Obliteracers,1,0.0003
+4273,217581,Oceanhorn,1,0.0003
+4274,10003113,Oceanhorn 2: Knights of the Lost Realm,1,0.0003
+4275,10019611,OilClicker,1,0.0003
+4276,10018167,Old Market Simulator,1,0.0003
+4277,10015354,Old School Rally,1,0.0003
+4278,10011923,Olympic 2024 Journey,1,0.0003
+4279,10015764,Omega Pilot Evolution,1,0.0003
+4280,10003298,One-Eyed Lee and the Dinner Party,1,0.0003
+4281,10013942,One Fear,1,0.0003
+4282,10001030,One Finger Death Punch 2,1,0.0003
+4283,234039,One Night Stand,1,0.0003
+4284,10002015,One Strike,1,0.0003
+4285,233725,OneeChanbara Origin,1,0.0003
+4286,10002192,Ooops!2,1,0.0003
+4287,235136,Open Country,1,0.0003
+4288,10009144,OPUS: Echo of Starsong - Full Bloom Edition,1,0.0003
+4289,234037,Othello,1,0.0003
+4290,10009129,OTXO,1,0.0003
+4291,10016149,Our Adventurer Guild,1,0.0003
+4292,10005465,Outbreak: Shades of Horror,1,0.0003
+4293,227430,Outcast - Second Contact,1,0.0003
+4294,217578,Oxenfree,1,0.0003
+4295,10004255,Oxide Room 104,1,0.0003
+4296,10005748,Pajama Sam 2: Thunder and Lightning Aren't so Frightening,1,0.0003
+4297,10011509,PAKU PAKU,1,0.0003
+4298,10006658,Panic House,1,0.0003
+4299,10003974,Panorama Cotton,1,0.0003
+4300,232711,PaperDolls,1,0.0003
+4301,10002720,Paradise Killer,1,0.0003
+4302,217538,Paragon,1,0.0003
+4303,225331,Paranormal Activity: The Lost Soul,1,0.0003
+4304,10011895,Parking Masters,1,0.0003
+4305,233113,Party Arcade,1,0.0003
+4306,10007338,PARTY BINGO,1,0.0003
+4307,232547,Party Crashers,1,0.0003
+4308,10013118,Path Of The Builder,1,0.0003
+4309,233355,Pathfinder: Kingmaker,1,0.0003
+4310,10000206,Pathologic 2,1,0.0003
+4311,10012863,Pathologic 3,1,0.0003
+4312,10016373,PATLABOR the Case Files,1,0.0003
+4313,10001587,Paw Paw Paw,1,0.0003
+4314,10018855,Pawbay,1,0.0003
+4315,10003871,PBA Pro Bowling 2023,1,0.0003
+4316,231385,PDP Cloud Remote App,1,0.0003
+4317,10008047,Pentiment,1,0.0003
+4318,235285,Persona 5 Scramble: The Phantom Strikers,1,0.0003
+4319,10006266,Pets at Work,1,0.0003
+4320,10010629,Phantom Brave: The Hermuda Triangle Remastered,1,0.0003
+4321,233464,Pic-a-Pix Classic,1,0.0003
+4322,227445,Pillars of Eternity: Complete Edition,1,0.0003
+4323,10004380,Pinball - Breakthrough Gaming Arcade,1,0.0003
+4324,10014133,Pinchcliffe Grand Prix Anniversary Edition,1,0.0003
+4325,10006611,Pink Pong,1,0.0003
+4326,10008321,Pixel Driver,1,0.0003
+4327,10016452,Pixicharm - Blaster Orbit,1,0.0003
+4328,10017219,Pixicharm - Celestibun,1,0.0003
+4329,10014659,Pixicharm - Jack-O-Fall,1,0.0003
+4330,10012712,Pixicharm - Kickabit,1,0.0003
+4331,10016604,Pixicharm - Ribbiverse,1,0.0003
+4332,10007261,PJ Masks Power Heroes: Mighty Alliance,1,0.0003
+4333,10002242,Plague Hunters,1,0.0003
+4334,10017344,Plaguetrix,1,0.0003
+4335,10017519,Plane Flight Simulator,1,0.0003
+4336,229995,Planetbase,1,0.0003
+4337,10010738,Plastomorphosis,1,0.0003
+4338,203433,PlayMemories Online,1,0.0003
+4339,210187,PlayStation® F.C.,1,0.0003
+4340,10010977,Please Be Happy,1,0.0003
+4341,10008997,Plumbers Don't Wear Ties: Definitive Edition,1,0.0003
+4342,10007310,Pocket Bravery,1,0.0003
+4343,10003224,Pocky & Rocky Reshrined,1,0.0003
+4344,232873,Pode,1,0.0003
+4345,10018225,Polygon Mayhem,1,0.0003
+4346,10015624,Pool Cleaning Simulator,1,0.0003
+4347,10011557,Population Quiz,1,0.0003
+4348,10011670,Possessor(s),1,0.0003
+4349,10006435,Post Trauma,1,0.0003
+4350,10006867,Power The Light,1,0.0003
+4351,10001599,PRAEY FOR THE GODS,1,0.0003
+4352,10013986,"Press ""X"" to win",1,0.0003
+4353,10017635,Priest Simulator: Vampire Show,1,0.0003
+4354,203612,Primal™,1,0.0003
+4355,232454,Prison Boss VR,1,0.0003
+4356,10016617,Prison Escape Simulator,1,0.0003
+4357,232233,Pro Fishing Simulator,1,0.0003
+4358,10014796,Project Drift Japan Challenge,1,0.0003
+4359,231781,Project Highrise: Architect's Edition,1,0.0003
+4360,10016429,Project Songbird,1,0.0003
+4361,10010539,Project Tower,1,0.0003
+4362,10007228,Promenade,1,0.0003
+4363,10008195,Promise Mascot Agency,1,0.0003
+4364,10008161,Propagation: Paradise Hotel,1,0.0003
+4365,10019692,Psalm 5:9-13,1,0.0003
+4366,203294,Psychonauts™,1,0.0003
+4367,10015660,Psychopathy Assessment,1,0.0003
+4368,10011585,Puppet House,1,0.0003
+4369,10011276,Purpose 1951,1,0.0003
+4370,10003927,Puzzle Bobble™2X/BUST-A-MOVE™2 Arcade Edition & Puzzle Bobble™3/BUST-A-MOVE™3 S-Tribute,1,0.0003
+4371,209960,Puzzle by Nikoli 4: Yajirin,1,0.0003
+4372,10017785,Puzzle Piecer: The Holiday Spirit,1,0.0003
+4373,10010572,Pyramids and Aliens: Escape Room,1,0.0003
+4374,221992,Pyre,1,0.0003
+4375,10000412,Quiplash 2 InterLASHional: The Say Anything Party Game!,1,0.0003
+4376,10013515,Quiz & Learn: Food & Drink,1,0.0003
+4377,10006235,Quiz Thiz USA,1,0.0003
+4378,233752,R.B.I. Baseball 20,1,0.0003
+4379,10000422,R.B.I. Baseball 21,1,0.0003
+4380,10014229,Racing Tokyo Racer X,1,0.0003
+4381,10009052,Racket Fury: Table Tennis VR,1,0.0003
+4382,10005056,Radical Rex (QUByte Classics),1,0.0003
+4383,10017260,Ragdoll Playground Sandbox,1,0.0003
+4384,231858,Raging Justice,1,0.0003
+4385,224923,Raging Loop,1,0.0003
+4386,10003684,Ragnarock,1,0.0003
+4387,10012729,RAIDEN FIGHTERS 2 REMIX,1,0.0003
+4388,10010604,RAIDEN FIGHTERS REMIX COLLECTION,1,0.0003
+4389,10003798,Raiden III × MIKADO MANIAX,1,0.0003
+4390,10012386,Rally Arcade Classics DEMO,1,0.0003
+4391,10012020,Ram Simulator,1,0.0003
+4392,10012625,Ramp Bike Racing,1,0.0003
+4393,10011194,Raptor Rampage: Dino Hunter,1,0.0003
+4394,10005249,Ray'z Arcade Chronology,1,0.0003
+4395,231783,RAZED,1,0.0003
+4396,227495,RC Airplane Challenge,1,0.0003
+4397,10000468,Re:Turn - One Way Trip,1,0.0003
+4398,10012024,Reach,1,0.0003
+4399,10012083,Real Heroes: Firefighter HD,1,0.0003
+4400,227498,RealFarm,1,0.0003
+4401,10012139,Rebeloid VR,1,0.0003
+4402,212963,Red Faction,1,0.0003
+4403,233114,Red Matter,1,0.0003
+4404,232341,Redeemer: Enhanced Edition,1,0.0003
+4405,10008920,Remorse: The List,1,0.0003
+4406,10014835,"Ren & Stimpy Happy, Happy, Joy, Joy, Collection",1,0.0003
+4407,10013366,Resist,1,0.0003
+4408,10008837,Restaurant Tycoon My Cooking Empire,1,0.0003
+4409,10010663,RetroRealms,1,0.0003
+4410,10009564,Return of Red Riding Hood Enhanced Edition,1,0.0003
+4411,234733,Return of the Obra Dinn,1,0.0003
+4412,10008839,REVEIL,1,0.0003
+4413,10016344,Revenge On Gold Diggers,1,0.0003
+4414,10009107,Richie's Plank Experience,1,0.0003
+4415,231611,RICO,1,0.0003
+4416,10011428,Rinthylab labyrinth,1,0.0003
+4417,224947,Riot,1,0.0003
+4418,203657,Riptide GP2,1,0.0003
+4419,203685,Rise of the Kasai™,1,0.0003
+4420,203764,Risen 3: Titan Lords - Enhanced Edition,1,0.0003
+4421,216619,Risk of Rain,1,0.0003
+4422,232985,RMC Sport,1,0.0003
+4423,10014841,Road Cafe Simulator,1,0.0003
+4424,10004318,Road Maintenance Simulator,1,0.0003
+4425,10012147,Road Maintenance Simulator 2 + Winter Services,1,0.0003
+4426,232560,Road Redemption,1,0.0003
+4427,10010819,ROAD TO EXOTICS: RACING GAME,1,0.0003
+4428,10014369,Roboquest VR,1,0.0003
+4429,216615,Rock of Ages 2,1,0.0003
+4430,227204,Rogue Aces,1,0.0003
+4431,10012771,Rogue Flight,1,0.0003
+4432,222872,Rogue Stormers,1,0.0003
+4433,10005423,Roll The Cat,1,0.0003
+4434,229794,RollerCoaster Legends,1,0.0003
+4435,10005299,Rollerdrome,1,0.0003
+4436,10007225,Romancelvania,1,0.0003
+4437,10016000,ROMEO IS A DEAD MAN,1,0.0003
+4438,10011776,Rooftop Rascal: The Midnight Cat,1,0.0003
+4439,10018707,Rooftop Rascal: The Pirate Cat,1,0.0003
+4440,10008955,Roots Of Pacha,1,0.0003
+4441,10017724,Royal Revolt Survivors,1,0.0003
+4442,10009745,RPG MAKER WITH,1,0.0003
+4443,10009058,RTL+,1,0.0003
+4444,10014770,Rue Valley,1,0.0003
+4445,220617,Rugby15,1,0.0003
+4446,10016589,Rugrats: Retro Rewind Collection,1,0.0003
+4447,10006962,Run To Infinity,1,0.0003
+4448,232706,Rush VR,1,0.0003
+4449,221985,Saban’s Mighty Morphin Power Rangers: Mega Battle,1,0.0003
+4450,10008157,Sable's Grimoire: Man And Elf,1,0.0003
+4451,10008631,SaGa Frontier 2 Remastered,1,0.0003
+4452,10002076,SaGa Frontier Remastered,1,0.0003
+4453,10006608,Sailing Era,1,0.0003
+4454,10016988,Saint Slayer: Spear of Sacrilege,1,0.0003
+4455,10001923,Samurai Aces,1,0.0003
+4456,229579,SAMURAI WARRIORS 4 Empires,1,0.0003
+4457,227214,SAMURAI WARRIORS: Spirit of Sanada,1,0.0003
+4458,10012678,Save Christmas With Santa,1,0.0003
+4459,10012544,Save Farty The Trivia Game,1,0.0003
+4460,10012388,Save The Doge,1,0.0003
+4461,10017999,Save The Penguin,1,0.0003
+4462,10009606,Save The World,1,0.0003
+4463,233247,Sayonara Wild Hearts,1,0.0003
+4464,10013557,Scandinavian Cottage Survival Simulator,1,0.0003
+4465,10010670,Scholar's Mate,1,0.0003
+4466,10014771,SCHOOLBOY SIM,1,0.0003
+4467,10007417,Sclash,1,0.0003
+4468,210948,Screencheat,1,0.0003
+4469,232799,Season Match 3,1,0.0003
+4470,10015750,Sector Shooter,1,0.0003
+4471,232397,SEPARATION,1,0.0003
+4472,10004759,Serious Sam: Siberian Mayhem,1,0.0003
+4473,10003700,Severed Steel,1,0.0003
+4474,216508,Shadow Complex Remastered,1,0.0003
+4475,235340,Shadow Corridor,1,0.0003
+4476,10014762,Shadow Corridor 2 雨ノ四葩,1,0.0003
+4477,234269,Shadow Legend VR,1,0.0003
+4478,10009142,Shadow Tactics: Aiko's Choice,1,0.0003
+4479,10002084,Shadowrun Trilogy,1,0.0003
+4480,231176,Shadows: Awakening,1,0.0003
+4481,228845,Shakedown: Hawaii™,1,0.0003
+4482,10005306,Shantae,1,0.0003
+4483,211120,Shantae and the Pirate's Curse,1,0.0003
+4484,10005479,Shark Pinball,1,0.0003
+4485,10010376,SHARK! SHARK!,1,0.0003
+4486,10018476,Shattered Frames,1,0.0003
+4487,10019087,Shattered Frames 2: Under the Sea,1,0.0003
+4488,10019129,Shattered Frames 3: Skies Above,1,0.0003
+4489,10019174,Shattered Frames 4: Micro Worlds,1,0.0003
+4490,10006842,Shatterline,1,0.0003
+4491,10001772,She Sees Red,1,0.0003
+4492,232274,Shenmue III,1,0.0003
+4493,222882,Shiness: The Lightning Kingdom,1,0.0003
+4494,10006096,SHIRONE THE DRAGON GIRL,1,0.0003
+4495,10005806,Shotgun King: The Final Checkmate,1,0.0003
+4496,10010772,Shovel Knight Dig,1,0.0003
+4497,10010621,Showgunners,1,0.0003
+4498,232518,Sigi - A Fart for Melusina,1,0.0003
+4499,224961,Silence,1,0.0003
+4500,10002776,Silenced: The House,1,0.0003
+4501,10002629,SILT,1,0.0003
+4502,230016,Silver Chains,1,0.0003
+4503,10014975,siMarket Cloth Store Simulator,1,0.0003
+4504,10018113,SiN Reloaded,1,0.0003
+4505,10002664,SINce Memories: Off The Starry Sky,1,0.0003
+4506,222009,SiriusXM Radio,1,0.0003
+4507,10006613,SkateBIRD,1,0.0003
+4508,10005307,Sker Ritual,1,0.0003
+4509,204277,Skulls of the Shogun,1,0.0003
+4510,10011270,Sky Dunk,1,0.0003
+4511,10003642,Skydance's BEHEMOTH,1,0.0003
+4512,204304,Skylanders SWAP Force,1,0.0003
+4513,10015416,Skyline Bowling,1,0.0003
+4514,232487,Slaps And Beans,1,0.0003
+4515,10012703,Slasher: Origins,1,0.0003
+4516,10009798,SlavicPunk: Oldtimer,1,0.0003
+4517,10011233,SLEEP AWAKE,1,0.0003
+4518,10018077,Slots & Daggers,1,0.0003
+4519,10011281,Smells Like a Mushroom,1,0.0003
+4520,227212,Snake Pass,1,0.0003
+4521,10000766,SNIPER,1,0.0003
+4522,232642,SNK 40th Anniversary Collection,1,0.0003
+4523,10008891,SNK VS. CAPCOM SVC CHAOS,1,0.0003
+4524,10012181,Snowboard Legends,1,0.0003
+4525,10009088,So Much Stuff Collector's Edition,1,0.0003
+4526,10002444,Sociable Soccer Champions,1,0.0003
+4527,10002440,SOL CRESTA,1,0.0003
+4528,10001115,Solar Ash,1,0.0003
+4529,10014162,Somber Echoes,1,0.0003
+4530,10007617,Somerville,1,0.0003
+4531,10001249,SONG OF HORROR,1,0.0003
+4532,221785,Song of the Deep,1,0.0003
+4533,10008692,Songs of Conquest,1,0.0003
+4534,10011866,Songs of Silence,1,0.0003
+4535,10010465,SOS OPS!,1,0.0003
+4536,10004320,Souldiers,1,0.0003
+4537,10003036,Soulstice,1,0.0003
+4538,10002820,Soundfall,1,0.0003
+4539,10004688,Source of Madness,1,0.0003
+4540,10002844,Space 2 - Breakthrough Gaming Arcade,1,0.0003
+4541,10002965,Space Explore (PSVR2),1,0.0003
+4542,231570,Space Hulk: Tactics,1,0.0003
+4543,232966,Space Junkies,1,0.0003
+4544,10015247,Space KaBAAM: Neon II,1,0.0003
+4545,10009817,SPACE PENGUINS,1,0.0003
+4546,235132,Spacebase Startopia,1,0.0003
+4547,213750,Sparkle Unleashed,1,0.0003
+4548,10001200,Speed 3: Grand Prix,1,0.0003
+4549,10008860,Spellcaster University,1,0.0003
+4550,10006495,Spirit Hunters: Infinite Horde,1,0.0003
+4551,232707,Spirit of the North,1,0.0003
+4552,10001854,Spirit Of The North: Enhanced Edition,1,0.0003
+4553,224938,Splasher,1,0.0003
+4554,10015148,Split Fiction,1,0.0003
+4555,234924,Spooky's Jump Scare Mansion: HD Renovation,1,0.0003
+4556,10018933,SPORTAL,1,0.0003
+4557,10006902,Sprawl,1,0.0003
+4558,10017182,SPRAWL zero,1,0.0003
+4559,10013245,Spray Paint Simulator,1,0.0003
+4560,217292,Spy Chameleon,1,0.0003
+4561,10014650,Star Archer,1,0.0003
+4562,204219,STAR OCEAN: Integrity and Faithlessness,1,0.0003
+4563,222447,Star Trek™: Bridge Crew,1,0.0003
+4564,10008489,STAR WARS Episode I: Jedi Power Battles,1,0.0003
+4565,235122,STAR WARS™ Jedi Knight: Jedi Academy,1,0.0003
+4566,204268,Star Wars™: Racer Revenge™,1,0.0003
+4567,10009356,Stasis: Bone Totem,1,0.0003
+4568,10016376,Stay Still,1,0.0003
+4569,227194,SteamWorld Dig 2,1,0.0003
+4570,228847,Steel Rats™,1,0.0003
+4571,234652,STEINS;GATE: My Darling's Embrace,1,0.0003
+4572,10018078,Stick Infinite Kingdom,1,0.0003
+4573,10012677,Stick Up,1,0.0003
+4574,10008759,Sticks Aim Trainer,1,0.0003
+4575,10011878,Sticky Business,1,0.0003
+4576,10009077,Stilt,1,0.0003
+4577,10015000,Storage Hunter Bid War Simulator,1,0.0003
+4578,10019732,Storebound,1,0.0003
+4579,10009382,Stories from Sol: The Gun-Dog,1,0.0003
+4580,234526,Story of a Gladiator,1,0.0003
+4581,10017445,Strange Antiquities,1,0.0003
+4582,10010650,Stranger Things VR,1,0.0003
+4583,10002932,Strategic Mind: Blitzkrieg,1,0.0003
+4584,10005393,Strategic Mind: Spectre of Communism,1,0.0003
+4585,10008372,Strategic Mind: Spirit of Liberty,1,0.0003
+4586,10000659,Strawberry Vinegar,1,0.0003
+4587,10007748,Stray Gods: The Roleplaying Musical,1,0.0003
+4588,10004938,Stray Souls,1,0.0003
+4589,10006286,Strike Team Gladius,1,0.0003
+4590,10001921,STRIKERS 1945,1,0.0003
+4591,10006802,Stroke The Beaver,1,0.0003
+4592,10006069,Stroke The Dog,1,0.0003
+4593,10006145,Stroke The Fish,1,0.0003
+4594,10005707,Stroke The Hedgehog,1,0.0003
+4595,10006143,Stroke The Parrot,1,0.0003
+4596,10005939,Stroke The Snake,1,0.0003
+4597,233521,Strongest Mahjong,1,0.0003
+4598,10011668,Stunt Paradise,1,0.0003
+4599,10011897,Stunt Scooter Simulator,1,0.0003
+4600,10002410,SturmFront - The Mutant War: Übel Edition,1,0.0003
+4601,10019435,Such a Guy,1,0.0003
+4602,233353,Suicide Guy Sleepin' Deeply,1,0.0003
+4603,10019795,Suika Game Planet,1,0.0003
+4604,10000222,Summer in Mara,1,0.0003
+4605,10019471,Summer’s Heartbeat,1,0.0003
+4606,10007295,Summum Aeterna,1,0.0003
+4607,227228,Sundered,1,0.0003
+4608,10010574,Sunderfolk,1,0.0003
+4609,10016807,Sunset Motel,1,0.0003
+4610,10010850,SUNSOFT is Back! Retro Game Selection,1,0.0003
+4611,10003465,Super Arcade Soccer 2021,1,0.0003
+4612,10005829,Super Double Dragon,1,0.0003
+4613,10005088,Super Kids Racing - Snow Edition,1,0.0003
+4614,217342,Super Mega Baseball 2,1,0.0003
+4615,10011896,Super Mombo Quest,1,0.0003
+4616,10000429,Super Soccer Blast,1,0.0003
+4617,10002604,Super Soccer Blast: America vs Europe,1,0.0003
+4618,215894,Super Stardust™Ultra,1,0.0003
+4619,223403,Super Stardust™Ultra VR,1,0.0003
+4620,10013047,Super Technos World: River City & Technos Arcade Classics,1,0.0003
+4621,10002388,Super Toy Cars Offroad,1,0.0003
+4622,10004854,Super Woden GP,1,0.0003
+4623,10003517,SURV1V3,1,0.0003
+4624,10006439,Sword & Fairy Inn 2,1,0.0003
+4625,216398,SWORD ART ONLINE: HOLLOW REALIZATION,1,0.0003
+4626,10015158,Syberia - Remastered,1,0.0003
+4627,235392,Synth Riders,1,0.0003
+4628,231789,Tacoma,1,0.0003
+4629,10002568,Tails Noir,1,0.0003
+4630,10003666,Tales of Kenzera™: ZAU,1,0.0003
+4631,10002778,Tank Mechanic Simulator,1,0.0003
+4632,10012731,Tank Mechanic Simulator - Reinforced,1,0.0003
+4633,232153,Tarot Readings Premium,1,0.0003
+4634,10010103,Tarzan VR™,1,0.0003
+4635,10015945,Tavern Manager Simulator,1,0.0003
+4636,10010339,Techtonica,1,0.0003
+4637,10007488,TEETER,1,0.0003
+4638,230053,Tempest 4000,1,0.0003
+4639,204949,Tennis in the Face,1,0.0003
+4640,10008168,Tennis On-Court,1,0.0003
+4641,227565,TENNIS TV,1,0.0003
+4642,10009338,Terminal 81,1,0.0003
+4643,10001060,Terra Bomber,1,0.0003
+4644,10006292,Terror of Hemasaurus,1,0.0003
+4645,10005057,Teslagrad 2,1,0.0003
+4646,224971,Tethered,1,0.0003
+4647,10008625,The 7th Guest VR,1,0.0003
+4648,10018192,The Alighieri Circle,1,0.0003
+4649,233248,The Ascent,1,0.0003
+4650,10015603,The Backrooms Zombie Survival,1,0.0003
+4651,204587,The Banner Saga,1,0.0003
+4652,224974,The Bard's Tale: Remastered and Resnarkled,1,0.0003
+4653,10005194,The Bat D,1,0.0003
+4654,204564,THE BIT.TRIP,1,0.0003
+4655,10000835,The Bluecoats: North & South,1,0.0003
+4656,10009896,The Bridge Curse 2: The Extrication,1,0.0003
+4657,223983,The Bunker,1,0.0003
+4658,10002027,The Centennial Case : A Shijima Story PS4&PS5,1,0.0003
+4659,10002823,The Chant,1,0.0003
+4660,10013473,The Coin Game,1,0.0003
+4661,227551,The Coma: Recut,1,0.0003
+4662,10000347,The Complex,1,0.0003
+4663,10005731,The Crackpet Show: Happy Tree Friends Edition,1,0.0003
+4664,10012782,The Crimson Maid,1,0.0003
+4665,10000415,THE DARK EYE: MEMORIA,1,0.0003
+4666,10004042,The Dark Pictures: Switchback VR,1,0.0003
+4667,10012268,The Exit Project: Backstreets,1,0.0003
+4668,10005780,The Forest Quartet,1,0.0003
+4669,10010524,The Glass Staircase,1,0.0003
+4670,213182,The Golf Club,1,0.0003
+4671,232841,The Golf Club 2019,1,0.0003
+4672,10013936,The House of Da Vinci VR,1,0.0003
+4673,10011599,THE HOUSE OF THE DEAD 2: Remake,1,0.0003
+4674,10008494,The Inheritance of Crimson Manor,1,0.0003
+4675,10005634,The Jumping Brownie,1,0.0003
+4676,10005635,The Jumping Brownie: TURBO,1,0.0003
+4677,10005285,The Jumping Burger,1,0.0003
+4678,10011944,The Jumping Burger Rush - PS4 & PS5,1,0.0003
+4679,10006136,The Jumping Chicken Wings,1,0.0003
+4680,10006137,The Jumping Chicken Wings: TURBO,1,0.0003
+4681,10005503,The Jumping Hot Dog,1,0.0003
+4682,10005504,The Jumping Hot Dog: TURBO,1,0.0003
+4683,10005993,The Jumping Ice Cream,1,0.0003
+4684,10005994,The Jumping Ice Cream: TURBO,1,0.0003
+4685,10015130,The Jumping Orange 2 - PS4 & PS5,1,0.0003
+4686,10005366,The Jumping Pizza,1,0.0003
+4687,10005312,The Jumping Taco,1,0.0003
+4688,10010264,The Karate Kid: Street Rumble,1,0.0003
+4689,10000531,The Last Campfire,1,0.0003
+4690,10002752,The Last Worker,1,0.0003
+4691,10012789,The Legend of Heroes: Trails beyond the Horizon,1,0.0003
+4692,10003228,The Legend of Heroes: Trails into Reverie,1,0.0003
+4693,231981,The Legend of Heroes: Trails of Cold Steel,1,0.0003
+4694,204881,The Legend of Heroes: Trails of Cold Steel II,1,0.0003
+4695,10004596,The Legend of Heroes: Trails through Daybreak II,1,0.0003
+4696,10003823,The Legend of Tianding,1,0.0003
+4697,231841,The Liar Princess and the Blind Prince,1,0.0003
+4698,10011892,The Lonesome Guild,1,0.0003
+4699,10003741,The Mageseeker: A League of Legends Story™ PS4 & PS5,1,0.0003
+4700,232259,The MISSING: J.J. Macfield and the Island of Memories,1,0.0003
+4701,228869,The Mummy Demastered,1,0.0003
+4702,234319,THE NINJA SAVIORS Return of the Warriors,1,0.0003
+4703,10015645,The Perplexing Orb Touch!,1,0.0003
+4704,10005357,The Psychoduck,1,0.0003
+4705,232046,The Raven Remastered,1,0.0003
+4706,234820,The Room VR: A Dark Matter,1,0.0003
+4707,10008935,The Rumble Fish +,1,0.0003
+4708,227521,The Seven Deadly Sins　Knights of Britannia,1,0.0003
+4709,10008362,The Stone of Madness,1,0.0003
+4710,10006597,"THE Table Game Deluxe Pack-Mahjong, Go, Shogi, Tsume Shogi, Othello, Card, Hanafuda, Shisen Mahjong Solitaire, Chess, Backgam",1,0.0003
+4711,10007994,The Testament of Sherlock Holmes,1,0.0003
+4712,10008083,The Utility Room,1,0.0003
+4713,10018521,The Vig,1,0.0003
+4714,222506,The Voice,1,0.0003
+4715,217318,The Walking Dead: Michonne,1,0.0003
+4716,233016,The Walking Vegetables: Radical Edition,1,0.0003
+4717,10001788,The Wardrobe: Even Better Edition,1,0.0003
+4718,10015178,The Wellmonts Case,1,0.0003
+4719,226877,The Witch and the Hundred Knight: Revival Edition,1,0.0003
+4720,10019122,The Zibbo Show,1,0.0003
+4721,10003636,Them Bombs,1,0.0003
+4722,10001051,Theme Park Simulator: Rollercoaster Paradise,1,0.0003
+4723,10016078,Thief Puzzle,1,0.0003
+4724,10013934,Thrill Penguin,1,0.0003
+4725,10008669,Thunder Ray,1,0.0003
+4726,232502,Ticket To Ride,1,0.0003
+4727,10015068,Tides of Tomorrow,1,0.0003
+4728,232795,Timespinner,1,0.0003
+4729,10007416,Tintin Reporter - Cigars of the Pharaoh,1,0.0003
+4730,10016208,Tiny Bookshop,1,0.0003
+4731,10010404,Tiny Tales: Heart of the Forest,1,0.0003
+4732,10003847,Tinykin,1,0.0003
+4733,204800,Titan Attacks!,1,0.0003
+4734,227808,ToeJam & Earl: Back in the Groove!,1,0.0003
+4735,233470,Toki,1,0.0003
+4736,232602,Tom Grennan VR,1,0.0003
+4737,10015010,Tomba! 2 Special Edition,1,0.0003
+4738,10001036,Tony Stewart's All-American Racing,1,0.0003
+4739,234898,Tools Up,1,0.0003
+4740,10009754,Top Racer Collection,1,0.0003
+4741,233563,TORCHLIGHT 2,1,0.0003
+4742,10018263,TORO 2 (BULL 2),1,0.0003
+4743,10004637,Tortuga - A Pirate's Tale,1,0.0003
+4744,10011973,Touhou Danmaku Kagura Phantasia Lost,1,0.0003
+4745,224967,Touhou Shinpiroku - Urban Legend in Limbo,1,0.0003
+4746,213300,Toukiden: Kiwami,1,0.0003
+4747,216431,Tour de France 2016,1,0.0003
+4748,233287,Tour de France 2019,1,0.0003
+4749,10018629,Tower Dominion,1,0.0003
+4750,10002985,Train Life: A Railway Simulator,1,0.0003
+4751,10017784,TRALALERO TRALALA Shooting Gallery,1,0.0003
+4752,10015026,Tralalero Tralala™: Battle Royale,1,0.0003
+4753,10009242,Tram Simulator Urban Transit,1,0.0003
+4754,10004935,Transformers Beyond Reality,1,0.0003
+4755,235017,TRANSFORMERS: BATTLEGROUNDS,1,0.0003
+4756,10007577,TRANSFORMERS: EARTHSPARK - Expedition,1,0.0003
+4757,10008499,TRANSFORMERS: Galactic Trials,1,0.0003
+4758,205062,TRANSFORMERS: Rise of the Dark Spark,1,0.0003
+4759,10008210,Travel The Words,1,0.0003
+4760,10010444,Tribe: Primitive Builder,1,0.0003
+4761,10000337,Trinity Trigger,1,0.0003
+4762,222895,Troll and I™,1,0.0003
+4763,10000325,TrollHunters,1,0.0003
+4764,10000538,TROUBLESHOOTER,1,0.0003
+4765,231198,Trover Saves the Universe,1,0.0003
+4766,10007558,Truck Driver: The American Dream,1,0.0003
+4767,10015537,Truck Simulator 25: Euro Driver VR,1,0.0003
+4768,10008543,Truck Simulator Cargo Driver 2024 - USA,1,0.0003
+4769,10008344,Truck Simulator Driver USA 2024,1,0.0003
+4770,228873,True Fear: Forsaken Souls,1,0.0003
+4771,10017023,True Fear: Forsaken Souls - Part 3,1,0.0003
+4772,10015512,Tsugunohi -The Chamber of Phantom Name-,1,0.0003
+4773,10002483,TSUKIHIME -A piece of blue glass moon-,1,0.0003
+4774,10015303,TUNG SAHUR Supermarket Simulator,1,0.0003
+4775,10005212,Turmoil,1,0.0003
+4776,10001629,Turok 2: Seeds Of Evil,1,0.0003
+4777,10001488,TURRICAN FLASHBACK COLLECTION,1,0.0003
+4778,215117,TV3,1,0.0003
+4779,224987,Twin Robots,1,0.0003
+4780,10012150,Twins of Legacy : Elemental,1,0.0003
+4781,10006158,TWO FACED,1,0.0003
+4782,10005873,TWO LANE,1,0.0003
+4783,10018751,Two Point Hospital: Full Health Collection,1,0.0003
+4784,10012456,Two Strikes,1,0.0003
+4785,10012158,Uboat Attack,1,0.0003
+4786,10017021,UFOPHILIA,1,0.0003
+4787,10008360,Ultimate General: Gettysburg,1,0.0003
+4788,10014875,Ultimate Sheep Raccoon,1,0.0003
+4789,10014127,Ultimate Sparring,1,0.0003
+4790,10010433,Ultra Foodmess 2,1,0.0003
+4791,10009419,UNABLES,1,0.0003
+4792,228658,Uncharted™: Drake's Fortune Remastered,1,0.0003
+4793,10008160,Undead Citadel,1,0.0003
+4794,216476,Unepic,1,0.0003
+4795,10006287,Unicorn Fun,1,0.0003
+4796,10006490,Unplugged - Air Guitar,1,0.0003
+4797,10001215,Unrailed!,1,0.0003
+4798,10017763,Unsealed: The Mare,1,0.0003
+4799,10003562,UNSIGHTED,1,0.0003
+4800,10010949,Unsolved Case Series,1,0.0003
+4801,227238,Use Your Words,1,0.0003
+4802,10014851,Use Your Words 2,1,0.0003
+4803,10019069,Used Cars Simulator,1,0.0003
+4804,222897,Valhalla Hills,1,0.0003
+4805,10004508,VALKYRIE PROFILE: LENNETH,1,0.0003
+4806,234030,Vambrace: Cold Soul,1,0.0003
+4807,10011203,Vampire Hunters,1,0.0003
+4808,10001409,Vampire: The Masquerade - Swansong,1,0.0003
+4809,10004864,VARIOUS DAYLIFE,1,0.0003
+4810,10007567,Velocity Noodle,1,0.0003
+4811,10014899,Velocity Riders,1,0.0003
+4812,10009197,Ven VR Adventure,1,0.0003
+4813,10010902,VENDETTA FOREVER,1,0.0003
+4814,10007772,Venice 2089,1,0.0003
+4815,10003117,Venus: Improbable Dream,1,0.0003
+4816,10007426,Verdict Guilty,1,0.0003
+4817,10018501,Verho - Curse of Faces,1,0.0003
+4818,10009050,Vertigo 2,1,0.0003
+4819,10018585,Village of the Curse,1,0.0003
+4820,10002653,Violett,1,0.0003
+4821,10003651,Virtuous Western,1,0.0003
+4822,234429,Void Bastards,1,0.0003
+4823,10013733,VOID/BREAKER,1,0.0003
+4824,221796,Volgarr the Viking,1,0.0003
+4825,233888,VR Ping Pong Pro,1,0.0003
+4826,10016446,VRacer Hoverbike,1,0.0003
+4827,232204,Vroom Kaboom,1,0.0003
+4828,10009278,Wall World,1,0.0003
+4829,10018024,Wall World 2,1,0.0003
+4830,10011513,Wanderstop,1,0.0003
+4831,10005572,War Hospital,1,0.0003
+4832,235042,"Warhammer 40,000 : Mechanicus",1,0.0003
+4833,10003190,"Warhammer 40,000: Shootas, Blood & Teef",1,0.0003
+4834,227168,WARRIORS ALL-STARS,1,0.0003
+4835,10002640,WATCHA,1,0.0003
+4836,10004980,Watcher Chronicles,1,0.0003
+4837,235112,WatchVR,1,0.0003
+4838,10000724,Water Balloon Mania,1,0.0003
+4839,10016474,Water Delivery,1,0.0003
+4840,10010057,Watermelon Fruits Puzzle,1,0.0003
+4841,10016856,Waterpark Simulator 25,1,0.0003
+4842,10013844,We Could Be Heroes,1,0.0003
+4843,10015007,Weed & Greed,1,0.0003
+4844,10003275,Weedcraft Inc,1,0.0003
+4845,10005146,Welcome to the World of ZJ the Ball (Visual Novel),1,0.0003
+4846,234794,Wer Weiß Denn Sowas? - Das Spiel 2,1,0.0003
+4847,10015133,What is Older?,1,0.0003
+4848,10006350,WHAT THE BAT?,1,0.0003
+4849,10003668,White Shadows,1,0.0003
+4850,10002807,Wife Quest,1,0.0003
+4851,10011136,Wild Island Quest,1,0.0003
+4852,10014159,Wild West Legacy,1,0.0003
+4853,10008021,Wildshade: Unicorn Champions,1,0.0003
+4854,10004340,Will You Snail?,1,0.0003
+4855,235300,Winning Post 9 2020,1,0.0003
+4856,10001778,Winning Post 9 2021,1,0.0003
+4857,10003898,Winning Post 9 2022,1,0.0003
+4858,10003646,Winter Games 2023,1,0.0003
+4859,10005293,Witch College Bundle,1,0.0003
+4860,10004510,WITCH ON THE HOLY NIGHT,1,0.0003
+4861,10010849,WitchSpring R,1,0.0003
+4862,10003061,Within the Blade,1,0.0003
+4863,10014634,Without a Voice,1,0.0003
+4864,10010381,Wizardry: Proving Grounds of the Mad Overlord,1,0.0003
+4865,10007140,WiZmans World Re;Try PS4 & PS5,1,0.0003
+4866,232888,Wolfenstein: Cyberpilot,1,0.0003
+4867,234675,WONDER BOY RETURNS REMIX,1,0.0003
+4868,234708,WoodleTree,1,0.0003
+4869,10004713,Word Mesh,1,0.0003
+4870,10018205,WORD SEARCH BY JGABRIB,1,0.0003
+4871,10004560,Wordbreaker by POWGI,1,0.0003
+4872,10006260,WORLD OF HORROR,1,0.0003
+4873,10010119,Worm War,1,0.0003
+4874,10009765,Worms Armageddon: Anniversary Edition,1,0.0003
+4875,10008316,Worms Pinball [PS1 Emulation],1,0.0003
+4876,10014432,WRATH: Aeon of Ruin VR - Brutal Edition,1,0.0003
+4877,10013675,Wylde Flowers,1,0.0003
+4878,10011214,X-Out: Resurfaced,1,0.0003
+4879,10003097,XEL,1,0.0003
+4880,234558,Yaga,1,0.0003
+4881,10010102,Yars Rising,1,0.0003
+4882,10013231,Yasha: Legends of the Demon Blade,1,0.0003
+4883,10008888,Yatzi,1,0.0003
+4884,10008910,Yohane the Parhelion - NUMAZU in the MIRAGE -,1,0.0003
+4885,234377,Yooka-Laylee and the Impossible Lair,1,0.0003
+4886,10012610,Yooka-Replaylee,1,0.0003
+4887,10007319,Ys Memoire: The Oath in Felghana,1,0.0003
+4888,10016514,Ys X: Proud Nordics,1,0.0003
+4889,10003302,Yurukill: The Calumniation Games,1,0.0003
+4890,229430,Zanki Zero: Last Beginning,1,0.0003
+4891,227251,Zero Escape: The Nonary Games,1,0.0003
+4892,10011485,Zero the Kamikaze Squirrel,1,0.0003
+4893,10010325,Zombie Survivors,1,0.0003
+4894,205517,Zombie Vikings,1,0.0003
+4895,233516,Zombieland: Double Tap - Road Trip,1,0.0003
+4896,10014904,Zombies Overloaded,1,0.0003
+4897,232440,ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS,1,0.0003
+4898,10008479,Zoo Park Story,1,0.0003
+4899,10009096,Zumba Garden,1,0.0003
+4900,10000304,アイドルマスター スターリットシーズン,1,0.0003
+4901,10013221,アドヴァンスト ヴァリアブル・ジオ サターントリビュート PS4 & PS5,1,0.0003
+4902,10001044,アレスタコレクション,1,0.0003
+4903,10013170,イースX -Proud NORDICS-,1,0.0003
+4904,10008468,ガールズフランティッククラン,1,0.0003
+4905,10001162,シェルノサージュ ～失われた星へ捧ぐ詩～ DX,1,0.0003
+4906,229680,ドラゴンクエストⅡ　悪霊の神々,1,0.0003
+4907,10001211,ネクソモン: 絶滅,1,0.0003
+4908,10002655,ハミダシクリエイティブ,1,0.0003
+4909,10005981,パワフルプロ野球 栄冠ナイン クロスロード,1,0.0003
+4910,10001920,メガトン級ムサシ,1,0.0003
+4911,10001691,メモリーズオフ ゆびきりの記憶,1,0.0003
+4912,10002250,わるい王様とりっぱな勇者,1,0.0003
+4913,10017478,亰都ザナドゥ -桜花幻舞-,1,0.0003
+4914,229679,勇者鬥惡龍,1,0.0003
+4915,10000509,妖怪学園Y ～ワイワイ学園生活～,1,0.0003
+4916,10001631,新世紀GPXサイバーフォーミュラSIN VIER,1,0.0003
+4917,232993,神田川JET GIRLS,1,0.0003
+4918,10001018,軒轅剣 閻黒の業火,1,0.0003
+4919,10018791,鉄道にっぽん！RealPro 長距離運転！特急ひのとり 近畿日本鉄道 編,1,0.0003
+4920,228735,銀魂亂舞,1,0.0003
+4921,228734,限界凸城 キャッスルパンツァーズ,1,0.0003
+4922,215305,電撃文庫 FIGHTING CLIMAX IGNITION,1,0.0003
+4923,10000772,風雨来記4,1,0.0003

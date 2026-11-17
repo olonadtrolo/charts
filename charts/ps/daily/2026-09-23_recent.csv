@@ -6,7 +6,8 @@ rank,title_id,title,players,percentage,release_date
 35,10014718,Halloween: The Game,256,0.6452,2026-09-08
 37,10017405,RuneScape: Dragonwilds,240,0.6048,2026-09-15
 56,10013248,Onimusha: Way of the Sword,135,0.3402,2026-09-04
-104,10017367,NHL® 27,67,0.1689,2026-09-04
+76,10003923,Ghost of Yōtei,94,0.2369,2026-10-01
+104,10017367,NHL® 27,67,0.1689,2026-09-11
 105,10013855,The Blood of Dawnwalker,67,0.1689,2026-09-03
 138,10014397,Valheim,48,0.121,2026-09-09
 151,10017682,CONTROL Resonant,41,0.1033,2026-09-24
@@ -28,6 +29,7 @@ rank,title_id,title,players,percentage,release_date
 626,10015413,Resonance: A Plague Tale Legacy,5,0.0126,2026-08-27
 659,10013260,Crimson Moon,4,0.0101,2026-09-01
 718,10008689,Samson,4,0.0101,2026-09-21
+729,10002497,The Light in the Darkness: Director's Cut,4,0.0101,2026-09-22
 768,10019972,Dumb Ways to Build,3,0.0076,2026-09-10
 783,10010731,HOT WHEELS™ Infinite Rush,3,0.0076,2026-09-10
 796,10008133,Moonlighter 2: The Endless Vault,3,0.0076,2026-09-02
@@ -38,15 +40,14 @@ rank,title_id,title,players,percentage,release_date
 1030,10009253,Serious Sam: Shatterverse,2,0.005,2026-08-31
 1040,10014858,SpeedRunners 2: King of Speed,2,0.005,2026-09-03
 1168,10019522,Blood Dungeon,1,0.0025,2026-08-25
-1185,10017883,Carry The Glass,1,0.0025,2026-08-31
 1249,10018333,Dragon Quest Heroes: Torneko‘s Mystery Dungeon -Classic HD-,1,0.0025,2026-09-09
 1280,10014310,Fading Echo,1,0.0025,2026-09-22
 1289,10018216,FEROCIOUS,1,0.0025,2026-09-14
-1497,10018537,Princess of the Water Lilies,1,0.0025,2026-09-16
-1524,10017506,Rivage,1,0.0025,2026-09-22
-1571,10018326,Sniper Dan,1,0.0025,2026-09-17
-1623,10018404,Tales of Formentera,1,0.0025,2026-09-04
-1660,10019973,The NOexistenceN of you AND me,1,0.0025,2026-09-10
-1674,10019963,The Walking Dead: Streets of Survival,1,0.0025,2026-09-18
-1687,10019916,Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil,1,0.0025,2026-09-09
-1693,10019606,Train Sim World® 7,1,0.0025,2026-09-15
+1495,10018537,Princess of the Water Lilies,1,0.0025,2026-09-17
+1522,10017506,Rivage,1,0.0025,2026-09-22
+1569,10018326,Sniper Dan,1,0.0025,2026-09-17
+1621,10018404,Tales of Formentera,1,0.0025,2026-09-04
+1657,10019973,The NOexistenceN of you AND me,1,0.0025,2026-09-10
+1671,10019963,The Walking Dead: Streets of Survival,1,0.0025,2026-09-18
+1684,10019916,Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil,1,0.0025,2026-09-09
+1690,10019606,Train Sim World® 7,1,0.0025,2026-09-15

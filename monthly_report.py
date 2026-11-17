@@ -195,8 +195,8 @@ def sep_top_title_ids(
     return list(found)
 
 
-print(sep_top_title_ids("ps", date(2026, 9, 1), date(2026, 9, 16)))
-print(sep_top_title_ids("xbox", date(2026, 9, 1), date(2026, 9, 16)))
+#print(sep_top_title_ids("ps", date(2026, 9, 1), date(2026, 9, 16)))
+#print(sep_top_title_ids("xbox", date(2026, 9, 1), date(2026, 9, 16)))
 
 
 # %%
@@ -224,21 +224,20 @@ def monthly_report(
     )
 
 
+# %%
+imgur = False
+monthly_report("ps", 50, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
+# %%
+monthly_report("ps", 100, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
+# %%
+monthly_report("ps", 200, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
+# %%
+monthly_report("xbox", 50, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
+# %%
+monthly_report("xbox", 100, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
 
 # %%
-imgur=False
-monthly_report("ps", 50, date(2026, 9, 16), date(2026, 10, 1), date.today(), imgur)
-# %%
-monthly_report("ps", 100, date(2026, 9, 16), date(2026, 10, 1), date.today(), imgur)
-# %%
-monthly_report("ps", 200, date(2026, 9, 16), date(2026, 10, 1), date.today(), imgur)
-# %%
-monthly_report("xbox", 50, date(2026, 9, 16), date(2026, 10, 1), date.today(), imgur)
-# %%
-monthly_report("xbox", 100, date(2026, 9, 16), date(2026, 10, 1), date.today(), imgur)
-
-# %%
-monthly_report("xbox", 200, date(2026, 9, 16), date(2026, 10, 1), date.today(), imgur)
+monthly_report("xbox", 200, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
 
 # %%
 plotter = CSVPlotter("xbox")
@@ -264,4 +263,6 @@ plotter.compare_titles(
 # %% resonance
 
 compare("10015413", "1790707834", end_date, imgur=imgur)
+# %%
+!pip install colorcet
 # %%

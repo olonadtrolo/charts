@@ -6,10 +6,11 @@ rank,title_id,title,players,percentage,release_date
 36,10014718,Halloween: The Game,260,0.6222,2026-09-08
 41,10017405,RuneScape: Dragonwilds,217,0.5193,2026-09-15
 68,10013248,Onimusha: Way of the Sword,113,0.2704,2026-09-04
+77,10003923,Ghost of Yōtei,98,0.2345,2026-10-01
 85,10017682,CONTROL Resonant,91,0.2178,2026-09-24
 94,10013855,The Blood of Dawnwalker,78,0.1867,2026-09-03
 96,10016947,SILENT HILL: Townfall,76,0.1819,2026-09-24
-120,10017367,NHL® 27,62,0.1484,2026-09-04
+120,10017367,NHL® 27,62,0.1484,2026-09-11
 157,10001899,Dune: Awakening,43,0.1029,2026-09-22
 173,10014397,Valheim,38,0.0909,2026-09-09
 239,10018405,iRacing® Studios NASCAR 26,25,0.0598,2026-09-18
@@ -19,8 +20,10 @@ rank,title_id,title,players,percentage,release_date
 440,10008689,Samson,10,0.0239,2026-09-21
 456,10019972,Dumb Ways to Build,9,0.0215,2026-09-10
 461,10017920,Gladio Mori,9,0.0215,2026-09-16
+515,10016743,DYNASTY WARRIORS 3: Complete Edition Remastered,7,0.0168,2026-10-01
 524,10018528,Graveyard Keeper 2,7,0.0168,2026-09-22
 547,10018739,TCG Card Shop Simulator,7,0.0168,2026-09-15
+548,10002497,The Light in the Darkness: Director's Cut,7,0.0168,2026-09-22
 652,10018441,Shape of Dreams,5,0.012,2026-09-17
 700,10018725,Fortress Merge,4,0.0096,2026-09-04
 718,10019219,Mewgenics,4,0.0096,2026-09-08
@@ -39,8 +42,8 @@ rank,title_id,title,players,percentage,release_date
 1405,10018087,Five Hearts Under One Roof season2,1,0.0024,2026-09-15
 1419,10019665,Galactic Vault,1,0.0024,2026-09-03
 1455,10010731,HOT WHEELS™ Infinite Rush,1,0.0024,2026-09-10
-1625,10016861,Qliphah in Providence's Shadow,1,0.0024,2026-09-24
-1691,10018326,Sniper Dan,1,0.0024,2026-09-17
-1794,10020348,Together: Moon Escape,1,0.0024,2026-09-11
-1798,10019916,Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil,1,0.0024,2026-09-09
-1822,10018652,Unmourned VR,1,0.0024,2026-09-11
+1624,10016861,Qliphah in Providence's Shadow,1,0.0024,2026-09-24
+1690,10018326,Sniper Dan,1,0.0024,2026-09-17
+1793,10020348,Together: Moon Escape,1,0.0024,2026-09-11
+1797,10019916,Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil,1,0.0024,2026-09-09
+1821,10018652,Unmourned VR,1,0.0024,2026-09-17
