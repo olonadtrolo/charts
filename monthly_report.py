@@ -230,7 +230,11 @@ monthly_report("ps", 50, date(2026, 9, 16), date(2026, 10, 16), date.today(), im
 # %%
 monthly_report("ps", 100, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
 # %%
-monthly_report("ps", 200, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
+monthly_report("ps", 200, date(2026, 9, 16), date(2026, 10, 1), date.today(), imgur)
+
+# %%
+monthly_report("ps", 200, date(2026, 10, 1), date(2026, 10, 16), date.today(), imgur)
+
 # %%
 monthly_report("xbox", 50, date(2026, 9, 16), date(2026, 10, 16), date.today(), imgur)
 # %%
