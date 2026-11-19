@@ -270,3 +270,172 @@ compare("10015413", "1790707834", end_date, imgur=imgur)
 # %%
 !pip install colorcet
 # %%
+
+compare(
+    "10016388", "1619206606", end_date=end_date, start_date="2026-09-22", imgur=True
+)
+
+# %%
+
+
+compare(
+    "10008689", "2146443604", end_date=end_date, start_date="2026-09-24", imgur=True
+)
+
+# %%
+#control
+compare(
+    "10017682",
+    "1653280174",
+    end_date=end_date,
+    start_date="2026-09-28",
+)
+
+# %%
+# aniimo
+compare(
+    "10018491",
+    "1799950478",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# nascar 26
+
+compare(
+    "10018405",
+    "1890942970",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# samson
+
+compare(
+    "10008689",
+    "2146443604",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# dune
+
+compare(
+    "10001899",
+    "1780788060",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+
+# %%
+# Graveyard Keeper 2
+
+compare(
+    "10018528",
+    "2123584275",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# well dweller
+
+compare(
+    "10020145",
+    "1682153445",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# control resonant
+
+compare(
+    "10017682",
+    "1653280174",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %% fifa
+
+compare(
+    "10017332",
+    "1675858627",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %% ace combat 8
+
+compare(
+    "10011942",
+    "1860967704",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %% Way of the Hunter 2
+
+compare(
+    "10008946",
+    "2110764382",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %% transport fever 3
+
+compare(
+    "10015054",
+    "1985991719",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# mcd2
+compare(
+    "10008220",
+    "1805509784",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# NEIGHBORS: Suburban Warfare
+
+compare(
+    "10016868",
+    "1891759317",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
+
+# %%
+# gothic 2
+
+compare(
+    "10010693",
+    "2041780296",
+    end_date=end_date,
+    # start_date="2026-09-24",
+    imgur=imgur,
+)
