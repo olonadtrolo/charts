@@ -796,44 +796,54 @@
             "unique_users": 385763
         },
         "2026-11-13": {
-            "compilation_time": "2026-11-20 19:45:50",
-            "total_sessions": 893171,
-            "unique_users": 399339
+            "compilation_time": "2026-11-22 21:15:17",
+            "total_sessions": 893440,
+            "unique_users": 399557
         },
         "2026-11-14": {
-            "compilation_time": "2026-11-20 19:46:03",
-            "total_sessions": 911578,
-            "unique_users": 406925
+            "compilation_time": "2026-11-22 21:15:29",
+            "total_sessions": 922709,
+            "unique_users": 415009
         },
         "2026-11-15": {
-            "compilation_time": "2026-11-20 19:46:15",
-            "total_sessions": 924654,
-            "unique_users": 405761
+            "compilation_time": "2026-11-22 21:15:41",
+            "total_sessions": 962421,
+            "unique_users": 430136
         },
         "2026-11-16": {
-            "compilation_time": "2026-11-20 19:46:28",
-            "total_sessions": 922077,
-            "unique_users": 397105
+            "compilation_time": "2026-11-22 21:15:52",
+            "total_sessions": 982773,
+            "unique_users": 433936
         },
         "2026-11-17": {
-            "compilation_time": "2026-11-20 19:46:41",
-            "total_sessions": 892776,
-            "unique_users": 380469
+            "compilation_time": "2026-11-22 21:16:05",
+            "total_sessions": 978413,
+            "unique_users": 428813
         },
         "2026-11-18": {
-            "compilation_time": "2026-11-20 19:46:55",
-            "total_sessions": 843101,
-            "unique_users": 351876
+            "compilation_time": "2026-11-22 21:16:20",
+            "total_sessions": 967894,
+            "unique_users": 414467
         },
         "2026-11-19": {
-            "compilation_time": "2026-11-20 19:47:06",
-            "total_sessions": 793484,
-            "unique_users": 323845
+            "compilation_time": "2026-11-22 21:16:37",
+            "total_sessions": 960936,
+            "unique_users": 399828
         },
         "2026-11-20": {
-            "compilation_time": "2026-11-20 19:47:18",
-            "total_sessions": 676965,
-            "unique_users": 277783
+            "compilation_time": "2026-11-22 21:16:52",
+            "total_sessions": 903675,
+            "unique_users": 368458
+        },
+        "2026-11-21": {
+            "compilation_time": "2026-11-22 21:17:04",
+            "total_sessions": 799773,
+            "unique_users": 325392
+        },
+        "2026-11-22": {
+            "compilation_time": "2026-11-22 21:17:15",
+            "total_sessions": 643961,
+            "unique_users": 268859
         }
     },
     "daily": {
@@ -1653,19 +1663,29 @@
             "unique_users": 56401
         },
         "2026-11-17": {
-            "compilation_time": "2026-11-20 19:46:43",
-            "total_sessions": 73318,
-            "unique_users": 49337
+            "compilation_time": "2026-11-22 21:16:06",
+            "total_sessions": 73715,
+            "unique_users": 49686
         },
         "2026-11-18": {
-            "compilation_time": "2026-11-20 19:46:56",
-            "total_sessions": 84992,
-            "unique_users": 53028
+            "compilation_time": "2026-11-22 21:16:23",
+            "total_sessions": 102973,
+            "unique_users": 65678
         },
         "2026-11-19": {
-            "compilation_time": "2026-11-20 19:47:09",
-            "total_sessions": 70793,
-            "unique_users": 44773
+            "compilation_time": "2026-11-22 21:16:39",
+            "total_sessions": 105465,
+            "unique_users": 69429
+        },
+        "2026-11-20": {
+            "compilation_time": "2026-11-22 21:16:53",
+            "total_sessions": 78691,
+            "unique_users": 54607
+        },
+        "2026-11-21": {
+            "compilation_time": "2026-11-22 21:17:07",
+            "total_sessions": 69028,
+            "unique_users": 46314
         }
     }
 }
