@@ -821,44 +821,54 @@
             "unique_users": 439793
         },
         "2026-11-18": {
-            "compilation_time": "2026-11-25 22:48:36",
-            "total_sessions": 1017723,
-            "unique_users": 446571
+            "compilation_time": "2026-11-27 02:31:41",
+            "total_sessions": 1017786,
+            "unique_users": 446626
         },
         "2026-11-19": {
-            "compilation_time": "2026-11-25 22:48:50",
-            "total_sessions": 1048759,
-            "unique_users": 452721
+            "compilation_time": "2026-11-27 02:31:54",
+            "total_sessions": 1054890,
+            "unique_users": 457423
         },
         "2026-11-20": {
-            "compilation_time": "2026-11-25 22:49:04",
-            "total_sessions": 1020006,
-            "unique_users": 435318
+            "compilation_time": "2026-11-27 02:32:07",
+            "total_sessions": 1034968,
+            "unique_users": 445979
         },
         "2026-11-21": {
-            "compilation_time": "2026-11-25 22:49:16",
-            "total_sessions": 957537,
-            "unique_users": 409219
+            "compilation_time": "2026-11-27 02:32:21",
+            "total_sessions": 984767,
+            "unique_users": 426734
         },
         "2026-11-22": {
-            "compilation_time": "2026-11-25 22:49:27",
-            "total_sessions": 869123,
-            "unique_users": 373199
+            "compilation_time": "2026-11-27 02:32:33",
+            "total_sessions": 911630,
+            "unique_users": 397712
         },
         "2026-11-23": {
-            "compilation_time": "2026-11-25 22:49:38",
-            "total_sessions": 807926,
-            "unique_users": 344166
+            "compilation_time": "2026-11-27 02:32:45",
+            "total_sessions": 862973,
+            "unique_users": 373933
         },
         "2026-11-24": {
-            "compilation_time": "2026-11-25 22:49:49",
-            "total_sessions": 760165,
-            "unique_users": 323931
+            "compilation_time": "2026-11-27 02:32:57",
+            "total_sessions": 830938,
+            "unique_users": 359402
         },
         "2026-11-25": {
-            "compilation_time": "2026-11-25 22:49:59",
-            "total_sessions": 642263,
-            "unique_users": 291682
+            "compilation_time": "2026-11-27 02:33:07",
+            "total_sessions": 748640,
+            "unique_users": 337349
+        },
+        "2026-11-26": {
+            "compilation_time": "2026-11-27 02:33:16",
+            "total_sessions": 620985,
+            "unique_users": 293968
+        },
+        "2026-11-27": {
+            "compilation_time": "2026-11-27 02:33:23",
+            "total_sessions": 506122,
+            "unique_users": 246342
         }
     },
     "daily": {
@@ -1703,19 +1713,29 @@
             "unique_users": 60240
         },
         "2026-11-22": {
-            "compilation_time": "2026-11-25 22:49:28",
-            "total_sessions": 90874,
-            "unique_users": 60584
+            "compilation_time": "2026-11-27 02:32:34",
+            "total_sessions": 90906,
+            "unique_users": 60610
         },
         "2026-11-23": {
-            "compilation_time": "2026-11-25 22:49:40",
-            "total_sessions": 67921,
-            "unique_users": 47817
+            "compilation_time": "2026-11-27 02:32:46",
+            "total_sessions": 75339,
+            "unique_users": 53461
         },
         "2026-11-24": {
-            "compilation_time": "2026-11-25 22:49:51",
-            "total_sessions": 65076,
-            "unique_users": 44614
+            "compilation_time": "2026-11-27 02:32:58",
+            "total_sessions": 80717,
+            "unique_users": 56109
+        },
+        "2026-11-25": {
+            "compilation_time": "2026-11-27 02:33:08",
+            "total_sessions": 76417,
+            "unique_users": 51732
+        },
+        "2026-11-26": {
+            "compilation_time": "2026-11-27 02:33:17",
+            "total_sessions": 29852,
+            "unique_users": 20367
         }
     }
 }
